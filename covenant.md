@@ -2,8 +2,10 @@
 
 # Wroxia Covenant
 
-## Authorship
 - This covenant may only be amended by Patrick Bowen, "The Author".
+- This covenant is immutable; each authored version stands independent of one another.
+- Signatories of this covenant are to address The Author.
+- Arbitration of this covenant is by The Author.
 
 ## Terms
 - "Universal": applies to all sentient life.
@@ -32,7 +34,7 @@
   - The right to have one's national citizenship affirmed in writing.
 
 ## Universal Negative Privileges
-- May be waivered by the privileged by application to the Negative Privileges Advocate.
+- May be waived by the privileged by application to the Negative Privileges Advocate.
 - Enumerated:
   - The privilege to not die by the intentional actions of others.
     - Conditions:
@@ -42,7 +44,7 @@
     - Conditions: [detainment for restorative justice]
 
 ## National Positive Privileges
-- May be waivered by the privileged by application to the Positive Privileges Advocate.
+- May be waived by the privileged by application to the Positive Privileges Advocate.
 - Enumerated:
   - The right to equitable public free speech and broadcast.
     - Conditions: ...
