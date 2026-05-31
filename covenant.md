@@ -3,7 +3,7 @@
 # Wroxia Covenant
 
 ## Authorship
-- This covenant may only be amended by Patrick Bowen.
+- This covenant may only be amended by Patrick Bowen, "The Author".
 
 ## Terms
 - "Universal": applies to all sentient life.
@@ -47,13 +47,17 @@
   - The right to equitable public free speech and broadcast.
     - Conditions: ...
 
-## National duties
+## National Duties
 - Enumerated:
   - The duty to render positive rights & privileges to others, as far as possible and practicable, considering conditions.
 
-## Offices
-- Taxation & Treasury Service (TTS)
-- Negative Rights Advocate (NRA)
-- Positive Rights Advocate (PRA)
-- Negative Privileges Advocate (NPA)
-- Positive Privileges Advocate (PPA)
+## National Offices
+- Each National Office has a National Chief Officer (NCO).
+  - Each NCO is appointed by The Author.
+  - Each NCO is dismissed either by The Author or themselves.
+- Enumerated:
+  - Taxation & Treasury Service (TTS)
+  - Negative Rights Advocate (NRA)
+  - Positive Rights Advocate (PRA)
+  - Negative Privileges Advocate (NPA)
+  - Positive Privileges Advocate (PPA)
