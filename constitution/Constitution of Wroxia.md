@@ -44,9 +44,8 @@ Every patient has the privilege:
    - Force may be used against whatever threatens a patient with imminent harm, only so far as necessary to defend them.
    - An agent who would otherwise die for persistent lack of food, with no other practicable food, may kill to eat.
 2. Not to be put at unreasonable risk of death, injury or suffering by others.
-3. Not to be confined, or moved from where they live. Conditions:
-   - &#91;Open\] Confinement, decided in a judicial case, of someone who carried on causing harm after being told to stop.
-4. To leave Wroxia, unless confined under the conditions of the privilege above.
+3. Not to be confined, or moved from where they live.
+4. To leave Wroxia.
 5. Not to have what they occupy entered or used, nor what they hold taken, damaged or used, without their consent. Conditions:
    - A thing may be taken to make restitution owed under Article 5.
 6. Not to be watched or recorded inside a place they occupy, except by those they have let in; nor to have communications or records about them read or copied by anyone they did not address or entrust them to, nor shared by anyone, without their consent. Conditions:
@@ -98,8 +97,7 @@ Every citizen has the right:
 
 Every citizen has the privilege:
 
-1. Of equitable public free speech and broadcast. Conditions:
-   - &#91;Open\]
+1. Of equitable public free speech and broadcast.
 
 ## Part V: Government
 
@@ -123,4 +121,4 @@ Every citizen has the privilege:
 1. There are four Advocates: for negative rights, positive rights, negative privileges and positive privileges.
 2. Each Advocate defends its kind against breach by anyone, including either government.
 3. Where a patient cannot act for itself, the Negative Privileges Advocate acts for it, and receives any restitution on its behalf, to be used only for its own sake.
-4. Each Advocate is chosen by lot from among citizens, for a fixed term. \[Open: length of term\]
+4. Each Advocate is chosen by lot from among citizens, for a fixed term.

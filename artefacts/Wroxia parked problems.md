@@ -57,9 +57,11 @@ Article 9.5 leaves open who decides whether a matter is near or far. The working
 
 **Remarks (2 November):** worried this could reach into every small matter. Refinement: the court hears only challenges. Each government acts on matters it believes are its own; only a person affected, an Advocate or the other government can challenge, within a time limit; and the court decides the category alone, never the merits.
 
-### P11. No way to stop ongoing harm (partly applied: telling someone to stop is ordinary expression and needs no power; confinement only after a judicial case, which is open, see P46)
+### P11. No way to stop ongoing harm
 
-The only condition on confinement, detainment for restorative justice, is open, and nothing else lets anyone stop a person who keeps causing harm. Defensive force covers only imminent harm. The coercive-control and graffiti rulings both noted there is no preventive remedy at all.
+Article 2.3 states no condition allowing confinement or moving someone from where they live. As privileges, these protections may still be waived. Article 2.4 states no condition on leaving Wroxia. Telling someone to stop is ordinary expression and needs no power, but how to stop someone who keeps causing harm, and what safeguards any confinement would need, remain undecided. Defensive force under 2.1 covers only imminent harm. The coercive-control and graffiti rulings both noted there is no preventive remedy at all.
+
+A former draft proposed this condition on 2.3: “Confinement, decided in a judicial case, of someone who carried on causing harm after being told to stop.” It is a starting point, not part of the current constitution or a decision. See P46 on the judicial case and P48 on a shared home.
 
 **Options:**
 
@@ -67,7 +69,7 @@ The only condition on confinement, detainment for restorative justice, is open, 
 2. **Keep-away orders first.** Someone who has caused harm can be ordered to stay away from particular people or places. Confinement is allowed only if they break the order and harm is again imminent. Far less loss of liberty, but it depends on the order being respected.
 3. **No confinement at all.** Only defensive force in the moment, plus withholding public services (P41). The purest no-punishment answer, but it leaves repeated violence unchecked.
 
-**Suggested:** option 2 with option 1 as the last resort. This would replace the open condition on Article 2.3.
+**Suggested:** option 2 with option 1 as the last resort. This would need an appropriate condition on Article 2.3.
 
 **Remarks (2 November):** sceptical of citizens chosen by lot deciding over someone’s life: it risks personal liability and popularity contests. New idea to explore: each person nominates whom decisions about their life are deferred to, such as family, friends or coworkers, and that idea may apply elsewhere too.
 
@@ -113,11 +115,11 @@ A speed limit is valid, because speeding puts others at risk, but with no punish
 
 ### P17. The Advocates
 
-Their term is open, and their powers are undefined: whether they can inspect, intervene, bring claims for anyone, or compel a government to act.
+Article 11.4 requires a fixed term but does not give its length or say who sets it. Decide the length and whether it belongs in an instrument (P49). An Advocate may bring a claim on behalf of any patient under 5.7, but other powers need work: whether they can inspect, intervene, or compel a government to act.
 
 ### P18. Conditions on public speech and broadcast
 
-Article 8.1’s conditions are still open.
+Article 8.1 has no stated conditions; as a privilege, it may still be waived. Whether any conditions should apply to equitable public free speech and broadcast, and what they should be, remains undecided.
 
 ### P19. Citizenship
 
@@ -280,7 +282,7 @@ The aim from the start was a constitution short enough to hold in one mind or on
 
 ### P46. The judicial side
 
-Wroxia has no account of its courts: who judges, how a case runs, what a judicial case can decide, and how it relates to the boundary court and the Advocates. Article 2.3 now refers to confinement “decided in a judicial case”, left open. Overlaps with P38 on due process. Not yet thought about at all, so it needs an exploratory pass before any proposal.
+Wroxia has no account of its courts: who judges, how a case runs, what a judicial case can decide, and how it relates to the boundary court and the Advocates. A former proposal for confinement depended on a judicial case (P11); Article 2.3 now states no such condition. This overlaps with P38 on due process. Not yet thought about at all, so it needs an exploratory pass before any proposal.
 
 **Third hearings:** two questions for the judicial side came up: who declares that a bribed official has lost their role (5.6), and how quickly a joint occupant who causes harm can be separated (P48).
 
@@ -294,7 +296,7 @@ Known risks: coercion into a nomination, voided by duress but needing nomination
 
 ### P48. Abuse in a shared home
 
-With no power to remove anyone without a judicial case, someone being harmed by a person they live with must either wait for that case or leave. Restitution in kind can pay for somewhere else to live, but the person causing harm keeps the home. A first draft gave orders that could move someone out of their home without evidence, and was withdrawn for that reason. The answer probably lies with the judicial side (P46): how fast a case can be heard, and on what evidence.
+Article 2.3 states no condition allowing someone to be moved from where they live or confined, even after a judicial case; the privilege may still be waived. Someone being harmed by a person they live with may therefore have to leave unless another lawful measure stops the harm. Restitution in kind can pay for somewhere else to live, but the person causing harm keeps the home. A first draft gave orders that could move someone out of their home without evidence, and was withdrawn for that reason. The answer may lie with the judicial side (P46): how fast a case can be heard, on what evidence, and what it could permit.
 
 ### P49. Instruments
 

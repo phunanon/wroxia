@@ -246,11 +246,11 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** Sam has hit his partner Ana several times in the flat they share. Ana tells him to stop and to keep away from her.
 
-**Must hold:** telling him breaches nothing. Nothing moves Sam from the flat or confines him unless he carries on and a judicial case decides it. Ana is owed restitution for the harm already done.
+**Must hold:** telling him breaches nothing. Article 2.3 states no condition allowing Sam to be moved from the flat or confined, even if he carries on and a judicial case decides it; the privilege may still be waived. Ana is owed restitution for the harm already done.
 
 **Relies on:** Articles 2.3, 4.4 and 5.1.
 
-**Status:** passes (third hearings, 2 of 2).
+**Status:** passes (third hearings, 2 of 2) under the earlier constitution. The no-condition version has not yet been heard.
 
 ### T26. Restitution paid first
 
