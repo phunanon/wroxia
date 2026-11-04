@@ -1,0 +1,1855 @@
+{
+  "cases": [
+    {
+      "country": "Canada",
+      "crime": "Armed robbery",
+      "expect": "Breach by the threat (2.1, 2.2) and by the taking (2.5); handing over the cash is void under duress; restitution includes the money. Test T9.",
+      "from": "From the earlier hearings",
+      "penalty": "Imprisonment, with a possible maximum of life",
+      "runs": 1,
+      "scenario": "Marcus walked into a convenience store late at night, pointed a handgun at the cashier, and demanded the contents of the register. Priya handed over about 400 dollars in cash, and Marcus left on foot with the money.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "Singapore",
+      "crime": "Selling chewing gum",
+      "expect": "No breach, and the sale can’t be forbidden. The stall sale is nearlaw’s; customs at the border was farlaw’s. Test T10.",
+      "from": "From the earlier hearings",
+      "penalty": "Fine or imprisonment, depending on the circumstances",
+      "runs": 1,
+      "scenario": "Daniel ran a small market stall and sold several packs of imported chewing gum to a regular customer named Aisha. The gum was ordinary, and was sold for general consumption rather than for any medical purpose.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "Thailand",
+      "crime": "Insulting the monarch (lese-majeste)",
+      "expect": "No breach; mockery can’t be forbidden, even if its target is distressed. Test T11.",
+      "from": "From the earlier hearings",
+      "penalty": "Imprisonment of 3 to 15 years per offence",
+      "runs": 1,
+      "scenario": "Somchai posted a comment on social media that mocked the reigning king, and the post was shared hundreds of times. Nina reported the post to the authorities after seeing it on her feed.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "United Arab Emirates",
+      "crime": "Consensual sex outside marriage",
+      "expect": "No breach, and it can’t be forbidden. Test T12.",
+      "from": "From the earlier hearings",
+      "penalty": "Imprisonment or fine, though enforcement is uncommon",
+      "runs": 1,
+      "scenario": "Omar and Layla, an unmarried adult couple, spent the weekend together in a rented apartment. Both were adults and both had agreed to the arrangement, and no one else was involved.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "India",
+      "crime": "Cruelty to animals (animal slaughter in a protected context)",
+      "expect": "Breach. The cattle can’t be held as things (1.5), and moving and confining them breaches 2.3; the Advocate acts for them; restitution in kind. Test T13.",
+      "from": "From the earlier hearings",
+      "penalty": "Fine and/or imprisonment of up to a few years",
+      "runs": 1,
+      "scenario": "Ravi transported six cattle in a small truck, tightly packed with no water, over a journey of many hours. Meena, a passing inspector, noticed that several of the animals were injured and unable to stand.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "United States",
+      "crime": "Bribery of a public official",
+      "expect": "Greg loses his role and the approval is void. Sofia’s offer breaches nothing. Test T14.",
+      "from": "From the earlier hearings",
+      "penalty": "Imprisonment of up to 15 years and fines",
+      "runs": 1,
+      "scenario": "Greg, a building inspector, was handed an envelope containing 5,000 dollars by a contractor named Sofia. In the same conversation, Greg agreed to approve a construction project that had not yet passed its safety checks.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "United Kingdom",
+      "crime": "Controlling or coercive behaviour in an intimate or family relationship",
+      "expect": "Breach: taking her phone and card (2.5), reading her messages (2.6), and banning her from seeing her sister as a demand backed by duress (4.4). Test T19.",
+      "from": "From the earlier hearings",
+      "penalty": "Up to 5 years imprisonment, a fine, or both",
+      "runs": 1,
+      "scenario": "Marcus takes his partner Elena's phone and bank card each morning and gives her a small daily allowance. He checks her messages every night and tells her she may not see her sister. This has continued for about eight months while they live together.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "Russia",
+      "crime": "Obstructing police officers (including failing to comply with lawful orders)",
+      "expect": "No breach, and filming can’t be forbidden. Test T18.",
+      "from": "From the earlier hearings",
+      "penalty": "Fine or short administrative detention",
+      "runs": 1,
+      "scenario": "Dmitri stands near a group of officers who are detaining a man at a public square and films them on his phone. When an officer tells him to step back, he moves closer to keep the whole scene in frame and keeps recording.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "United Kingdom",
+      "crime": "Failure to disclose a password or key under investigatory powers",
+      "expect": "No breach: refusing breaches nothing and costs nothing. Test T6.",
+      "from": "From the earlier hearings",
+      "penalty": "Up to 2 years imprisonment, or up to 5 years in national security or child indecency cases",
+      "runs": 1,
+      "scenario": "Tom's laptop is lawfully seized during an investigation, and officers ask him to provide the password to unlock his encrypted files. He says he remembers it but declines to enter it.",
+      "tag": "Regression: clear at the second hearings"
+    },
+    {
+      "country": "Singapore",
+      "crime": "Vandalism",
+      "expect": "Still expected to be unclear: who holds a public wall waits on the commons redesign (P3).",
+      "from": "From the earlier hearings",
+      "penalty": "Fines, imprisonment and caning for male offenders",
+      "runs": 2,
+      "scenario": "Wei Ling uses a can of spray paint to write a large slogan on the wall of a public underpass late at night. The paint cannot be removed by simple washing and the wall must be repainted.",
+      "tag": "Unclear at the second hearings"
+    },
+    {
+      "country": "Italy",
+      "crime": "Invasion of land or buildings (occupying property without permission)",
+      "expect": "No breach if the building was no one’s home or workplace, and the group now occupies it. Test T23.",
+      "from": "From the earlier hearings",
+      "penalty": "Imprisonment of up to 4 years and a fine",
+      "runs": 2,
+      "scenario": "Paolo and several friends enter a vacant, privately owned apartment building by forcing a side door. They move in mattresses and live there for several weeks, saying the owner has left it empty for years.",
+      "tag": "Unclear at the second hearings"
+    },
+    {
+      "country": "Sweden",
+      "crime": "Aggravated trespass (breach of domestic peace)",
+      "expect": "Breach: entering what they occupy (2.5) and watching them inside it (2.6). Test T20.",
+      "from": "From the earlier hearings",
+      "penalty": "Fine or imprisonment of up to 1 year",
+      "runs": 2,
+      "scenario": "Anders climbs over a fence and enters a neighbor's fenced backyard at night, then walks up to a window and looks inside. The residents, Karin and her husband, are at home and see him at the glass.",
+      "tag": "Unclear at the second hearings"
+    },
+    {
+      "country": "India",
+      "crime": "Sharing obscene or private sexual images without consent (under IT law)",
+      "expect": "Keeping the photos breaches nothing; sharing them onward breaches 2.6, and 4.4 doesn’t shield it. Test T22.",
+      "from": "From the earlier hearings",
+      "penalty": "Imprisonment up to 3 years and a fine",
+      "runs": 2,
+      "scenario": "After a breakup, Rohan sends several intimate photos of his former girlfriend Priya to a group chat of their mutual friends. She had given him the photos privately and never agreed to their being shared.",
+      "tag": "Unclear at the second hearings"
+    },
+    {
+      "country": "Germany",
+      "crime": "Computer espionage (unauthorized access to protected data, \"Ausspähen von Daten\")",
+      "expect": "Breach: the messages weren’t addressed or entrusted to her (2.6). Test T21.",
+      "from": "From the earlier hearings",
+      "penalty": "Fine or imprisonment of up to 3 years",
+      "runs": 2,
+      "scenario": "Lena guesses the password of a coworker's email account and logs in from her home computer. She reads several months of messages and saves a few to her own drive.",
+      "tag": "Unclear at the second hearings"
+    },
+    {
+      "crime": "Encryption ban",
+      "expect": "The ban is void. Test T1.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Nearlaw bans end-to-end encryption to help catch online groomers.",
+      "tag": "New: regression test T1"
+    },
+    {
+      "crime": "Speed limit",
+      "expect": "The limit is valid. Test T2.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Nearlaw sets a 20 mph limit on residential streets. A driver exceeds it on an empty street.",
+      "tag": "New: regression test T2"
+    },
+    {
+      "crime": "Off-duty diplomat",
+      "expect": "Nearlaw deals with it; farlaw has no say. Test T3.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "A farlaw diplomat assaults a neighbour at home in Wroxia.",
+      "tag": "New: regression test T3"
+    },
+    {
+      "crime": "Undertaker",
+      "expect": "This is lawful. Test T4.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "An undertaker collects a body and carries it to the person the deceased named.",
+      "tag": "New: regression test T4"
+    },
+    {
+      "crime": "Seized car",
+      "expect": "Both the detention and the holding of the car stand as breaches by nearlaw, which owes restitution for every loss. Test T5.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Police detain a suspect for two days and hold their car for a month as evidence. The suspect is cleared.",
+      "tag": "New: regression test T5"
+    },
+    {
+      "crime": "Coroner",
+      "expect": "Undecided: as written, 1.4 blocks the coroner. Test T7.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Someone dies in suspicious circumstances. The coroner wants to examine the body to find out whether they were killed. The person the deceased named refuses.",
+      "tag": "New: regression test T7"
+    },
+    {
+      "crime": "Messages routed abroad",
+      "expect": "Nearlaw’s matter, and a breach: communications kept up after being asked to stop (4.4). Test T8.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Jamie keeps sending abusive messages to Robin after Robin has asked them to stop. Both live in Wroxia, and the messages pass through servers in another country.",
+      "tag": "New: regression test T8"
+    },
+    {
+      "crime": "Healthy cattle moved",
+      "expect": "A breach even with no injury: the cattle can’t be held as things, and moving them breaches 2.3. Test T13.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Ravi loads six healthy cattle into a roomy truck with water and drives them to market.",
+      "tag": "New: regression test T13"
+    },
+    {
+      "crime": "Landlord",
+      "expect": "Sam occupies the flat, and Alex has no claim to rent. Test T15.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Alex bought a flat he doesn’t live in and rents it to Sam for a monthly fee. Sam stops paying.",
+      "tag": "New: regression test T15"
+    },
+    {
+      "crime": "Bank scam",
+      "expect": "Jo’s consent is void, being obtained by deception, so the taking breaches 2.5 and restitution is owed. Test T16.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "A caller pretending to be Jo’s bank persuades Jo to transfer her savings.",
+      "tag": "New: regression test T16"
+    },
+    {
+      "crime": "Incitement",
+      "expect": "The attackers breach 2.1; the speaker breaches nothing unless the words were themselves a threat. Marked unclear. Test T17.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "A speaker urges a crowd to “teach a lesson” to a named neighbour, and some of the crowd attack him.",
+      "tag": "New: regression test T17"
+    },
+    {
+      "crime": "Leaked medical records",
+      "expect": "A breach by nearlaw, which answers for its clerk. Test T24.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "A clerk working for nearlaw leaks a person’s medical records to a journalist.",
+      "tag": "New: regression test T24"
+    },
+    {
+      "crime": "Told to stop at home",
+      "expect": "Telling him breaches nothing; nothing moves Sam from the flat without a judicial case; Ana is owed restitution. Test T25.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Sam has hit his partner Ana several times in the flat they share. Ana tells him to stop and to keep away from her.",
+      "tag": "New: regression test T25"
+    },
+    {
+      "crime": "Wrecked bicycle",
+      "expect": "Kofi is paid at once from public funds, which recover the cost from Lee. Test T26.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Lee deliberately wrecks Kofi’s bicycle. Lee has no money.",
+      "tag": "New: regression test T26"
+    },
+    {
+      "crime": "Parcel inspected by farlaw",
+      "expect": "Nearlaw’s matter, since nothing crossed the border; the boundary court decides only that. Test T27.",
+      "from": "From the regression tests",
+      "runs": 2,
+      "scenario": "Farlaw customs officers inspect a parcel a Wroxian posted to a neighbour in the next street. The sender challenges this as nearlaw’s matter.",
+      "tag": "New: regression test T27"
+    },
+    {
+      "country": "Sweden",
+      "crime": "Theft of a bicycle",
+      "penalty": "Fine or imprisonment of up to 2 years for ordinary theft",
+      "runs": 2,
+      "scenario": "Lars sees an unlocked bicycle outside a train station, rides it away, and later sells it to a stranger for cash. The bike belonged to Astrid, who had left it for a short errand.",
+      "tag": "New: brought by the clerk"
+    },
+    {
+      "country": "Germany",
+      "crime": "Unauthorized access to data (hacking)",
+      "penalty": "Up to 3 years' imprisonment or a fine",
+      "runs": 2,
+      "scenario": "Jonas guesses the password for his former employer's cloud storage, which he still remembers from his time there. He logs in without permission and downloads a folder of client contact lists.",
+      "tag": "New: brought by the clerk"
+    },
+    {
+      "country": "Japan",
+      "crime": "Knowing downloading of pirated copyrighted media",
+      "penalty": "Up to 2 years' imprisonment or a fine of up to 2 million yen",
+      "runs": 2,
+      "scenario": "Aiko uses a file-sharing site to download a recent full-length manga volume that she knows has been uploaded without the publisher's permission. She saves it to her tablet to read later and does not share it with anyone.",
+      "tag": "New: brought by the clerk"
+    }
+  ],
+  "constitutionRev": 34,
+  "createdAt": "2026-11-02T03:00:00.000Z",
+  "id": "d1793700000000",
+  "rulings": {
+    "0": [
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "2.5",
+          "4.2",
+          "4.4",
+          "5.1",
+          "5.3",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:02.393Z",
+        "consequence": "Marcus must make restitution to Priya (and the store's occupant or holder as applicable) for the money taken and for the suffering caused, paid at once from public funds which then recover it from him, and force may be used to stop an imminent threat while it lasts.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Who held the cash: Priya or store owner",
+          "Whether Priya or the store is the one harmed",
+          "Punishment or confinement beyond restitution not settled",
+          "Confinement condition 2.3 is [Open]",
+          "Preventive measures before an act not specified",
+          "Meaning of 'as far as it can be made' for fear",
+          "Whether the store's currency or ownership matters for nearlaw"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Marcus is an agent who pointed a gun at Priya, which is a threat of harm and a demand backed by duress (Art. 4.4), so it is not protected expression, and it put her at unreasonable risk of death, injury and suffering (Art. 2.2) and made her suffer fear (Art. 2.1). He took cash that someone held without consent, breaching Art. 2.5, and no condition applies, since the only listed exception is restitution owed under Art. 5 and none was owed. Priya's handover was under duress, so her apparent consent is void (Art. 1.15), which means she did not consent to the taking. Because the act breaches privileges, law may forbid it (Art. 4.2), and nothing indicates a foreign power or border crossing, so by default it is nearlaw's (Art. 9.5). Art. 5.1 and 5.3 require restitution, paid at once from public funds and recovered from Marcus."
+      }
+    ],
+    "1": [
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:01.662Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed and there is nothing to prevent.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether importing makes an outside party a party to the sale",
+          "whether farlaw could regulate the border crossing of the gum",
+          "no stated rule on consumer protection or fraud beyond deception voiding consent",
+          "no definition of how a matter 'involves' an outside party",
+          "taxes or trade rules not addressed"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Selling gum to a willing regular customer does not breach any right or privilege. It involves no torture, killing, injury, confinement, entry onto occupied land, taking of held things, or surveillance, and Aisha is not shown to have been deceived or pressured (Art. 1, 2, 15). Under Article 4.1 an agent may do anything that breaches no right or privilege, and Article 4.2 bars any law from forbidding an act that breaches none, so Wroxian law could not forbid this sale as such. On jurisdiction, the gum is imported, which might involve a power or party outside Wroxia, and the border crossing is farlaw's. The sale itself between two people in Wroxia is not shown to involve an outside party, so by the default in Article 9.5 it is presumptively nearlaw's. Either way the answer on breach and forbiddability is unaffected, because Article 4.2 limits both governments equally."
+      }
+    ],
+    "2": [
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "4.4",
+          "2.6",
+          "2.1",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:08.095Z",
+        "consequence": "Nothing follows for Somchai or Nina: no breach occurred, so no restitution is owed and there is nothing to prevent; any government action punishing Somchai would itself be a breach by that government under Article 5.4-5.5.",
+        "forbiddable": "no",
+        "gaps": [
+          "Whether mockery causing distress counts as making a patient suffer under Article 2.1",
+          "Whether a king is a patient or office-holder with any special status; the constitution is silent on monarchy",
+          "Whether a foreign or non-Wroxian king would make this farlaw",
+          "Whether Article 8.1 free speech privilege has unstated conditions ([Open])",
+          "Whether Somchai is a citizen",
+          "Whether platform sharing or hosting is itself covered by Article 2.6"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Somchai's post is expression, and Article 4.4 says expression alone never breaches a right or privilege unless it is a threat of harm, a demand backed by duress, unwanted persistent communication, or sharing material protected by Article 2.6; mocking a king is none of these on the facts given. Because Article 4.2 bars any law from forbidding an act that breaches no right or privilege, Wroxian law could not prohibit mocking the king. Nina merely reported a public post she saw on her feed, which involves no private communication, entry into an occupied place, or recording, so Article 2.6 is not engaged, and reporting is itself expression. Nothing in the facts involves a power or party outside Wroxia or a border crossing, so under Article 9.5 the matter defaults to nearlaw. If the authorities punished or confined Somchai for the post, that would limit his privileges (such as Article 2.3) without a met condition and would stand as a breach by the government under Article 5.5."
+      }
+    ],
+    "3": [
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "2.5",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-02T02:19:07.432Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed and there is no act for law to prevent or punish.",
+        "forbiddable": "no",
+        "gaps": [
+          "Marriage and relationship status are not addressed anywhere in the constitution",
+          "Rental terms and landlord's rights are not addressed beyond occupancy and consent",
+          "The case does not say whether the apartment's occupant, whether landlord or tenant, consented to guests",
+          "Whether the 'unmarried' trait matters under Article 4.3 is not needed, since no law is at issue"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 4.1 lets an agent do anything that breaches no right or privilege, and Article 4.2 bars any law from forbidding an act unless it breaches one. Omar and Layla are adults who both consented and involved no one else, so no Article 2 privilege against harm, risk, confinement, or entry or use of what someone occupies or holds was infringed. Their consent also means Article 2.5 was not breached as to the apartment, and the case does not suggest the landlord's rights were affected. The case mentions no outside power or border crossing, so Article 9.5 makes the matter nearlaw by default. With no breach, Article 5 creates no duty of restitution, and a law forbidding the weekend would be unconstitutional."
+      }
+    ],
+    "4": [
+      {
+        "articles": [
+          "1.1",
+          "2.1",
+          "2.2",
+          "4.2",
+          "5.1",
+          "5.2",
+          "5.3",
+          "5.7",
+          "9.1",
+          "9.5",
+          "11.2",
+          "11.3"
+        ],
+        "at": "2026-11-02T02:19:14.228Z",
+        "consequence": "Ravi, as an agent, owes restitution (including veterinary care and restoring the cattle to health and safety, at his cost) paid at once from public funds and recovered from him, to be received by the Negative Privileges Advocate on the cattle's behalf, and force may be used to stop any continuing imminent harm.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether Ravi intended suffering (torture, Art 1.1)",
+          "who owns the cattle (holding) and whether the owner is also responsible",
+          "whether the journey crossed the border (farlaw)",
+          "what 'unreasonable risk' means in degree",
+          "how restitution is measured for animals",
+          "Meena's powers and whether prevention or enforcement steps are authorised",
+          "who counts as the 'harmed' party for cattle besides the Advocate",
+          "whether the cattle may be taken from Ravi's holding to restore them (2.5 condition covers only restitution already owed)",
+          "no stated mechanism for confinement or penalty beyond restitution (2.3 open)"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Cattle have a central nervous system and are presumed sentient, so they are patients who hold the universal privileges in Article 2. Packing them tightly without water for many hours, resulting in injury and animals unable to stand, breaches the privilege not to be injured or made to suffer (2.1) and not to be put at unreasonable risk (2.2); none of the stated conditions (defence against imminent harm, killing to eat to avoid starvation) applies on these facts. Ravi can be an agent since he can understand others' rights, so he is able to breach, and Article 5 requires restitution, with the Negative Privileges Advocate acting for the cattle. Because the act breaches privileges, law may forbid it under Article 4.2. Nothing in the facts involves a foreign power or the border, so the default of nearlaw applies (9.5). Torture (1.1) is only engaged if the suffering was deliberate, which the facts do not show, and Meena's role is not a breach."
+      }
+    ],
+    "5": [
+      {
+        "articles": [
+          "5.6",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5",
+          "2.2"
+        ],
+        "at": "2026-11-02T02:19:16.634Z",
+        "consequence": "Under Article 5.6 Greg automatically loses his role and his agreement to approve the project is void, while Sofia, who offered the payment, breaches nothing; no restitution is owed unless someone is actually harmed by a breach, and the constitution does not say who would enforce or declare the loss of role.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether Article 5.6 consequences count as forbidding the act under 4.2",
+          "who declares loss of role and voidness and how",
+          "whether the agreement alone, with no approval yet, puts anyone at unreasonable risk",
+          "which government employs Greg",
+          "whether the bribe is currency or domain-related",
+          "whether Sofia's separate conduct (e.g. seeking approval of an unsafe project) could breach 2.2",
+          "no stated remedy or penalty beyond loss of role and voidness",
+          "whether a mere agreement (not yet an act) is covered by 'how they act in that role'"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 5.6 directly addresses this: a person acting in a government's name who accepts value from anyone but that government in exchange for how they act loses the role, and what they did in exchange is void, while offering such a thing breaches nothing. The constitution itself therefore treats Sofia's offer as no breach, and it designates Greg's acceptance as triggering loss of role and voidness, not as a breach of any right or privilege. On the facts given, no identifiable patient has yet been killed, injured, or put at risk, so Article 2.2 (unreasonable risk) is not shown to be breached, though an approval of an unsafe project could later breach it and would then be attributable to the government under Article 5.4 and 5.5 and to Greg as an agent. Whether law may forbid the act is unsettled: Article 4.2 permits forbidding only acts that breach a right or privilege, and the bribe alone breaches none, though forbidding the resulting unsafe approval could be justified as protecting against risk under 2.2, and Article 5.6 already supplies a consequence without calling it a prohibition. Jurisdiction is nearlaw by default under Article 9.5, since nothing indicates a power or party outside Wroxia or a border crossing, and the facts do not say which government Greg works for, though the default places the matter with nearlaw."
+      }
+    ],
+    "6": [
+      {
+        "articles": [
+          "2.1",
+          "2.5",
+          "2.6",
+          "2.3",
+          "1.2",
+          "4.4",
+          "5.1",
+          "5.7"
+        ],
+        "at": "2026-11-02T02:19:20.384Z",
+        "consequence": "Marcus must make restitution to Elena for the harm (restoring her safety, health and a place to live as far as possible, at his cost, paid at once from public funds which then recover it from him), and any Advocate or Elena may bring a claim to stop the conduct.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Facts do not say Elena did not consent or waive; consent or waiver is void only if under duress",
+          "Whether 'confined' includes economic and informational control without physical restraint",
+          "Whether the allowance and the sister ban amount to suffering or duress is a matter of degree the text does not measure",
+          "Who the judge treats as holder of the phone and card when jointly used by partners",
+          "No definition of how restitution is valued for non-material harm",
+          "Open condition on confinement (2.3) is undefined",
+          "Whether Marcus is an agent is assumed, not stated"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Marcus is presumably an agent and Elena a patient. Taking her phone and bank card without consent breaches Article 2.5, since she holds them and none of the conditions applies. Reading her messages every night breaches Article 2.6, and compelling access to her communications may also engage Article 1.2 if he forces her to disclose passwords. Forbidding her to see her sister, backed by control of her money and phone, is a demand backed by duress, so it is not protected expression under Article 4.4. It also arguably makes her suffer (2.1) and confines her (2.3) if she cannot practicably leave. Because these acts breach rights or privileges, law may forbid them under Article 4.2, and no foreign power or border is involved, so under Article 9.5 the matter defaults to nearlaw."
+      }
+    ],
+    "7": [
+      {
+        "articles": [
+          "2.6",
+          "4.1",
+          "4.2",
+          "4.4",
+          "5.5",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:22.591Z",
+        "consequence": "Nothing follows for Dmitri, who owes no restitution; the officers' detention of the man is not before us, and the order to step back, if it was enforced against Dmitri, would need the government to justify it under Article 5.5.",
+        "forbiddable": "no",
+        "gaps": [
+          "Whether officers' orders to step back have any legal force absent a breach",
+          "Whether an officer is an agent protected by privileges against being recorded in public",
+          "Whether moving closer could amount to unreasonable risk under 2.2 if it obstructed the detention",
+          "Whether Article 2.6 reaches sharing of the footage later",
+          "Whether the detained man's own detention is lawful under 2.3, which is not decided here",
+          "Whether 'public square' is occupied by anyone as a workplace"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Dmitri's filming is expression, and under Article 4.4 expression alone breaches nothing except threats, demands backed by duress, continued communication to someone who asked it to stop, or sharing what Article 2.6 protects. Article 2.6 protects against watching or recording inside a place a person occupies, but the scene is a public square, which no one occupies as a home or workplace, so no privilege of the detained man or the officers is engaged by the recording. Nothing in the facts shows a threat, a demand, or an unwanted communication directed at the officers, and moving closer is not shown to injure, confine or endanger anyone. Because Article 4.2 bars forbidding any act that breaches no right or privilege, law could not forbid this filming. Nothing indicates a power or party outside Wroxia or a border crossing, so the matter defaults to nearlaw under Article 9.5."
+      }
+    ],
+    "8": [
+      {
+        "articles": [
+          "1.2",
+          "2.5",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5",
+          "5.5"
+        ],
+        "at": "2026-11-02T02:19:25.722Z",
+        "consequence": "Tom owes nothing and nothing is owed to the officers; if the officers compel or pressure him to reveal the password, that would breach Article 1.2 and the government would owe restitution under Article 5.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether a mere request counts as compulsion",
+          "whether the officers may try to open the files by other means such as forensic decryption",
+          "whether the case involves any outside party, which would make it farlaw",
+          "what counts as 'lawfully' seized, given the conditions on Article 2.5",
+          "whether an adverse inference or lesser penalty from refusal counts as compulsion"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 1.2 gives every patient a right, which no law, condition or waiver can remove, not to be compelled to reveal any key or password, so Tom's refusal is the exercise of a right and not a breach by him. Under Article 4.1 an agent may do anything that breaches no right or privilege, and under Article 4.2 no law may forbid an act unless it breaches a right or privilege, so a law punishing the refusal would be impermissible. The seizure is lawful, and nothing in the case suggests the officers breached Article 2.5 or Article 1.2 by taking the laptop or merely asking, though any compulsion, such as punishment or duress to extract the password, would breach Article 1.2. Nothing indicates that a party outside Wroxia or the border is involved, so under Article 9.5 the matter defaults to nearlaw."
+      }
+    ],
+    "9": [
+      {
+        "articles": [
+          "2.5",
+          "4.1",
+          "4.2",
+          "4.4",
+          "5.1",
+          "5.2",
+          "5.5",
+          "9.1",
+          "9.5",
+          "1.12",
+          "Part I.11"
+        ],
+        "at": "2026-11-02T02:19:29.908Z",
+        "consequence": "If the underpass is held to be occupied by someone (for example the government or people who work there), Wei Ling would owe restitution, possibly in kind through repainting at her cost, but if no one occupies it there is no breach and nothing follows.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "Who occupies a public underpass is undefined",
+          "Whether a wall or public structure is a building or land one can occupy",
+          "Whether unoccupied public property has any protected claimant",
+          "Whether the government is the occupant and so both victim and restitution payee",
+          "Whether a harm to property without a sentient victim is a breach",
+          "Open conditions on confinement for repeat harm",
+          "No express rule on prevention or penalties beyond restitution",
+          "Interaction of Article 4.4 expression with physical damage"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what a person occupies from being entered or used without consent, and protects what they hold from being damaged or used. The definition of occupancy ties claims to land and buildings to those who live or work there, and a public underpass may have no occupant, in which case no one has a protected claim and Article 4.1 leaves Wei Ling free to act. If the government or workers who maintain the underpass count as occupants, or if the wall is a building they occupy, then painting it without consent is a use of what they occupy and a breach, and Article 4.2 would allow a law to forbid it. Expression alone does not breach a right (Article 4.4), but the paint damages the wall physically, so the slogan's content does not protect her from a finding of breach. No fact suggests a foreign party or border crossing, and Article 9.5 makes the matter nearlaw by default. If a breach is found, Article 5.1 and 5.2 require restitution, such as repainting at her cost, paid from public funds first under 5.3, and the constitution does not authorize punishment or prevention beyond that, apart from the open confinement condition in 2.3 for those who continue causing harm after being told to stop."
+      },
+      {
+        "articles": [
+          "2.5",
+          "4.1",
+          "4.2",
+          "4.4",
+          "5.1",
+          "5.3",
+          "5.5",
+          "9.1",
+          "9.5",
+          "Part I.11",
+          "Part I.12"
+        ],
+        "at": "2026-11-02T02:19:32.673Z",
+        "consequence": "If the underpass is held or occupied by someone (including a government), Wei Ling would owe restitution, such as repainting at her cost, paid at once from public funds and then recovered from her; if no one occupies or holds it, the constitution gives no basis for any consequence.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether a public underpass is occupied or held by anyone",
+          "whether a government counts as occupier or holder of public structures",
+          "whether 'use' in 2.5 covers painting or only damage",
+          "whether a wall can be damaged if no patient is harmed",
+          "how expression and physical damage interact when the slogan is expressive",
+          "no stated rule on prevention or sanction beyond restitution",
+          "whether paint damage is 'injury' or 'suffering' to any patient",
+          "whether a public-space ban could be justified without an identified rights-holder"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what a patient occupies from being entered or used, and what they hold from being damaged or used, without consent. Under Part I.11 and I.12, claims to land, buildings and things exist only through occupancy or holding, and the case does not say whether anyone lives or works in the underpass or holds the wall. If a government occupies or holds it, or a person works there, the spraying would breach 2.5 and trigger restitution under Article 5, with the paint's permanence supporting repainting as restitution in kind. If no one occupies or holds it, nobody has a claim and no breach is shown. The slogan is expression, which under 4.4 breaches nothing by itself, but the physical damage to the wall is an act beyond expression, so a law forbidding the damage could stand only where it protects a right or privilege holder. No outside power is involved, so the matter defaults to nearlaw under 9.1 and 9.5."
+      }
+    ],
+    "10": [
+      {
+        "articles": [
+          "Part I.11",
+          "Part I.12",
+          "2.5",
+          "4.1",
+          "4.2",
+          "5.1",
+          "5.2",
+          "5.3",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:36.974Z",
+        "consequence": "If the owner still occupies the building, Paolo and friends owe restitution (repair of the door and any damage or use), paid at once from public funds and recovered from them; if the owner does not occupy it, the constitution gives no basis for restitution or prevention.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether the owner occupies the building",
+          "whether long vacancy counts as discarding or ending holding",
+          "whether the forced door is a separate thing held by the owner",
+          "whether 'occupancy' covers intermittent or intended use",
+          "whether ownership without occupancy gives any claim",
+          "how restitution is measured if the owner has no claim",
+          "no stated mechanism for resolving competing occupancy claims",
+          "whether the owner is a patient able to hold a claim (e.g. a company)"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what a patient occupies or holds from entry or use without consent, and Part I.11 says land and buildings are claimed only by occupancy, meaning living or working there. A building left vacant for years, with no one living or working in it, may not be occupied by the owner, so the owner may hold no claim and Paolo's group, who now live there, may be the occupants. Forcing the door would still breach 2.5 if anyone occupied the building, and a door is arguably a thing held, since holding means keeping for one's own use and is ended only by giving away or discarding; abandonment through long disuse is not clearly equal to discarding. If the owner has no occupancy claim, no right or privilege was breached, Article 4.1 lets agents do anything that breaches nothing, and Article 4.2 means no law could forbid the entry or stay. Nothing in the facts involves a foreign power or the border, and Article 9.5 presumes nearlaw."
+      },
+      {
+        "articles": [
+          "Part I.11",
+          "Part I.12",
+          "2.5",
+          "4.1",
+          "4.2",
+          "5.1",
+          "5.2",
+          "5.3",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:39.457Z",
+        "consequence": "If the owner is found to be an occupier (or holder) of the building, Paolo and his friends owe restitution for the forced entry, use and any damage, paid at once from public funds and recovered from them; if the owner is not an occupier, nothing follows under the constitution.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether a vacant building counts as occupied by an absent owner",
+          "whether a forced door is a held thing or part of the building",
+          "how the owner could show occupancy (e.g. occasional use, storage, maintenance)",
+          "whether occupancy can be gained by entering against another's earlier claim",
+          "what happens to an owner's claim after years of non-use",
+          "whether a removed or contested occupier is protected from being moved under 2.3",
+          "no rule on competing occupancy claims",
+          "whether the owner is a patient or an artificial entity able to hold rights"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what a patient occupies from entry or use without consent, and Part I.11 says land and buildings are occupied only by those who live or work there, and that no one has any claim to them except by occupancy. A building left vacant for years, whose owner does not live or work there, appears not to be occupied by the owner, so the owner seems to hold no protected claim, and Paolo's group, who now live there, would themselves be the occupiers. That points toward no breach of 2.5 as to the building, yet forcing the door may damage a thing the owner still holds (a door is part of the building, but whether it counts as a separately held thing is not settled), and the facts do not say whether anyone lived or worked there, or whether any other person was harmed. Because a law may forbid an act only if it breaches a right or privilege (4.2), the forbiddability of occupying the building turns on this same unresolved question, and the case involves no outside power or border, so under 9.1 and the default in 9.5 it is a nearlaw matter."
+      }
+    ],
+    "11": [
+      {
+        "articles": [
+          "2.5",
+          "2.6",
+          "2.1",
+          "2.2",
+          "4.1",
+          "4.2",
+          "5.1",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:43.697Z",
+        "consequence": "Anders owes restitution to Karin and her husband for any harm caused, payable at once from nearlaw public funds which then recover it from him, and no further sanction follows unless a judicial case finds he persisted after being told to stop.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether the yard counts as occupied apart from the building",
+          "whether looking from outside into a home counts as watching 'inside' a place",
+          "no remedy specified where no measurable harm occurred",
+          "no express preventive or punitive power for a completed trespass",
+          "confinement condition 2.3 is open and requires prior warning",
+          "whether fear alone without proof suffices for 2.1",
+          "whether merely seeing Anders at the glass counts as harm for restitution"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Karin and her husband occupy the home and yard (Art. 1.11), so Anders's entry onto the fenced yard without consent breaches their privilege under 2.5, and no stated condition (restitution under Art. 5) applies. Looking through the window into the occupied home plausibly breaches 2.6, which protects against being watched inside a place one occupies, and the couple did not let him in. If the residents felt fear or distress at seeing him, that suffering would breach 2.1, and the night-time intrusion arguably put them at unreasonable risk of suffering under 2.2, but the facts do not state that they suffered. Because these acts breach privileges, law may forbid them under Art. 4.2, and Art. 4.1 gives Anders no liberty to do them. Nothing in the facts involves a party outside Wroxia or the border, so under Art. 9.5 the matter defaults to nearlaw. Restitution is owed only to the extent harm occurred, and the constitution gives no preventive or punitive remedy for a one-off act."
+      },
+      {
+        "articles": [
+          "2.5",
+          "2.6",
+          "2.2",
+          "2.1",
+          "4.1",
+          "4.2",
+          "5.1",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:45.223Z",
+        "consequence": "Anders owes restitution under Article 5.1 to Karin and her husband for the entry and for any harm shown, and the Negative Privileges Advocate or the residents may bring a claim of breach, while Wroxia's text does not say whether any separate preventive measure is allowed.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether the fenced backyard counts as occupied land",
+          "whether looking from outside a window is watching inside a place",
+          "whether fear here amounts to suffering or unreasonable risk",
+          "Anders's status as an agent not stated",
+          "no stated remedy for prevention versus restitution",
+          "no measure of restitution for a non-physical intrusion",
+          "whether confinement condition 2.3 [Open] could apply",
+          "citizenship of the parties not given"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Karin and her husband occupy the home and yard, so Article 2.5 protects them from having it entered or used without consent, and Anders climbed the fence and entered with no consent and no stated condition met (the only condition concerns restitution under Article 5). By looking in through the window at night he also watched people inside a place they occupy, which breaches Article 2.6 since he was not let in. Seeing a stranger at the window at night plausibly caused them fear, which is suffering under Article 2.1, but the text does not set a threshold of proof, so that breach depends on the facts. Because the act breaches privileges, Article 4.2 allows law to forbid it, and since it involves no outside power or border crossing, Article 9.1 makes it a nearlaw matter by default. Anders is an agent for these purposes only if he can understand others' rights, which the case does not state."
+      }
+    ],
+    "12": [
+      {
+        "articles": [
+          "2.6",
+          "4.4",
+          "5.1",
+          "5.2",
+          "5.3",
+          "5.7"
+        ],
+        "at": "2026-11-02T02:19:50.185Z",
+        "consequence": "Rohan must make restitution to Priya as far as it can be made (paid at once from public funds, which then recover it from him), and Priya or the Negative Privileges Advocate may bring a claim of breach.",
+        "forbiddable": "yes",
+        "gaps": [
+          "No definition of what restitution means for non-physical harm like humiliation or distress",
+          "Unclear whether intimate photos count as 'communications or records about them'",
+          "Unclear whether Priya's giving the photos to Rohan counts as 'entrusting' with limits on onward sharing",
+          "No rule on removing or deleting copies already held by the friends in the group chat",
+          "Whether the friends who received and keep the photos breach anything by holding them is not settled",
+          "Whether restitution may include prevention of further sharing is not explicit",
+          "Whether the group chat platform's servers could implicate farlaw is not addressed",
+          "Amount and form of restitution for non-material harm is left to law",
+          "Whether Rohan's deliberate causing of distress could amount to torture is not clearly settled",
+          "Whether Rohan's act also breaches the privilege against being made to suffer by others (2.1) is not addressed"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 2.6 gives every patient the privilege that communications and records about them not be shared by anyone without their consent, and the photos were entrusted to Rohan privately, so sending them to the group chat without her consent is sharing what Article 2.6 protects. The only stated condition (sharing to bring or decide a claim of breach) does not apply, and nothing suggests Priya waived the privilege or that any waiver was free of duress or deception. Article 4.4 confirms that expression does not escape this: sharing what Article 2.6 protects is expressly carved out from the rule that expression alone never breaches a right or privilege. Because the act breaches a privilege, Article 4.2 permits law to forbid it, and Article 5.1 obliges Rohan as an agent to make restitution to Priya. No foreign power or border crossing is involved, so under Article 9.5 the default applies and the matter is nearlaw's."
+      },
+      {
+        "articles": [
+          "2.6",
+          "4.4",
+          "5.1",
+          "5.2",
+          "5.3",
+          "5.7"
+        ],
+        "at": "2026-11-02T02:19:50.702Z",
+        "consequence": "Rohan owes Priya restitution as far as it can be made, paid at once to her from public funds, which then recover it from him, and she (or an Advocate for her) may bring a claim of breach.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether private photos count as communications or records about her",
+          "meaning of entrusted versus shared when Priya gave Rohan the photos",
+          "what restitution can be made for exposure that cannot be undone",
+          "whether the friends who received and kept the photos breach anything",
+          "no prevention mechanism such as removal or deletion order is specified",
+          "Article 2.6 consent is not defined for scope of what Priya permitted",
+          "whether the group chat platform's role raises farlaw questions is unaddressed",
+          "how harm is valued for restitution is unspecified"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 2.6 gives every patient the privilege not to have communications or records about them shared by anyone without their consent, and Priya gave the photos to Rohan privately without agreeing to sharing. The only stated condition (sharing to bring or decide a claim of breach) does not apply, and nothing suggests she waived the privilege or that any waiver was valid. Rohan is an agent, so he can breach, and Article 4.4 expressly excludes sharing what Article 2.6 protects from the protection given to expression. Because the act breaches a privilege, Article 4.2 allows law to forbid it, and Article 5 requires restitution. Nothing in the facts involves a power or party outside Wroxia or a border crossing, and Article 9.5 makes every matter nearlaw's unless shown otherwise, so this is nearlaw."
+      }
+    ],
+    "13": [
+      {
+        "articles": [
+          "2.6",
+          "2.5",
+          "5.1",
+          "5.3",
+          "5.7",
+          "4.2"
+        ],
+        "at": "2026-11-02T02:19:56.961Z",
+        "consequence": "Lena owes restitution to the coworker for the harm caused, paid at once from public funds and then recovered from Lena (Article 5.1 and 5.3), and the constitution does not say whether anything further, such as an order to stop, may follow.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Whether an email account is a thing held or a place occupied (2.5)",
+          "Whether guessing a password without compelling anyone breaches 1.2 (it appears not to)",
+          "What harm exists and how restitution is measured when messages were only read and copied",
+          "Whether the saved copies must be deleted, since Article 5.2 speaks of restoring safety, health and a place to live",
+          "Whether Lena's employer, as a possible holder or addressee of work messages, has a claim",
+          "Whether prevention or punishment beyond restitution is allowed",
+          "Whether the saved copies of messages Lena did not share count as shared under 2.6"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 2.6 protects a person against having communications or records about them read or copied by anyone they did not address or entrust them to, without consent. The coworker did not consent, and Lena was neither an addressee nor entrusted with the messages, so reading and saving them breached 2.6. None of its stated conditions (sharing to bring or decide a claim) applies, since Lena only read and saved the messages. Because the act breaches a privilege, Article 4.2 permits a law to forbid it. Article 4.1 gives no liberty to do it. Nothing in the facts involves a power or party outside Wroxia or the border, and Article 9.5 makes every matter nearlaw's unless shown otherwise, so nearlaw governs. Whether guessing the password breached Article 1.2 is not settled: that right only forbids compelling someone to reveal a password, and Lena compelled no one. Whether her home computer or the saved files were affected is also not settled, since Article 2.5 concerns what the coworker occupies or holds, and an email account is not clearly either."
+      },
+      {
+        "articles": [
+          "2.6",
+          "2.5",
+          "4.2",
+          "5.1",
+          "5.2",
+          "5.3",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:19:57.422Z",
+        "consequence": "Lena, as an agent, must make restitution to the coworker (and to any other people whose messages she read or copied) as far as it can be made, paid at once from public funds, which then recover it from her; the saved copies are subject to this remedy.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Article 1.2 protects against compulsion, not guessing, so it does not apply",
+          "Whether the email account counts as a place the coworker occupies under 2.5 or 2.6 is unclear",
+          "Whether guessing the password is itself a breach is not settled",
+          "Whether the email provider or employer holding the data has independent claims is unsettled",
+          "Form and measure of restitution for privacy harm not specified",
+          "Whether destroying the saved copies counts as restitution or prevention is not specified",
+          "No rule on preventive measures against future breach short of confinement under 2.3, which is open",
+          "Whether the 'carried on causing harm after being told to stop' condition applies to a one-off act is not stated"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 2.6 gives every patient the privilege that communications and records about them not be read or copied by anyone they did not address or entrust them to, without consent. Lena was neither addressee nor entrusted, there is no indication of consent, and the only stated condition (sharing to bring or decide a claim of breach) does not apply, so she breached the coworker's privilege by reading and copying; the same applies to the senders and recipients whose messages she read. Because this breaches a privilege, a law may forbid it under Article 4.2, and Article 4.4 is not engaged since the breach is by reading and copying, not by expression. Nothing indicates a foreign power or party or a border crossing, so under Article 9.5 the default applies and the matter is nearlaw's. Article 5.1-5.3 require restitution, and Article 5.7 lets the harmed person or an Advocate bring a claim."
+      }
+    ],
+    "14": [
+      {
+        "articles": [
+          "1.2",
+          "2.6",
+          "4.2",
+          "4.1",
+          "5.4",
+          "5.5",
+          "5.1",
+          "5.7",
+          "11.2"
+        ],
+        "at": "2026-11-02T02:20:02.871Z",
+        "consequence": "Nearlaw, as an agent answerable for acts in its name, must make restitution to those harmed (paid at once from public funds and recovered from the government), and the ban is open to challenge by any harmed person or an Advocate; the constitution does not say expressly that the ban is void.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether a ban alone, without enforcement or reading of messages, is a breach",
+          "whether a mere ban compels revealing keys under 1.2",
+          "no express remedy for invalidating a law",
+          "who counts as harmed by a general ban",
+          "whether grooming itself breaches Art 2.1 or 2.7 and how that balances against 2.6",
+          "cross-border messages might be farlaw",
+          "no preventive or injunctive power stated",
+          "Advocate powers to stop a law unclear"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 1.2 gives every patient a right, which no law can remove, not to be compelled to reveal private communications or any key or password. A ban on end-to-end encryption forces people to use channels that others, including the provider or the state, can read, which plainly infringes Article 2.6's privilege against communications being read or copied by anyone they did not address them to. The only condition on 2.6 allows sharing to bring or decide a claim of breach, and catching groomers is not such a claim, so the condition is not met and Article 5.5 treats the government's act as a breach. Article 4.2 says no law may forbid an act unless it breaches a right or privilege, and using encryption harms no one's right, so the ban is not a permissible law. Jurisdiction is nearlaw because Article 9.5 presumes matters are nearlaw's unless shown to involve an outside power or the border, and nothing in the case does."
+      },
+      {
+        "articles": [
+          "1.2",
+          "2.6",
+          "4.2",
+          "4.1",
+          "5.4",
+          "5.5",
+          "5.1",
+          "5.7",
+          "11.2"
+        ],
+        "at": "2026-11-02T02:20:04.205Z",
+        "consequence": "Nearlaw, answering as an agent under Article 5.4, must make restitution to those harmed, as far as it can be made, and the ban is open to challenge by an Advocate or any person harmed, though the constitution does not say whether the ban itself is void.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether enacting a law is itself a breach or only enforcement",
+          "whether a ban is void or merely breaching",
+          "whether a ban on a tool compels revealing keys without a demand for them",
+          "who counts as harmed by a ban not yet enforced",
+          "how restitution is measured for lost privacy",
+          "foreign providers or cross-border messages may be farlaw",
+          "no remedy stated for preventing future breach",
+          "Article 2.1 and Article 2.2 on risk to children from groomers are not balanced against this ban"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 1.2 gives every patient a right not to be compelled to reveal private communications or any key or password, and a right cannot be removed by any law. Article 2.6 protects communications from being read or copied by anyone they were not addressed to, and the only condition allows sharing to bring or decide a claim of breach, which is not a general investigation of grooming. Using encryption breaches no right or privilege, so under Article 4.1 it is permitted and under Article 4.2 no law may forbid it. Grooming of children is itself a harm that can be forbidden, but this ban targets a lawful tool rather than the harmful act, so it cannot be justified as protecting a victim. The matter falls to nearlaw by default under Article 9.5 unless a foreign party is shown to be involved, and the government is answerable under Articles 5.4 and 5.5 because no stated condition of the limited privilege was met. Strictly, the ban breaches only if it is applied or enforced against someone, since the text speaks of acts breaching rights, and a bare enactment is less clearly an act."
+      }
+    ],
+    "15": [
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-02T02:20:08.716Z",
+        "consequence": "Nothing follows under the constitution on these facts: no one was harmed, so no restitution is owed, and the constitution does not say whether the limit can be enforced by penalty or prevention.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether risk is judged per act or per class of act",
+          "whether a purely risk-creating act with no one present can breach 2.2",
+          "whether Wroxian law may prevent or penalise a non-breaching act",
+          "whether the limit is valid under 4.2",
+          "no stated enforcement or penalty power besides restitution",
+          "whether unseen animals or people were present",
+          "meaning of unreasonable risk"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Speeding on an empty street harms no one, so Article 2.1 (not to be killed, injured or made to suffer) is not breached on the stated facts. Article 2.2 protects against unreasonable risk, but with no patient present there is no one put at risk, so it is not breached unless some animal or person was unseen, which the case does not say. Under Article 4.1 an agent may do anything that breaches no right or privilege, and 4.2 forbids laws against acts that breach none. The limit is forbiddable only to the extent that speeding in general creates unreasonable risk under 2.2, and whether risk is judged per act or per class of act is not settled. With no foreign party or border crossing, the matter is nearlaw by default under 9.1 and 9.5. Restitution under Article 5.1 requires a breach and a harmed party, and none exists here."
+      },
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-02T02:20:10.817Z",
+        "consequence": "Nothing follows under the constitution on these facts: no one was harmed and no restitution is owed, and the constitution does not say whether the limit may be enforced by a penalty or preventive measure.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "'unreasonable risk' undefined in 2.2",
+          "whether a risk with no exposed patient counts as a breach",
+          "whether a law may forbid risky acts in general (prophylactic rules) or only acts that actually breach a right",
+          "whether 'empty' is certain: animals are patients too",
+          "no rules on penalties, fines or enforcement against non-breaching acts",
+          "Article 4.2 versus a broad speed rule applied to a specific act"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Speeding on an empty street injures, frightens or confines no one, so Article 2.1 is not breached. Article 2.2 protects against unreasonable risk of death, injury or suffering, and with no patient present or endangered it is not clearly engaged, although the constitution does not define 'unreasonable risk' or say whether a risk with no exposed patient counts. Under Article 4.1 the driver may do what breaches no right or privilege, and under Article 4.2 a law may forbid an act only if it breaches a right or privilege. The 20 mph limit therefore cannot validly forbid this particular act if it truly creates no risk to any patient. If the limit is read as a general rule against creating risk, its validity as applied to an empty street is uncertain. The matter involves no outside power or border crossing, so it falls to nearlaw under Article 9.1(b) and the default in 9.5. Article 5 restitution requires a breach and a person harmed, so none is owed."
+      }
+    ],
+    "16": [
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "4.2",
+          "5.1",
+          "5.3",
+          "5.4",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:15.062Z",
+        "consequence": "The diplomat, as an agent, must make restitution to the neighbour (paid at once from public funds, which then recover it from the diplomat), and Wroxian law may forbid the act and provide for prevention, with the neighbour or the Negative Privileges Advocate able to bring a claim.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Whether a farlaw diplomat's act makes a 'power or party outside Wroxia a party' to the matter",
+          "Whether the diplomat's status gives any immunity (constitution is silent)",
+          "Whether farlaw is answerable under 5.4 for acts 'done in its name' if the assault was private",
+          "Which government's courts, police and public funds handle restitution",
+          "No definition of 'assault' or of the threshold between injury and suffering",
+          "How a boundary court decision is triggered and its timing",
+          "Whether the diplomat is a citizen or what their citizenship status means for the case",
+          "Meaning of 'diplomat' is undefined"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "breach",
+        "reasoning": "Assaulting a neighbour injures them and makes them suffer, which breaches the universal negative privilege in Article 2.1. Neither stated condition applies, since no imminent threat is described and there is no starvation. Because the act breaches a privilege, Article 4.2 allows law to forbid it, and the diplomat's status gives no exemption in the text. Article 5.1 requires restitution from the diplomat as the agent who breached. Jurisdiction is uncertain: the assault is between two people within Wroxia, so it defaults to nearlaw under 9.5, but the diplomat's link to a power outside Wroxia may make farlaw a party, and that can be settled only by a boundary court if challenged by someone affected, an Advocate or a government."
+      },
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "4.2",
+          "5.1",
+          "5.3",
+          "5.4",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:17.056Z",
+        "consequence": "The diplomat, as an agent, owes restitution to the neighbour (paid at once from public funds, which then recover it from the diplomat), and force may be used only as necessary to defend against any imminent harm.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Whether a diplomat's personal act makes a foreign power a party under 9.1",
+          "No rule on diplomatic immunity or status",
+          "Which government pays and recovers restitution",
+          "Whether a diplomat is an agent of the foreign power or acts privately",
+          "No stated enforcement or prevention mechanism against a foreign diplomat",
+          "Outcome is clear but the forum is not: boundary court procedure is unspecified"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "breach",
+        "reasoning": "Assaulting a neighbour injures them and makes them suffer, which breaches the Article 2.1 privilege, and none of its conditions (defence against imminent harm, killing to eat) is stated to apply. Because it breaches a privilege, law may forbid it under Article 4.2, and Article 4.4 does not shield it, since this is an act and not expression alone. Article 5.1 requires the diplomat, as an agent, to make restitution, and Article 5.3 has public funds pay the neighbour at once and recover the cost from the diplomat. Jurisdiction is unsettled: Article 9.1 gives farlaw matters where a power or party outside Wroxia is a party, and a diplomat presumably represents such a power, but the victim and the act are wholly inside Wroxia, and Article 9.5 presumes nearlaw unless farlaw is shown. The constitution says nothing about diplomatic status or immunity, so I cannot say it shields the diplomat, and a boundary court under Article 9.5 would decide which government answers."
+      }
+    ],
+    "17": [
+      {
+        "articles": [
+          "1.4",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:19.837Z",
+        "consequence": "Nothing follows: no restitution or prevention is warranted, since no right or privilege was breached.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether a transporting undertaker is 'acting on behalf of' the named person",
+          "whether the deceased is a patient after death for rights purposes",
+          "how the body was obtained (consent of occupiers of the place of death)",
+          "whether any fee or service terms are regulated",
+          "no stated rule on who holds a body between death and collection"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 1.4 gives every patient the right not to have their body, after death, held or used by anyone except a person they named or those acting on that person's behalf. The undertaker collects the body and delivers it to the person the deceased named, so the undertaker is either acting on that person's behalf or merely transporting the body to them, and no one else holds or uses it in a way the right prohibits. Because no right or privilege is breached, Article 4.1 lets an agent do this, and Article 4.2 bars any law from forbidding it. The case states no foreign power or border crossing, so under Article 9.5 the matter defaults to nearlaw. Other privileges, such as occupancy or holding claims by relatives or others, are not implicated by the facts given."
+      },
+      {
+        "articles": [
+          "1.4",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:21.826Z",
+        "consequence": "Nothing follows: no restitution or prevention is warranted, because no right or privilege was breached.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether the undertaker counts as acting on the named person's behalf",
+          "who may hold the body between death and delivery",
+          "whether the named person consented or was able to accept",
+          "no rule on body disposal, hygiene or public health",
+          "whether the deceased still counts as a patient after death"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 1.4 gives every patient a right that, after death, their body is not held or used by anyone except a person they named or those acting on that person's behalf. The undertaker collected the body and delivered it to the named person, which is consistent with that right, and the undertaker is plausibly acting on the named person's behalf. Nothing in the case shows duress, deception, or anyone else's claim that would trigger other provisions. Because Article 4.2 bars laws forbidding acts that breach no right or privilege, Wroxian law could not forbid this kind of act. Nothing in the case shows a power or party outside Wroxia or a border crossing, and Article 9.5 makes every matter nearlaw's unless shown to be farlaw's, so this is nearlaw."
+      }
+    ],
+    "18": [
+      {
+        "articles": [
+          "2.3",
+          "2.5",
+          "5.1",
+          "5.3",
+          "5.4",
+          "5.5",
+          "4.2"
+        ],
+        "at": "2026-11-02T02:20:26.441Z",
+        "consequence": "The responsible government (presumably nearlaw) must make restitution at once from public funds to the suspect for the detention and the car's loss of use, and public funds then recover it from the government as the responsible agent.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Open condition on confinement: judicial case procedure undefined",
+          "No condition for evidence-gathering or investigative detention",
+          "Whether holding a car as evidence counts as taking or using under 2.5",
+          "Restitution measure for lost time and lost use of property not specified",
+          "Which police force acted is not stated, so nearlaw status rests on the default",
+          "Whether a pre-trial judicial order could satisfy the open condition",
+          "Whether holding a vehicle is a taking, given that Holding is defined for the owner's own use"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Detaining the suspect for two days is confinement, and holding the car for a month is taking or using a thing the suspect holds without consent, which limits Articles 2.3 and 2.5. Under Article 5.5, an act done in a government's name that limits a privilege stands as a breach unless the government shows that a condition was met. The only stated condition for confinement is a judicial decision to confine someone who kept causing harm after being told to stop, and nothing in the case shows this. The only condition for taking property is restitution owed under Article 5, and evidence-holding is not that. The suspect's later clearance is consistent with there being no harm-causing conduct, though the case does not say whether a court or any such finding existed, so the government may still try to show a condition. Because these acts breach privileges, law may forbid them under Article 4.2. Nothing indicates an outside power or border crossing, so Article 9.5 defaults the matter to nearlaw. Article 5.4 makes the government answerable as an agent, and Article 5.3 requires prompt payment from public funds."
+      },
+      {
+        "articles": [
+          "2.3",
+          "2.5",
+          "5.1",
+          "5.3",
+          "5.4",
+          "5.5",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:28.731Z",
+        "consequence": "Restitution is owed to the suspect at once from public funds, which then recover it from the responsible government (as the agent answerable for police acts in its name), and it may be made in kind by restoring the suspect's position, including the car's return or compensation for its loss of use.",
+        "forbiddable": "yes",
+        "gaps": [
+          "2.3 confinement condition is [Open] and undefined",
+          "no rule on brief detention for investigation or evidence",
+          "no rule on seizing property as evidence",
+          "'judicial case' procedure not defined",
+          "whether consent or waiver by the suspect occurred is unknown",
+          "no stated measure of restitution for lost use of the car",
+          "prevention or sanction of officers is not addressed beyond restitution",
+          "facts do not say whether a foreign party was involved"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Detaining the suspect for two days is confinement and taking the car is a taking and use of held property, so both limit privileges 2.3 and 2.5. Under Article 5.5 any act done in a government's name that limits a privilege stands as a breach unless the government shows a stated condition was met. The only condition on 2.3 is the open one, confinement decided in a judicial case of someone who kept causing harm after being told to stop, and nothing in the facts shows a judicial case, harm or a warning. The only condition on 2.5 covers taking to make restitution under Article 5, not holding evidence, so the car seizure also stands as a breach unless the government shows consent. Because the suspect was cleared, there is no apparent basis for either condition, though the government may still try to prove one. Nothing indicates a foreign party or a border crossing, and Article 9.5 presumes nearlaw, so nearlaw's police acted and nearlaw answers. Since these acts breach privileges, law may forbid them under Article 4.2."
+      }
+    ],
+    "19": [
+      {
+        "articles": [
+          "1.4",
+          "4.1",
+          "4.2",
+          "2.1",
+          "5.1",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:32.270Z",
+        "consequence": "Nothing follows for the named person, because refusing breaches no right or privilege, and the coroner may not examine the body without that person's authorization.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether a killing investigation can override Article 1.4",
+          "whether the named person can be compelled to authorize an exam",
+          "how a killing is investigated without body access",
+          "no rule on who acts if the named person is dead or absent",
+          "'acting on that person's behalf' undefined",
+          "whether a suspect is the named person",
+          "whether a possible killing triggers Article 2.1 prevention or restitution duties"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 1.4 is a right that no law, condition or waiver can remove: after death the body may not be held or used by anyone except the person the deceased named, or those acting for that person. The named person's refusal is therefore an exercise of their authority, and it harms no one, since the deceased cannot be harmed by the refusal and no right of the deceased is infringed. Article 4.1 permits any act that breaches no right or privilege, and Article 4.2 bars any law forbidding it, so a law compelling or punishing the refusal would be impermissible. The coroner's examination without authorization would itself breach Article 1.4, and under Article 5.4-5.5 a government acting through the coroner would answer for it. Nothing in the case involves a power or party outside Wroxia or the border, so it defaults to nearlaw under Article 9.1(b) and 9.5."
+      },
+      {
+        "articles": [
+          "1.4",
+          "4.1",
+          "4.2",
+          "2.1",
+          "5.1",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:34.305Z",
+        "consequence": "Nothing follows: the named person's refusal breaches no right or privilege, so there is no restitution or prevention, and the coroner may not examine the body without that person's consent or that of those acting for them.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether the named person's own possible involvement in the death is relevant",
+          "no exception to Article 1.4 for investigating suspected killings",
+          "how the unlawful killing, if any, is investigated or prosecuted without the body",
+          "whether the coroner acts for the government and so can be a breaching agent under Article 5.4",
+          "what happens if the deceased named no one",
+          "whether the deceased's own Article 2.1 privilege survives death",
+          "how a refusal by the named person to protect the body interacts with possible harm to other patients"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 1.4 is a right, so no law, condition or waiver can remove it: after death, a patient's body may not be held or used by anyone except the person they named or those acting on that person's behalf. The named person is therefore the one who controls the body, and refusing the coroner is an exercise of that entitlement, not a breach. The coroner's wish to examine the body would itself breach Article 1.4 if done without the named person's consent, and Article 4.1 leaves the refuser free to act because nothing they did breaches a right or privilege. Under Article 4.2 a law forbidding the refusal would be invalid, because no right or privilege is breached by it. Nothing in the facts indicates a power or party outside Wroxia or a border crossing, and Article 9.5 presumes nearlaw unless shown otherwise, so this is a nearlaw matter."
+      }
+    ],
+    "20": [
+      {
+        "articles": [
+          "4.4",
+          "2.1",
+          "5.1",
+          "5.7",
+          "9.1",
+          "9.5",
+          "1.1"
+        ],
+        "at": "2026-11-02T02:20:39.029Z",
+        "consequence": "Jamie must make restitution to Robin as far as it can be made (paid at once from public funds, which then recover it from Jamie), and Robin or the Negative Privileges Advocate may bring a claim of breach; whether Jamie can also be confined to prevent further messages is left open.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether messages routed through foreign servers count as crossing the border or involving a party outside Wroxia",
+          "what counts as abusive or as having to stop (no threshold set)",
+          "whether the 4.4 exception requires actual suffering or is a breach in itself",
+          "whether Article 2.3 confinement is available, since its condition is open",
+          "how restitution for distress is measured",
+          "whether severe abuse amounts to torture under 1.1 and 1.14",
+          "whether Jamie's continued messaging can be prevented before a judicial case"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 4.4 says expression never breaches a right or privilege except for communications kept up towards someone who has asked for them to stop, so Jamie's continued messages after Robin's request fall within that exception. Abusive messages that cause Robin pain, fear or distress are a breach of the privilege not to be made to suffer by others (2.1), and none of that privilege's conditions (defence against imminent harm, killing to eat) applies. Because they breach a privilege, a law forbidding them is permitted under 4.2, and Article 5.1 requires restitution. Both parties live in Wroxia, and the matter is nearlaw's by default under 9.5 unless shown to be farlaw's. The foreign servers are not a power or party outside Wroxia in the sense of being a party to the dispute, and the messages are not clearly 'crossing the border' as a physical matter, but the text does not say whether data transit counts, so a challenge before a boundary court could be raised. Whether this is torture (1.1) depends on whether the suffering is severe and deliberate, which the facts do not establish."
+      },
+      {
+        "articles": [
+          "4.4",
+          "2.1",
+          "2.2",
+          "5.1",
+          "5.3",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:40.192Z",
+        "consequence": "Jamie owes Robin restitution as far as it can be made, paid at once from public funds and then recovered from Jamie, and Robin or an Advocate may bring a claim of breach.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether abusive messages alone count as suffering under 2.1",
+          "whether a server operator abroad is a party under 9.1",
+          "whether data crossing the border triggers farlaw",
+          "meaning of communications kept up (frequency or duration)",
+          "how restitution for distress is measured",
+          "no stated remedy to stop future messages beyond restitution; confinement condition in 2.3 is open",
+          "whether Jamie's messages that are not abusive would also breach"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 4.4 says expression alone never breaches a right or privilege except for communications kept up towards someone who has asked for them to stop, so Jamie's continued messages after Robin's request are not protected expression. Because the messages are abusive, they plausibly also make Robin suffer, which breaches the privilege in Article 2.1 not to be made to suffer by others, though the text does not define the threshold of suffering. Since a breach occurs, Article 4.2 allows law to forbid the act, and Article 5.1 requires Jamie to make restitution to Robin. Both parties live in Wroxia, and Article 9.1 makes farlaw govern matters where a power or party outside Wroxia is a party; a foreign server is arguably not a party, and Article 9.5 presumes nearlaw unless farlaw is shown. The messages crossing the border could engage farlaw's authority over anything while it crosses Wroxia's border, but the constitution does not say whether that reaches the dispute between Jamie and Robin or only the transit itself."
+      }
+    ],
+    "21": [
+      {
+        "articles": [
+          "1.5",
+          "2.3",
+          "2.5",
+          "2.1",
+          "2.2",
+          "5.1",
+          "5.7",
+          "11.3",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:47.633Z",
+        "consequence": "Ravi owes restitution under Article 5 (in kind or otherwise) to the cattle, paid to and held by the Negative Privileges Advocate for their own sake, and a claim of breach may be brought to restrain and remedy it; nothing in the text clears him.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether cattle are agents or only patients (cattle are presumably patients only, so cannot waive)",
+          "whether 'held as a thing' covers ownership and sale of animals",
+          "Article 1.5 conflicts with the 'holding' definition: holding for own use is the only basis for claims to things, yet holding a patient as a thing is barred",
+          "what 'where they live' means for farmed animals",
+          "what restitution for cattle looks like, and how loss of the cattle's home is measured",
+          "whether the market destination or any border crossing could make it farlaw",
+          "no stated condition for confinement or moving of non-agents",
+          "the open condition list in Article 2.3",
+          "whether transport itself counts as confinement or movement under 2.3",
+          "how the cattle's lack of ability to consent interacts with 2.7 (only for their own sake)",
+          "who bears the cost of restitution when the cattle's ownership claim is itself unsettled"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Cattle have central nervous systems, so they are presumed sentient patients (Part I.1-2). Article 1.5 gives every patient the right not to be held by anyone as a thing, and Article 2.3 gives the privilege not to be confined or moved from where they live. Holding cattle as property and loading them onto a truck to take them to market treats them as things and moves them from where they live, and no stated condition applies: the only condition on confinement concerns someone who kept causing harm after being told to stop, which does not fit the cattle, and cattle cannot waive anything or consent. The roomy truck, water and good health mean there is probably no injury, suffering or unreasonable risk under Articles 2.1 and 2.2, but these are factual questions. The breaching act therefore rests on Articles 1.5 and 2.3, and Ravi, as an agent, is answerable under Article 5. Since a law forbidding this would target an act that breaches a right or privilege, Article 4.2 permits it. Nothing involves a power outside Wroxia or a border crossing, so the matter is nearlaw by default under Article 9.5. Under Article 11.3 the Negative Privileges Advocate acts for the cattle and receives any restitution on their behalf."
+      },
+      {
+        "articles": [
+          "1.5",
+          "2.3",
+          "2.1",
+          "2.5",
+          "4.2",
+          "5.1",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:47.703Z",
+        "consequence": "Ravi, as the agent who holds and moves the cattle, owes restitution to the cattle (received by the Negative Privileges Advocate for their sole benefit), and the law may forbid and prevent this kind of act, since cattle are presumed sentient patients.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether cattle are agents or can waive anything",
+          "whether the owner's occupancy or holding could count as consent under 2.3 or 2.5",
+          "what restitution means for confined cattle and the form it takes",
+          "whether 1.5 applies to a patient already claimed by someone before the constitution",
+          "whether the cattle were previously held by Ravi, which affects who holds them and whether the market sale is a lawful transfer",
+          "unstated judicial procedure for confinement under the open condition in 2.3",
+          "how the Negative Privileges Advocate would assess the cattle's own interests",
+          "whether border crossing might make this a farlaw matter if the market is abroad"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Cattle have a central nervous system, so they are presumed sentient patients (Part I.1-2). Ravi, an agent, loads them into a truck and carries them to market, which confines them and moves them from where they live. Article 2.3 protects every patient against this, and the only stated condition (confinement decided in a judicial case for someone who kept causing harm) is not met. Selling them at market also treats them as things, which breaches the Article 1.5 right not to be held as a thing; that right cannot be waived and has no conditions. The care Ravi takes (a roomy truck, water, healthy animals) reduces the risk of injury and suffering, so it may avoid breaching 2.1 and 2.2, but it does not cure the breach of 2.3 or 1.5. Because the act breaches rights and privileges, Article 4.2 permits law to forbid it. No foreign party is involved and no border is crossed, so under 9.1 and 9.5 the matter is nearlaw's by default. Restitution under Article 5 goes to the cattle through the Negative Privileges Advocate (11.3), and a claim may be brought by that Advocate (5.7)."
+      }
+    ],
+    "22": [
+      {
+        "articles": [
+          "Part I.11",
+          "Part I.12",
+          "2.5",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-02T02:20:54.589Z",
+        "consequence": "Nothing follows under the constitution: no restitution is owed and no prevention is authorised, because no right or privilege was breached, so Alex has no constitutional remedy.",
+        "forbiddable": "no",
+        "gaps": [
+          "Whether a promise to pay or a contract creates any entitlement",
+          "Whether unpaid rent is a thing Alex 'holds' or a debt",
+          "Whether Alex's purchase gave him any claim to a flat he does not occupy",
+          "Whether money owed can be a harm needing restitution under Article 5",
+          "Whether 'holding' covers a lent or rented thing like the flat",
+          "How the constitution treats eviction of a non-paying occupant",
+          "Whether Alex's ownership has any recognition once he does not occupy",
+          "Whether the money Alex was paid before is held by him"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Under Part I.11 a building is claimed only by occupancy, and Alex does not live or work in the flat, so he has no claim to it. Sam lives there and so occupies it, which means Article 2.5 protects Sam's occupancy against entry or use without consent. Alex's claim to the monthly fee is not a claim to land or a building. The constitution gives no right or privilege to payment, and nothing in it makes a rental contract binding. Sam's non-payment therefore takes nothing Alex holds and breaches nothing, and Article 4.1 lets Sam act in this way. Article 4.2 bars any law from forbidding an act that breaches no right or privilege, so Wroxian law could not forbid non-payment. Article 5 restitution is triggered only by a breach. Nothing in the facts involves an outside power or the border, so Article 9.1 and 9.5 place the matter in nearlaw by default. Any attempt by Alex to evict Sam, or by the government to do so for him, would itself risk breaching Articles 2.3 and 2.5."
+      },
+      {
+        "articles": [
+          "Part I.11",
+          "Part I.12",
+          "2.5",
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-02T02:20:53.335Z",
+        "consequence": "Nothing follows under the constitution: no breach occurred, so no restitution is owed, and Alex has no constitutional claim to evict Sam or to compel payment.",
+        "forbiddable": "no",
+        "gaps": [
+          "Whether a rental fee or contractual promise creates any enforceable claim",
+          "Whether unpaid money counts as a thing Alex holds",
+          "Whether Alex's purchase gives any claim to a flat he does not occupy",
+          "No stated mechanism for enforcing private agreements",
+          "Whether Alex's loss counts as harm under Article 5",
+          "Whether non-payment could be deception voiding Sam's consent"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Under Part I.11, no one has any claim to land or buildings except by occupancy. Alex does not live or work in the flat, so he has no claim to it, while Sam, who lives there, occupies it and is protected by Article 2.5 against entry or use without consent. Sam's non-payment takes nothing Alex holds and harms no one's safety, since the constitution gives no right or privilege to rent. Because the act breaches no right or privilege, Article 4.1 lets Sam do it and Article 4.2 bars any law from forbidding it. Nothing indicates a foreign party or a border crossing, so under Article 9.5 the matter defaults to nearlaw. Any money Alex lost is not a breach under the text, so Article 5 restitution does not arise. Alex could still rely on the agreement only as far as the constitution allows, and it appears to give him no enforceable claim."
+      }
+    ],
+    "23": [
+      {
+        "articles": [
+          "2.5",
+          "1.12",
+          "Part I.15",
+          "4.1",
+          "4.2",
+          "4.4",
+          "5.1",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:20:59.681Z",
+        "consequence": "If the transfer is a breach of Jo's holding privilege (2.5), the caller owes restitution to Jo under Article 5, paid at once from public funds and recovered from the caller; the constitution does not clearly settle whether it is a breach, and it provides no express prevention mechanism beyond what law may build under 4.5.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether bank savings are a thing Jo holds",
+          "who holds money once deposited",
+          "deception not addressed in 4.4",
+          "whether transfer by deceived person counts as taking",
+          "caller's location and nationality unknown",
+          "no express prevention power",
+          "whether caller is an agent assumed"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what one holds from being taken or used without consent, and Part I.15 voids any consent obtained by deception, so Jo's transfer was arguably not valid consent and the caller arguably took what Jo held. Whether savings in a bank account count as a 'thing' Jo 'holds' (keeping for one's own use) is not settled, since holding is defined for things and money held by a bank may be the bank's holding, and the constitution does not define things or money. Article 4.4 says expression alone never breaches a right except for listed cases (threat, duress-backed demand, etc.); deception is not listed, but here the harm comes through the void consent and the resulting taking, not the speech alone, which leaves tension. If it is a breach, Article 4.2 permits a law forbidding it, and Article 5 supplies restitution and a claim under 5.7. Nothing indicates a power or party outside Wroxia or a border crossing, so under 9.1 and 9.5 the matter defaults to nearlaw, unless the caller or bank is foreign, which the facts do not say."
+      },
+      {
+        "articles": [
+          "2.5",
+          "4.2",
+          "4.4",
+          "1.12",
+          "Part I.15",
+          "5.1",
+          "5.3",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:01.058Z",
+        "consequence": "If the transfer of Jo's savings is a breach of Article 2.5, the caller must make restitution to Jo, paid at once from public funds which then recover it from the caller; if it is not a breach, nothing follows under this constitution.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether savings or bank balances are a 'thing' held",
+          "whether deceived transfer counts as 'taken'",
+          "whether the bank's records or funds raise a separate claim",
+          "caller's identity and location unknown",
+          "whether deception alone is expression excepted by 4.4",
+          "prevention measures not specified",
+          "restitution scope for lost savings"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "The caller deceived Jo, and under Part I.15 a consent obtained by deception is void, so Jo's consent to the transfer is void. Article 2.5 protects what a person holds from being taken or used without consent, and Article 1.12 says holding means keeping a thing for one's own use. Whether savings held as a bank balance or digital record count as a thing held is not settled by the text, and neither is whether the caller 'took' them. If they do count, the caller breached 2.5, which makes the act forbiddable under 4.2 and triggers restitution under Article 5. Expression alone does not breach a right except in the listed cases, and 'a demand backed by duress' does not clearly cover deception without pressure, so the breach rests on 2.5 alone. Nothing suggests an outside power is involved, and under 9.5 a matter is nearlaw unless shown to be farlaw, though the caller's location or the bank's status could change that if it were shown."
+      }
+    ],
+    "24": [
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "4.4",
+          "5.1",
+          "5.7",
+          "11.2"
+        ],
+        "at": "2026-11-02T02:21:05.716Z",
+        "consequence": "The attackers must make restitution to the neighbour (paid at once from public funds, which then recover it from them), and the speaker's liability depends on whether the speech counts as a threat of harm, which the text does not settle.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether urging others to harm is a 'threat of harm' under 4.4",
+          "whether incitement or 'unreasonable risk' (2.2) reaches the speaker",
+          "no rule on shared or causal responsibility among crowd members",
+          "how to identify which individuals attacked",
+          "'teach a lesson' is ambiguous as to intended harm",
+          "restitution apportionment between speaker and attackers unspecified",
+          "'agent' capacity of crowd members not addressed"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "The attackers breached the neighbour's Article 2.1 privilege not to be injured or made to suffer by others. No stated condition applies, since the neighbour posed no imminent threat and no starvation exception is present. Under Article 4.1, 4.2 and 5.1, acts that breach a privilege may be forbidden and require restitution. Article 4.4 says expression alone never breaches a right or privilege except for a threat of harm to a patient or a demand backed by duress. Whether urging a crowd to 'teach a lesson' to a named person is a threat, which would make it a breach and forbiddable, is not clear from the text. It may count as incitement or as a risk-creating act under 2.2, but the text does not say. The matter involves no outside power and no border crossing, so under Article 9.1 and 9.5 it is nearlaw by default. The injured man or the Negative Privileges Advocate may bring a claim under 5.7."
+      },
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "4.4",
+          "5.1",
+          "5.7",
+          "11.2"
+        ],
+        "at": "2026-11-02T02:21:07.298Z",
+        "consequence": "The attackers must make restitution to the victim (paid at once from public funds, which then recover it from them), and the speaker's liability depends on whether the speech counts as a threat or a breach of the victim's privilege against unreasonable risk.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Whether incitement to a crowd is a 'threat of harm to a patient' under 4.4",
+          "Whether incitement puts the victim at 'unreasonable risk' under 2.2",
+          "Whether the speaker is liable for harm done by others",
+          "How liability is apportioned among individual attackers",
+          "Whether restitution is joint or several",
+          "No express preventive power before harm occurs",
+          "Meaning of 'injury' and 'severe' thresholds",
+          "Whether confinement under 2.3 (open condition) may follow"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "The attackers who injured the neighbour breached his Article 2.1 privilege not to be injured or made to suffer, and nothing in the facts shows a condition such as defence against imminent harm was met. Expression alone breaches nothing under Article 4.4 unless it is a threat of harm to a patient or a demand backed by duress. The speaker's urging is not plainly either, since it is addressed to a crowd rather than to the neighbour and is not obviously a threat by the speaker, so whether it breaches Article 2.2 (unreasonable risk of injury) or 4.4 is not settled by the text. The attacks breach privileges, so law may forbid them under Article 4.2, and a law forbidding the speaker's urging would be permissible only if it is shown to breach a privilege such as 2.2. No outside party or border crossing appears, so the matter defaults to nearlaw under Article 9.5. The remedy is restitution under Article 5, and the victim or the Negative Privileges Advocate can bring a claim under 5.7."
+      }
+    ],
+    "25": [
+      {
+        "articles": [
+          "2.6",
+          "4.4",
+          "5.1",
+          "5.3",
+          "5.4",
+          "5.5",
+          "5.7",
+          "11.2"
+        ],
+        "at": "2026-11-02T02:21:11.900Z",
+        "consequence": "The clerk, as the agent who breached, owes restitution to the person harmed, paid at once from nearlaw public funds (which answers as an agent for acts done in its name) and then recovered from whoever caused the harm; the constitution also permits a claim of breach by the person or an Advocate.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether medical records count as 'records about them' (likely yes, not named)",
+          "no definition of 'entrusted' for records held by a government clerk",
+          "whether the patient consented is not stated",
+          "whether the journalist also breaches by receiving or publishing is unsettled",
+          "amount and form of restitution for informational harm not defined",
+          "whether a clerk's act is 'in the government's name' is not defined",
+          "no stated remedy for prevention beyond restitution and claims"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 2.6 gives every patient the privilege that communications or records about them not be read or copied by anyone they did not entrust them to, nor shared by anyone, without consent. The only stated condition (sharing to bring or decide a claim of breach) does not fit a leak to a journalist, and no consent is indicated, so the clerk breached the privilege. Because the act breaches a privilege, Article 4.2 permits law to forbid it, and Article 4.4 expressly lists sharing what Article 2.6 protects as expression that can breach. The clerk acted in nearlaw's name, so under Article 5.4 and 5.5 nearlaw answers as an agent and cannot rely on a condition, since none was met. Nothing in the case involves a power or party outside Wroxia or the border, so under Article 9.1 and 9.5 the matter defaults to nearlaw."
+      },
+      {
+        "articles": [
+          "2.6",
+          "4.2",
+          "4.4",
+          "5.1",
+          "5.3",
+          "5.4",
+          "5.5",
+          "5.7",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:13.148Z",
+        "consequence": "The clerk, as the agent who breached, owes restitution to the patient as far as it can be made, paid at once from public funds (nearlaw's) which then recover it from the clerk, and nearlaw answers as an agent for the act done in its name.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether a clerk's leak counts as done in government's name",
+          "whether medical records are 'records about them' held in trust or entrusted",
+          "no explicit rule on prevention or sanctions beyond restitution",
+          "how restitution is measured for non-material harm like disclosure",
+          "whether the journalist's further sharing or publication is a separate breach",
+          "whether the clerk's role was lost or other penalties apply (5.6 covers only bribery)",
+          "whether the patient is a citizen is not stated and seems irrelevant to Article 2.6",
+          "how the cost of restitution is recovered from the clerk is left to law"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Article 2.6 gives every patient the privilege that communications or records about them not be read or copied by anyone they did not address or entrust them to, nor shared by anyone, without consent; the only stated condition is sharing to bring or decide a claim of breach, which a leak to a journalist does not meet. The clerk, as an agent, breached this by sharing the records, and sharing what Article 2.6 protects is expressly excluded from the protection of expression in Article 4.4. Because the act breaches a privilege, law may forbid it under Article 4.2. Nothing indicates a foreign power or border crossing, and Article 9.5 presumes matters are nearlaw's, so nearlaw governs, and under Article 5.4 and 5.5 it answers for an act done in its name unless it shows a condition was met. The patient or an Advocate may bring the claim under Article 5.7, and the Negative Privileges Advocate would act if the patient cannot act for itself."
+      }
+    ],
+    "26": [
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "2.3",
+          "5.1",
+          "5.2",
+          "5.3",
+          "9.1",
+          "9.5",
+          "4.2"
+        ],
+        "at": "2026-11-02T02:21:18.286Z",
+        "consequence": "Sam must make restitution to Ana as far as possible (paid at once from public funds, which recover it from Sam), and the constitution leaves open whether and how he may be confined or otherwise restrained to prevent further harm.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Article 2.3 confinement condition is marked [Open]",
+          "no prevention mechanism beyond restitution and confinement stated",
+          "'keep away' order: no stated power to exclude Sam from the shared flat",
+          "occupancy of shared flat: competing claims between Sam and Ana unresolved",
+          "no procedure or court for claims of breach specified",
+          "extent and measure of restitution for injury and suffering unspecified",
+          "whether Article 4.4 'communications kept up after request to stop' adds anything to physical harm is unclear"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Sam is an agent who repeatedly hit Ana, so he breached her Article 2.1 privilege not to be injured or made to suffer by others, and likely 2.2 as well. Neither stated condition applies: no imminent threat from Ana justified force, and there is no starvation scenario. Article 4.2 permits law to forbid an act that breaches a right or privilege, so laws against hitting a partner are permitted. Nothing indicates a power or party outside Wroxia or a border crossing, so under Article 9.1 and the 9.5 default the matter is nearlaw. Article 5 requires restitution (which can include restoring health and a safe place to live), and Ana may bring a claim or an Advocate may do so on her behalf. Ana told Sam to stop, so the open confinement condition in 2.3 (confinement decided in a judicial case for someone who carried on causing harm after being told to stop) may become relevant if he continues, but its content is unspecified."
+      },
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "2.3",
+          "2.5",
+          "5.1",
+          "5.2",
+          "5.3",
+          "5.7",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:19.970Z",
+        "consequence": "Sam must make restitution to Ana (in kind or otherwise, paid at once from public funds which then recover it from him), and because he continued after being told to stop, a judicial case may decide whether he is confined; the constitution does not clearly provide for other preventive measures.",
+        "forbiddable": "yes",
+        "gaps": [
+          "Article 2.3 confinement condition is marked Open and its details are unspecified",
+          "No stated mechanism for protective or preventive orders short of confinement",
+          "Whether Ana's instruction to keep away creates an enforceable duty, since occupancy of the shared flat is jointly held and the constitution does not say how joint occupancy is resolved",
+          "Whether Sam is an agent is assumed, not stated",
+          "Whether Sam's own privilege against being moved from where he lives (2.3) conflicts with separating him from the shared flat",
+          "Court and procedure for judicial cases are not defined",
+          "Whether forcible defence against Sam is allowed beyond 2.1's imminent-harm condition is only implied",
+          "Whether Ana's request implicates Article 4.4 on communications kept up after a request to stop is not settled on these facts"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Sam is presumably an agent, so he can breach privileges, and repeatedly hitting Ana breaches her Article 2.1 privilege not to be injured or made to suffer by others. No stated condition applies, since no imminent threat from Ana is described and there is no starvation or waiver. Because the act breaches a privilege, Article 4.2 permits law to forbid it. The facts involve only people inside Wroxia and no outside power or border crossing, so it is nearlaw by default under Article 9.1 and 9.5. Ana's instruction to stop and keep away triggers the open confinement condition in 2.3 (harm continued after being told to stop), but that condition is open and requires a judicial case. Ana can bring a claim under 5.7, and an Advocate may do so on her behalf."
+      }
+    ],
+    "27": [
+      {
+        "articles": [
+          "2.5",
+          "5.1",
+          "5.2",
+          "5.3",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:24.188Z",
+        "consequence": "Lee must make restitution to Kofi (a replacement or repair of the bicycle, in kind or in value), paid to Kofi at once from nearlaw public funds, which then recover the cost from Lee.",
+        "forbiddable": "yes",
+        "gaps": [
+          "how public funds recover from a penniless wrongdoer",
+          "whether recovery may compel Lee to work, given Article 1.3",
+          "whether restitution means repair, replacement or value",
+          "whether prevention or confinement is available for a single past act (Article 2.3 condition is [Open])",
+          "whether Lee is an agent is assumed, not stated",
+          "which nearlaw body decides the claim, since institutions are left to law"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Kofi holds the bicycle (Part I.12), and Article 2.5 gives him the privilege not to have what he holds damaged without his consent. Lee, as an agent, deliberately damaged it, and no stated condition applies: the only condition concerns taking a thing to make restitution under Article 5, and nothing suggests Kofi owed Lee anything. Because the act breaches a privilege, law may forbid it under Article 4.2. Nothing indicates a power or party outside Wroxia or a border crossing, so the matter is nearlaw's by default (Article 9.1.2 and 9.5). Lee's lack of money does not remove the duty: Article 5.3 has public funds pay Kofi at once and then recover the cost from Lee, though how recovery works against someone with no money is not stated."
+      },
+      {
+        "articles": [
+          "2.5",
+          "5.1",
+          "5.2",
+          "5.3",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:25.669Z",
+        "consequence": "Lee must make restitution to Kofi (a replacement bicycle or its value, restored in kind where possible), paid at once from public funds, which then recover the cost from Lee.",
+        "forbiddable": "yes",
+        "gaps": [
+          "how public funds recover from someone with no money",
+          "whether restitution may be compelled as work, given Article 1.3",
+          "whether Lee is an agent (capacity not stated)",
+          "whether Kofi still held the bicycle (facts not given)",
+          "no stated penalty or prevention measure for a single act",
+          "confinement condition under 2.3 is [Open] and may not cover this",
+          "who decides the claim and how (no courts besides the boundary court are defined)",
+          "how restitution is valued"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Lee is presumably an agent, and deliberately wrecking Kofi's bicycle damages a thing Kofi holds without his consent, which breaches the Article 2.5 privilege; nothing in the case suggests the only condition (taking a thing for restitution under Article 5) applies. Because the act breaches a privilege, Article 4.2 allows law to forbid it. Nothing in the case involves a party outside Wroxia or a border crossing, and Article 9.5 makes every matter nearlaw's unless shown otherwise, so nearlaw governs. Article 5.1 to 5.3 require Lee to make restitution, and Lee's lack of money does not remove the duty; Kofi is paid from public funds, which then recover the sum from Lee. Whether the bicycle is a thing Kofi 'holds' depends on the case facts, which are not stated, so holding is presumed."
+      }
+    ],
+    "28": [
+      {
+        "articles": [
+          "2.6",
+          "2.5",
+          "5.4",
+          "5.5",
+          "9.1",
+          "9.4",
+          "9.5",
+          "5.1",
+          "5.3"
+        ],
+        "at": "2026-11-02T02:21:30.337Z",
+        "consequence": "Restitution is owed: the sender (and the recipient, if harmed) is paid at once from public funds, which recover it from the farlaw government, and farlaw's officers may not repeat the inspection because they have no authority to enforce farlaw law on a nearlaw matter.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether a parcel counts as a communication or record under 2.6",
+          "whether inspection without opening is 'read or copied'",
+          "whether the sender's challenge falls under the boundary court procedure in 9.5",
+          "how a harm is measured for restitution when nothing was taken or damaged",
+          "whether the parcel is 'held' by sender or recipient while in post",
+          "no stated remedy to prevent repeat inspections beyond restitution",
+          "whether the parcel's contents could involve a farlaw matter, such as an outside-origin item, which the facts do not state"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "A parcel posted between two Wroxians in the same street involves no power or party outside Wroxia and does not cross the border, so under Article 9.1 and the default in 9.5 it is nearlaw's matter and farlaw's officers have no domain here (9.4). Opening the parcel is reading or copying a communication or record about the sender by someone the sender did not address or entrust it to, which breaches Article 2.6 unless a stated condition applies. The only condition is sharing to bring or decide a claim of breach, and nothing in the case suggests it. Under Article 5.4 and 5.5 the farlaw government answers as an agent for the officers' act, and it has shown no condition was met, so the act stands as a breach. The act is forbiddable because it breaches a privilege (Article 4.2), and the harm is repaired by restitution under Article 5.1 to 5.3."
+      },
+      {
+        "articles": [
+          "2.6",
+          "2.5",
+          "5.4",
+          "5.5",
+          "9.1",
+          "9.4",
+          "9.5",
+          "5.1",
+          "5.3"
+        ],
+        "at": "2026-11-02T02:21:31.811Z",
+        "consequence": "Restitution is owed to the sender (and arguably the recipient) at once from public funds, which then recover it from farlaw as the responsible government, and the inspection must not continue absent a met condition.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether a sealed parcel is a communication, record or held thing",
+          "whether sender or recipient holds the parcel in transit",
+          "whether the sender may bring the claim as 'harmed' without the recipient",
+          "no stated customs or search condition",
+          "who bears burden on jurisdiction beyond default",
+          "nature and measure of restitution for privacy intrusion",
+          "whether farlaw officers can be stopped by nearlaw police"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "A parcel posted between two Wroxians in neighbouring streets involves no power or party outside Wroxia and does not cross the border, so under Article 9.1 and the default in 9.5 it is nearlaw's matter, and farlaw's officers have no jurisdiction to enforce there (9.4). Opening and inspecting the parcel reads or copies a communication or record about the sender without the consent of the addressee or those entrusted, breaching Privilege 2.6, and probably also 2.5 if the parcel counts as something held by the sender or recipient (Holding, Term 12). Acting in a government's name that limits a privilege stands as a breach unless that government shows a condition was met (5.5), and the only stated 2.6 condition (sharing to bring or decide a claim of breach) does not fit routine customs inspection, so farlaw answers as an agent (5.4) and owes restitution (5.1, 5.3). A law forbidding such inspection is permitted by 4.2 because the act breaches a privilege. Whether the privilege was waived or consent given is not shown."
+      }
+    ],
+    "29": [
+      {
+        "articles": [
+          "2.5",
+          "4.2",
+          "5.1",
+          "5.2",
+          "5.3",
+          "9.1",
+          "9.5",
+          "1.12"
+        ],
+        "at": "2026-11-02T02:21:36.467Z",
+        "consequence": "Lars must make restitution to Astrid, as far as it can be made (return of the bike or its value or a substitute), paid at once from nearlaw public funds which then recover it from Lars; the constitution does not state any further penalty.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether the buyer must return the bike or keeps a claim by holding",
+          "whether restitution can be in kind by returning the bike or only in value",
+          "no stated rule on penalties or prevention beyond restitution",
+          "Article 2.3 confinement condition is open and unclear whether it could reach a repeat thief",
+          "whether Lars's unconsented taking counts as ending Astrid's holding",
+          "whether the buyer acted with notice or deception is not addressed"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Astrid's bicycle was a thing she held, since holding includes keeping a thing for one's own use and ends only on giving away or discarding, and a short errand does not end it. Lars took and used it without her consent, which breaches her Article 2.5 privilege, and no stated condition applies (restitution under Article 5 was not owed by Astrid). Lars is an agent, so he can breach, and the sale to a stranger adds further breach but does not give the buyer a claim, because claims arise only by holding and the buyer's holding began from a taking. Because the act breaches a privilege, law may forbid it under Article 4.2. No outside power or border crossing is shown, so under Article 9.5 the matter defaults to nearlaw. Restitution under Article 5.1 to 5.3 follows, while the constitution is silent on punishment or deterrence beyond restitution."
+      },
+      {
+        "articles": [
+          "2.5",
+          "4.2",
+          "5.1",
+          "5.2",
+          "5.3",
+          "9.1",
+          "9.5",
+          "1.12"
+        ],
+        "at": "2026-11-02T02:21:38.517Z",
+        "consequence": "Lars must make restitution to Astrid as far as it can be made (return or replacement of the bike, or its value), paid at once from public funds that then recover it from Lars; the buyer's position is not settled by the text.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether leaving a bike unlocked outside counts as holding or abandonment",
+          "rights of the stranger who bought the bike without knowing it was taken",
+          "whether Astrid can recover the bike itself or only its value from the buyer",
+          "whether holding ends when a thing is merely left unattended",
+          "no stated penalty or prevention measure beyond restitution",
+          "confinement condition in 2.3 is open",
+          "how restitution is valued or recovered from Lars if he cannot pay",
+          "whether Lars acted as an agent with understanding of Astrid's privilege (presumed, not stated)"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Astrid held the bike (keeping a thing for one's own use, including a short absence, and holding ends only on giving away or discarding), and she did not consent to Lars taking or using it, so Lars breached the Article 2.5 privilege; none of the stated conditions (restitution under Article 5) applies, and Lars is plainly an agent. Because the act breaches a privilege, Article 4.2 permits law to forbid it, and Article 5.1 requires restitution to Astrid. Nothing in the facts involves a power or party outside Wroxia or a border crossing, and every matter is nearlaw's unless shown otherwise, so this is nearlaw. Lars's sale of the bike is not itself a separate breach against Astrid beyond the taking, but the sale gave away the bike and raises questions about the stranger's claim. The constitution says nothing about prevention or punishment beyond restitution, apart from the open confinement condition in 2.3 for those who keep causing harm after being told to stop."
+      }
+    ],
+    "30": [
+      {
+        "articles": [
+          "2.5",
+          "2.6",
+          "1.2",
+          "4.1",
+          "4.2",
+          "5.1",
+          "5.7",
+          "9.5",
+          "Part I.11",
+          "Part I.12"
+        ],
+        "at": "2026-11-02T02:21:44.266Z",
+        "consequence": "If a breach is found, Jonas owes restitution to those harmed (the employer and possibly the clients) under Article 5, paid at once from public funds and recovered from him; if no breach is found, nothing follows.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether a company is a patient able to hold rights",
+          "whether cloud storage is occupied or held",
+          "whether data is a 'thing' that can be taken or used",
+          "whether copying leaves the original held by the owner",
+          "who counts as harmed absent injury",
+          "whether contact lists are 'records about' clients",
+          "whether a former employee's remembered password implies consent",
+          "no definition of 'enter' for digital spaces",
+          "how restitution is measured for non-physical harm"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what a patient occupies or holds from being entered or used without consent, and Article 2.6 protects communications and records about a person from being copied or shared without consent. Whether the employer's cloud storage counts as something it 'occupies' or 'holds' is not settled: occupancy is defined only for land and buildings, and holding is defined as keeping a thing for one's own use, so a remote account is a doubtful fit. The client contact lists are plausibly 'records about' the clients, and Jonas copied them without addressing or being entrusted by anyone, which could breach 2.6 against the clients, but the text does not say whether the clients' consent or the employer's custody matters. Article 1.2 (no compulsion to reveal passwords) does not help Jonas, since nobody compelled him, and it also does not make using a remembered password lawful. Nothing in the case suggests a power or party outside Wroxia, so the matter defaults to nearlaw under 9.5. Because the constitution does not say whether a legal person like an employer can be a patient or hold or occupy anything, and a law forbidding the act would be valid only if it protects a real right or privilege, whether the act is forbiddable depends on how those gaps are resolved."
+      },
+      {
+        "articles": [
+          "2.5",
+          "2.6",
+          "1.2",
+          "4.1",
+          "4.2",
+          "5.1",
+          "5.7",
+          "9.5",
+          "Part I.11",
+          "Part I.12"
+        ],
+        "at": "2026-11-02T02:21:46.059Z",
+        "consequence": "If a breach is found, Jonas must make restitution to those harmed (the employer and possibly the clients) through a claim under Article 5.7, paid from public funds and recovered from him; otherwise nothing follows, since the constitution does not itself provide for prevention or punishment.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether cloud storage is occupied or held",
+          "whether a company is a patient with rights",
+          "whether contact lists are records about the clients",
+          "no rule on unauthorized access by guessing a password",
+          "who holds the privilege over shared business data",
+          "no stated basis for prevention or sanction beyond restitution",
+          "whether the former employer's consent was withdrawn"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "unclear",
+        "reasoning": "Article 2.5 protects what a patient occupies or holds from entry or use without consent, but occupancy covers only land and buildings, and holding covers only things kept for one's own use, so it is unsettled whether a cloud account or stored files count. Article 2.6 protects communications and records about a person from being read or copied by anyone they did not address or entrust them to, without consent. The client contact lists are plausibly records about the clients, and copying them without the clients' or the holder's consent would breach 2.6 if the clients are patients with a protected interest, but the case does not say what the lists contain or whether the employer, as a company, is a patient or agent. Guessing the password does not breach Article 1.2, which protects against compulsion to reveal a password and not against guessing it. If the lists fall within 2.6, a law forbidding such access would be permitted by Article 4.2 because it would breach a privilege, but if they do not, Article 4.1 leaves Jonas free to act and no law could forbid it. No outside power appears to be involved, so under Article 9.5 the matter defaults to nearlaw."
+      }
+    ],
+    "31": [
+      {
+        "articles": [
+          "2.5",
+          "4.1",
+          "4.2",
+          "Part I.12",
+          "5.1",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:50.624Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed and the constitution gives no basis for a law forbidding the act.",
+        "forbiddable": "no",
+        "gaps": [
+          "No intellectual property or copyright concept exists",
+          "Whether a publisher's unpublished or sold copies count as 'holding' of the work itself is undefined",
+          "Whether a digital copy is a 'thing' under holding is not addressed",
+          "Location and nationality of the site, uploader and publisher are not stated",
+          "Whether a foreign party makes this farlaw is unclear",
+          "Whether the uploader's conduct could breach anything is not settled"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "The constitution protects only rights and privileges, and it recognises claims to things only through holding (Part I.12) and to land or buildings only through occupancy. Aiko copied a file that was uploaded by someone else; the constitution does not recognise any claim by the publisher over the content of that file or over copies of it, so her download did not take, damage or use anything the publisher holds (2.5). Aiko's act breaches no right or privilege, so under Article 4.1 she may do it and under Article 4.2 no law may forbid it. The uploader's act is not before me, and nothing in the case shows it breached anything either, since sharing a copy takes nothing the publisher holds. Because there is no breach, Article 5 gives no restitution, and jurisdiction does not need to be resolved; if a site or publisher outside Wroxia were involved, Article 9.1 might make it farlaw, but the case does not say, and by default Article 9.5 would treat it as nearlaw."
+      },
+      {
+        "articles": [
+          "2.5",
+          "4.1",
+          "4.2",
+          "Part I.12",
+          "5.1",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-02T02:21:52.127Z",
+        "consequence": "Nothing follows for Aiko: no right or privilege was breached, so no restitution is owed and the constitution gives no basis for a law forbidding or preventing her act.",
+        "forbiddable": "no",
+        "gaps": [
+          "No recognition of intellectual property or copying rights",
+          "Whether a digital copy counts as a 'thing' that can be held",
+          "Whether a foreign publisher or site makes this farlaw",
+          "Whether the uploader breached anything is not addressed",
+          "Whether Aiko's knowledge of the unauthorised upload matters"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Article 4.1 lets an agent do anything that breaches no right or privilege, and 4.2 bars any law forbidding an act unless it breaches one. The constitution protects only occupancy of land and buildings and holding of things (Art 2.5, Terms 11-12), and no one has any claim to a thing except by holding it. Aiko copied a file to her own tablet, which takes, damages or uses nothing the publisher holds, since the publisher still holds its own copy and its use of it is undisturbed. The constitution recognises no intellectual property, no entitlement to exclusive copying, and no right to income, so the publisher has no right or privilege engaged, and the uploader's act is likewise not shown to breach one. Jurisdiction is not settled: the default under 9.5 is nearlaw, but the publisher or site may be outside Wroxia and thus a foreign party under 9.1(a). Because no breach exists, the jurisdictional question does not change the result."
+      }
+    ]
+  }
+}

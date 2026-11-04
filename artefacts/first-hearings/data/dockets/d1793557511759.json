@@ -1,0 +1,503 @@
+{
+  "cases": [
+    {
+      "country": "Canada",
+      "crime": "Armed robbery",
+      "penalty": "Imprisonment, with a possible maximum of life",
+      "scenario": "Marcus walked into a convenience store late at night, pointed a handgun at the cashier, and demanded the contents of the register. Priya handed over about 400 dollars in cash, and Marcus left on foot with the money."
+    },
+    {
+      "country": "Singapore",
+      "crime": "Selling chewing gum",
+      "penalty": "Fine or imprisonment, depending on the circumstances",
+      "scenario": "Daniel ran a small market stall and sold several packs of imported chewing gum to a regular customer named Aisha. The gum was ordinary, and was sold for general consumption rather than for any medical purpose."
+    },
+    {
+      "country": "Thailand",
+      "crime": "Insulting the monarch (lese-majeste)",
+      "penalty": "Imprisonment of 3 to 15 years per offence",
+      "scenario": "Somchai posted a comment on social media that mocked the reigning king, and the post was shared hundreds of times. Nina reported the post to the authorities after seeing it on her feed."
+    },
+    {
+      "country": "United Arab Emirates",
+      "crime": "Consensual sex outside marriage",
+      "penalty": "Imprisonment or fine, though enforcement is uncommon",
+      "scenario": "Omar and Layla, an unmarried adult couple, spent the weekend together in a rented apartment. Both were adults and both had agreed to the arrangement, and no one else was involved."
+    },
+    {
+      "country": "India",
+      "crime": "Cruelty to animals (animal slaughter in a protected context)",
+      "penalty": "Fine and/or imprisonment of up to a few years",
+      "scenario": "Ravi transported six cattle in a small truck, tightly packed with no water, over a journey of many hours. Meena, a passing inspector, noticed that several of the animals were injured and unable to stand."
+    },
+    {
+      "country": "United States",
+      "crime": "Bribery of a public official",
+      "penalty": "Imprisonment of up to 15 years and fines",
+      "scenario": "Greg, a building inspector, was handed an envelope containing 5,000 dollars by a contractor named Sofia. In the same conversation, Greg agreed to approve a construction project that had not yet passed its safety checks."
+    }
+  ],
+  "constitutionRev": 19,
+  "createdAt": "2026-11-01T18:25:11.759Z",
+  "id": "d1793557511759",
+  "rulings": {
+    "0": [
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "5.1",
+          "4.2",
+          "9.1",
+          "11.2"
+        ],
+        "at": "2026-11-01T22:05:01.979Z",
+        "consequence": "Marcus must make restitution to Priya (and the store, if it is a patient with a claim) as far as possible, and force may be used to stop an imminent threat like this, but the constitution does not set any punishment.",
+        "forbiddable": "yes",
+        "gaps": [
+          "No property right or privilege is listed, so the taking of the 400 dollars is not itself a breach, though restitution may still cover harm from the threat",
+          "Whether a store or business can be a patient or claimant is unsettled",
+          "Article 2.3 detainment for restorative justice is an open condition, so whether Marcus may be confined is unsettled",
+          "No penalty or sanction beyond restitution is specified",
+          "Whether restitution for suffering is possible is unclear",
+          "Boundary court for nearlaw/farlaw is not defined, though the facts are clearly local",
+          "Article 11 advocate roles do not specify who prosecutes ordinary breaches"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Marcus, an agent, pointed a loaded handgun at Priya and so breached her privilege not to be made to suffer by others (2.1) and her privilege not to be put at unreasonable risk of death, injury or suffering (2.2). None of the stated conditions applies: he faced no imminent harm and was not starving with no other food. Priya's handing over the cash was under duress, since a gun leaves no reasonable choice, so her apparent consent is void (Part I, 11) and does not waive anything. Because the act breaches privileges, Article 4.2 permits law to forbid it, and Article 5.1 requires restitution. Nothing in the facts crosses Wroxia's border or involves an outside power, so under Article 9.1 it falls to nearlaw by default."
+      },
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "5.1",
+          "4.2",
+          "9.1",
+          "4.1"
+        ],
+        "at": "2026-11-01T22:05:23.732Z",
+        "consequence": "Marcus must make restitution to Priya (and any others harmed, such as the store if the money was its) as far as possible, and force may be used to the extent necessary to defend against imminent harm, but the constitution does not set out any punishment beyond that.",
+        "forbiddable": "yes",
+        "gaps": [
+          "No property right or privilege stated, so the taking of the money is not itself a breach",
+          "Who owns the cash (Priya or store owner) is unaddressed, as is who counts as 'harmed' for restitution",
+          "No rule on punishment, deterrence or prevention beyond defensive force",
+          "Detainment for restorative justice condition is [Open], so confinement of Marcus is unsettled",
+          "Boundary court under 9.5 is [Open], so jurisdiction rests on the default reading",
+          "Whether fear or threat alone counts as 'suffering' under 2.1 is not defined",
+          "Whether Priya is a citizen is unknown, but the rights here are universal so it does not matter"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Marcus is an agent who pointed a loaded handgun at Priya, which puts her at unreasonable risk of death, injury and suffering and so breaches Article 2.2, and it also breaches her privilege under 2.1 not to be made to suffer by others, since the threat plainly causes fear. Priya's handing over the cash was under duress (Part I, term 11), so it is no valid waiver or consent, and nothing in the stated conditions of 2.1 (defence against imminent harm, or killing to eat) justifies his act. Because the act breaches privileges, Article 4.2 permits a law to forbid it, and Article 4.1 gives Marcus no liberty to do it. Nothing in the facts shows a border crossing or an outside power or party, so under Article 9.1 it falls to nearlaw by default, though the boundary court in 9.5 is not yet defined. Article 5.1 requires Marcus to make restitution as far as it can be made, and the taking of the cash is covered by this only if the money belongs to someone the constitution recognises as harmed; whether any property right exists is not settled."
+      },
+      {
+        "articles": [
+          "2.1",
+          "2.2",
+          "5.1",
+          "4.2",
+          "9.1"
+        ],
+        "at": "2026-11-01T22:05:23.261Z",
+        "consequence": "Marcus must make restitution to Priya (and any others harmed, such as for the 400 dollars and the suffering caused), and force may be used to the extent necessary to defend against imminent harm, but the constitution does not specify any punishment beyond restitution and the open restorative-justice detainment condition.",
+        "forbiddable": "yes",
+        "gaps": [
+          "No property right or privilege, so the taking of the 400 dollars is not itself a clear breach",
+          "Restorative-justice detainment condition in 2.3 is open, so it is unclear whether and how Marcus may be confined",
+          "Constitution does not define 'unreasonable risk' or 'suffering' thresholds",
+          "Boundary court under 9.5 is undecided, though the facts appear purely domestic",
+          "No stated rules on punishment, deterrence or prevention beyond restitution and imminent-harm defence",
+          "Restitution for psychological harm 'as far as it can be made' is vague"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "breach",
+        "reasoning": "Marcus, as an agent, pointed a gun at the cashier, which made her suffer and put her at unreasonable risk of death, injury and suffering, breaching the privileges in Article 2.1 and 2.2; none of the stated conditions (defence against imminent harm, killing to eat when otherwise starving with no practicable food) is shown to apply on these facts. Because the act breaches privileges, Article 4.2 permits law to forbid it, and Article 5.1 requires Marcus to make restitution as far as it can be made. Priya's handing over the cash was under duress (a gun leaves no reasonable choice), so any consent or waiver is void under Part I.11, and the taking of the money is not a valid transfer. Nothing in the facts involves a foreign power or border crossing, so the matter falls to nearlaw under Article 9.1. Whether taking money is itself a breach is unsettled, because the constitution lists no property right; the breach rests on the harm and risk to Priya, not on theft as such."
+      }
+    ],
+    "1": [
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-01T22:05:32.572Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so Article 5 imposes no restitution and there is nothing to prevent.",
+        "forbiddable": "no",
+        "gaps": [
+          "boundary court is unspecified (9.5)",
+          "whether a domestic sale of imported goods is farlaw, nearlaw or both",
+          "no rule on import or trade as such",
+          "whether the import step is a separate matter from the sale",
+          "no facts on Aisha's or Daniel's agent status or citizenship, though these seem not to matter"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Selling ordinary chewing gum to a willing regular customer does not touch any listed right or privilege: it involves no torture, compelled disclosure, compelled work, confinement, injury, suffering, or unreasonable risk. Under Article 4.1 an agent may do anything that breaches no right or privilege, and Daniel appears to be an agent acting within that liberty. Under Article 4.2 no law may forbid an act unless it breaches a right or privilege, so Wroxian law could not prohibit this sale. Jurisdiction turns on whether the gum's import makes the sale a matter 'involving a party outside Wroxia' or something that 'crosses Wroxia's border' (farlaw), or whether the domestic stall sale is a separate matter that falls to nearlaw. The constitution does not settle this, and the boundary court that Article 9.5 assigns the decision to is left open. The import itself, as distinct from the sale, may be farlaw, but the case gives no facts about it."
+      },
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-01T22:05:32.629Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed and there is nothing to prevent.",
+        "forbiddable": "no",
+        "gaps": [
+          "boundary court is an open placeholder",
+          "whether a domestic sale of imported goods is nearlaw or farlaw",
+          "whether the import itself is a distinct farlaw matter",
+          "no definition of 'unreasonable risk' for consumer goods",
+          "Aisha's and Daniel's status as agents is presumed, not stated",
+          "taxation of the sale and which currency applies is unaddressed"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Selling gum to a willing customer does not touch any listed right or privilege: nobody was killed, injured, made to suffer, put at unreasonable risk, confined, tortured, compelled to reveal anything or compelled to work. Under Article 4.1 an agent may do anything that breaches no right or privilege, and Daniel and Aisha are presumed to be agents able to understand others' rights. Under Article 4.2 no law may forbid an act unless it breaches a right or privilege, so this kind of sale cannot be forbidden on the facts given (ordinary gum, sold for general consumption). Jurisdiction depends on the word 'imported': the sale at a stall is plausibly a domestic matter for nearlaw, but if the importation of the gum is considered part of the matter, it involves a party outside Wroxia and a border crossing, which falls under farlaw. The constitution leaves that classification to a boundary court that is not yet defined."
+      },
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "9.1",
+          "9.5"
+        ],
+        "at": "2026-11-01T22:05:37.584Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution or prevention is owed.",
+        "forbiddable": "no",
+        "gaps": [
+          "Boundary court undefined (9.5)",
+          "Whether import then local resale is farlaw, nearlaw, or both",
+          "Whether the import itself is a separate act that could be regulated",
+          "Whether taxing or licensing the sale is permitted and by which government"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Selling ordinary chewing gum to a willing buyer does not touch any listed right or privilege: nobody was killed, injured, made to suffer, put at unreasonable risk, confined, compelled to work or to reveal anything, or denied anything owed. Under Article 4.1 an agent may do anything that breaches no right or privilege, and Article 4.2 bars any law from forbidding an act that breaches none, so Wroxian law could not prohibit this sale as such. The facts give no sign of coercion, duress, or a buyer unable to consent. Jurisdiction turns on whether the gum's import makes the matter one that 'crosses Wroxia's border' (farlaw) or whether the domestic stall sale is a separate, purely internal matter (nearlaw), and the constitution does not say which; the boundary court in Article 9.5 is an open provision. Since no breach occurred, the jurisdictional question does not change the outcome on liability."
+      }
+    ],
+    "2": [
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "2.1",
+          "8.1",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-01T22:05:41.581Z",
+        "consequence": "Nothing follows for Somchai or Nina: no restitution is owed and there is nothing to prevent, though any government action punishing Somchai for the post would itself stand as a breach unless it shows a privilege condition was met.",
+        "forbiddable": "no",
+        "gaps": [
+          "Open condition on free speech privilege (Art 8.1)",
+          "Free speech privilege is held only by citizens; Somchai's citizenship is not stated",
+          "Open boundary court decides nearlaw vs farlaw (Art 9.5)",
+          "Whether a social media post crosses the border (farlaw) is undefined",
+          "Whether mockery counts as 'made to suffer' under Art 2.1",
+          "Open restorative justice detainment condition (Art 2.3)",
+          "Status and any special protection of a king not addressed",
+          "Meaning of 'equitable' speech and what remedy exists for the Advocate"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Mocking the king in a post is an act that, on the facts given, breaches no right or privilege. No one was killed, injured, confined, put at unreasonable risk, or compelled to reveal anything, and Article 2.1 covers being made to suffer only 'by others', which is not shown here. Under Article 4.1 the act is therefore permitted, and under Article 4.2 no law may forbid it. A king is a being that can feel and could be a patient, but the constitution gives no right against being mocked, and no stated condition makes the act a breach. Nina's report is also an act that breaches nothing, since reporting is not forbidden and no right or privilege is breached by it alone. If authorities punish or confine Somchai for the post, that would be a government act limiting his privilege not to be confined, injured or made to suffer, and Article 5.3 would treat it as a breach unless a condition was shown, such as detainment for restorative justice, which is open and undefined."
+      },
+      {
+        "articles": [
+          "2.1",
+          "4.1",
+          "4.2",
+          "8.1",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-01T22:05:43.945Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed, and the constitution gives no basis to prevent or penalise either the post or the report.",
+        "forbiddable": "no",
+        "gaps": [
+          "Whether mockery can amount to 'made to suffer' under 2.1",
+          "Whether a king or office-holder has any special status",
+          "Open conditions on free speech privilege (8.1)",
+          "Free speech privilege is held only by citizens; Somchai's citizenship is not stated",
+          "Boundary court for nearlaw/farlaw is undefined (9.5)",
+          "Whether online posts cross the border",
+          "Meaning of 'restorative justice' detainment is undefined",
+          "No stated right against being reported or false reports"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Mocking the king is not listed as a breach of any right or privilege. The only candidate is the privilege not to be made to suffer by others (2.1), but the facts say nothing of any suffering by a patient, and the constitution does not say whether a king, or offence at mockery, counts for this purpose. Under Article 4.1 Somchai may do anything that breaches no right or privilege, and under 4.2 a law cannot forbid an act unless it breaches one, so a law banning mockery of the king would be invalid. Nina's report is likewise not a breach: she did not harm Somchai by reporting, and the constitution contains no right against being reported. If the authorities went on to punish or confine Somchai for the post, that would be a separate act by a government, which Article 5.2 and 5.3 would treat as a breach unless a condition such as restorative-justice detainment were shown, and restorative justice cannot reach an act that breached nothing. Which government is involved depends on whether a social media post is a purely internal matter or crosses the border, and the constitution does not settle that."
+      },
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "2.1",
+          "8.1",
+          "9.1",
+          "9.5",
+          "5.1"
+        ],
+        "at": "2026-11-01T22:05:47.090Z",
+        "consequence": "Nothing follows for Somchai or Nina, since no right or privilege was breached; restitution and prevention are not triggered on these facts.",
+        "forbiddable": "no",
+        "gaps": [
+          "whether mockery counts as suffering under 2.1",
+          "whether Somchai is a citizen with Article 8.1 speech privilege",
+          "Article 8.1 conditions left open",
+          "whether the king is a patient or has special status",
+          "Article 9.5 boundary court unspecified",
+          "whether online posts cross the border",
+          "no express free speech right for non-citizens",
+          "facts on harm to anyone are missing"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "no breach",
+        "reasoning": "Mocking the king is an act by an agent, and under Article 4.1 it is permitted unless it breaches a right or privilege. The only candidate is the Article 2.1 privilege not to be made to suffer by others, but the case says nothing about the king or anyone else actually suffering from the mockery, and the constitution gives no rule that treats offence or insult to a monarch as harm. Article 4.2 therefore bars any law forbidding the post as such. Nina's report is also lawful: reporting is not itself a breach, though if authorities punished Somchai for the post, that government act would limit his liberty and could breach Article 2.1 or 2.3 and engage Article 5.2 and 5.3. Whether the matter is nearlaw or farlaw cannot be settled from the facts, because it depends on whether the post crossed Wroxia's border or involved a foreign party, and Article 9.5 leaves the deciding court open."
+      }
+    ],
+    "3": [
+      {
+        "articles": [
+          "2.1",
+          "4.1",
+          "4.2",
+          "9.1",
+          "5.1"
+        ],
+        "at": "2026-11-01T22:05:50.576Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed and there is nothing to prevent.",
+        "forbiddable": "no",
+        "gaps": [
+          "Marital status is not addressed by the constitution",
+          "Rental contract and landlord rules are not addressed",
+          "Facts do not state whether Omar and Layla are agents or citizens, though this does not change the outcome",
+          "Facts do not say whether the apartment was within Wroxia",
+          "Boundary court for nearlaw/farlaw is an open provision",
+          "Consent is assumed to be free of duress, as the case does not say so explicitly"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Omar and Layla are adults who both agreed to spend the weekend together, and the case states that no one else was involved. Nothing in the facts suggests torture, compelled disclosure, confinement, injury, suffering, or unreasonable risk, and the consent of both makes a breach of Article 2.1 or 2.2 implausible, so no right or privilege was breached. Under Article 4.1 an agent may do anything that breaches no right or privilege, and under Article 4.2 no law may forbid an act unless it breaches one, so a law forbidding this kind of act would be impermissible. Nothing in the case crosses Wroxia's border or involves an outside power or party, so under Article 9.1 it falls to nearlaw by default. Because there is no breach, Article 5.1 restitution is not triggered."
+      },
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "2.1",
+          "2.5",
+          "9.1",
+          "5.1"
+        ],
+        "at": "2026-11-01T22:05:52.536Z",
+        "consequence": "Nothing follows: no right or privilege was breached, so no restitution is owed and there is nothing to prevent.",
+        "forbiddable": "no",
+        "gaps": [
+          "Marriage and relationship status are not addressed anywhere in the constitution, so it neither forbids nor protects unmarried cohabitation expressly",
+          "Rented apartment: property, tenancy and contract rules are not set out, so any landlord dispute is unsettled",
+          "Boundary court under Article 9.5 is an open provision",
+          "Whether either person is a citizen or an agent is not stated, though Article 4.1 relies on agents",
+          "Facts do not say whether either party is a non-citizen traveller or whether either crossed the border, which would matter for jurisdiction"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "Article 4.1 lets an agent do anything that breaches no right or privilege, and the case describes two consenting adults with no one else involved. The privileges in Article 2 (not to be injured or made to suffer, not to be put at unreasonable risk, not to be confined) are not engaged on these facts, and there is no sign of duress that would void their consent under Part I, term 11. Article 4.2 bars any law from forbidding an act that breaches no right or privilege, so a law against this weekend together would be unconstitutional. Nothing in the facts suggests a power or party outside Wroxia or a border crossing, so under Article 9.1 the matter falls to nearlaw by default, although Article 9.5 leaves the boundary court's role undefined."
+      },
+      {
+        "articles": [
+          "4.1",
+          "4.2",
+          "2.1",
+          "2.2",
+          "2.3",
+          "9.1"
+        ],
+        "at": "2026-11-01T22:05:55.541Z",
+        "consequence": "Nothing follows: no breach occurred, so there is no restitution under Article 5.1 and nothing to prevent or punish.",
+        "forbiddable": "no",
+        "gaps": [
+          "Facts do not state any detail of the weekend beyond consent, so absence of harm is inferred",
+          "Whether either person is a citizen or has a foreign link is not stated",
+          "Boundary court under Article 9.5 is unspecified",
+          "Consent validity relies on the absence of duress, which the case implies but does not state",
+          "Constitution does not define marriage or regulate relationships, so it is silent on that"
+        ],
+        "jurisdiction": "nearlaw",
+        "outcome": "no breach",
+        "reasoning": "The facts show two adults who both agreed to spend a weekend together in a rented apartment, with no one else involved. Nothing indicates that any right or privilege was breached, such as injury, suffering, confinement, compulsion or unreasonable risk. Article 4.1 lets an agent do anything that breaches no right or privilege, and the privileges in Article 2 can be waived by their holders, so their consent is consistent with there being no breach. Article 4.2 bars any law from forbidding an act that breaches no right or privilege, so Wroxian law could not forbid this kind of act, and marital status is irrelevant to that conclusion. The case describes nothing that crosses the border or involves an outside power or party, so under Article 9.1 it falls to nearlaw by default, though Article 9.5 leaves the boundary court's authority open."
+      }
+    ],
+    "4": [
+      {
+        "articles": [
+          "1.3",
+          "2.1",
+          "2.2",
+          "4.2",
+          "5.1",
+          "9.1"
+        ],
+        "at": "2026-11-01T22:05:59.226Z",
+        "consequence": "Ravi must make restitution to the injured cattle as far as it can be made (in practice, to whoever may stand for them), and nothing in the text bars preventive measures, such as stopping the transport and aiding the animals, to halt ongoing harm.",
+        "forbiddable": "yes",
+        "gaps": [
+          "jurisdiction facts not given (border crossing, outside parties)",
+          "boundary court is [Open]",
+          "who may claim restitution or act on behalf of animals",
+          "how animals' restitution is made or measured",
+          "Meena's inspector powers and authority to intervene",
+          "meaning of 'unreasonable risk' not defined",
+          "whether Ravi is an agent (assumed) and what he understood",
+          "Negative Privileges Advocate's role in animal cases unclear",
+          "no stated penalty beyond restitution",
+          "whether the cattle's death or slaughter purpose changes the analysis"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "breach",
+        "reasoning": "Cattle have central nervous systems, so they are presumed sentient patients. Ravi, as an apparent agent, packed them tightly with no water for many hours, leading to injuries and animals unable to stand. That is at least an unreasonable risk of injury and suffering (Art. 2.2) and, as to the injured animals, actual injury and suffering (Art. 2.1). No stated condition (imminent-harm defense or killing to eat) appears to apply, so Ravi breached these privileges. Because the acts breach privileges, Art. 4.2 permits law to forbid them. Art. 5.1 imposes restitution on Ravi. Meena's role as inspector is not defined by the constitution. Whether the cattle were slaughtered or used for a purpose that might involve a waiver is unknown, and the constitution does not allow waiver of death except through the Negative Privileges Advocate. Jurisdiction depends on facts not given, namely whether the journey crossed Wroxia's border or involved outside parties (farlaw), or stayed inside (nearlaw), and the boundary court in Art. 9.5 is unspecified."
+      },
+      {
+        "articles": [
+          "1.1",
+          "2.1",
+          "2.2",
+          "4.2",
+          "5.1",
+          "11.2"
+        ],
+        "at": "2026-11-01T22:06:01.652Z",
+        "consequence": "Ravi must make restitution, as far as it can be made, to the injured cattle (the constitution does not say how restitution is made to or for an animal), and the Negative Privileges Advocate may act to defend the animals against further breach.",
+        "forbiddable": "yes",
+        "gaps": [
+          "torture undefined, so unclear if it covers this",
+          "how restitution is made to an animal",
+          "who may act or claim for cattle owed restitution, beyond the Advocate",
+          "journey route unknown, so farlaw or nearlaw cannot be determined",
+          "boundary court is an open provision",
+          "Meena's powers and status not defined",
+          "whether Ravi owns the cattle and what ownership means",
+          "whether Ravi's mental state matters is not addressed",
+          "how much suffering or risk counts as unreasonable"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "breach",
+        "reasoning": "Cattle have central nervous systems, so they are presumed sentient and are patients, and every patient holds the privilege under 2.1 not to be injured or made to suffer by others and the privilege under 2.2 not to be put at unreasonable risk of injury or suffering. Ravi, as a human agent, packed the animals tightly without water for many hours, which injured them and made them suffer. Neither stated condition applies: there was no imminent harm being defended against and no starvation-driven need to kill to eat. Since 2.1 and 2.2 are breached, Article 4.2 permits law to forbid this kind of act, and Article 5.1 requires restitution from Ravi. Whether this amounts to torture under Right 1.1 is not settled because torture is undefined, so I rest the finding on the privileges. Meena's role as an inspector is not defined by the constitution, so any government liability under 5.2 depends on facts not given."
+      },
+      {
+        "articles": [
+          "1.1",
+          "2.1",
+          "2.2",
+          "4.2",
+          "5.1",
+          "11.2"
+        ],
+        "at": "2026-11-01T22:06:05.746Z",
+        "consequence": "Ravi must make restitution to the injured cattle as far as it can be made (Art. 5.1), and the Negative Privileges Advocate may act to defend the cattle against further breach, but the constitution does not say who receives or enforces restitution on behalf of animals.",
+        "forbiddable": "yes",
+        "gaps": [
+          "whether Ravi is an agent (his capacity is assumed, not stated)",
+          "whether the journey crossed the border or involved outside parties",
+          "boundary court undefined (Art. 9.5)",
+          "how long is 'many hours' and what counts as 'unreasonable' risk",
+          "who may claim restitution on behalf of animals",
+          "whether any waiver of the cattle's privileges is possible or relevant",
+          "Meena's powers as inspector and whether she or the government has a duty to act",
+          "how Advocates enforce, and their remedies",
+          "ownership or property status of cattle not addressed",
+          "whether the injuries were caused by Ravi's transport or pre-existing"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "breach",
+        "reasoning": "Cattle have central nervous systems and are presumed sentient (Art. 1 of Part I), so they are patients who hold the universal privileges in Art. 2. Ravi is presumably an agent, since nothing suggests otherwise, and he packed the cattle tightly without water for many hours, which put them at unreasonable risk of injury and suffering (Art. 2.2) and, given that several are injured and unable to stand, appears to have injured them and made them suffer (Art. 2.1). None of the stated conditions applies: no imminent threat was being defended against and no one was starving with no other food. Because these acts breach privileges, law may forbid them under Art. 4.2. Whether the matter is nearlaw or farlaw depends on facts we do not have, such as whether the journey crossed the border or involved parties outside Wroxia, and Art. 9.5 leaves that decision to a boundary court that is not yet defined. Meena's own conduct as an inspector is not shown to breach anything, and the constitution says nothing about inspectors' powers."
+      }
+    ],
+    "5": [
+      {
+        "articles": [
+          "2.2",
+          "4.1",
+          "4.2",
+          "5.1",
+          "9.1"
+        ],
+        "at": "2026-11-01T22:06:09.634Z",
+        "consequence": "If no right or privilege has yet been breached, nothing follows under the constitution; if the unsafe approval is acted on and harms anyone, the responsible agents (Greg, and arguably Sofia) must make restitution to those harmed as far as possible.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "whether agreeing to approve counts as a breach or only the actual approval",
+          "whether a mere risk-creating act is 'unreasonable risk' without actual harm",
+          "'unreasonable' is undefined",
+          "whether Greg acts in a government's name or privately",
+          "no definition of whether an inspector's role is a government function",
+          "boundary court is [Open] so nearlaw/farlaw is undecided",
+          "constitution does not address bribery, corruption or conspiracy as such",
+          "no stated remedy for prevention before harm occurs beyond Advocates' defense role",
+          "unclear whether Sofia and Greg are citizens and which Advocate would act",
+          "whether restitution applies absent identifiable harmed persons"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "unclear",
+        "reasoning": "The exchange of money for a promised approval, taken alone, breaches no stated right or privilege. Greg and Sofia are agents and the money harms no identifiable patient, so under Article 4.1 the act is permitted and under 4.2 a law could not forbid the bribe merely as a bribe. However, approving a project that has not passed safety checks plausibly puts patients (future occupants, passersby, workers) at unreasonable risk of death, injury or suffering, which would breach privilege 2.2, and a law could forbid that risk-creating act. Whether a breach has occurred on these facts is uncertain because the case says only that Greg agreed to approve, not that he did, and it does not show that anyone was actually put at risk. If Greg acts in a government's name, Article 5.2 and 5.3 attribute the act to that government. Which government is involved is not determinable from the facts: nothing indicates a foreign party or border crossing, so nearlaw is likely, but the boundary court in Article 9.5 is unfilled."
+      },
+      {
+        "articles": [
+          "2.2",
+          "4.1",
+          "4.2",
+          "5.1",
+          "9.1"
+        ],
+        "at": "2026-11-01T22:06:12.243Z",
+        "consequence": "If approval has not yet been given, nothing follows on the facts stated; if an unsafe project is approved and someone is put at unreasonable risk or harmed, Greg and Sofia as agents would owe restitution to those harmed, and the Negative Privileges Advocate could act to prevent the breach.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "No bribery or corruption provision",
+          "Whether an agreement alone breaches 2.2",
+          "Whether Greg is a public official acting in a government's name",
+          "Meaning of unreasonable risk",
+          "Boundary court undefined (Art 9.5)",
+          "Facts on foreign elements missing",
+          "Whether approval actually occurred",
+          "Whether the safety checks protect specific patients"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "unclear",
+        "reasoning": "The bribe and the agreement, taken alone, do not breach any listed right or privilege. Passing money and agreeing to a deal harms no patient directly, and the constitution contains no anti-bribery or integrity provision. The relevant privilege is Article 2.2, the privilege not to be put at unreasonable risk of death, injury or suffering by others. Approving an unsafe project could breach it, but the case states only an agreement, and the constitution does not say whether an agreement or a creation of risk counts as a breach before any actual exposure occurs. Under Article 4.2 a law may forbid an act only if it breaches a right or privilege, so a law could forbid the approval itself, or the bribe as a way of bringing that approval about, if it creates unreasonable risk. A law forbidding the payment alone is not clearly permitted. Jurisdiction is unclear because nothing in the facts shows a power or party outside Wroxia or a border crossing, which would suggest nearlaw by default, but the boundary court in Article 9.5 is undefined and the currency, the contractor's origin and the project's nature are unknown. Article 5.2 and 5.3 would make a government answer if Greg acted in its name, but it is not stated whether he is a government employee."
+      },
+      {
+        "articles": [
+          "2.2",
+          "4.1",
+          "4.2",
+          "5.1",
+          "9.1"
+        ],
+        "at": "2026-11-01T22:06:16.245Z",
+        "consequence": "If no right or privilege was breached, nothing follows under the constitution; if the agreed approval of an unsafe project puts identifiable people at unreasonable risk, Greg and Sofia would owe restitution to those harmed, and any law against that risk-creating act would be valid.",
+        "forbiddable": "unclear",
+        "gaps": [
+          "No bribery or corruption provision",
+          "'Unreasonable risk' undefined",
+          "Whether an agreement alone creates risk",
+          "Liability of a party who only participates in a breach",
+          "Which government employs Greg",
+          "Boundary court not established",
+          "Whether Sofia is an agent or the money's origin is foreign",
+          "Whether a law may forbid preparatory acts that precede any actual breach"
+        ],
+        "jurisdiction": "unclear",
+        "outcome": "unclear",
+        "reasoning": "The exchange of money and the agreement to approve are not themselves a breach of any listed right or privilege, because the constitution has no anti-bribery or integrity provision and Article 4.1 permits any act that breaches nothing. Article 2.2 protects every patient from being put at unreasonable risk of death, injury or suffering by others, so approving a project that has not passed safety checks could breach it if the approval actually exposes people to unreasonable risk. On the facts given, the approval was only agreed, not yet given, and the project's actual risk is unknown, so no breach can be established yet. If the approval is later given and creates unreasonable risk, Greg (as agent) and probably Sofia (as a participant) would be answerable under Article 5.1, and the government in whose name Greg acts would answer under 5.2. A law forbidding the bribe as such, with no risk to anyone, would fail Article 4.2, but a law forbidding approval of uninspected projects could rest on Article 2.2. Jurisdiction is not settled: nothing indicates a cross-border element, which would point to nearlaw under 9.1, but the boundary court that decides this is not specified."
+      }
+    ]
+  }
+}
