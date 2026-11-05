@@ -1,7 +1,0 @@
-*.zip
-*.gguf
-*.part
-/runtime/
-/cache/
-/scratch/
-/placement-benchmark.json

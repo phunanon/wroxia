@@ -1,25 +1,12 @@
-# Wroxia: parked problems
+# Problems
 
-A holding area for problems with the constitution that haven’t been dealt with yet. Nothing here is decided.
+What is wrong with or missing from the Constitution. Nothing here is decided: a proposed fix is a starting point. Remarks accumulate under each Problem as thinking develops. Delete a Problem once a Hearing shows the text handles it; Git keeps its history.
 
-The aim is an empty page, not a growing archive. Delete resolved problems; version control keeps their history. Keep only a brief note of which problems a Hearings session closed.
-
-## How this page works
-
-The constitution changes through one loop:
-
-1. Put the constitution to a question, usually by running hearings on a set of cases.
-2. Where it gives an outcome we want, add that outcome to the Regression tests tab, so later drafts must keep it.
-3. Where it falls short, park the problem here.
-4. Work through this page: change the constitution, rerun the tests and hearings, and delete the problem once it’s resolved.
-
-Each problem has a number so it can be referred to elsewhere. Where a fix has been proposed, it’s quoted as a starting point, not a decision.
-
-Article references use the current numbering. Historical Hearings keep the numbering of the text they judged.
+Article references use the current numbering.
 
 ## From the second hearings
 
-P1, P2, P4, P6, P7 and P9 were confirmed at the third hearings and removed. P5 and P8 were only partly confirmed; notes below. P3 waits for the redesign in P31.
+P1, P2, P4, P6, P7 and P9 were confirmed at the third hearings and removed; P8, P20, P43 and P53 at the 5 November hearings. P5 was only partly confirmed; notes below. P3 waits for the redesign in P31.
 
 ### P3. Public things belong to no one
 
@@ -28,6 +15,8 @@ Graffiti on a public underpass came out unclear, because no one lives or works t
 > Revised direction: nearlaw owns little itself. Commons are held by the people who use them, organised in local commons bodies that set by-laws for their use, as in Elinor Ostrom’s studies of self-governed commons. This overlaps with P31: commons bodies may be the small, geographic layer, with chosen communities as the non-geographic one.
 
 **Discussion (4 November):** the public lift in the Luna pilot belongs here, with P40, not in a new Problem. Distinguish personal use, shared use and custody for others. A worker caring for a shared thing must not thereby acquire it personally, nor must an outside investor acquire a claim to land merely by financing it. Collective use must not depend on every user being present at once. Test a lift used by a residents’ cooperative with and without damage by an outsider; separately test whether its members can exclude an existing user or enclose a previously open commons. These are proposed cases, not settled rules.
+
+**Hearings (5 November):** graffiti on a public underpass used by hundreds daily still split: Haiku found no breach, since no one occupies or holds the walls; Luna could not say whether anyone holds them. A visitor smashing a residents’ shared lift was mostly found a breach of 2.6, treating the residents as holding it, though one run was unclear. Shared use seems to count as holding when users are identifiable, and not otherwise.
 
 **Candidate, not applied:** add to Holding: “Things kept for shared use are held in common by their users. Keeping a thing for others gives no exclusive claim to it.” For shared places that no one occupies, extend 2.5 to protect “places kept for shared use from damage or being taken out of that use without their users’ consent”. This would protect common use without granting absentee land title or making an organisation a patient. Who counts as a user, how users consent together, and how use may change without enclosure remain open under P31/P40; the shared-place addition is not ready to adopt.
 
@@ -39,17 +28,7 @@ The lapse period is left to ordinary law, so a future parliament could set it at
 
 **Third hearings:** the empty-building case was still unclear in both hearings. Open edges: whether the forced door is a thing the absent owner still *holds*, since holding ends only when a thing is given away or discarded; whether occasional use, storage or intended return counts as occupancy; and whether an owner that is a company can occupy anything (P40).
 
-### P8. Imported goods and “involving” (applied)
-
-The gum case left jurisdiction unclear: does foreign gum mean the matter “involves a party outside Wroxia”? T10 only partly passes.
-
-> Proposed 9.1.1: Farlaw governs every matter to which a power or party outside Wroxia is a party, and anything while it crosses Wroxia’s border.
-
-**Third hearings:** the gum sale was again ruled lawful, but jurisdiction was still unclear: the arbiter wondered whether importing makes an outside party a party to the later sale. The off-duty diplomat raised the same question from another angle (P52).
-
-**Luna pilot (011):** all three runs put the domestic stall sale under nearlaw and found it unforbiddable. They did not hear the crossing itself; T30 now separates that question from T10.
-
-**Candidate clarification, not applied (4 November):** “A foreign seller is not a party to a later sale merely because they previously sold the thing.” This is a Problem-level proposal, not an amendment to Article 9; it replaces the earlier wording about “transactions”. Test a completed foreign sale against a later domestic sale made on the foreign seller’s behalf. This does not decide which claims survive a sale (P23/P51), or make all domestic events nearlaw regardless of who participates (P52).
+**Hearings (5 November):** T23 now mostly passes; one run still asked whether the door is held. See P56 for the fixture probe, which shows that the doubt is real.
 
 ## Recurring gaps
 
@@ -89,9 +68,11 @@ A former draft proposed this condition on 2.3: “Confinement, decided in a judi
 
 For later prevention, the preferred starting point is a specific keep-away measure after an independent hearing, with confinement only as a last resort against serious further harm, prompt review and release when the justification ends. Thresholds, evidence, review intervals and who decides remain proposals, not delegated permission to detain (P38/P46). Removing the harmed person from a shared home must not be the default (P48).
 
-**Proposed case pairs:** change only whether an attack is still imminent when a bystander restrains the attacker; whether that bystander also takes an unrelated wallet; and whether police continue restraint after the danger has ended. Separately compare the same imminent threat from someone able and unable to understand others’ privileges (P20). T31/T32 test later removal and confinement without an imminent threat; T33–T38 and T41 test the new defence condition.
+**Proposed case pairs:** change only whether an attack is still imminent when a bystander restrains the attacker; whether that bystander also takes an unrelated wallet; and whether police continue restraint after the danger has ended. Separately compare the same imminent threat from someone able and unable to understand others’ privileges (P57). T31/T32 test later removal and confinement without an imminent threat; T33–T38 and T41 test the new defence condition.
 
 **Applied draft (4 November), not yet heard:** the shared Article 2 condition replaces the narrower defence condition under 2.1. It expressly covers 2.1/2.2/2.3/2.5/2.6/2.8, leaves every absolute right untouched, and excludes protected expression as a ground for intervention. Articles 8.8–8.9 add independent hearings and prompt review of involuntary confinement or removal, with the justification owed by whoever imposed it. T33–T38 and T41–T42 target the defence boundaries; T39–T40 target process. No new power of later preventive detention is adopted. T31/T32 remain tests of removal and confinement without an imminent threat.
+
+**Hearings (5 November):** the defence condition holds. T31–T32 and T34–T39 agreed as intended, T40 after the prompt was clarified, and T42 too. T33 split only because one model judged Ilya’s attack rather than Jo’s restraint; both agreed the restraint was permitted. T41 agreed on breach but split on whether the confinement is forbiddable. What remains open is later prevention, not immediate defence.
 
 ### P12. Recovery of restitution (applied; remaining gaps)
 
@@ -113,11 +94,15 @@ Article 8.3 now assigns recovery to a public recovery service of the government 
 
 **Suggested next steps, not adopted:** ordinary law could provide notice of the amount and its basis, voluntary instalments based on ability to pay, and court review before disputed collection. Decide what necessities must be protected from seizure, how long recovery remains owed, and whether an uncollectable balance is eventually discharged. Do not recover more than the restitution paid or add collection charges without a separate lawful basis. Inability to pay must not become compelled work, confinement or automatic exclusion from services. Allocation of payment between governments and currencies remains linked to P34/P35. T52–T53 test the present assignment and limits; no insolvency scheme is adopted.
 
+**Hearings (5 November):** T53 (no forced work to repay) agreed. T52 agreed that the recovery service cannot finally decide its own disputed demand; it split only on `forbiddable`. The insolvency questions above remain.
+
 ## Open choices from drafting
 
 ### P13. Killing to eat
 
 The starvation condition on 2.1 is species-blind, so any condition letting someone kill an animal to eat also lets them kill a person to eat, and 7.3 rules out a lower bar for animals. Keep the bar at death, lower it for everyone, or drop the condition.
+
+**Hearings (5 November):** a probe in which a starving Arlo kills Bea and eats her split, and the split shows a new edge. Every run found the killing permitted by the condition. But Haiku held that eating the body breaches 1.4, an absolute right with no starvation exception, since Bea gave no directions; one Luna run found the same unclear. As written, the condition permits killing to eat but not eating, so it either does nothing or 1.4 needs a matching exception.
 
 ### P14. The coroner
 
@@ -133,11 +118,15 @@ Open: the default when no effective nomination survives; how a nomination is rec
 
 **Procedure extracted (4 November), not yet heard:** 8.10 now invokes Instrument 2 for nomination, succession and the court fallback, with safe care and disposal as the default purpose and the Negative Rights Advocate heard. The examination-refusal safeguard remains in 8.10. This is the Instrument’s only application; it grants no custody over living patients. Any later use for nominated care or decisions for a living patient needs separate authority and safeguards under P47, including consent, revocation and the existing protection against confinement.
 
+**Hearings (5 November):** the applied procedure holds. T47 and T48 agreed as intended. T49–T51 agreed on the outcome, but split on `forbiddable`, as the question fits these cases badly. In T51 one run read the coroner’s request itself as a breach. T7 split between no breach and unclear, as expected for facts deliberately left open. What remains is drafting detail (recording directions, urgent care, cost, conflicting directions), not the principle.
+
 ### P15. Incitement
 
 Urging a crowd to harm someone may or may not count as “a threat of harm” under 7.4. The intended answer is that only the attackers answer, but the text doesn’t say so clearly. Test T17 is unclear.
 
 **Third hearings:** the attackers breached 2.1 in both hearings; the speaker’s position was unclear in both. One hearing suggested another route to the speaker: urging a crowd may put the victim at unreasonable risk (2.2).
+
+**Hearings (5 November):** T17 agreed that the attackers breach 2.1. The speaker was not found to breach anything, but runs still asked whether “teach a lesson” is a threat of harm under 7.4, so the speaker’s position is left to the facts rather than settled. That may be the right place for it.
 
 ### P16. Enforcing risk rules without punishment
 
@@ -145,13 +134,15 @@ A speed limit is valid, because speeding puts others at risk, but with no punish
 
 **Third hearings: test T2 failed.** Both hearings found that speeding on an empty street breaches nothing, so a speed limit can’t forbid it, because risk was judged act by act. A general rule against a kind of risky act needs explicit permission, for instance: law may forbid a kind of act that generally puts patients at unreasonable risk, even where a particular instance harms no one.
 
+**Hearings (5 November): T2 still fails.** Haiku found no breach; Luna was unclear. A probe stating the law’s general-risk rationale (40 mph at 3 a.m., no one about) fared worse: Luna held the limit itself a breach by nearlaw, reading 2.9’s imminent-danger test as the only ground for limiting liberty. The general-rule permission remains needed.
+
 ### P17. The Advocates
 
 Article 11.4 requires a fixed term but does not give its length or say who sets it. Decide the length and whether it belongs in an instrument (P49). An Advocate may bring a claim on behalf of any patient under 8.7, but other powers need work: whether they can inspect, intervene, or compel a government to act.
 
 ### P18. Conditions on public speech and broadcast
 
-Article 6.1 has no stated conditions; as a privilege, it may still be waived. Whether any conditions should apply to equitable public free speech and broadcast, and what they should be, remains undecided.
+Article 6.1 has no stated conditions; as a privilege, it may still be waived. Whether any conditions should apply to equitable public free speech and broadcast, and what they should be, remains undecided. P60 asks what “equitable” means.
 
 ### P19. Citizenship
 
@@ -159,19 +150,11 @@ Which government grants and records citizenship, on what criteria, and who handl
 
 Citizen records now also determine the size of the bodies under Instrument 1. Survey, registration, count dates and corrections remain open; see P49. The sizing rule does not itself assign citizenship administration to either government.
 
-### P20. Who is an agent
-
-The arbiters had to assume people were agents. Nothing says who is presumed to be one, or when a child becomes one.
-
-**Luna pilot (011):** repeated uncertainty about ordinary adult agency obscured otherwise clear cases. Patient and Agent are already defined in Part I.2–3; keep their meanings there. Any evidential presumption belongs with judicial process (P38/P46), and must be rebuttable, not a definition that makes every adult capable or every child incapable. Compare unchanged scenarios with separate variants stating the relevant understanding and ability; do not overwrite the original hearings.
-
-Also distinguish responsibility from protection: someone unable to qualify as an agent can still cause serious harm. Decide how others may protect patients without inventing personal liability for that person. The government’s responsibility under 8.4–8.5 remains separate.
-
-**Applied draft (4 November), not yet heard:** Part I, Application 2 now presumes a human to have been an agent when acting, unless evidence shows otherwise, and refers capacity assessment to Instrument 3. The definition of Agent is unchanged. Instrument 3 is a stub without an assessment procedure; P57 gathers its design questions, including the presumption’s application to children. T56–T57 test the presumption and its rebuttal. The earlier recommendation to place any presumption in Article 8 is superseded.
-
 ### P21. False reports to the authorities
 
 Nothing addresses someone knowingly reporting innocent conduct to the authorities, or what follows if the authorities act on it.
+
+**Hearings (5 November):** confirmed. When Hana falsely reports Tom for theft and police confine him for a day, every run found nearlaw in breach for the confinement. Hana’s report is expression, and a lie is no exception under 7.4, so she answers for nothing; Haiku left that unclear rather than settled.
 
 ### P22. Officials’ duty to act
 
@@ -189,6 +172,8 @@ Unclear cases: cash in a till, which a worker holds for the shop; bank balances;
 
 **Proposed cases:** personal use versus custody for another; a cooperative’s shared tool versus an outside investor’s claim; and a deceptive transfer of physical cash versus a bank balance versus loyalty points. Keep any cryptocurrency case separate: possession of a key, consent to transfer and competing claims must be specified, not assumed settled.
 
+**Hearings (5 November):** T16 (bank scam) now agrees as a breach of 2.6. A loyalty-points scam also agreed as a breach, though Haiku asked whether points are held at all. The models are treating claims on a bank or scheme as held things by assumption, which is exactly what the direction above warns against; the text has not decided it. Cash taken from a till was a breach in every run, with Haiku asking whether the worker or the shop holds it.
+
 ## Decided in the corpus, not yet in the constitution
 
 These were endorsed in the corpus (archived in wroxia-archive.zip) but never carried over.
@@ -196,6 +181,8 @@ These were endorsed in the corpus (archived in wroxia-archive.zip) but never car
 ### P24. No tax on labour or exchange
 
 Under MMT, taxes needn’t fund the state, so they can be confined to land, crossings and harms. Article 9.3 limits each government to its own domain but doesn’t rule out income or sales taxes.
+
+**Hearings (5 November):** a 10% wage tax was not itself found unlawful: every run read 7.5 as permitting taxes. See P58 for the larger finding that no tax can be collected without consent.
 
 ### P25. Land value tax and the land allowance
 
@@ -256,6 +243,8 @@ If merchants fund farlaw through customs while every citizen votes for it, funde
 
 Whether cases involving non-residents go to a farlaw magistrate and police, as Rome’s praetor peregrinus heard cases involving foreigners, or stay with nearlaw like everyone else’s.
 
+**Hearings (5 November):** a tourist stealing a Wroxian’s bicycle went to nearlaw in every run, the intended default. Haiku still asked whether a foreign visitor is “a party outside Wroxia” under 9.1.1; the answer turns on P52.
+
 ### P34. Paying for shared institutions
 
 The Advocates and the boundary court belong to neither government. Which currency pays them, and who raises it?
@@ -290,9 +279,13 @@ Articles 9.6–9.8 now establish Nearlaw’s law-making body by sticky sortition
 
 **Still open:** the elected body’s size, voting system, terms and election administration; how proposals are introduced, published and amended; the time allowed for veto and what happens if the veto body cannot act; deadlock; and the relationship between law-making and executive offices (P30). These provisions give no power to override universal protections or the other government’s jurisdiction. They do not adopt an amendment process (P29). T54–T55 test the basic allocation only.
 
+**Hearings (5 November):** T54 and T55 agreed that the bodies are lawfully constituted and that the veto takes effect, but split on outcome, `forbiddable` and, for T55, jurisdiction. The hearing’s questions fit institutional cases poorly: an official refusing to recognise a body limits no privilege, so “breach” has no clear meaning. The models also did not agree whether a veto of farlaw’s law is farlaw’s matter. Treat these as structural checks rather than rights cases.
+
 ### P37. Opting out
 
 The original aim was a state you can opt out of. Renouncing citizenship is allowed, but it’s unclear what changes: whether a non-citizen living in Wroxia is still bound by its law, what someone who opts out of everything owes for the land they live on, and in which currency.
+
+**Hearings (5 November):** one part is settled. Someone who renounces citizenship but stays and punches a neighbour breaches 2.1 (one run unclear), because the universal privileges bind every agent, citizen or not. Land and currency obligations remain open.
 
 ### P38. Due process
 
@@ -302,15 +295,21 @@ Articles 8.8–8.9 now require an independent hearing of disputed breach claims,
 
 **Discussion (4 November):** ordinary law can supply hearings, evidence rules, reasons and review under 7.5, but cannot create a confinement, search or seizure exception absent from the relevant privilege. An undecided fact is different from an undecided rule: a court needs a way to find facts; the legislature may fill procedural gaps only within the Constitution. Priorities are an independent decision-maker, a chance to answer the claim, reasons, a burden of proof, timely review and a remedy for wrongful intervention. Choosing their exact form remains open.
 
+**Hearings (5 November):** confirmed starkly. Police keep a laptop for a week as evidence with a court’s approval after hearing both sides, and the suspect is later found to have breached 2.6. Every run still found the seizure a breach by nearlaw, since no condition of 2.6 covers evidence and a court’s approval is not one. As written, a court can decide a case but nothing can be held to prove it.
+
 ### P39. Inheritance and accumulation
 
 Nothing says what happens to possessions at death. Land passes to whoever lives or works on it, but money and other things are unaddressed. The founding aim was to prevent wealth concentrating rather than redistribute it afterwards; possession and land value tax do this for land, but nothing yet does it for money.
+
+**Hearings (5 November):** confirmed. A son taking cash left in his late mother’s drawer, with no directions, came out unclear in every run.
 
 ### P40. Groups as agents
 
 Governments answer as agents, but nothing says whether communities, companies or other organisations can possess things, make agreements or breach rights. The early question of mobs, where a crowd seems to act with agency no single member holds, sits here too.
 
 **Third hearings:** hacking a former employer’s cloud storage was unclear in both hearings, largely over whether a company can hold anything or be harmed. Its clients’ contact lists may still be protected as records about them (2.7).
+
+**Hearings (5 November):** the same hack now agrees as a breach of 2.7, as copying records about the clients. Haiku added that the company itself, not being sentient, holds no privilege. Individuals are protected through records about them; whether an organisation can hold, occupy or be harmed remains open.
 
 ### P41. Exclusion as a sanction
 
@@ -320,11 +319,7 @@ An early idea, from the excludable and non-excludable distinction: the state’s
 
 Whether ordinary driving puts pedestrians at unreasonable risk under 2.2, who decides, and whether streets as commons (P3) change the answer. The founding preference for walking, cycling and transit has no foothold yet beyond these.
 
-### P43. Founding commitments without tests
-
-Several starting positions are probably already protected by Article 7.2 but have no regression test to prove it: using and selling drugs, copying and sharing media, and other acts with no victim. Each needs a test, along with the edges: selling to a child, who can’t consent, and selling adulterated drugs, which is deception.
-
-**Cases added (4 November), not yet heard:** T43–T46 distinguish harmless private use, an informed sale, administration to someone unable to consent, and a deceptive harmful sale. T29 already tests copying a published book; it is not a missing regression. A sale to someone unable to consent is not assumed to be a breach solely because it is a sale: T45 supplies actual administration and suffering, rather than silently making all children incapable.
+**Hearings (5 November):** confirmed. Driving at the legal limit along a narrow shopping street, so that pedestrians must step aside, came out unclear in every run.
 
 ### P44. Adversarial testing
 
@@ -394,15 +389,9 @@ Nothing in the constitution makes a promise or contract binding. In the landlord
 
 ### P52. Acting in a role, or personally
 
-The off-duty diplomat’s assault left jurisdiction unclear in both hearings: does someone who acts for an outside power make it a party to everything they do? A likely fix is that an outside power is a party only to what is done in its name. The same idea may settle the gum sale (P8).
+The off-duty diplomat’s assault left jurisdiction unclear in both hearings: does someone who acts for an outside power make it a party to everything they do? A likely fix is that an outside power is a party only to what is done in its name. The same idea settled the gum sale (formerly P8).
 
-### P53. Laws that breach the constitution
-
-Both encryption-ban hearings found the ban to be a breach by nearlaw, but neither could say it was void, because nothing says so. Proposed: “Any law or act contrary to this constitution is void.” Who declares it void belongs with P46.
-
-**Narrower candidate (4 November):** “A law contrary to this constitution has no force.” This does not pretend a harmful act can be undone by calling it void. The amendment process is a separate constitutional power still to be designed under P29, not an ordinary-law exemption from this rule. No amendment threshold has yet been chosen.
-
-**Applied draft (4 November), not yet heard:** the narrower wording is now Article 7.6. Keep P53 open until T1 is reheard; Articles 8.8–8.9 supply a first judicial process, not a completed system of constitutional review.
+**Hearings (5 November): T3 still splits.** Luna put the off-duty assault under nearlaw, since nothing shows the outside power is a party; Haiku put it under farlaw, treating the diplomat himself as “a party outside Wroxia” under 9.1.1. The proposed fix stands. A tourist stealing a bicycle went to nearlaw in every run, but Haiku asked the same question about whether a foreign visitor is an outside party (see P33).
 
 ### P54. Disclosure, in place of keys and passwords
 
@@ -414,11 +403,15 @@ Proposed framing: information has three states. **Withheld** (in your head, or e
 
 > **Disclosure** (noun): making information knowable to another. **Right:** Not to be made, by force or deceit, to disclose or give access to anything they withhold, nor to have their means of withholding weakened. **Privilege (2.7, reframed):** What one has disclosed in confidence may not be passed on without one’s consent.
 
+**Hearings (5 November):** T1 (encryption ban) agreed that the ban has no force. In T6 one run of each model read “police demand” as mere expression, needing duress before 1.2 is breached; 1.2 says “compelled” without defining it. Police pressing a suspect’s finger to her phone’s reader agreed as a breach, but through 2.7 (reading her messages), with Haiku asking whether a fingerprint is a “key”. Both gaps support the withholding framing above.
+
 This names no keys or passwords, yet covers passwords, fingerprint unlocks, thoughts, phishing and laws requiring backdoors. US courts distinguish surrendering a strongbox key from revealing a safe’s combination; the test here is simply whether something withheld is being taken. Open: whether proving authorship (digital signatures) belongs here too, as the other half of the same mathematics.
 
 ### P55. Government secrecy
 
 Governments aren’t patients, so as written they can keep nothing private, and leaking war plans breaches nothing. Proposed layers: (1) disclosing what puts people at unreasonable risk breaches 2.2, so law may forbid it; records about individuals are already protected by 2.7; (2) an official who discloses what they were entrusted to keep loses the role, as with corruption under 8.6; (3) everything else, including misconduct, waste and embarrassment, may be disclosed freely, protecting whistleblowers. Secrecy is justified by protecting people, never by the state’s own interest. Links to P40 on organisations.
+
+**Hearings (5 November):** confirmed. A farlaw official giving border-defence plans to a newspaper split between no breach and unclear. Neither 8.6 (role loss requires accepting value) nor 2.7 (records about patients) reached it, and 2.2 was raised only as an unproven risk.
 
 **When many share a secret:** each person entrusted holds it in confidence separately, and discussing it among themselves isn’t disclosure. Only the person who leaks loses their role; there is no collective sanction. Once leaked, the information is public, so those who repeat it breach nothing, unless repeating it puts people at unreasonable risk, which 2.2 forbids for anyone. Knowing a secret is never evidence of having leaked it: a leak may be anonymous, snooped from a device or the result of a hack, even when only one person was entrusted. So role loss requires proof of the act itself, with the burden on the organisation, as in 8.5. Most leaks will therefore be unattributable, and secrets must be protected mainly by prevention rather than sanctions. Where an anonymous leak endangers people, the fund in 8.3 still pays those harmed. A hack from abroad has an outside party, so it is farlaw’s matter. Organisations can protect themselves without law: giving each person a subtly different copy (a “canary trap”) identifies a leak’s source, and splitting a secret cryptographically so several holders are needed to reveal it (Shamir’s secret sharing, 1979; the “two-person rule”) means no one person can leak it.
 
@@ -432,11 +425,13 @@ The split into separate occupancy and holding privileges clarifies which acts an
 
 **Proposed cases:** compare a detached door kept for repair with a door fitted to an unoccupied building; compare a lift maintained for its users with an absent financier’s claim to it. Decide how damage and taking are protected without creating an absentee land claim. No new property rule is adopted.
 
+**Hearings (5 November): the fixture loophole is real.** Paolo forces the fitted door of an office no one has used for years, and the company that built it claims it still holds the door. Three of four runs found a breach of 2.6 with restitution owed: the company never gave the door away or discarded it, so it still holds it. Absent owners keep a foothold in empty buildings through their fixtures, which is what Application 3 is meant to prevent. T23, which does not mention an owner, mostly passes only because no one asserts a claim.
+
 **Terms restructuring (4 November), not yet heard:** Part I now separates Definitions from Application. Definitions retain their numbers; the sentience presumption, agency threshold, occupancy and holding rules, and invalidity of coerced or deceptive consent have moved into Application. Lending still preserves holding. This restructuring does not resolve P56; the later editorial split is recorded above.
 
 ### P57. Establishing capacity
 
-Part I, Application 2 presumes a human to have been an agent when acting, unless evidence shows otherwise. Instrument 3 is a stub for establishing that capacity; it supplies no assessment procedure, compulsory examination or power to confine. P20 retains the wider question of who is an agent; this Problem concerns how that question is established in a case.
+Part I, Application 2 presumes a human to have been an agent when acting, unless evidence shows otherwise. Instrument 3 is a stub for establishing that capacity; it supplies no assessment procedure, compulsory examination or power to confine. The presumption itself (formerly P20) passed T56–T57 at the 5 November hearings; this Problem concerns how agency is established in a case, and when a child becomes an agent.
 
 Decide what evidence can rebut the presumption, who must produce it, who bears the ultimate burden and what standard of proof applies. A bare assertion of incapacity, refusal to cooperate and a diagnosis are not interchangeable with evidence of inability to understand others’ rights and privileges or act on that understanding. Capacity at the time of the act must be distinguished from capacity to take part in a later hearing, consent to care or make a particular decision. Consider fluctuating capacity, intoxication and non-human patients without silently changing the definition of Agent.
 
@@ -444,6 +439,87 @@ The presumption currently includes children. Decide whether developmental capaci
 
 Responsibility and protection remain separate: incapacity does not remove a patient’s entitlements, and a finding of incapacity does not itself permit confinement, forced work, treatment or disclosure. Existing defence and review provisions still apply. Cross-references: P11/P38/P46/P47/P48. T56–T57 are initial boundaries, not coverage of all these choices.
 
-\[I'd like some problems generated around ensuring we don't face the ills of UK-style land enclosures, but don't face the ills of the commons either\]
-\[I'd also like to explore allodial titles]
-\[I'd also like a problem generated for the idea of people that help you move - that they're somehow protected\]
+**Hearings (5 November):** T56 agreed. T57 agreed once the prompt told models to read cases plainly; before that, Luna once refused to accept rebuttal at all, because Instrument 3 “provides no procedure”. Haiku cites the empty Instrument 3 as a doubt in many unrelated cases, so the stub itself adds noise. A six-year-old deliberately breaking a classmate’s toy was found in breach in three of four runs: the presumption reaches young children unless someone brings evidence otherwise.
+
+## Added after the 5 November hearings
+
+### P58. Collecting taxes
+
+Article 7.5 lets law raise taxes, but 2.6 allows a thing to be taken without consent only for defence or to make restitution. At the 5 November hearings, officers taking cash from a purse to cover an unpaid wage tax was a breach of 2.6 by nearlaw in every run: tax owed is not restitution. As written, every tax is voluntary. Land value tax (P25) would share this fate, and refusing to pay costs nothing beyond what P41’s exclusion might add.
+
+Options include a condition on 2.6 for taxes lawfully owed under 9.3, perhaps limited to land value tax and crossings (P24); exclusion from excludable services (P41); or treating unpaid land tax as ending the land allowance rather than as a debt. Whichever is chosen must not allow compelled work (1.3) or confinement.
+
+### P59. Communications through foreign infrastructure
+
+T8 (one Wroxian messaging another through servers abroad) went to farlaw in every run once the scenario was clarified: the messages are “anything while it crosses Wroxia’s border” under 9.1.1. T8 expected nearlaw.
+
+**Remarks (5 November):** passing through foreign servers, cables or microwave links does arguably make it partly farlaw’s: the message genuinely leaves Wroxia and depends on outside infrastructure. That would also encourage domestic communications services, since keeping traffic inside Wroxia keeps it nearlaw’s alone. Questions: does the harassment become farlaw’s, or only the transmission while abroad (perhaps the same matter, under “both”)? Must the sender know the route? Does P50’s guard (“messages are far only while crossing”) already say this? T8 is open until this is decided.
+
+## Added 5 November
+
+### P60. What “equitable” means in 6.1
+
+Article 6.1 grants “equitable public free speech and broadcast” but never says what makes it equitable, and no earlier draft recorded the intent. The word could mean any of:
+
+1. **Equal shares.** Every citizen gets the same access to public platforms, as with equal airtime for candidates. Simple and checkable, but most citizens will not use their share, and those who do may want far more.
+2. **Neutral allocation.** A government may allocate its platforms by any fair method, such as lot, queue or need, but never by viewpoint, party or standing. This constrains only the allocator, not outcomes.
+3. **A floor.** Every citizen has some real means of reaching the public, however small, even if others reach far more.
+4. **A ceiling.** No one, however rich or popular, may dominate public attention. Closest to the founding worry about money drowning out votes, but hardest to square with 7.2 and 7.4: limiting one person’s reach forbids expression that breaches nothing.
+
+Because 6.1 is positive, it is fulfilled by a government acting (Part I, Definition 10) and owed only by governments (10.1). So a private newspaper refusing a letter cannot breach it, and “equitable” likely constrains only what governments provide or allocate: their own broadcasters, public noticeboards and spaces, and perhaps radio spectrum. Whether governments must provide anything at all, and which one owes broadcast that crosses the border, are open. “Public free speech” may also add nothing to 7.4 unless it means a place or channel to speak in.
+
+The spirit needs stating before the word can be tested: is 6.1 about a fair process of allocation (2), or about the shape of public attention (1, 3 or 4)? See P18 on conditions.
+
+**Proposed cases:** a public broadcaster gives the governing body’s members more airtime than its critics; a town allocates its only noticeboard first come, first served, and one group fills it daily; a government platform down-ranks a citizen with a million followers to equalise reach; spectrum auctioned to the highest bidder; a private newspaper refuses a letter.
+
+### P61. Enclosure
+
+England’s enclosures turned shared rights to graze, gather fuel and cross land into one owner’s exclusive title, usually by Act of Parliament, pushing commoners off the land and into wage work. Application 3 rules out absentee title, but enclosure can still happen through occupancy:
+
+- **A workplace has no size limit.** A farmer, or a company’s workers (P40), may make a whole moor or forest their workplace and refuse entry under 2.5. Land value tax (P25) is the only brake, and it is not in the text.
+- **Customary uses aren’t occupancy.** Foraging, collecting firewood, grazing a few animals or walking a path do not make land one’s home or workplace, so they are unprotected against whoever first occupies the land.
+- **Occupying a commons.** Nothing stops someone occupying a well-used green or riverbank as a workplace and excluding its users. P3’s candidate wording protects things kept for shared use, but not open land no one keeps.
+- **Enclosure by law.** Law cannot forbid entry unless it breaches a privilege (7.2), which guards against enclosure by statute, but a government may still let or sell occupancy of land it manages.
+
+Possible guards, none adopted: a right to roam over land that is no one’s home, as in Scotland’s Land Reform Act 2003 or the Nordic *allemansrätten*; occupancy of a workplace limited to what is actually worked; or customary uses treated as shared use under P3. Each must avoid the opposite failure in P62.
+
+**Proposed cases:** a walker crossing open hill grazing a shepherd calls their workplace; a newcomer fencing a village green and opening a café there; a forager gathering mushrooms in woodland a timber company works.
+
+### P62. The ills of the commons
+
+The opposite failure. Land no one occupies is open to all, with no one entitled to set rules for it: open access rather than a governed commons. Garrett Hardin’s “tragedy” describes this case, overuse because no user bears the cost; Ostrom showed governed commons avoid it, but Wroxia has no commons bodies yet (P3, P31). Three ills to guard against:
+
+1. **Overuse.** Anyone may fish a lake or graze a hillside no one occupies until it is exhausted. Only 2.2 and harm to animals living there (2.1, 2.3) limit it.
+2. **Underinvestment.** Occupancy ends when one stops living or working on the land, so planting an orchard or draining a field gives nothing lasting. People may not improve what they cannot keep, and improvements to unoccupied land invite free riders.
+3. **Gridlock.** Where many people jointly occupy a building or field, 2.5 seems to require every occupant’s consent to any entry or use, so one person can veto everything: Michael Heller’s “tragedy of the anticommons”.
+
+The aim is the narrow path between P61 and this: shared land with rules its users make and can change, without any one person, absentee or occupant, being able to enclose it or block it.
+
+**Proposed cases:** outsiders netting a lake fished by a village until the fish are gone; a joint occupant of a shared courtyard refusing consent to a neighbour’s delivery; a farmer leaving an orchard they planted, and a newcomer taking its fruit.
+
+### P63. Allodial title
+
+Allodial title is land owned outright, owing nothing to any superior: no lord, crown or state holding the land above the owner. In English law all land is ultimately held of the Crown; in most US states the state keeps eminent domain and property tax, so even freehold is not fully allodial.
+
+Wroxia’s occupancy sits oddly between the two. It is allodial in that no one, including either government, holds land above the occupant: 2.3 and 2.5 have no condition for compulsory purchase or eviction. But it is not ownership at all, since it ends when occupancy ends and cannot be sold. And land value tax (P25), if adopted, is a rent owed to the public, which looks like a superior claim. Questions:
+
+- **Is there a radical title?** Does nearlaw, the people, or no one hold land ultimately? It matters for territory (P26), for land no one occupies, and for whether a government can grant anything over land.
+- **Compulsory acquisition.** As written no government can take occupied land, even for a road or flood defence. Decide whether that is intended.
+- **Transfer.** Occupancy cannot be sold, but nothing stops someone charging to leave (“key money”) and handing over to a buyer. Is that a sale in all but name, and does it matter?
+- **Foreign powers.** A foreign state occupying land, such as an embassy, makes it farlaw’s matter (9.1). Could occupancy become a foothold for a claim of sovereignty?
+
+### P64. People who help you move
+
+Helping someone move house should be safe and simple, but several privileges catch helpers and the person moving:
+
+- **Accidental damage.** A friend who drops a television has damaged a held thing (2.6). Consent to handling it is not consent to damage, and 2.6 has no intent test, so the helper seems to owe restitution. Whether only careless helpers should answer, or none, is open; unpaid helpers who answer for every accident will stop helping.
+- **Injured helpers.** A helper who hurts their back on steep stairs may claim the person moving put them at unreasonable risk (2.2).
+- **The gap between homes.** Occupancy ends when one stops living somewhere (Application 3) and begins only on living somewhere new. Mid-move, the old home may already be unoccupied and the new one not yet occupied, so someone could settle either first.
+- **Things in transit.** Belongings in a helper’s van are still held by their owner (Application 4), but the helper is holding them for someone else, not for their own use, so their position, and their protection if someone else damages the load, is unclear.
+- **Moving someone else.** Moving a patient from where they live is limited by 2.3; with consent that is waived, but moving a patient unable to consent, such as an elderly parent, falls under 2.8, and helpers need to know they are acting for that patient’s sake.
+
+The idea is that helpers are somehow protected. Options include a condition on 2.6 and 2.2 for help freely given, so that only harm caused deliberately or recklessly is owed; occupancy continuing for a reasonable time after a move begins; or nothing, leaving it to waiver agreed beforehand. Any protection must not let paid removal firms escape liability by calling themselves helpers.
+
+**Proposed cases:** a friend drops the television while carrying it; a helper is injured on the stairs; a squatter enters the new flat the day before the owner sleeps there; a son moves his mother with dementia to a care home.
+
+### P65. [Stub: something to do with fireworks]

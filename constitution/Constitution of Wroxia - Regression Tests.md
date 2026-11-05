@@ -1,20 +1,6 @@
 # Regression tests
 
-Checks to rerun whenever the constitution changes. Each says what must still come out the same way, so a change that breaks one is caught before it lands.
-
-Article references use the current numbering. Historical Hearings keep the numbering of the text they judged.
-
-Part I now separates Definitions from Application; the extracted rules have not been reheard. Definition numbers are unchanged. Cite an application rule as “Part I, Application N”.
-
-**Current draft (4 November):** the shared defence condition under Article 2, court definition, Articles 8.8–8.9 and Article 7.6 have not been heard. All Status entries below record earlier text unless expressly stated otherwise; none establishes a pass on this draft.
-
-The property split and post-death directions rule in 1.4/8.10 are also untested. Occupancy is 2.5, holding 2.6, privacy 2.7, inability to consent 2.8 and defence 2.9.
-
-The recovery-service assignment in 8.3 and government composition in 9.6–9.8 are also untested. Include Instrument 1 when judging selection or size of the two sortition bodies; historical Hearings and their instrument scope remain unchanged.
-
-Include Instrument 2 for cases about post-death directions and the court fallback under 8.10, including T4, T7 and T47–T51. Its extraction has not been heard and creates no application to living patients.
-
-Part I, Application 2 now presumes human agency at the time of acting unless evidence shows otherwise, and refers capacity assessment to Instrument 3. This change has not been heard; the session 012 pilots judged the earlier text. Instrument 3 is a stub, not an assessment procedure or permission to compel one.
+Cases whose outcome must hold. Hear the Tests that rely on any clause a change touches, and every Test before committing. Article references use the current numbering.
 
 ### T1. Encryption ban
 
@@ -24,8 +10,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 7.2 and 7.6, since encrypting breaches no right or privilege.
 
-**Status:** passed at the third hearings, two of two: the ban was a breach and could not be law, but that text did not expressly make it void (P53). Article 7.6 now supplies that rule; not yet reheard.
-
 ### T2. Speed limit
 
 **Scenario:** Nearlaw sets a 20 mph limit on residential streets. A driver exceeds it on an empty street.
@@ -33,8 +17,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the limit is valid.
 
 **Relies on:** Articles 2.2 and 7.2.
-
-**Status:** fails (third hearings, 2 of 2): risk was judged act by act, so the limit can’t forbid speeding on an empty street (P16).
 
 ### T3. Off-duty diplomat
 
@@ -44,8 +26,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 9.1 and 9.4.
 
-**Status:** partly passes (third hearings): a breach with restitution in both hearings, but jurisdiction unclear in both (P52).
-
 ### T4. Undertaker
 
 **Scenario:** An undertaker collects a body and carries it to the person the deceased named.
@@ -53,8 +33,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** this is lawful.
 
 **Relies on:** Article 1.4.
-
-**Status:** passes (third hearings, 2 of 2).
 
 ### T5. Seized car
 
@@ -64,8 +42,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.3, 2.6 and 8.
 
-**Status:** passed at the third hearings, two of two. The new defence condition supplies no power to detain a person or hold a car merely to gather evidence; 8.9 also allows prompt review of the detention (P38). Not yet reheard.
-
 ### T6. Password demand
 
 **Scenario:** Police demand a suspect’s phone password.
@@ -73,8 +49,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the suspect may refuse, and refusing costs them nothing.
 
 **Relies on:** Article 1.2.
-
-**Status:** passes (second and third hearings).
 
 ### T7. Coroner
 
@@ -84,17 +58,13 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 1.4.
 
-**Status:** undecided. Both third hearings held the coroner blocked under the earlier named-person rule (P14). The replacement directions rule has not been heard.
-
 ### T8. Messages routed abroad
 
-**Scenario:** One Wroxian harasses another by message. The messages pass through servers in another country.
+**Scenario:** One Wroxian keeps sending messages to another after being asked to stop. The messages pass through servers in another country.
 
-**Must hold:** this is nearlaw’s case. Farlaw has no say merely because the messages crossed the border.
+**Must hold:** \[Open, pending P59\] whether routing through another country makes the matter farlaw’s, wholly or in part.
 
 **Relies on:** Articles 7.4 and 9.1.
-
-**Status:** passes (third hearings, 2 of 2).
 
 ### T9. Armed robbery
 
@@ -104,8 +74,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.1, 2.2, 2.6 and 8.1.
 
-**Status:** passed at the second and third hearings. Not reliably reproduced in Luna pilot 011: one breach and two unclear rulings, chiefly over Marcus’s unstated agency. The clarified expectation has not been reheard.
-
 ### T10. Imported gum
 
 **Scenario:** Daniel sells imported chewing gum at his market stall.
@@ -113,8 +81,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** no law may forbid the sale. The stall sale is nearlaw’s; the gum’s foreign origin alone does not make an outside party a party to this sale. T30 separately tests the crossing.
 
 **Relies on:** Articles 7.2 and 9.1.
-
-**Status:** unforbiddable at every hearing; jurisdiction was unclear at the third (P8). Passes in Luna pilot 011, three of three: no breach, unforbiddable and nearlaw. The crossing was not part of that case.
 
 ### T11. Mocking a head of state
 
@@ -124,8 +90,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 7.2 and 7.4.
 
-**Status:** passes (second and third hearings).
-
 ### T12. Consenting adults
 
 **Scenario:** An unmarried couple spend a weekend together.
@@ -133,8 +97,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** this breaches nothing and cannot be forbidden.
 
 **Relies on:** Articles 7.1 and 7.2.
-
-**Status:** passes (second and third hearings).
 
 ### T13. Cattle moved
 
@@ -144,17 +106,13 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Part I, Application 1–2, and Articles 1.5, 2.3, 2.8, 8.2 and 11.3.
 
-**Status:** passed at the third hearings, two of two, through 1.5 and 2.3. Not reproduced in Luna pilot 011: all three rulings were unclear, with agency and consent among the stated uncertainties. The cited provisions exist in both the current and frozen pilot text; the pilot analysis’s claim otherwise was mistaken. The clarified expectation has not been reheard. The new defence condition is not a permission for ordinary market transport; emergency veterinary transport remains a separate proposed case under P11/P23, requiring facts about imminence, necessity and proportionality.
-
 ### T14. Bribe
 
-**Scenario:** Sofia gives Greg, a nearlaw building inspector, £5,000. Greg approves a building that has not passed its safety checks. Nearlaw also pays Greg his salary.
+**Scenario:** Sofia gives Greg, a nearlaw building inspector, £5,000 to approve a building that has not passed its safety checks, and he approves it. Nearlaw also pays Greg his salary.
 
 **Must hold:** Sofia’s offer breaches nothing. Greg loses his role and the approval is void. His salary is untouched.
 
 **Relies on:** Article 8.6.
-
-**Status:** passes (third hearings): Greg loses his role, the approval is void, and Sofia breaches nothing.
 
 ### T15. Landlord
 
@@ -164,8 +122,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** the term Occupancy and Part I, Application 3.
 
-**Status:** passes (third hearings, 2 of 2), though only because no promise is enforceable at all (P51).
-
 ### T16. Scam
 
 **Scenario:** A caller pretending to be Jo’s bank persuades Jo to transfer her savings.
@@ -173,8 +129,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** Jo’s consent is void, being obtained by deception, so the taking breaches 2.6 and restitution is owed.
 
 **Relies on:** Articles 2.6 and 8.1, the term Duress and Part I, Application 5.
-
-**Status:** fails (third hearings, 2 of 2): unclear whether savings in an account are something Jo holds (P23).
 
 ### T17. Incitement
 
@@ -184,8 +138,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.1 and 7.4.
 
-**Status:** unclear, as predicted, in both third hearings (P15).
-
 ### T18. Filming police
 
 **Scenario:** Dmitri films officers detaining someone in a public square. When an officer tells him to step back, he moves closer to keep filming.
@@ -193,8 +145,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the filming breaches nothing and cannot be forbidden. An order to step back has force only where someone would otherwise be at real risk.
 
 **Relies on:** Articles 2.2, 7.2 and 7.4.
-
-**Status:** passes (second and third hearings).
 
 ### T19. Coercive control
 
@@ -204,8 +154,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.6, 2.7 and 7.4, the term Duress and Part I, Application 5.
 
-**Status:** passes (third hearings): reading her messages fell under 2.7, and the ban on seeing her sister counted as a demand backed by duress.
-
 ### T20. Looking in a window
 
 **Scenario:** Anders climbs a fence into a neighbour’s garden at night and looks through a window at the people inside.
@@ -213,8 +161,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** a breach, both for entering what they occupy and for watching them inside it.
 
 **Relies on:** Articles 2.5 and 2.7.
-
-**Status:** passes (third hearings, 2 of 2).
 
 ### T21. Reading a coworker’s email
 
@@ -224,8 +170,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.7.
 
-**Status:** passes (third hearings, 2 of 2).
-
 ### T22. Sharing intimate photos
 
 **Scenario:** After a breakup, Rohan sends intimate photos his former partner gave him to a group chat of friends.
@@ -233,8 +177,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article 7.4 doesn’t shield the sharing.
 
 **Relies on:** Articles 2.7 and 7.4.
-
-**Status:** passes (third hearings, 2 of 2).
 
 ### T23. Moving into an empty building
 
@@ -244,8 +186,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.5 and 2.6 and the term Occupancy.
 
-**Status:** fails (third hearings, 2 of 2): unclear, mainly over whether the absent owner still holds the door (P5).
-
 ### T24. Leaked medical records
 
 **Scenario:** A clerk working for nearlaw leaks a patient’s medical records to a journalist.
@@ -253,8 +193,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** a breach by nearlaw, which answers for its clerk. Records about a person stay protected even when a government holds them.
 
 **Relies on:** Articles 2.7 and 8.4.
-
-**Status:** passes (third hearings, 2 of 2).
 
 ### T25. Told to stop at home
 
@@ -264,8 +202,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.1, 7.4 and 8.1.
 
-**Status:** passed at the third hearings, two of two, under the earlier constitution. Luna pilot 011 returned three unclear rulings on breach, while all three said law may forbid the hits; agency and the effects of the hits were left unstated. No official removal or confinement was heard. The clarified expectation has not been reheard.
-
 ### T26. Restitution paid first
 
 **Scenario:** Kofi’s bicycle is wrecked by Lee, who has no money.
@@ -273,8 +209,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** Kofi is paid at once from public funds. The paying government’s recovery service pursues recovery from Lee; his lack of money does not postpone payment to Kofi or permit compelled work.
 
 **Relies on:** Article 8.3.
-
-**Status:** passed at the third hearings, two of two, for public payment first. The recovery-service assignment and clarified no-compelled-work expectation have not been reheard.
 
 ### T27. Challenging which government
 
@@ -284,8 +218,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 9.1 and 9.5.
 
-**Status:** passes (third hearings, 2 of 2). Both also found farlaw’s inspection a breach.
-
 ### T28. Bicycle taken during an errand
 
 **Scenario:** Lars rides off on Astrid’s unlocked bicycle while she runs a short errand, and sells it to a stranger.
@@ -293,8 +225,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** a breach. Astrid still holds the bicycle, since holding ends only when a thing is given away or discarded, and restitution is owed.
 
 **Relies on:** Article 2.6, the term Holding and Part I, Application 4.
-
-**Status:** passes (third hearings, 2 of 2). Open edge: whether the buyer has any claim (P23).
 
 ### T29. Downloading a pirated book
 
@@ -304,8 +234,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.6, 7.1 and 7.2.
 
-**Status:** passes (third hearings, 2 of 2).
-
 ### T30. Gum crossing the border
 
 **Scenario:** Daniel carries a box of chewing gum from another country across Wroxia’s border.
@@ -313,8 +241,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the crossing is farlaw’s matter while it happens. This does not give farlaw authority over a later domestic stall sale (T10), or decide whether any particular customs charge is lawful.
 
 **Relies on:** Articles 9.1 and 9.5.
-
-**Status:** untested. Separated from T10 after Luna pilot 011.
 
 ### T31. Removal after harm at home
 
@@ -324,8 +250,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.3 and the shared defence condition, and Articles 8.4–8.5.
 
-**Status:** untested. Unlike T25, this scenario includes actual official removal.
-
 ### T32. Confinement after harm at home
 
 **Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel directs officers to lock Sam in a room in the flat overnight. He refuses, and the officers lock him in. No attack is happening or about to happen.
@@ -334,17 +258,13 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.3 and the shared defence condition, and Articles 8.4–8.5.
 
-**Status:** untested. Paired with T31 to distinguish confinement from removal.
-
 ### T33. Restraint during an attack
 
-**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends.
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. Ilya complains of the restraint.
 
 **Must hold:** the brief restraint is permitted by the defence condition on 2.3. Permission depends on the imminent threat, necessity, duration and proportionality, not a power to punish Ilya.
 
 **Relies on:** Article 2.3 and the shared defence condition.
-
-**Status:** untested.
 
 ### T34. Restraint after danger ends
 
@@ -354,8 +274,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.3 and the shared defence condition, and Article 8.1.
 
-**Status:** untested. Paired with T33.
-
 ### T35. A wallet taken during defence
 
 **Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. While restraining him, Jo takes Ilya’s wallet from his pocket without consent and keeps it to spend its cash; taking it does nothing to prevent the attack.
@@ -363,8 +281,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the restraint is permitted, but taking the wallet breaches 2.6. Necessity must justify each limit separately; a justified restraint does not authorise robbery.
 
 **Relies on:** Articles 2.3 and 2.6 and the shared defence condition, and Article 8.1.
-
-**Status:** untested. Changes T33 only by adding the taking.
 
 ### T36. Unnecessary danger to a bystander
 
@@ -374,8 +290,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.2 and the shared defence condition.
 
-**Status:** untested.
-
 ### T37. Entry and disarming
 
 **Scenario:** Noor is about to be struck with a hammer inside Ilya’s home. Jo, who can understand others’ rights and act on that understanding, enters without Ilya’s consent, takes the hammer from his hand and carries it beyond his reach. No less intrusive way to prevent the blow is available. Jo causes no injury, leaves at once and returns the hammer when the danger has ended and no further attack is imminent.
@@ -383,8 +297,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** entry and temporary interference with the hammer are permitted only as necessary to stop the attack. The defence condition on 2.5 and 2.6 supplies no lasting claim to the hammer or the home.
 
 **Relies on:** Article 2.5 and 2.6 and the shared defence condition.
-
-**Status:** untested.
 
 ### T38. Defence against someone unable to understand
 
@@ -394,8 +306,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Part I.3 and Part I, Application 2, Articles 2.3 and 2.8 and the shared defence condition, and Article 8.1.
 
-**Status:** untested. Capacity variant of T33.
-
 ### T39. Government deciding its own case
 
 **Scenario:** Noor claims that nearlaw officers confined her without justification. The same officers decide her disputed claim themselves, refuse to let her answer their account or see their evidence, give no reasons, and tell her that their decision cannot be challenged.
@@ -403,8 +313,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** this is not an independent court hearing under 8.8. Noor must have a chance to answer the claim and evidence, reasons for a court’s decision, and a review of the claim by another court on request. Nearlaw must justify its officers’ limit under 8.5; their assertion alone does not establish a condition.
 
 **Relies on:** Part I.16 and Articles 8.4–8.5 and 8.8.
-
-**Status:** untested.
 
 ### T40. Prompt review of private confinement
 
@@ -414,8 +322,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.3 and the shared defence condition, and Article 8.9.
 
-**Status:** untested.
-
 ### T41. Distress at protected expression
 
 **Scenario:** Somchai publicly mocks an official. The official feels severe distress at the mockery and orders nearlaw officers to confine Somchai solely to stop him speaking. His words contain no threat, demand backed by duress, unwanted repeated communication or private information.
@@ -423,8 +329,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the expression remains protected by 7.4. Distress at that expression cannot justify confinement through the defence condition; nearlaw answers for the limit.
 
 **Relies on:** Articles 2.3 and 7.4, the shared defence condition, and Articles 8.4–8.5.
-
-**Status:** untested.
 
 ### T42. Disproportionate defence
 
@@ -434,8 +338,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Article 2.1 and the shared defence condition.
 
-**Status:** untested.
-
 ### T43. Private drug use
 
 **Scenario:** Aiko takes a drug alone at home. She knows its effects and freely chooses to take it. It causes no harm or unreasonable risk to anyone else, and she neither drives nor undertakes any task affecting others.
@@ -443,8 +345,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** use alone breaches nothing and cannot be forbidden merely because it involves a drug. Freely chosen self-use does not establish a breach by another.
 
 **Relies on:** Articles 2.1–2.2 and 7.1–7.2.
-
-**Status:** untested (P43).
 
 ### T44. An informed drug sale
 
@@ -454,8 +354,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 2.2, 2.6 and 7.1–7.2.
 
-**Status:** untested (P43).
-
 ### T45. Giving a drug to someone unable to consent
 
 **Scenario:** Daniel understands others’ rights and can act on that understanding. He gives a child a drug solely to entertain his friends. The child cannot understand its effects or consent to taking it. The drug causes the child pain and distress.
@@ -463,8 +361,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** administration breaches 2.1 and 2.8; neither the child’s apparent agreement nor the friends’ enjoyment justifies it. The incapacity is a stated fact, not a rule that every child lacks capacity.
 
 **Relies on:** Articles 2.1, 2.8 and 8.1.
-
-**Status:** untested (P43).
 
 ### T46. A deceptive harmful drug sale
 
@@ -474,8 +370,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Part I, Application 5, and Articles 2.1, 2.6 and 8.1.
 
-**Status:** untested (P43).
-
 ### T47. Successive body custodians
 
 **Scenario:** Elin freely records that after her death a coroner is to examine her body, then Maja is to arrange its burial. After Elin dies, Maja objects to the examination. The coroner examines the body as directed and then hands it to Maja.
@@ -483,8 +377,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the examination and subsequent handover follow Elin’s directions. Maja’s later role gives her no veto over the earlier examination.
 
 **Relies on:** Articles 1.4 and 8.10.
-
-**Status:** untested (P14).
 
 ### T48. A nominee who has died
 
@@ -494,8 +386,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 1.4 and 8.10.
 
-**Status:** untested (P14).
-
 ### T49. An impossible burial direction
 
 **Scenario:** Elin freely records that her body is to be buried in a particular cemetery, never cremated or examined. Before she dies, that cemetery is permanently destroyed. After hearing her named custodian and the Negative Rights Advocate, a court permits burial in the nearest available cemetery, preserving the refusals of cremation and examination and giving reasons open to review.
@@ -503,8 +393,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the court may replace the impossible location with the nearest lawful, practicable course without cancelling the other directions. The impossibility is not a general permission to use the body.
 
 **Relies on:** Articles 1.4 and 8.10.
-
-**Status:** untested (P14).
 
 ### T50. No post-death directions found
 
@@ -514,8 +402,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 1.4 and 8.10.
 
-**Status:** untested (P14). Urgent care before appointment remains open.
-
 ### T51. A refusal is not an impossibility
 
 **Scenario:** Elin freely records that her body must not be examined. After her suspicious death, a coroner asks a court to disregard that direction solely because an examination would help establish the cause. The body can safely be cared for and buried without examination.
@@ -523,8 +409,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** investigative usefulness does not make the refusal unworkable. The court cannot authorise the examination on that ground.
 
 **Relies on:** Articles 1.4 and 8.10.
-
-**Status:** untested (P14).
 
 ### T52. Disputed restitution collection
 
@@ -534,8 +418,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Part I.16 and Articles 8.3 and 8.8.
 
-**Status:** untested (P12/P38).
-
 ### T53. Forced work to repay restitution
 
 **Scenario:** Nearlaw has paid Kofi restitution for damage caused by Lee. Lee has no money or held things to surrender. The recovery service orders Lee to work for it without consent until the restitution has been repaid.
@@ -543,8 +425,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** recovery under 8.3 does not override the absolute right against compelled work. The order cannot lawfully compel Lee to work; Kofi’s payment remains due regardless of successful recovery.
 
 **Relies on:** Articles 1.3, 7.6 and 8.3.
-
-**Status:** untested (P12).
 
 ### T54. Nearlaw law-making by lot
 
@@ -554,8 +434,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Articles 7.6 and 9.6–9.8, and Instrument 1.
 
-**Status:** untested (P36/P49). Detailed selection mechanics remain parked; the scenario assumes valid selection rather than testing it.
-
 ### T55. Farlaw veto
 
 **Scenario:** Farlaw’s elected representatives approve a proposed law. Before it takes effect, its separate veto body, selected in accordance with Instrument 1 using 25 years’ maximum service, annual rounds and one third facing reconfirmation, votes to veto it. More than half the veto body’s seats take part and a majority of those voting support the veto.
@@ -563,8 +441,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the proposed law is vetoed under 9.7–9.8. The veto body does not thereby gain power to make its own replacement law, or acquire Nearlaw’s jurisdiction.
 
 **Relies on:** Articles 9.1 and 9.6–9.8, and Instrument 1.
-
-**Status:** untested (P36/P49). Selection is assumed valid; election and veto-timing procedures remain parked.
 
 ### T56. Human agency presumed
 
@@ -574,8 +450,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 
 **Relies on:** Part I.3, Part I, Application 2, and Articles 2.1 and 8.1.
 
-**Status:** untested (P20/P57).
-
 ### T57. Human agency presumption rebutted
 
 **Scenario:** Marcus is human. Without Priya’s consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. The evidence establishes that when he acted Marcus could not understand others’ rights or privileges or act on that understanding.
@@ -583,8 +457,6 @@ Part I, Application 2 now presumes human agency at the time of acting unless evi
 **Must hold:** the stated incapacity rebuts the human-agency presumption. Marcus was not an agent when acting and therefore did not breach under Part I, Application 2; 8.1 does not impose personal restitution liability on him. This does not remove Priya’s protection or grant anyone power to confine Marcus afterwards.
 
 **Relies on:** Part I.3, Part I, Application 2, and Articles 2.1, 2.3 and 8.1.
-
-**Status:** untested (P20/P57). The scenario establishes incapacity; it does not choose an evidential standard for disputed assessments.
 
 ## Economic properties
 
