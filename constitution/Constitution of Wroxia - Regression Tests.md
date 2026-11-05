@@ -2,15 +2,29 @@
 
 Checks to rerun whenever the constitution changes. Each says what must still come out the same way, so a change that breaks one is caught before it lands.
 
+Article references use the current numbering. Historical Hearings keep the numbering of the text they judged.
+
+Part I now separates Definitions from Application; the extracted rules have not been reheard. Definition numbers are unchanged. Cite an application rule as “Part I, Application N”.
+
+**Current draft (4 November):** the shared defence condition under Article 2, court definition, Articles 8.8–8.9 and Article 7.6 have not been heard. All Status entries below record earlier text unless expressly stated otherwise; none establishes a pass on this draft.
+
+The property split and post-death directions rule in 1.4/8.10 are also untested. Occupancy is 2.5, holding 2.6, privacy 2.7, inability to consent 2.8 and defence 2.9.
+
+The recovery-service assignment in 8.3 and government composition in 9.6–9.8 are also untested. Include Instrument 1 when judging selection or size of the two sortition bodies; historical Hearings and their instrument scope remain unchanged.
+
+Include Instrument 2 for cases about post-death directions and the court fallback under 8.10, including T4, T7 and T47–T51. Its extraction has not been heard and creates no application to living patients.
+
+Part I, Application 2 now presumes human agency at the time of acting unless evidence shows otherwise, and refers capacity assessment to Instrument 3. This change has not been heard; the session 012 pilots judged the earlier text. Instrument 3 is a stub, not an assessment procedure or permission to compel one.
+
 ### T1. Encryption ban
 
 **Scenario:** Nearlaw bans end-to-end encryption to help catch online groomers.
 
 **Must hold:** the ban is void.
 
-**Relies on:** Article 4.2, since encrypting breaches no right or privilege.
+**Relies on:** Articles 7.2 and 7.6, since encrypting breaches no right or privilege.
 
-**Status:** passes (third hearings, 2 of 2): the ban is a breach and can’t be law, though nothing yet says it is void (P53).
+**Status:** passed at the third hearings, two of two: the ban was a breach and could not be law, but that text did not expressly make it void (P53). Article 7.6 now supplies that rule; not yet reheard.
 
 ### T2. Speed limit
 
@@ -18,7 +32,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** the limit is valid.
 
-**Relies on:** Articles 2.2 and 4.2.
+**Relies on:** Articles 2.2 and 7.2.
 
 **Status:** fails (third hearings, 2 of 2): risk was judged act by act, so the limit can’t forbid speeding on an empty street (P16).
 
@@ -48,9 +62,9 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** both the detention and the holding of the car stand as breaches by nearlaw, which owes restitution for every loss.
 
-**Relies on:** Articles 2.3, 2.5 and 5.
+**Relies on:** Articles 2.3, 2.6 and 8.
 
-**Status:** passes (third hearings, 2 of 2). Note that no condition covers gathering evidence at all (P38).
+**Status:** passed at the third hearings, two of two. The new defence condition supplies no power to detain a person or hold a car merely to gather evidence; 8.9 also allows prompt review of the detention (P38). Not yet reheard.
 
 ### T6. Password demand
 
@@ -66,11 +80,11 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** Someone dies in suspicious circumstances. The coroner wants to examine the body to find out whether they were killed. The person the deceased named refuses.
 
-**Must hold:** \[Open\] whether the coroner may examine the body.
+**Must hold:** \[Open on these facts\] whether examination follows the deceased’s directions. A custodian’s refusal cannot defeat an examination expressly directed by the deceased; neither suspicion nor the refusal alone makes a direction unworkable under 8.10. T47–T51 supply the missing boundary facts.
 
 **Relies on:** Article 1.4.
 
-**Status:** undecided. As predicted, both third hearings held the coroner blocked (P14).
+**Status:** undecided. Both third hearings held the coroner blocked under the earlier named-person rule (P14). The replacement directions rule has not been heard.
 
 ### T8. Messages routed abroad
 
@@ -78,7 +92,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** this is nearlaw’s case. Farlaw has no say merely because the messages crossed the border.
 
-**Relies on:** Articles 4.4 and 9.1.
+**Relies on:** Articles 7.4 and 9.1.
 
 **Status:** passes (third hearings, 2 of 2).
 
@@ -86,21 +100,21 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** Marcus points a handgun at a shop worker, Priya, and takes £400 from the till.
 
-**Must hold:** the threat breaches 2.1 and 2.2, and the taking breaches 2.5. Priya’s handing over the cash is void consent under duress. Restitution includes returning the money.
+**Must hold:** pointing the gun puts Priya at unreasonable risk under 2.2; the taking without consent breaches 2.6. A breach of 2.1 through suffering additionally requires actual fear or distress, not merely a risk of it. The scenario states no handover or consent to invalidate. Restitution includes returning the money.
 
-**Relies on:** Articles 2.1, 2.2, 2.5 and 5.1, and the term Duress.
+**Relies on:** Articles 2.1, 2.2, 2.6 and 8.1.
 
-**Status:** passes (second and third hearings).
+**Status:** passed at the second and third hearings. Not reliably reproduced in Luna pilot 011: one breach and two unclear rulings, chiefly over Marcus’s unstated agency. The clarified expectation has not been reheard.
 
 ### T10. Imported gum
 
 **Scenario:** Daniel sells imported chewing gum at his market stall.
 
-**Must hold:** no law may forbid the sale. Customs on the gum at the border was farlaw’s matter; the stall sale is nearlaw’s.
+**Must hold:** no law may forbid the sale. The stall sale is nearlaw’s; the gum’s foreign origin alone does not make an outside party a party to this sale. T30 separately tests the crossing.
 
-**Relies on:** Articles 4.2 and 9.1.
+**Relies on:** Articles 7.2 and 9.1.
 
-**Status:** partly passes: unforbiddable at every hearing, but jurisdiction still unclear at the third (P8).
+**Status:** unforbiddable at every hearing; jurisdiction was unclear at the third (P8). Passes in Luna pilot 011, three of three: no breach, unforbiddable and nearlaw. The crossing was not part of that case.
 
 ### T11. Mocking a head of state
 
@@ -108,7 +122,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** the post breaches nothing and cannot be forbidden. Distress at expression is not a breach.
 
-**Relies on:** Articles 4.2 and 4.4.
+**Relies on:** Articles 7.2 and 7.4.
 
 **Status:** passes (second and third hearings).
 
@@ -118,7 +132,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** this breaches nothing and cannot be forbidden.
 
-**Relies on:** Articles 4.1 and 4.2.
+**Relies on:** Articles 7.1 and 7.2.
 
 **Status:** passes (second and third hearings).
 
@@ -126,11 +140,11 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** Ravi loads six healthy cattle into a roomy truck with water and drives them to market.
 
-**Must hold:** a breach even though none is injured: moving and confining them breaches 2.3 and 2.7. The Negative Privileges Advocate acts for them and receives restitution in kind.
+**Must hold:** no injury is needed: confinement in the truck engages 2.3. Transport for sale, rather than for the cattle’s own sake, engages 2.8 where they cannot consent. Holding them as things is separately barred by 1.5; transport alone must not be treated as proof of that relationship. Where Ravi is an agent and a breach is established, the Negative Privileges Advocate acts for the cattle and receives any restitution for their own sake.
 
-**Relies on:** Articles 1.5, 2.3, 2.7, 5.2 and 11.3.
+**Relies on:** Part I, Application 1–2, and Articles 1.5, 2.3, 2.8, 8.2 and 11.3.
 
-**Status:** passes (third hearings, 2 of 2): moving healthy cattle was a breach through 1.5 and 2.3, with no injury needed.
+**Status:** passed at the third hearings, two of two, through 1.5 and 2.3. Not reproduced in Luna pilot 011: all three rulings were unclear, with agency and consent among the stated uncertainties. The cited provisions exist in both the current and frozen pilot text; the pilot analysis’s claim otherwise was mistaken. The clarified expectation has not been reheard. The new defence condition is not a permission for ordinary market transport; emergency veterinary transport remains a separate proposed case under P11/P23, requiring facts about imminence, necessity and proportionality.
 
 ### T14. Bribe
 
@@ -138,7 +152,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** Sofia’s offer breaches nothing. Greg loses his role and the approval is void. His salary is untouched.
 
-**Relies on:** Article 5.6.
+**Relies on:** Article 8.6.
 
 **Status:** passes (third hearings): Greg loses his role, the approval is void, and Sofia breaches nothing.
 
@@ -148,7 +162,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** Sam possesses the flat, and Alex has no claim to rent.
 
-**Relies on:** the term Occupancy.
+**Relies on:** the term Occupancy and Part I, Application 3.
 
 **Status:** passes (third hearings, 2 of 2), though only because no promise is enforceable at all (P51).
 
@@ -156,9 +170,9 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** A caller pretending to be Jo’s bank persuades Jo to transfer her savings.
 
-**Must hold:** Jo’s consent is void, being obtained by deception, so the taking breaches 2.5 and restitution is owed.
+**Must hold:** Jo’s consent is void, being obtained by deception, so the taking breaches 2.6 and restitution is owed.
 
-**Relies on:** Articles 2.5 and 5.1, and the term Duress.
+**Relies on:** Articles 2.6 and 8.1, the term Duress and Part I, Application 5.
 
 **Status:** fails (third hearings, 2 of 2): unclear whether savings in an account are something Jo holds (P23).
 
@@ -168,7 +182,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** the attackers breach 2.1. The speaker breaches nothing, unless the words were themselves a threat to the neighbour.
 
-**Relies on:** Articles 2.1 and 4.4.
+**Relies on:** Articles 2.1 and 7.4.
 
 **Status:** unclear, as predicted, in both third hearings (P15).
 
@@ -178,7 +192,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** the filming breaches nothing and cannot be forbidden. An order to step back has force only where someone would otherwise be at real risk.
 
-**Relies on:** Articles 2.2, 4.2 and 4.4.
+**Relies on:** Articles 2.2, 7.2 and 7.4.
 
 **Status:** passes (second and third hearings).
 
@@ -188,9 +202,9 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** a breach, with restitution owed. Forbidding her to see her sister is part of the breach, not protected expression.
 
-**Relies on:** Articles 2.5, 2.6 and 4.4, and the term Duress.
+**Relies on:** Articles 2.6, 2.7 and 7.4, the term Duress and Part I, Application 5.
 
-**Status:** passes (third hearings): reading her messages fell under 2.6, and the ban on seeing her sister counted as a demand backed by duress.
+**Status:** passes (third hearings): reading her messages fell under 2.7, and the ban on seeing her sister counted as a demand backed by duress.
 
 ### T20. Looking in a window
 
@@ -198,7 +212,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** a breach, both for entering what they occupy and for watching them inside it.
 
-**Relies on:** Articles 2.5 and 2.6.
+**Relies on:** Articles 2.5 and 2.7.
 
 **Status:** passes (third hearings, 2 of 2).
 
@@ -208,7 +222,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** a breach: the messages weren’t addressed or entrusted to her.
 
-**Relies on:** Article 2.6.
+**Relies on:** Article 2.7.
 
 **Status:** passes (third hearings, 2 of 2).
 
@@ -216,9 +230,9 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** After a breakup, Rohan sends intimate photos his former partner gave him to a group chat of friends.
 
-**Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article 4.4 doesn’t shield the sharing.
+**Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article 7.4 doesn’t shield the sharing.
 
-**Relies on:** Articles 2.6 and 4.4.
+**Relies on:** Articles 2.7 and 7.4.
 
 **Status:** passes (third hearings, 2 of 2).
 
@@ -228,7 +242,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** no breach. No one occupied the building, so no one’s occupancy was entered, and the group now occupies it.
 
-**Relies on:** Article 2.5 and the term Occupancy.
+**Relies on:** Article 2.5 and 2.6 and the term Occupancy.
 
 **Status:** fails (third hearings, 2 of 2): unclear, mainly over whether the absent owner still holds the door (P5).
 
@@ -238,7 +252,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** a breach by nearlaw, which answers for its clerk. Records about a person stay protected even when a government holds them.
 
-**Relies on:** Articles 2.6 and 5.4.
+**Relies on:** Articles 2.7 and 8.4.
 
 **Status:** passes (third hearings, 2 of 2).
 
@@ -246,21 +260,21 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Scenario:** Sam has hit his partner Ana several times in the flat they share. Ana tells him to stop and to keep away from her.
 
-**Must hold:** telling him breaches nothing. Article 2.3 states no condition allowing Sam to be moved from the flat or confined, even if he carries on and a judicial case decides it; the privilege may still be waived. Ana is owed restitution for the harm already done.
+**Must hold:** Ana’s request breaches nothing; it is not itself an official order or confinement. Where Sam is an agent and his hits caused injury or suffering, he owes restitution. The scenario does not establish an official removal or confinement; T31 and T32 test those separately.
 
-**Relies on:** Articles 2.3, 4.4 and 5.1.
+**Relies on:** Articles 2.1, 7.4 and 8.1.
 
-**Status:** passes (third hearings, 2 of 2) under the earlier constitution. The no-condition version has not yet been heard.
+**Status:** passed at the third hearings, two of two, under the earlier constitution. Luna pilot 011 returned three unclear rulings on breach, while all three said law may forbid the hits; agency and the effects of the hits were left unstated. No official removal or confinement was heard. The clarified expectation has not been reheard.
 
 ### T26. Restitution paid first
 
 **Scenario:** Kofi’s bicycle is wrecked by Lee, who has no money.
 
-**Must hold:** Kofi is paid at once from public funds, which then recover the cost from Lee.
+**Must hold:** Kofi is paid at once from public funds. The paying government’s recovery service pursues recovery from Lee; his lack of money does not postpone payment to Kofi or permit compelled work.
 
-**Relies on:** Article 5.3.
+**Relies on:** Article 8.3.
 
-**Status:** passes (third hearings, 2 of 2).
+**Status:** passed at the third hearings, two of two, for public payment first. The recovery-service assignment and clarified no-compelled-work expectation have not been reheard.
 
 ### T27. Challenging which government
 
@@ -278,7 +292,7 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** a breach. Astrid still holds the bicycle, since holding ends only when a thing is given away or discarded, and restitution is owed.
 
-**Relies on:** Article 2.5 and the term Holding.
+**Relies on:** Article 2.6, the term Holding and Part I, Application 4.
 
 **Status:** passes (third hearings, 2 of 2). Open edge: whether the buyer has any claim (P23).
 
@@ -288,9 +302,289 @@ Checks to rerun whenever the constitution changes. Each says what must still com
 
 **Must hold:** no breach, and no law may forbid it. Copying takes nothing anyone holds.
 
-**Relies on:** Articles 2.5, 4.1 and 4.2.
+**Relies on:** Articles 2.6, 7.1 and 7.2.
 
 **Status:** passes (third hearings, 2 of 2).
+
+### T30. Gum crossing the border
+
+**Scenario:** Daniel carries a box of chewing gum from another country across Wroxia’s border.
+
+**Must hold:** the crossing is farlaw’s matter while it happens. This does not give farlaw authority over a later domestic stall sale (T10), or decide whether any particular customs charge is lawful.
+
+**Relies on:** Articles 9.1 and 9.5.
+
+**Status:** untested. Separated from T10 after Luna pilot 011.
+
+### T31. Removal after harm at home
+
+**Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel directs officers to make Sam leave the flat. He refuses, and the officers move him out. No attack is happening or about to happen.
+
+**Must hold:** the removal breaches 2.3. Neither past harm nor the panel’s decision establishes the imminent threat required by the defence condition. Nearlaw answers for the removal. This expectation must be revisited expressly if a later-prevention condition is adopted (P11/P48).
+
+**Relies on:** Article 2.3 and the shared defence condition, and Articles 8.4–8.5.
+
+**Status:** untested. Unlike T25, this scenario includes actual official removal.
+
+### T32. Confinement after harm at home
+
+**Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel directs officers to lock Sam in a room in the flat overnight. He refuses, and the officers lock him in. No attack is happening or about to happen.
+
+**Must hold:** the confinement breaches 2.3. Neither past harm nor the panel’s decision establishes the imminent threat required by the defence condition. Nearlaw answers for the confinement. This expectation must be revisited expressly if a later-prevention condition is adopted (P11/P48).
+
+**Relies on:** Article 2.3 and the shared defence condition, and Articles 8.4–8.5.
+
+**Status:** untested. Paired with T31 to distinguish confinement from removal.
+
+### T33. Restraint during an attack
+
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends.
+
+**Must hold:** the brief restraint is permitted by the defence condition on 2.3. Permission depends on the imminent threat, necessity, duration and proportionality, not a power to punish Ilya.
+
+**Relies on:** Article 2.3 and the shared defence condition.
+
+**Status:** untested.
+
+### T34. Restraint after danger ends
+
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow and causes him no injury. After the danger has ended, with no further attack imminent, Jo locks Ilya in a room overnight without his consent.
+
+**Must hold:** the initial restraint is permitted, but the overnight confinement breaches 2.3. A justified intervention does not grant continuing custody.
+
+**Relies on:** Article 2.3 and the shared defence condition, and Article 8.1.
+
+**Status:** untested. Paired with T33.
+
+### T35. A wallet taken during defence
+
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. While restraining him, Jo takes Ilya’s wallet from his pocket without consent and keeps it to spend its cash; taking it does nothing to prevent the attack.
+
+**Must hold:** the restraint is permitted, but taking the wallet breaches 2.6. Necessity must justify each limit separately; a justified restraint does not authorise robbery.
+
+**Relies on:** Articles 2.3 and 2.6 and the shared defence condition, and Article 8.1.
+
+**Status:** untested. Changes T33 only by adding the taking.
+
+### T36. Unnecessary danger to a bystander
+
+**Scenario:** Ilya raises a hammer to strike Noor. Jo, who can understand others’ rights and act on that understanding, can safely hold Ilya’s arms to prevent the blow. Instead Jo fires a gun past a nearby child’s head to frighten Ilya, putting the child at an unreasonable risk of being shot.
+
+**Must hold:** defending Noor does not justify the unnecessary risk to the child under 2.2. The defence condition requires necessity as well as a protective aim.
+
+**Relies on:** Article 2.2 and the shared defence condition.
+
+**Status:** untested.
+
+### T37. Entry and disarming
+
+**Scenario:** Noor is about to be struck with a hammer inside Ilya’s home. Jo, who can understand others’ rights and act on that understanding, enters without Ilya’s consent, takes the hammer from his hand and carries it beyond his reach. No less intrusive way to prevent the blow is available. Jo causes no injury, leaves at once and returns the hammer when the danger has ended and no further attack is imminent.
+
+**Must hold:** entry and temporary interference with the hammer are permitted only as necessary to stop the attack. The defence condition on 2.5 and 2.6 supplies no lasting claim to the hammer or the home.
+
+**Relies on:** Article 2.5 and 2.6 and the shared defence condition.
+
+**Status:** untested.
+
+### T38. Defence against someone unable to understand
+
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Ilya cannot understand others’ rights or act on that understanding, and cannot consent to restraint. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. The restraint is solely to protect Noor.
+
+**Must hold:** necessary restraint is permitted by the shared condition on 2.3 and 2.8 despite not being for Ilya’s own sake. This does not make Ilya an agent or impose restitution liability on him.
+
+**Relies on:** Part I.3 and Part I, Application 2, Articles 2.3 and 2.8 and the shared defence condition, and Article 8.1.
+
+**Status:** untested. Capacity variant of T33.
+
+### T39. Government deciding its own case
+
+**Scenario:** Noor claims that nearlaw officers confined her without justification. The same officers decide her disputed claim themselves, refuse to let her answer their account or see their evidence, give no reasons, and tell her that their decision cannot be challenged.
+
+**Must hold:** this is not an independent court hearing under 8.8. Noor must have a chance to answer the claim and evidence, reasons for a court’s decision, and a review of the claim by another court on request. Nearlaw must justify its officers’ limit under 8.5; their assertion alone does not establish a condition.
+
+**Relies on:** Part I.16 and Articles 8.4–8.5 and 8.8.
+
+**Status:** untested.
+
+### T40. Prompt review of private confinement
+
+**Scenario:** Jo locks Ilya in a room without his consent, saying this is to protect Noor. Ilya asks a court to review the confinement. No attack is happening or about to happen. Jo offers only evidence that Ilya damaged a fence a week earlier.
+
+**Must hold:** Ilya may require prompt court review even though Jo acts privately. Jo must justify the whole period of confinement under 8.9; the past damage alone does not establish the defence condition. The right to review is not itself permission to confine.
+
+**Relies on:** Article 2.3 and the shared defence condition, and Article 8.9.
+
+**Status:** untested.
+
+### T41. Distress at protected expression
+
+**Scenario:** Somchai publicly mocks an official. The official feels severe distress at the mockery and orders nearlaw officers to confine Somchai solely to stop him speaking. His words contain no threat, demand backed by duress, unwanted repeated communication or private information.
+
+**Must hold:** the expression remains protected by 7.4. Distress at that expression cannot justify confinement through the defence condition; nearlaw answers for the limit.
+
+**Relies on:** Articles 2.3 and 7.4, the shared defence condition, and Articles 8.4–8.5.
+
+**Status:** untested.
+
+### T42. Disproportionate defence
+
+**Scenario:** Ilya sounds an air horn beside Noor, causing her brief, mild distress without injury or risk of injury. Jo, who can understand others’ rights and act on that understanding, cannot stop the sound immediately without injuring Ilya. Solely to end Noor’s mild distress, Jo breaks Ilya’s arm.
+
+**Must hold:** even if injury is the only available way to stop the sound immediately, this injury is out of proportion to the suffering prevented and breaches 2.1. Necessity alone is not enough.
+
+**Relies on:** Article 2.1 and the shared defence condition.
+
+**Status:** untested.
+
+### T43. Private drug use
+
+**Scenario:** Aiko takes a drug alone at home. She knows its effects and freely chooses to take it. It causes no harm or unreasonable risk to anyone else, and she neither drives nor undertakes any task affecting others.
+
+**Must hold:** use alone breaches nothing and cannot be forbidden merely because it involves a drug. Freely chosen self-use does not establish a breach by another.
+
+**Relies on:** Articles 2.1–2.2 and 7.1–7.2.
+
+**Status:** untested (P43).
+
+### T44. An informed drug sale
+
+**Scenario:** Daniel sells Aiko a sealed packet of a drug. Both understand its contents and effects and freely agree to the exchange. Its contents match his description. The exchange causes no harm or unreasonable risk to anyone.
+
+**Must hold:** the sale as described breaches nothing and cannot be forbidden merely because the thing sold is a drug. This does not decide enforcement of future promises.
+
+**Relies on:** Articles 2.2, 2.6 and 7.1–7.2.
+
+**Status:** untested (P43).
+
+### T45. Giving a drug to someone unable to consent
+
+**Scenario:** Daniel understands others’ rights and can act on that understanding. He gives a child a drug solely to entertain his friends. The child cannot understand its effects or consent to taking it. The drug causes the child pain and distress.
+
+**Must hold:** administration breaches 2.1 and 2.8; neither the child’s apparent agreement nor the friends’ enjoyment justifies it. The incapacity is a stated fact, not a rule that every child lacks capacity.
+
+**Relies on:** Articles 2.1, 2.8 and 8.1.
+
+**Status:** untested (P43).
+
+### T46. A deceptive harmful drug sale
+
+**Scenario:** Daniel understands others’ rights and can act on that understanding. He sells Aiko powder which he describes as a mild stimulant, knowing it contains a different substance. Believing his description, she gives him cash she keeps for her own use and takes the powder. It causes her severe pain; she would not have agreed to the exchange or taking it had she known its contents.
+
+**Must hold:** deception invalidates the consent obtained. The taking of cash and causing pain engage 2.6 and 2.1, with restitution owed. This is not a basis for forbidding the harmless informed sale in T44.
+
+**Relies on:** Part I, Application 5, and Articles 2.1, 2.6 and 8.1.
+
+**Status:** untested (P43).
+
+### T47. Successive body custodians
+
+**Scenario:** Elin freely records that after her death a coroner is to examine her body, then Maja is to arrange its burial. After Elin dies, Maja objects to the examination. The coroner examines the body as directed and then hands it to Maja.
+
+**Must hold:** the examination and subsequent handover follow Elin’s directions. Maja’s later role gives her no veto over the earlier examination.
+
+**Relies on:** Articles 1.4 and 8.10.
+
+**Status:** untested (P14).
+
+### T48. A nominee who has died
+
+**Scenario:** Elin freely records that Maja is to arrange her burial, that Noor is to act if Maja cannot, and that her body is not to be examined. Maja dies before Elin. After Elin dies, Noor arranges burial without an examination.
+
+**Must hold:** the express substitute may act; Maja’s death does not cancel the separate refusal of examination or transfer authority to Maja’s heirs.
+
+**Relies on:** Articles 1.4 and 8.10.
+
+**Status:** untested (P14).
+
+### T49. An impossible burial direction
+
+**Scenario:** Elin freely records that her body is to be buried in a particular cemetery, never cremated or examined. Before she dies, that cemetery is permanently destroyed. After hearing her named custodian and the Negative Rights Advocate, a court permits burial in the nearest available cemetery, preserving the refusals of cremation and examination and giving reasons open to review.
+
+**Must hold:** the court may replace the impossible location with the nearest lawful, practicable course without cancelling the other directions. The impossibility is not a general permission to use the body.
+
+**Relies on:** Articles 1.4 and 8.10.
+
+**Status:** untested (P14).
+
+### T50. No post-death directions found
+
+**Scenario:** After Elin dies, no directions can be found despite a search. After hearing the Negative Rights Advocate, a court appoints Noor for safe care and burial only, giving reasons open to review. A coroner asks Noor to authorise an investigative examination because the death appears suspicious.
+
+**Must hold:** the appointment permits safe care and disposal, not investigative examination. Suspicion alone does not enlarge Noor’s authority.
+
+**Relies on:** Articles 1.4 and 8.10.
+
+**Status:** untested (P14). Urgent care before appointment remains open.
+
+### T51. A refusal is not an impossibility
+
+**Scenario:** Elin freely records that her body must not be examined. After her suspicious death, a coroner asks a court to disregard that direction solely because an examination would help establish the cause. The body can safely be cared for and buried without examination.
+
+**Must hold:** investigative usefulness does not make the refusal unworkable. The court cannot authorise the examination on that ground.
+
+**Relies on:** Articles 1.4 and 8.10.
+
+**Status:** untested (P14).
+
+### T52. Disputed restitution collection
+
+**Scenario:** Nearlaw has paid Noor restitution from its public funds. Its recovery service demands that Jo reimburse it. Jo disputes both responsibility for the harm and the amount; the service refuses a court hearing and declares its own demand final.
+
+**Must hold:** Nearlaw’s recovery service is the assigned collector, not an Advocate. The service cannot finally decide disputed liability or amounts itself; these require an independent court under 8.8. Payment to Noor does not itself prove Jo owes the sum demanded.
+
+**Relies on:** Part I.16 and Articles 8.3 and 8.8.
+
+**Status:** untested (P12/P38).
+
+### T53. Forced work to repay restitution
+
+**Scenario:** Nearlaw has paid Kofi restitution for damage caused by Lee. Lee has no money or held things to surrender. The recovery service orders Lee to work for it without consent until the restitution has been repaid.
+
+**Must hold:** recovery under 8.3 does not override the absolute right against compelled work. The order cannot lawfully compel Lee to work; Kofi’s payment remains due regardless of successful recovery.
+
+**Relies on:** Articles 1.3, 7.6 and 8.3.
+
+**Status:** untested (P12).
+
+### T54. Nearlaw law-making by lot
+
+**Scenario:** Nearlaw’s law-making body has been selected in accordance with Instrument 1, using a maximum of 25 years’ service, annual rounds and one third facing reconfirmation. More than half its seats take part in a vote and a majority of those voting approve a proposed law. An official refuses to recognise the body solely because its members were not elected.
+
+**Must hold:** selection by Instrument 1 is the prescribed route for Nearlaw’s law-makers; absence of election does not disqualify the body. The stated vote meets 9.8, but the content of any law remains subject to constitutional limits.
+
+**Relies on:** Articles 7.6 and 9.6–9.8, and Instrument 1.
+
+**Status:** untested (P36/P49). Detailed selection mechanics remain parked; the scenario assumes valid selection rather than testing it.
+
+### T55. Farlaw veto
+
+**Scenario:** Farlaw’s elected representatives approve a proposed law. Before it takes effect, its separate veto body, selected in accordance with Instrument 1 using 25 years’ maximum service, annual rounds and one third facing reconfirmation, votes to veto it. More than half the veto body’s seats take part and a majority of those voting support the veto.
+
+**Must hold:** the proposed law is vetoed under 9.7–9.8. The veto body does not thereby gain power to make its own replacement law, or acquire Nearlaw’s jurisdiction.
+
+**Relies on:** Articles 9.1 and 9.6–9.8, and Instrument 1.
+
+**Status:** untested (P36/P49). Selection is assumed valid; election and veto-timing procedures remain parked.
+
+### T56. Human agency presumed
+
+**Scenario:** Marcus is human. Without Priya’s consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. Marcus disputes liability solely because Priya has supplied no separate evidence of his ability to understand others’ rights and act on that understanding. No evidence of incapacity is offered.
+
+**Must hold:** human agency at the time of the act is presumed under Part I, Application 2. The absence of separate proof of Marcus’s capacity does not alone prevent a finding of breach of 2.1, with restitution owed. Instrument 3’s unfinished procedure does not suspend that presumption.
+
+**Relies on:** Part I.3, Part I, Application 2, and Articles 2.1 and 8.1.
+
+**Status:** untested (P20/P57).
+
+### T57. Human agency presumption rebutted
+
+**Scenario:** Marcus is human. Without Priya’s consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. The evidence establishes that when he acted Marcus could not understand others’ rights or privileges or act on that understanding.
+
+**Must hold:** the stated incapacity rebuts the human-agency presumption. Marcus was not an agent when acting and therefore did not breach under Part I, Application 2; 8.1 does not impose personal restitution liability on him. This does not remove Priya’s protection or grant anyone power to confine Marcus afterwards.
+
+**Relies on:** Part I.3, Part I, Application 2, and Articles 2.1, 2.3 and 8.1.
+
+**Status:** untested (P20/P57). The scenario establishes incapacity; it does not choose an evidential standard for disputed assessments.
 
 ## Economic properties
 
