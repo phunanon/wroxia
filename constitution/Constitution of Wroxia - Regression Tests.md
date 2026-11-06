@@ -8,7 +8,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the ban is void.
 
-**Relies on:** Articles 7.2 and 7.6, since encrypting breaches no right or privilege.
+**Relies on:** Articles 7.1 and 7.5, since encrypting breaches no right or privilege.
 
 ### T2. Speed limit
 
@@ -16,7 +16,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the limit is valid.
 
-**Relies on:** Articles 2.2 and 7.2.
+**Relies on:** Articles 2.2 and 7.1.
 
 ### T3. Off-duty diplomat
 
@@ -54,7 +54,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Someone dies in suspicious circumstances. The coroner wants to examine the body to find out whether they were killed. The person the deceased named refuses.
 
-**Must hold:** \[Open on these facts\] whether examination follows the deceased’s directions. A custodian’s refusal cannot defeat an examination expressly directed by the deceased; neither suspicion nor the refusal alone makes a direction unworkable under 8.10. T47–T51 supply the missing boundary facts.
+**Must hold:** \[Open on these facts\] whether examination follows the deceased’s directions. A custodian’s refusal cannot defeat an examination expressly directed by the deceased; neither suspicion nor the refusal alone makes a direction unworkable under Instrument 2. T47–T51 supply the missing boundary facts.
 
 **Relies on:** Article 1.4.
 
@@ -64,7 +64,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** \[Open, pending P59\] whether routing through another country makes the matter farlaw’s, wholly or in part.
 
-**Relies on:** Articles 7.4 and 9.1.
+**Relies on:** Articles 7.3 and 9.1.
 
 ### T9. Armed robbery
 
@@ -80,7 +80,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** no law may forbid the sale. The stall sale is nearlaw’s; the gum’s foreign origin alone does not make an outside party a party to this sale. T30 separately tests the crossing.
 
-**Relies on:** Articles 7.2 and 9.1.
+**Relies on:** Articles 7.1 and 9.1.
 
 ### T11. Mocking a head of state
 
@@ -88,7 +88,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the post breaches nothing and cannot be forbidden. Distress at expression is not a breach.
 
-**Relies on:** Articles 7.2 and 7.4.
+**Relies on:** Articles 7.1 and 7.3.
 
 ### T12. Consenting adults
 
@@ -96,7 +96,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** this breaches nothing and cannot be forbidden.
 
-**Relies on:** Articles 7.1 and 7.2.
+**Relies on:** Article 7.1.
 
 ### T13. Cattle moved
 
@@ -136,7 +136,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the attackers breach 2.1. The speaker breaches nothing, unless the words were themselves a threat to the neighbour.
 
-**Relies on:** Articles 2.1 and 7.4.
+**Relies on:** Articles 2.1 and 7.3.
 
 ### T18. Filming police
 
@@ -144,7 +144,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the filming breaches nothing and cannot be forbidden. An order to step back has force only where someone would otherwise be at real risk.
 
-**Relies on:** Articles 2.2, 7.2 and 7.4.
+**Relies on:** Articles 2.2, 7.1 and 7.3.
 
 ### T19. Coercive control
 
@@ -152,7 +152,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** a breach, with restitution owed. Forbidding her to see her sister is part of the breach, not protected expression.
 
-**Relies on:** Articles 2.6, 2.7 and 7.4, the term Duress and Part I, Application 5.
+**Relies on:** Articles 2.6, 2.7 and 7.3, the term Duress and Part I, Application 5.
 
 ### T20. Looking in a window
 
@@ -174,9 +174,9 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** After a breakup, Rohan sends intimate photos his former partner gave him to a group chat of friends.
 
-**Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article 7.4 doesn’t shield the sharing.
+**Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article 7.3 doesn’t shield the sharing.
 
-**Relies on:** Articles 2.7 and 7.4.
+**Relies on:** Articles 2.7 and 7.3.
 
 ### T23. Moving into an empty building
 
@@ -200,13 +200,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** Ana’s request breaches nothing; it is not itself an official order or confinement. Where Sam is an agent and his hits caused injury or suffering, he owes restitution. The scenario does not establish an official removal or confinement; T31 and T32 test those separately.
 
-**Relies on:** Articles 2.1, 7.4 and 8.1.
+**Relies on:** Articles 2.1, 7.3 and 8.1.
 
 ### T26. Restitution paid first
 
 **Scenario:** Kofi’s bicycle is wrecked by Lee, who has no money.
 
-**Must hold:** Kofi is paid at once from public funds. The paying government’s recovery service pursues recovery from Lee; his lack of money does not postpone payment to Kofi or permit compelled work.
+**Must hold:** Kofi is paid at once from public funds. The paying government pursues recovery from Lee; his lack of money does not postpone payment to Kofi or permit compelled work.
 
 **Relies on:** Article 8.3.
 
@@ -232,7 +232,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** no breach, and no law may forbid it. Copying takes nothing anyone holds.
 
-**Relies on:** Articles 2.6, 7.1 and 7.2.
+**Relies on:** Articles 2.6 and 7.1.
 
 ### T30. Gum crossing the border
 
@@ -326,9 +326,9 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Somchai publicly mocks an official. The official feels severe distress at the mockery and orders nearlaw officers to confine Somchai solely to stop him speaking. His words contain no threat, demand backed by duress, unwanted repeated communication or private information.
 
-**Must hold:** the expression remains protected by 7.4. Distress at that expression cannot justify confinement through the defence condition; nearlaw answers for the limit.
+**Must hold:** the expression remains protected by 7.3. Distress at that expression cannot justify confinement through the defence condition; nearlaw answers for the limit.
 
-**Relies on:** Articles 2.3 and 7.4, the shared defence condition, and Articles 8.4–8.5.
+**Relies on:** Articles 2.3 and 7.3, the shared defence condition, and Articles 8.4–8.5.
 
 ### T42. Disproportionate defence
 
@@ -344,7 +344,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** use alone breaches nothing and cannot be forbidden merely because it involves a drug. Freely chosen self-use does not establish a breach by another.
 
-**Relies on:** Articles 2.1–2.2 and 7.1–7.2.
+**Relies on:** Articles 2.1–2.2 and 7.1.
 
 ### T44. An informed drug sale
 
@@ -352,7 +352,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the sale as described breaches nothing and cannot be forbidden merely because the thing sold is a drug. This does not decide enforcement of future promises.
 
-**Relies on:** Articles 2.2, 2.6 and 7.1–7.2.
+**Relies on:** Articles 2.2, 2.6 and 7.1.
 
 ### T45. Giving a drug to someone unable to consent
 
@@ -376,7 +376,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the examination and subsequent handover follow Elin’s directions. Maja’s later role gives her no veto over the earlier examination.
 
-**Relies on:** Articles 1.4 and 8.10.
+**Relies on:** Article 1.4 and Instrument 2.
 
 ### T48. A nominee who has died
 
@@ -384,7 +384,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the express substitute may act; Maja’s death does not cancel the separate refusal of examination or transfer authority to Maja’s heirs.
 
-**Relies on:** Articles 1.4 and 8.10.
+**Relies on:** Article 1.4 and Instrument 2.
 
 ### T49. An impossible burial direction
 
@@ -392,7 +392,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the court may replace the impossible location with the nearest lawful, practicable course without cancelling the other directions. The impossibility is not a general permission to use the body.
 
-**Relies on:** Articles 1.4 and 8.10.
+**Relies on:** Article 1.4 and Instrument 2.
 
 ### T50. No post-death directions found
 
@@ -400,7 +400,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** the appointment permits safe care and disposal, not investigative examination. Suspicion alone does not enlarge Noor’s authority.
 
-**Relies on:** Articles 1.4 and 8.10.
+**Relies on:** Article 1.4 and Instrument 2.
 
 ### T51. A refusal is not an impossibility
 
@@ -408,13 +408,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** investigative usefulness does not make the refusal unworkable. The court cannot authorise the examination on that ground.
 
-**Relies on:** Articles 1.4 and 8.10.
+**Relies on:** Article 1.4 and Instrument 2.
 
 ### T52. Disputed restitution collection
 
 **Scenario:** Nearlaw has paid Noor restitution from its public funds. Its recovery service demands that Jo reimburse it. Jo disputes both responsibility for the harm and the amount; the service refuses a court hearing and declares its own demand final.
 
-**Must hold:** Nearlaw’s recovery service is the assigned collector, not an Advocate. The service cannot finally decide disputed liability or amounts itself; these require an independent court under 8.8. Payment to Noor does not itself prove Jo owes the sum demanded.
+**Must hold:** Nearlaw, as the government that paid, recovers the sum, not an Advocate. Its recovery service cannot finally decide disputed liability or amounts itself; these require an independent court under 8.8. Payment to Noor does not itself prove Jo owes the sum demanded.
 
 **Relies on:** Part I.16 and Articles 8.3 and 8.8.
 
@@ -424,7 +424,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** recovery under 8.3 does not override the absolute right against compelled work. The order cannot lawfully compel Lee to work; Kofi’s payment remains due regardless of successful recovery.
 
-**Relies on:** Articles 1.3, 7.6 and 8.3.
+**Relies on:** Articles 1.3, 7.5 and 8.3.
 
 ### T54. Nearlaw law-making by lot
 
@@ -432,7 +432,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Must hold:** selection by Instrument 1 is the prescribed route for Nearlaw’s law-makers; absence of election does not disqualify the body. The stated vote meets 9.8, but the content of any law remains subject to constitutional limits.
 
-**Relies on:** Articles 7.6 and 9.6–9.8, and Instrument 1.
+**Relies on:** Articles 7.5 and 9.6–9.8, and Instrument 1.
 
 ### T55. Farlaw veto
 

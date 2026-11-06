@@ -42,7 +42,7 @@ Every patient has the right:
 1. To freedom from torture.
 2. Not to be compelled to reveal their thoughts, their private communications, or any key or password.
 3. Not to be compelled to work, or to take part in any public scheme of work or exchange.
-4. Not to have their body, after death, held or used except as they directed, or as a court permits under Article 8.10.
+4. Not to have their body, after death, held or used except as they directed, or under Instrument 2 (_default purpose_ safe care and disposal, _Advocate_ Negative Rights Advocate).
 5. Not to be held by anyone as a thing.
 
 ### Article 2. Universal negative privileges
@@ -66,7 +66,7 @@ Every patient has the privilege:
    - They may be shared to bring or decide a claim of breach.
 8. If unable to consent, to have nothing done to them except for their own sake. Conditions:
    - Defence under 2.9.
-9. Where a privilege permits defence, it may be limited to defend a patient from imminent death, injury or suffering, only so far and for so long as necessary, without causing harm out of proportion to what is prevented. Expression protected by Article 7.4 is no ground for such a limit.
+9. Where a privilege permits defence, it may be limited to defend a patient from imminent death, injury or suffering, only so far and for so long as necessary, without causing harm out of proportion to what is prevented. Expression protected by Article 7.3 is no ground for such a limit.
 
 ### Article 3. Universal positive rights
 
@@ -99,25 +99,23 @@ Every citizen has the privilege:
 
 ### Article 7. Liberty
 
-1. An agent may do anything that breaches no right or privilege.
-2. No law may forbid an act unless it breaches a right or privilege.
-3. A law may distinguish between patients by a trait only if it would make the same distinction between two humans who differed in that trait.
-4. Expression alone never breaches a right or privilege, except: a threat of harm to a patient; a demand backed by duress; communications kept up towards someone who has asked for them to stop; or sharing what Article 2.7 protects.
-5. Within those limits, law may build freely on this constitution: founding institutions, raising taxes and providing services.
-6. A law contrary to this constitution has no force.
+1. No law may forbid an act that breaches no right or privilege.
+2. A law may distinguish between patients by a trait only if it would make the same distinction between two humans who differed in that trait.
+3. Expression alone never breaches a right or privilege, except: a threat of harm to a patient; a demand backed by duress; communications kept up towards someone who has asked for them to stop; or sharing what Article 2.7 protects.
+4. Within those limits, law may build freely on this constitution: founding institutions, raising taxes and providing services.
+5. A law contrary to this constitution has no force.
 
 ### Article 8. Answering for harm
 
 1. An agent who breaches a right or privilege shall make restitution to those harmed, as far as it can be made.
 2. Restitution may be made in kind: restoring the harmed to safety, health and a place to live, as far as can be done, at the cost of whoever caused the harm.
-3. Restitution owed is paid to those harmed at once from public funds. The government whose funds paid recovers it from whoever caused the harm through a public recovery service. Disputed liability or amounts are decided by a court under 8.8.
+3. Restitution owed is paid to those harmed at once from public funds, and the government that paid recovers it from whoever caused the harm.
 4. Each government answers as an agent for everything done in its name.
 5. Any act done in a government’s name that limits a privilege stands as a breach, unless that government shows that one of the privilege’s conditions was met.
 6. Anyone acting in a government’s name who accepts anything of value from anyone but that government, in exchange for how they act in that role, loses the role, and whatever they did in exchange is void. Offering such a thing breaches nothing.
 7. Anyone harmed, or an Advocate on behalf of any patient, may bring a claim of breach.
 8. A disputed claim of breach is decided by a court, after each party has had a chance to answer the claim and evidence. The court gives reasons; each party may have the claim reviewed once by another court.
-9. Anyone confined or moved from where they live without their consent may require prompt review by a court. Whoever imposed it must show that a condition of Article 2.3 justified it for its whole duration.
-10. Directions for a body after death are carried out under Instrument 2 (_default purpose_ safe care and disposal, _Advocate_ Negative Rights Advocate). A refusal of examination is not itself an unworkable direction.
+9. Anyone confined or moved from where they live without their consent may require prompt review by a court, where whoever imposed it bears the burden of justifying it.
 
 ## Part V: Government
 
