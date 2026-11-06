@@ -4,7 +4,8 @@ import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 const root = resolve(import.meta.dirname, '..');
-const read = name => readFileSync(resolve(root, name), 'utf8').replaceAll("\r\n", '\n').trim();
+const read = name => readFileSync(resolve(root, name), 'utf8').replaceAll("\r\n", '\n')
+  .replace(/^(<p [^>]*>)?<img [^>]*>(<\/p>)?\n*/gm, '').trim(); // the flag is for readers, not judges
 
 export const enums = {
   outcome: ['breach', 'no breach', 'unclear'],
