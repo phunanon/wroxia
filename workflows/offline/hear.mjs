@@ -1,5 +1,6 @@
 // Hears cases with local models through llama-server. See AGENTS.md.
 import { spawn } from 'node:child_process';
+import { appendFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { parseArgs } from 'node:util';
 import { readCases, prompt, parse, schema, report, summary } from '../hearing.mjs';
@@ -16,10 +17,11 @@ const { values, positionals } = parseArgs({
     models: { type: 'string', default: Object.keys(profiles).join(',') },
     runs: { type: 'string', default: '2' },
     port: { type: 'string', default: '8087' },
+    out: { type: 'string' },
   },
 });
 if (!positionals.length) {
-  console.error(`Usage: node workflows/offline/hear.mjs [--models ${Object.keys(profiles).join(',')}] [--runs 2] <T9 | tests | cases.txt>...`);
+  console.error(`Usage: node workflows/offline/hear.mjs [--models ${Object.keys(profiles).join(',')}] [--runs 2] [--out runs.jsonl] <T9 | tests | cases.txt>...`);
   process.exit(2);
 }
 const url = `http://127.0.0.1:${values.port}`;
@@ -69,8 +71,12 @@ for (const model of models) {
   try {
     for (const c of cases) {
       for (let seed = 1; seed <= Number(values.runs); seed++) {
-        try { runs.push({ id: c.id, model, ruling: parse(await call(prompt(c.scenario), seed)) }); }
-        catch (e) { runs.push({ id: c.id, model, error: e.message }); }
+        let run;
+        try { run = { id: c.id, model, ruling: parse(await call(prompt(c.scenario), seed)) }; }
+        catch (e) { run = { id: c.id, model, error: e.message }; }
+        runs.push(run);
+        if (values.out) appendFileSync(values.out, JSON.stringify(run) + '\n');
+        console.error(`${c.id} ${model} #${seed}: ${run.ruling?.outcome ?? run.error}`);
       }
     }
   } finally {
