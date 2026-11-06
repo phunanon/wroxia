@@ -32,7 +32,6 @@ We who live in Wroxia establish this constitution so that every being able to fa
 3. Land and buildings are occupied by those who live or work there, and no one has any claim to them except by occupancy.
 4. A thing one has lent is still held. Holding ends only when the thing is given away or discarded, and no one has any claim to a thing except by holding it.
 5. A waiver, consent, direction or renunciation given under duress, or obtained by deception, is void.
-6. Letting someone into a place, or addressing or entrusting a communication or record to them, is consent to their seeing it, but not to their sharing it.
 
 ## Part II: Entitlements
 
@@ -63,7 +62,7 @@ Every patient has the privilege:
 6. Not to have things they hold taken, damaged or used without their consent. Conditions:
    - Defence under II.2.9.
    - A thing may be taken to make restitution owed under III.2.
-7. Not to be watched or recorded in a place they occupy, nor to have their communications, or records about them, read, copied or shared, without their consent. Conditions:
+7. Not to be watched or recorded in a place they occupy, nor to have their communications, or records about them, read, copied or shared, without their consent. Whoever they address or entrust one to may read and keep it, but not share it. Conditions:
    - They may be shared to bring or decide a claim of breach.
 8. If unable to consent, to have nothing done to them except for their own sake. Conditions:
    - Defence under II.2.9.

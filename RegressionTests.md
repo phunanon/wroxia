@@ -485,11 +485,11 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T61. National is only for citizens
 
-**Scenario:** Tomas, still not a citizen, is refused a slot on nearlaw’s public broadcaster under its equitable-access scheme. He then criticises nearlaw loudly in a public square, and police order him to stop.
+**Scenario:** Tomas has lived in Wroxia for years but is not a citizen. Nearlaw’s public broadcaster offers every citizen a slot under its equitable-access scheme. Tomas asks for one and is refused because he is not a citizen.
 
-**Must hold:** refusing the broadcast slot breaches nothing, as II.8.1 is held only by citizens. The order to stop is itself only expression, but a law forbidding his speech would have no force: III.1.1 and III.1.3 protect everyone.
+**Must hold:** no breach. II.8.1 is held only by citizens, and refusing Tomas limits no universal right or privilege.
 
-**Relies on:** Articles II.8.1, III.1.1 and III.1.3.
+**Relies on:** I.1.4 and Article II.8.1.
 
 ## Economic properties
 
