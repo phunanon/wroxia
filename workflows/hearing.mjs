@@ -64,9 +64,9 @@ Read the case as an ordinary reader would: named people are human, and anything 
 Decide:
 - outcome: "breach" if at least one breach of the constitution is established, "no breach" if none is, "unclear" if the text does not settle it.
 - forbiddable: may Wroxian law forbid any act described? "yes", "no" or "unclear". If the case concerns a law, judge the conduct that law regulates.
-- jurisdiction: whose matter it is under Article 9: "nearlaw", "farlaw", "both" or "unclear".
+- jurisdiction: whose matter it is under IV.2: "nearlaw", "farlaw", "both" or "unclear".
 - consequence: one sentence on what follows (restitution, prevention or nothing).
-- articles: the provisions you relied on, such as "2.3", "Part I.3", "Part I, Application 2" or "Instrument 2.1".
+- articles: the provisions you relied on, such as "II.2.3", "I.1.3", "I.2.2" or "Instrument 2.1".
 - reasoning: two to four sentences tied to the facts and the text.
 - gaps: at most three questions the text leaves open whose answer would change your decision; empty if none.
 
