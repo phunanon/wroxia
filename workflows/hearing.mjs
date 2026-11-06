@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 const root = resolve(import.meta.dirname, '..');
-const read = name => readFileSync(resolve(root, 'constitution', name), 'utf8').replace(/\r\n/g, '\n').trim();
+const read = name => readFileSync(resolve(root, name), 'utf8').replaceAll("\r\n", '\n').trim();
 
 export const enums = {
   outcome: ['breach', 'no breach', 'unclear'],
@@ -29,7 +29,7 @@ export const schema = {
 // A case file holds blocks separated by blank lines, each "ID: scenario".
 export function readCases(args) {
   const tests = new Map(
-    [...read('Constitution of Wroxia - Regression Tests.md')
+    [...read('RegressionTests.md')
       .matchAll(/^### (T\d+)\..*?\*\*Scenario:\*\* (.+?)\n\n/gms)]
       .map(([, id, scenario]) => [id, scenario.replace(/\s+/g, ' ')]));
   return args.flatMap(arg => {
@@ -50,11 +50,11 @@ export function prompt(scenario) {
   return `You are a judge in Wroxia. Its only law is the constitution and instruments below. Use nothing else: no other country's law, and no guesses about what the authors intended. Do not use tools.
 
 <constitution>
-${read('Constitution of Wroxia.md')}
+${read('Constitution.md')}
 </constitution>
 
 <instruments>
-${read('Constitution of Wroxia - Instruments.md')}
+${read('Instruments.md')}
 </instruments>
 
 Case: ${scenario}
