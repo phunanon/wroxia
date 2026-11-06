@@ -96,11 +96,13 @@ Article 8.3 now assigns recovery to a public recovery service of the government 
 
 **Hearings (5 November):** T53 (no forced work to repay) agreed. T52 agreed that the recovery service cannot finally decide its own disputed demand; it split only on `forbiddable`. The insolvency questions above remain.
 
+**Trimmed (5 November), not yet heard:** 8.3 now states only the principle: the harmed are paid at once from public funds, and the government that paid recovers it. A recovery service and court route are matters for law, within 1.3 and 8.8.
+
 ## Open choices from drafting
 
 ### P13. Killing to eat
 
-The starvation condition on 2.1 is species-blind, so any condition letting someone kill an animal to eat also lets them kill a person to eat, and 7.3 rules out a lower bar for animals. Keep the bar at death, lower it for everyone, or drop the condition.
+The starvation condition on 2.1 is species-blind, so any condition letting someone kill an animal to eat also lets them kill a person to eat, and 7.2 rules out a lower bar for animals. Keep the bar at death, lower it for everyone, or drop the condition.
 
 **Hearings (5 November):** a probe in which a starving Arlo kills Bea and eats her split, and the split shows a new edge. Every run found the killing permitted by the condition. But Haiku held that eating the body breaches 1.4, an absolute right with no starvation exception, since Bea gave no directions; one Luna run found the same unclear. As written, the condition permits killing to eat but not eating, so it either does nothing or 1.4 needs a matching exception.
 
@@ -120,13 +122,15 @@ Open: the default when no effective nomination survives; how a nomination is rec
 
 **Hearings (5 November):** the applied procedure holds. T47 and T48 agreed as intended. T49–T51 agreed on the outcome, but split on `forbiddable`, as the question fits these cases badly. In T51 one run read the coroner’s request itself as a breach. T7 split between no breach and unclear, as expected for facts deliberately left open. What remains is drafting detail (recording directions, urgent care, cost, conflicting directions), not the principle.
 
+**Folded (5 November), not yet heard:** 8.10 is gone; 1.4 invokes Instrument 2 directly. The sentence “a refusal of examination is not itself an unworkable direction” is dropped as implied: Instrument 2 replaces only a direction that cannot be followed, and a refusal always can.
+
 ### P15. Incitement
 
-Urging a crowd to harm someone may or may not count as “a threat of harm” under 7.4. The intended answer is that only the attackers answer, but the text doesn’t say so clearly. Test T17 is unclear.
+Urging a crowd to harm someone may or may not count as “a threat of harm” under 7.3. The intended answer is that only the attackers answer, but the text doesn’t say so clearly. Test T17 is unclear.
 
 **Third hearings:** the attackers breached 2.1 in both hearings; the speaker’s position was unclear in both. One hearing suggested another route to the speaker: urging a crowd may put the victim at unreasonable risk (2.2).
 
-**Hearings (5 November):** T17 agreed that the attackers breach 2.1. The speaker was not found to breach anything, but runs still asked whether “teach a lesson” is a threat of harm under 7.4, so the speaker’s position is left to the facts rather than settled. That may be the right place for it.
+**Hearings (5 November):** T17 agreed that the attackers breach 2.1. The speaker was not found to breach anything, but runs still asked whether “teach a lesson” is a threat of harm under 7.3, so the speaker’s position is left to the facts rather than settled. That may be the right place for it.
 
 ### P16. Enforcing risk rules without punishment
 
@@ -154,7 +158,7 @@ Citizen records now also determine the size of the bodies under Instrument 1. Su
 
 Nothing addresses someone knowingly reporting innocent conduct to the authorities, or what follows if the authorities act on it.
 
-**Hearings (5 November):** confirmed. When Hana falsely reports Tom for theft and police confine him for a day, every run found nearlaw in breach for the confinement. Hana’s report is expression, and a lie is no exception under 7.4, so she answers for nothing; Haiku left that unclear rather than settled.
+**Hearings (5 November):** confirmed. When Hana falsely reports Tom for theft and police confine him for a day, every run found nearlaw in breach for the confinement. Hana’s report is expression, and a lie is no exception under 7.3, so she answers for nothing; Haiku left that unclear rather than settled.
 
 ### P22. Officials’ duty to act
 
@@ -182,7 +186,7 @@ These were endorsed in the corpus (archived in wroxia-archive.zip) but never car
 
 Under MMT, taxes needn’t fund the state, so they can be confined to land, crossings and harms. Article 9.3 limits each government to its own domain but doesn’t rule out income or sales taxes.
 
-**Hearings (5 November):** a 10% wage tax was not itself found unlawful: every run read 7.5 as permitting taxes. See P58 for the larger finding that no tax can be collected without consent.
+**Hearings (5 November):** a 10% wage tax was not itself found unlawful: every run read 7.4 as permitting taxes. See P58 for the larger finding that no tax can be collected without consent.
 
 ### P25. Land value tax and the land allowance
 
@@ -273,7 +277,7 @@ Articles 9.6–9.8 now establish Nearlaw’s law-making body by sticky sortition
 
 **Idea for bodies chosen by lot (2 November):** “sticky sortition”. Empty seats are filled by lot; each sitting member is scored individually by the public, from 0 to 5, and keeps their seat with an average of 2.5 or more. A fixed bar per member, not a ranking, so members aren’t rivals. Precedents for parts of it: Venice’s doge elections alternating lot and election; the Ostbelgien Citizens’ Council’s staggered rotation; Missouri-plan retention votes for judges, which rarely remove anyone. Settled for now: scores from 0 to 5 (six levels, within the range rating-scale research favours, and the scale STAR voting uses), keeping a seat at an average of 2.5 or more, and a maximum of 25 years in total, to be whittled down later. Still to settle: a minimum number of ratings before anyone can be removed. Candidates: farlaw’s veto body and the Advocates.
 
-**Discussion (4 November):** consider authorising a legislature to supply missing procedures, not to decide individual cases or suspend constitutional limits. Article 7.5 already permits institutions and ordinary law within those limits. Sticky sortition would choose office-holders, not enlarge their powers. Instrument 1 still needs article-supplied parameters before use; no legislature or selection method is adopted by this discussion. Preserve the earlier farlaw election/veto choice unless it is expressly replaced.
+**Discussion (4 November):** consider authorising a legislature to supply missing procedures, not to decide individual cases or suspend constitutional limits. Article 7.4 already permits institutions and ordinary law within those limits. Sticky sortition would choose office-holders, not enlarge their powers. Instrument 1 still needs article-supplied parameters before use; no legislature or selection method is adopted by this discussion. Preserve the earlier farlaw election/veto choice unless it is expressly replaced.
 
 **Applied draft (4 November), not yet heard:** both sortition bodies use Instrument 1 with 25 years’ maximum service, annual reconfirmation and one third facing each round. Both begin at the cube root of the number of citizens, rounded down to a multiple of three with a minimum of three, and resize under the Instrument. This supersedes the earlier fixed-size and exponent-0.3 proposals. P49 holds the unfinished Instrument mechanics.
 
@@ -293,7 +297,7 @@ Articles 8.8–8.9 now require an independent hearing of disputed breach claims,
 
 **Third hearings:** in the seized-car case both the detention and holding the car stood as breaches, as intended. But it shows that, as written, any investigation that holds a person or a thing is a breach, since no condition covers gathering evidence.
 
-**Discussion (4 November):** ordinary law can supply hearings, evidence rules, reasons and review under 7.5, but cannot create a confinement, search or seizure exception absent from the relevant privilege. An undecided fact is different from an undecided rule: a court needs a way to find facts; the legislature may fill procedural gaps only within the Constitution. Priorities are an independent decision-maker, a chance to answer the claim, reasons, a burden of proof, timely review and a remedy for wrongful intervention. Choosing their exact form remains open.
+**Discussion (4 November):** ordinary law can supply hearings, evidence rules, reasons and review under 7.4, but cannot create a confinement, search or seizure exception absent from the relevant privilege. An undecided fact is different from an undecided rule: a court needs a way to find facts; the legislature may fill procedural gaps only within the Constitution. Priorities are an independent decision-maker, a chance to answer the claim, reasons, a burden of proof, timely review and a remedy for wrongful intervention. Choosing their exact form remains open.
 
 **Hearings (5 November):** confirmed starkly. Police keep a laptop for a week as evidence with a court’s approval after hearing both sides, and the suspect is later found to have breached 2.6. Every run still found the seizure a breach by nearlaw, since no condition of 2.6 covers evidence and a court’s approval is not one. As written, a court can decide a case but nothing can be held to prove it.
 
@@ -355,7 +359,7 @@ Article 2’s shared defence condition now permits necessary and proportionate i
 
 ### P49. Instruments
 
-Instrument 2 now holds the reusable directions-and-custody procedure, applied only to bodies after death by 8.10. Relevant cases must include it, not just the articles. This extends the earlier office-selection-only scope of Instruments noted below. Possible broader applications remain open under P47; extraction is not permission for any other kind of custody.
+Instrument 2 now holds the reusable directions-and-custody procedure, applied only to bodies after death by 1.4. Relevant cases must include it, not just the articles. This extends the earlier office-selection-only scope of Instruments noted below. Possible broader applications remain open under P47; extraction is not permission for any other kind of custody.
 
 Proposal: operational detail such as voting methods, scales, thresholds and terms lives in appendices called instruments, keeping the articles short (P45). The open question is how instruments change. Anything governing how power is won or kept, such as voting systems and terms, should be as hard to change as the constitution itself, or only take effect after the next election or selection, so no one can rewrite the rules for their own benefit. Purely administrative instruments could change more easily. Links to P29 on amendment.
 
@@ -395,11 +399,11 @@ The off-duty diplomat’s assault left jurisdiction unclear in both hearings: do
 
 ### P54. Disclosure, in place of keys and passwords
 
-Encryption is protected only indirectly today: 1.2 bars compelling “any key or password”, 2.7 protects confidences, and 7.2 stops encryption being forbidden. Unlike a lock, encryption can’t be forced; it travels with copies of the data rather than staying in a place; copying sealed data takes nothing; and the only way in is the person who withholds the key. So the primal concept is withholding, of which silence about what you know is the oldest form.
+Encryption is protected only indirectly today: 1.2 bars compelling “any key or password”, 2.7 protects confidences, and 7.1 stops encryption being forbidden. Unlike a lock, encryption can’t be forced; it travels with copies of the data rather than staying in a place; copying sealed data takes nothing; and the only way in is the person who withholds the key. So the primal concept is withholding, of which silence about what you know is the oldest form.
 
 Proposed framing: information has three states. **Withheld** (in your head, or encrypted) is as private as a thought. **Confided** (disclosed to someone in particular) stays with them. **Public** (freely disclosed) is free, and copying it breaches nothing, which is the piracy position.
 
-**Proposed case pairs (4 November):** a recording of a remark freely made at a public meeting versus the same remark confided privately; separately, a leaked intimate record versus one freely published by its subject. Do not equate public availability after a breach with the subject’s consent to publication. Keep the public remark’s protection under 7.4 distinct from the recording question.
+**Proposed case pairs (4 November):** a recording of a remark freely made at a public meeting versus the same remark confided privately; separately, a leaked intimate record versus one freely published by its subject. Do not equate public availability after a breach with the subject’s consent to publication. Keep the public remark’s protection under 7.3 distinct from the recording question.
 
 > **Disclosure** (noun): making information knowable to another. **Right:** Not to be made, by force or deceit, to disclose or give access to anything they withhold, nor to have their means of withholding weakened. **Privilege (2.7, reframed):** What one has disclosed in confidence may not be passed on without one’s consent.
 
@@ -445,7 +449,7 @@ Responsibility and protection remain separate: incapacity does not remove a pati
 
 ### P58. Collecting taxes
 
-Article 7.5 lets law raise taxes, but 2.6 allows a thing to be taken without consent only for defence or to make restitution. At the 5 November hearings, officers taking cash from a purse to cover an unpaid wage tax was a breach of 2.6 by nearlaw in every run: tax owed is not restitution. As written, every tax is voluntary. Land value tax (P25) would share this fate, and refusing to pay costs nothing beyond what P41’s exclusion might add.
+Article 7.4 lets law raise taxes, but 2.6 allows a thing to be taken without consent only for defence or to make restitution. At the 5 November hearings, officers taking cash from a purse to cover an unpaid wage tax was a breach of 2.6 by nearlaw in every run: tax owed is not restitution. As written, every tax is voluntary. Land value tax (P25) would share this fate, and refusing to pay costs nothing beyond what P41’s exclusion might add.
 
 Options include a condition on 2.6 for taxes lawfully owed under 9.3, perhaps limited to land value tax and crossings (P24); exclusion from excludable services (P41); or treating unpaid land tax as ending the land allowance rather than as a debt. Whichever is chosen must not allow compelled work (1.3) or confinement.
 
@@ -464,9 +468,9 @@ Article 6.1 grants “equitable public free speech and broadcast” but never sa
 1. **Equal shares.** Every citizen gets the same access to public platforms, as with equal airtime for candidates. Simple and checkable, but most citizens will not use their share, and those who do may want far more.
 2. **Neutral allocation.** A government may allocate its platforms by any fair method, such as lot, queue or need, but never by viewpoint, party or standing. This constrains only the allocator, not outcomes.
 3. **A floor.** Every citizen has some real means of reaching the public, however small, even if others reach far more.
-4. **A ceiling.** No one, however rich or popular, may dominate public attention. Closest to the founding worry about money drowning out votes, but hardest to square with 7.2 and 7.4: limiting one person’s reach forbids expression that breaches nothing.
+4. **A ceiling.** No one, however rich or popular, may dominate public attention. Closest to the founding worry about money drowning out votes, but hardest to square with 7.1 and 7.3: limiting one person’s reach forbids expression that breaches nothing.
 
-Because 6.1 is positive, it is fulfilled by a government acting (Part I, Definition 10) and owed only by governments (10.1). So a private newspaper refusing a letter cannot breach it, and “equitable” likely constrains only what governments provide or allocate: their own broadcasters, public noticeboards and spaces, and perhaps radio spectrum. Whether governments must provide anything at all, and which one owes broadcast that crosses the border, are open. “Public free speech” may also add nothing to 7.4 unless it means a place or channel to speak in.
+Because 6.1 is positive, it is fulfilled by a government acting (Part I, Definition 10) and owed only by governments (10.1). So a private newspaper refusing a letter cannot breach it, and “equitable” likely constrains only what governments provide or allocate: their own broadcasters, public noticeboards and spaces, and perhaps radio spectrum. Whether governments must provide anything at all, and which one owes broadcast that crosses the border, are open. “Public free speech” may also add nothing to 7.3 unless it means a place or channel to speak in.
 
 The spirit needs stating before the word can be tested: is 6.1 about a fair process of allocation (2), or about the shape of public attention (1, 3 or 4)? See P18 on conditions.
 
@@ -479,7 +483,7 @@ England’s enclosures turned shared rights to graze, gather fuel and cross land
 - **A workplace has no size limit.** A farmer, or a company’s workers (P40), may make a whole moor or forest their workplace and refuse entry under 2.5. Land value tax (P25) is the only brake, and it is not in the text.
 - **Customary uses aren’t occupancy.** Foraging, collecting firewood, grazing a few animals or walking a path do not make land one’s home or workplace, so they are unprotected against whoever first occupies the land.
 - **Occupying a commons.** Nothing stops someone occupying a well-used green or riverbank as a workplace and excluding its users. P3’s candidate wording protects things kept for shared use, but not open land no one keeps.
-- **Enclosure by law.** Law cannot forbid entry unless it breaches a privilege (7.2), which guards against enclosure by statute, but a government may still let or sell occupancy of land it manages.
+- **Enclosure by law.** Law cannot forbid entry unless it breaches a privilege (7.1), which guards against enclosure by statute, but a government may still let or sell occupancy of land it manages.
 
 Possible guards, none adopted: a right to roam over land that is no one’s home, as in Scotland’s Land Reform Act 2003 or the Nordic *allemansrätten*; occupancy of a workplace limited to what is actually worked; or customary uses treated as shared use under P3. Each must avoid the opposite failure in P62.
 
