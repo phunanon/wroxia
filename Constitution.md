@@ -126,7 +126,7 @@ Every citizen has the privilege:
 ### IV.1. Citizenship
 
 1. Citizenship is gained and lost as law provides.
-2. Any patient may apply for citizenship, or have someone apply on its behalf.
+2. Any agent may apply for citizenship.
 3. Any citizen may renounce their citizenship.
 
 ### IV.2. Nearlaw and Farlaw
@@ -141,8 +141,8 @@ Every citizen has the privilege:
 
 ### IV.3. Law-making
 
-1. Nearlaw's laws are made by a body chosen from volunteering citizens by Instrument 1 (_maximum service_ 25 years, _round interval_ one year, _reconfirmed fraction_ one third). It decides under IV.3.3.
-2. Farlaw's laws are made by representatives elected by citizens from among citizens who volunteer to stand. A separate body chosen from volunteering citizens by Instrument 1 (_maximum service_ 25 years, _round interval_ one year, _reconfirmed fraction_ one third) may veto a proposed law before it takes effect. Both bodies decide under IV.3.3.
+1. Nearlaw is made by a body chosen from volunteering citizens by Instrument 1 (_maximum service_ 25 years, _round interval_ one year, _reconfirmed fraction_ one third). It decides under IV.3.3.
+2. Farlaw is made by representatives elected by citizens from among citizens who volunteer to stand. A separate body chosen from volunteering citizens by Instrument 1 (_maximum service_ 25 years, _round interval_ one year, _reconfirmed fraction_ one third) may veto a proposed law before it takes effect. Both bodies decide under IV.3.3.
 3. A body deciding under this clause decides by a majority of those voting, with more than half its seats taking part.
 
 ### IV.4. Advocates
