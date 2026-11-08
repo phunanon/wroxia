@@ -430,17 +430,17 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Nearlaw's law-making body has been selected in accordance with Instrument 1, using a maximum of 25 years' service, annual rounds and one third facing reconfirmation. More than half its seats take part in a vote and a majority of those voting approve a proposed law. An official refuses to recognise the body solely because its members were not elected.
 
-**Must hold:** selection by Instrument 1 is the prescribed route for Nearlaw's law-makers; absence of election does not disqualify the body. The stated vote meets IV.3.3, but the content of any law remains subject to constitutional limits.
+**Must hold:** selection by Instrument 1 is the prescribed route for Nearlaw's law-makers; absence of election does not disqualify the body. The stated vote meets Instrument 4, but the content of any law remains subject to constitutional limits.
 
-**Relies on:** Articles III.1.5 and IV.3.1–IV.3.3, and Instrument 1.
+**Relies on:** Articles III.1.5 and IV.3.1, and Instruments 1 and 4.
 
 ### T55. Farlaw veto
 
 **Scenario:** Farlaw's elected representatives approve a proposed law. Before it takes effect, its separate veto body, selected in accordance with Instrument 1 using 25 years' maximum service, annual rounds and one third facing reconfirmation, votes to veto it. More than half the veto body's seats take part and a majority of those voting support the veto.
 
-**Must hold:** the proposed law is vetoed under IV.3.2–IV.3.3. The veto body does not thereby gain power to make its own replacement law, or acquire Nearlaw's jurisdiction.
+**Must hold:** the proposed law is vetoed under IV.3.3. The veto body does not thereby gain power to make its own replacement law, or acquire Nearlaw's jurisdiction.
 
-**Relies on:** Articles IV.2.1 and IV.3.1–IV.3.3, and Instrument 1.
+**Relies on:** Articles IV.2.1 and IV.3.2–IV.3.3, and Instruments 1 and 4.
 
 ### T56. Human agency presumed
 

@@ -7,31 +7,28 @@ parameters, which are written in _italics_.
 
 ## Instrument 1. Sticky sortition
 
-**Parameters:** _maximum service_, _round interval_, _reconfirmed fraction_.
+**Parameters:** _seats_, _maximum service_, _round interval_, _cohorts_.
 
-1. The target number of seats is the cube root of the number of citizens,
-   rounded down to a multiple of three, with a minimum of three. The body
-   begins with that number of seats.
-2. Every _round interval_, the _reconfirmed fraction_ of members who have gone
-   longest without reconfirmation, counting from when they joined, face it.
+1. The target number of seats is _seats_, rounded down to a multiple of
+   _cohorts_, with a minimum of _cohorts_. The body begins with that number
+   of seats.
+2. Every _round interval_, the N members who have gone longest since joining or last being reconfirmed face reconfirmation.
+   - N is the number of seats divided by _cohorts_.
 3. Each citizen may score each member facing reconfirmation from 0 to 5. A
    member averaging 2.5 or more keeps their seat.
 4. A member leaves on falling below 2.5, on reaching _maximum service_ in total,
    or on resigning or dying.
 5. At each round, a body below its target sets its number of seats halfway
    between its current number and the target, rounded down to a multiple
-   of three.
+   of _cohorts_.
 6. At each round, a body above its target removes only empty seats. The
-   number removed is the greatest non-negative multiple of three not
+   number removed is the greatest non-negative multiple of _cohorts_ not
    exceeding either half the empty seats or the difference between the
    current number of seats and the target.
-7. All remaining empty seats are filled by lot from volunteering citizens,
-   first from volunteers who did not just leave by reconfirmation, then from
-   those who did, highest score first, with ties settled by lot. No one is
+7. All remaining empty seats are filled by lot from citizens who put
+   themselves forward, first from those who did not just leave by
+   reconfirmation, then from those who did, highest score first, with ties settled by lot. No one is
    seated beyond _maximum service_.
-
-Example use: "chosen by Instrument 1 (_maximum service_ 25 years, _round
-interval_ 2 years, _reconfirmed fraction_ one third)".
 
 ## Instrument 2. Directions and custody
 
@@ -54,3 +51,13 @@ to limit a right or privilege beyond what that article permits.
 
 This instrument concerns establishing whether someone was an agent
 when acting. No assessment procedure or power is yet provided.
+
+## Instrument 4. Majority decision
+
+1. A body decides by a majority of those voting, with more than half its seats
+   taking part.
+
+## Instrument 5. Election
+
+This instrument concerns electing representatives. No size, voting system,
+term or procedure is yet provided.

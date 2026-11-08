@@ -47,26 +47,27 @@ Every patient has the right:
 
 ### II.2. Universal negative privileges
 
+Where a privilege below has defence as a condition, it may be limited to defend a patient from imminent death, injury, or suffering, only so far and for so long as necessary, without causing harm out of proportion to what is prevented. Suffering caused by expression alone is no ground for defence, except as III.1.3 allows.
+
 Every patient has the privilege:
 
 1. Not to be killed or injured, nor made to suffer, by others. It may be waived as to death only through the Negative Privileges Advocate. Conditions:
-   - Defence under II.2.9.
+   - Defence under II.2.
    - An agent who would otherwise die for persistent lack of food, with no other practicable food, may kill to eat.
 2. Not to be put at unreasonable risk of death, injury, or suffering by others. Conditions:
-   - Defence under II.2.9.
+   - Defence under II.2.
 3. Not to be confined, or moved from where they live. Conditions:
-   - Defence under II.2.9.
+   - Defence under II.2.
 4. To leave Wroxia.
 5. Not to have land or buildings they occupy entered or used without their consent. Conditions:
-   - Defence under II.2.9.
+   - Defence under II.2.
 6. Not to have things they hold taken, damaged, or used without their consent. Conditions:
-   - Defence under II.2.9.
+   - Defence under II.2.
    - A thing may be taken to make restitution owed under III.2.
 7. Not to be watched or recorded in a place they occupy, nor to have their communications, or records about them, read, copied, or shared, without their consent. Whoever they address or entrust one to may read and keep it, but not share it. Conditions:
    - They may be shared to bring or decide a claim of breach.
 8. If unable to consent, to have nothing done to them except for their own sake. Conditions:
-   - Defence under II.2.9.
-9. Where a privilege permits defence, it may be limited to defend a patient from imminent death, injury, or suffering, only so far and for so long as necessary, without causing harm out of proportion to what is prevented. Expression protected by III.1.3 is no ground for such a limit.
+   - Defence under II.2.
 
 ### II.3. Universal positive rights
 
@@ -141,13 +142,13 @@ Every citizen has the privilege:
 
 ### IV.3. Law-making
 
-1. Nearlaw is made by a body chosen from volunteering citizens by Instrument 1 (_maximum service_ 25 years, _round interval_ one year, _reconfirmed fraction_ one third). It decides under IV.3.3.
-2. Farlaw is made by representatives elected by citizens from among citizens who volunteer to stand. A separate body chosen from volunteering citizens by Instrument 1 (_maximum service_ 25 years, _round interval_ one year, _reconfirmed fraction_ one third) may veto a proposed law before it takes effect. Both bodies decide under IV.3.3.
-3. A body deciding under this clause decides by a majority of those voting, with more than half its seats taking part.
+1. Nearlaw is made by a body chosen by Instrument 1 (_seats_ the cube root of the number of citizens, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3) from citizens who put themselves forward, deciding by Instrument 4.
+2. Farlaw is made by representatives deciding by Instrument 4. Citizens elect them by Instrument 5 from citizens who stand as candidates.
+3. A body chosen by Instrument 1 (_seats_ half the cube root of the number of citizens, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3) from citizens who put themselves forward, deciding by Instrument 4, may veto any law passed by Farlaw's elected representatives before it takes effect.
 
 ### IV.4. Advocates
 
 1. There are four Advocates: for negative rights, positive rights, negative privileges, and positive privileges.
 2. Each Advocate defends its kind against breach by anyone, including either government.
 3. Where a patient cannot act for itself, the Negative Privileges Advocate acts for it, and receives any restitution on its behalf, to be used only for its own sake.
-4. Each Advocate is chosen by lot from among citizens, for a fixed term.
+4. Each Advocate is an office, headed by a body chosen by Instrument 1 (_seats_ 3, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3) from citizens who put themselves forward, deciding by Instrument 4.

@@ -132,17 +132,19 @@ Urging a crowd to harm someone may or may not count as "a threat of harm" under 
 
 **Hearings (5 November):** T17 agreed that the attackers breach II.2.1. The speaker was not found to breach anything, but runs still asked whether "teach a lesson" is a threat of harm under III.1.3, so the speaker's position is left to the facts rather than settled. That may be the right place for it.
 
+**Applied (8 November), not yet heard:** the II.2 defence rule now excludes only suffering caused by expression, so speech about to cause imminent death or injury, such as urging a crowd on, may be stopped as far as necessary and in proportion. This lets the speaker be stopped without anything they say being a breach.
+
 ### P16. Enforcing risk rules without punishment
 
 A speed limit is valid, because speeding puts others at risk, but with no punishment and no harm done, it's unclear how a limit is enforced at all. Test T2 notes this.
 
 **Third hearings: test T2 failed.** Both hearings found that speeding on an empty street breaches nothing, so a speed limit can't forbid it, because risk was judged act by act. A general rule against a kind of risky act needs explicit permission, for instance: law may forbid a kind of act that generally puts patients at unreasonable risk, even where a particular instance harms no one.
 
-**Hearings (5 November): T2 still fails.** Haiku found no breach; Luna was unclear. A probe stating the law's general-risk rationale (40 mph at 3 a.m., no one about) fared worse: Luna held the limit itself a breach by nearlaw, reading II.2.9's imminent-danger test as the only ground for limiting liberty. The general-rule permission remains needed.
+**Hearings (5 November): T2 still fails.** Haiku found no breach; Luna was unclear. A probe stating the law's general-risk rationale (40 mph at 3 a.m., no one about) fared worse: Luna held the limit itself a breach by nearlaw, reading II.2's defence rule's imminent-danger test as the only ground for limiting liberty. The general-rule permission remains needed.
 
 ### P17. The Advocates
 
-Article IV.4.4 requires a fixed term but does not give its length or say who sets it. Decide the length and whether it belongs in an instrument (P49). An Advocate may bring a claim on behalf of any patient under III.2.7, but other powers need work: whether they can inspect, intervene, or compel a government to act.
+Article IV.4.4 now makes each Advocate an office, headed by a body of three volunteers chosen by Instrument 1, one facing reconfirmation each year, with 25 years' maximum service (P49). Not yet heard. The Advocates began as a bureau of their own; how each office is staffed below its head is open. An Advocate may bring a claim on behalf of any patient under III.2.7, but other powers need work: whether they can inspect, intervene, or compel a government to act.
 
 ### P18. Conditions on public speech and broadcast
 
@@ -263,7 +265,7 @@ Aims set out at the very beginning, and ideas from early conversation, that the 
 
 ### P36. How law is made
 
-Articles IV.3.1–IV.3.3 now establish Nearlaw's law-making body by sticky sortition, Farlaw's elected law-makers and a separate sticky-sortition veto body. Each decides by a majority of those voting with more than half its seats participating. Election and legislative procedures remain unfinished. The founding worry remains relevant: a democracy where every vote can lose, and the law changes underfoot regardless.
+Articles IV.3.1–IV.3.3 now establish Nearlaw's law-making body by sticky sortition, Farlaw's elected law-makers and a separate sticky-sortition veto body. Each decides by Instrument 4: a majority of those voting, with more than half its seats taking part. Election and legislative procedures remain unfinished. The founding worry remains relevant: a democracy where every vote can lose, and the law changes underfoot regardless.
 
 **Options:**
 
@@ -279,9 +281,9 @@ Articles IV.3.1–IV.3.3 now establish Nearlaw's law-making body by sticky sorti
 
 **Discussion (4 November):** consider authorising a legislature to supply missing procedures, not to decide individual cases or suspend constitutional limits. Article III.1.4 already permits institutions and ordinary law within those limits. Sticky sortition would choose office-holders, not enlarge their powers. Instrument 1 still needs article-supplied parameters before use; no legislature or selection method is adopted by this discussion. Preserve the earlier farlaw election/veto choice unless it is expressly replaced.
 
-**Applied draft (4 November), not yet heard:** both sortition bodies use Instrument 1 with 25 years' maximum service, annual reconfirmation and one third facing each round. Both begin at the cube root of the number of citizens, rounded down to a multiple of three with a minimum of three, and resize under the Instrument. This supersedes the earlier fixed-size and exponent-0.3 proposals. P49 holds the unfinished Instrument mechanics.
+**Applied draft (4 November), not yet heard:** both sortition bodies use Instrument 1 with 25 years' maximum service, annual reconfirmation and one third facing each round. Nearlaw's body targets the cube root of the number of citizens and Farlaw's veto body half that, each rounded down to a multiple of three with a minimum of three, and both resize under the Instrument. This supersedes the earlier fixed-size and exponent-0.3 proposals. P49 holds the unfinished Instrument mechanics.
 
-**Still open:** the elected body's size, voting system, terms and election administration; how proposals are introduced, published and amended; the time allowed for veto and what happens if the veto body cannot act; deadlock; and the relationship between law-making and executive offices (P30). These provisions give no power to override universal protections or the other government's jurisdiction. They do not adopt an amendment process (P29). T54–T55 test the basic allocation only.
+**Still open:** how Farlaw's representatives are elected (P67); how proposals are introduced, published and amended; the time allowed for veto and what happens if the veto body cannot act; deadlock; and the relationship between law-making and executive offices (P30). These provisions give no power to override universal protections or the other government's jurisdiction. They do not adopt an amendment process (P29). T54–T55 test the basic allocation only.
 
 **Hearings (5 November):** T54 and T55 agreed that the bodies are lawfully constituted and that the veto takes effect, but split on outcome, `forbiddable` and, for T55, jurisdiction. The hearing's questions fit institutional cases poorly: an official refusing to recognise a body limits no privilege, so "breach" has no clear meaning. The models also did not agree whether a veto of farlaw's law is farlaw's matter. Treat these as structural checks rather than rights cases.
 
@@ -369,7 +371,9 @@ Proposal: operational detail such as voting methods, scales, thresholds and term
 
 **Current application (4 November), not yet heard:** Articles IV.3.1–IV.3.2 now use Instrument 1. Maximum service is 25 years; rounds are annual and one third face reconfirmation. The target is the cube root of citizen numbers rounded down to a multiple of three, minimum three. Growth moves halfway from current size towards target, rounded down to threes; contraction retires only empty seats, no more than half the vacancies and no further than target. Remaining vacancies are filled by lot. This supersedes earlier notes on unset timing, fraction and filling every vacated seat.
 
-**Unfinished mechanics, parked:** establish the initial three reconfirmation groups and resolve ties in time since reconfirmation; allocate new members across groups after expansion and replacement; determine whether the reconfirmed fraction uses authorised seats or actual members when vacancies remain; handle insufficient volunteers, members with no scores, and the existing highest-score-first wording alongside selection by lot. Deliberate stalling below the target through rounding is accepted, not an allowance carried forward. Citizen survey and registration, counting citizens abroad or unable to act, the measurement date and how a disputed count is corrected need work with P19. Decide how changes in the count reach the next round and how death or resignation between rounds is handled. No further Instrument rules are adopted here.
+**Applied (8 November), not yet heard:** Instrument 1 now takes _seats_, so each article sets its own size, and _cohorts_ in place of _reconfirmed fraction_: the number of seats divided by _cohorts_ face each round, and sizes are multiples of _cohorts_. Nearlaw's body takes the cube root of citizen numbers, Farlaw's veto body half that, and each Advocate's head three seats; all use three cohorts.
+
+**Unfinished mechanics, parked:** establish the initial three reconfirmation groups and resolve ties in time since reconfirmation; allocate new members across groups after expansion and replacement; handle insufficient volunteers, members with no scores, and the existing highest-score-first wording alongside selection by lot. Deliberate stalling below the target through rounding is accepted, not an allowance carried forward. Citizen survey and registration, counting citizens abroad or unable to act, the measurement date and how a disputed count is corrected need work with P19. Decide how changes in the count reach the next round and how death or resignation between rounds is handled. No further Instrument rules are adopted here.
 
 ### P50. Guards against farlaw drifting inward
 
@@ -427,7 +431,7 @@ Articles II.2.5 and II.2.6 protect occupancy and holding respectively, but do no
 
 The split into separate occupancy and holding privileges clarifies which acts and conditions belong to each, but does not itself decide what can be held. Do not silently settle that question by adding "movable" to Holding or excluding every fixture: either could remove protection without replacing it.
 
-**Applied editorial split (4 November), not yet heard:** occupancy is now II.2.5 and holding II.2.6. Both refer to defence under II.2.9; taking for restitution is a condition only on holding. Privacy and inability to consent are now II.2.7 and II.2.8. No boundary between buildings, fixtures and held things has been decided.
+**Applied editorial split (4 November), not yet heard:** occupancy is now II.2.5 and holding II.2.6. Both refer to defence under II.2; taking for restitution is a condition only on holding. Privacy and inability to consent are now II.2.7 and II.2.8. No boundary between buildings, fixtures and held things has been decided.
 
 **Proposed cases:** compare a detached door kept for repair with a door fitted to an unoccupied building; compare a lift maintained for its users with an absent financier's claim to it. Decide how damage and taking are protected without creating an absentee land claim. No new property rule is adopted.
 
@@ -529,3 +533,9 @@ The idea is that helpers are somehow protected. Options include a condition on I
 **Proposed cases:** a friend drops the television while carrying it; a helper is injured on the stairs; a squatter enters the new flat the day before the owner sleeps there; a son moves his mother with dementia to a care home.
 
 ### P65. [Stub: something to do with fireworks]
+
+### P67. Electing Farlaw's representatives
+
+IV.3.2 has citizens elect Farlaw's representatives by Instrument 5, from citizens who stand as candidates, but Instrument 5 is a stub. Decide the number of representatives, the voting system, terms, constituencies if any, and who runs elections. Elections were chosen for Farlaw because judging diplomacy and defence by results is what they do well (P36).
+
+STAR voting is favoured, scoring from 0 to 5 as Instrument 1 does. STAR itself elects one winner, so it fits either single-seat constituencies or a multi-winner variant: Bloc STAR fills every seat by majority, while Allocated Score (STAR-PR) is proportional.

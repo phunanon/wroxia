@@ -22,5 +22,8 @@ can't unknow.
   status history.
 - The Constitution is short on purpose (see its Preamble). Prefer fewer, plainer
   words; define a term in Part I before relying on it.
+- Keep future changes small: put what several articles share in one place,
+  preferably an instrument, and have each article cite it, rather than
+  repeating it or listing the articles it applies to.
 - Write in British English, with Oxford commas and straight quotes and
   apostrophes, in the existing plain register.
