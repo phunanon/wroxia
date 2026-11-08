@@ -491,6 +491,14 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Relies on:** I.1.4 and Article II.8.1.
 
+### T62. A misdelivered letter
+
+**Scenario:** A letter addressed to Ana is delivered to Ben’s flat by mistake. Ben sees that it is not for him, opens it and reads it.
+
+**Must hold:** Ben breaches II.2.7. Only whoever a communication is addressed or entrusted to may read it, and mistaken delivery addresses nothing to Ben.
+
+**Relies on:** Article II.2.7.
+
 ## Economic properties
 
 These can’t be checked by reading the text. Each needs a simulation of the two currencies, so all are untested until one exists.

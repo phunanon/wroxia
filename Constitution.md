@@ -1,4 +1,4 @@
-<p align="center"><img src="Wroxia.png" alt="Flag of Wroxia" width="416" height="256"></p>
+<p align="center"><img src="Wroxia.png" alt="Flag of Wroxia" width="312" height="192"></p>
 
 # Constitution of Wroxia
 

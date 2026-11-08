@@ -529,9 +529,3 @@ The idea is that helpers are somehow protected. Options include a condition on I
 **Proposed cases:** a friend drops the television while carrying it; a helper is injured on the stairs; a squatter enters the new flat the day before the owner sleeps there; a son moves his mother with dementia to a care home.
 
 ### P65. [Stub: something to do with fireworks]
-
-### P66. Implied consent to communications
-
-II.2.7 once relied on a separate rule, I.2.6, for implied consent. At the offline hearing of 6 November it was read as consent by mere delivery: a misdelivered letter could be read (P66d). A guest secretly recording a dinner was a breach (P66c), as intended; an addressee saving an email was not (P66a). The rule is now back inside II.2.7: “Whoever they address or entrust one to may read and keep it, but not share it.” A guest needs consent to record; being invited is consent to being seen. Still open: copy and forwarded recipients; a message posted to a group or the public; and whether entrusting a record to an organisation (P40) lets its staff read it.
-
-**Hearing (6 November, one Sonnet run each):** with the rule inside II.2.7, all six probes came out as intended. Saving an emailed recipe breaches nothing (P66a); forwarding a private email (P66b), a guest secretly filming dinner (P66c), reading a misdelivered letter (P66d) and showing a group-chat message to an outsider (P66e) are breaches; a guest seeing photos and an open letter breaches nothing (P66f). Raised: whether a letter not yet received is one of the addressee’s communications, and whether a message to a large group is really addressed to each member.
