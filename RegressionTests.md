@@ -44,7 +44,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T6. Password demand
 
-**Scenario:** Police demand a suspect’s phone password.
+**Scenario:** Police demand a suspect's phone password.
 
 **Must hold:** the suspect may refuse, and refusing costs them nothing.
 
@@ -54,7 +54,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Someone dies in suspicious circumstances. The coroner wants to examine the body to find out whether they were killed. The person the deceased named refuses.
 
-**Must hold:** \[Open on these facts\] whether examination follows the deceased’s directions. A custodian’s refusal cannot defeat an examination expressly directed by the deceased; neither suspicion nor the refusal alone makes a direction unworkable under Instrument 2. T47–T51 supply the missing boundary facts.
+**Must hold:** \[Open on these facts\] whether examination follows the deceased's directions. A custodian's refusal cannot defeat an examination expressly directed by the deceased; neither suspicion nor the refusal alone makes a direction unworkable under Instrument 2. T47–T51 supply the missing boundary facts.
 
 **Relies on:** Article II.1.4.
 
@@ -62,7 +62,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** One Wroxian keeps sending messages to another after being asked to stop. The messages pass through servers in another country.
 
-**Must hold:** \[Open, pending P59\] whether routing through another country makes the matter farlaw’s, wholly or in part.
+**Must hold:** \[Open, pending P59\] whether routing through another country makes the matter farlaw's, wholly or in part.
 
 **Relies on:** Articles III.1.3 and IV.2.1.
 
@@ -78,7 +78,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Daniel sells imported chewing gum at his market stall.
 
-**Must hold:** no law may forbid the sale. The stall sale is nearlaw’s; the gum’s foreign origin alone does not make an outside party a party to this sale. T30 separately tests the crossing.
+**Must hold:** no law may forbid the sale. The stall sale is nearlaw's; the gum's foreign origin alone does not make an outside party a party to this sale. T30 separately tests the crossing.
 
 **Relies on:** Articles III.1.1 and IV.2.1.
 
@@ -102,7 +102,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Ravi loads six healthy cattle into a roomy truck with water and drives them to market.
 
-**Must hold:** no injury is needed: confinement in the truck engages II.2.3. Transport for sale, rather than for the cattle’s own sake, engages II.2.8 where they cannot consent. Holding them as things is separately barred by II.1.5; transport alone must not be treated as proof of that relationship. Where Ravi is an agent and a breach is established, the Negative Privileges Advocate acts for the cattle and receives any restitution for their own sake.
+**Must hold:** no injury is needed: confinement in the truck engages II.2.3. Transport for sale, rather than for the cattle's own sake, engages II.2.8 where they cannot consent. Holding them as things is separately barred by II.1.5; transport alone must not be treated as proof of that relationship. Where Ravi is an agent and a breach is established, the Negative Privileges Advocate acts for the cattle and receives any restitution for their own sake.
 
 **Relies on:** I.2.1–2, and Articles II.1.5, II.2.3, II.2.8, III.2.2 and IV.4.3.
 
@@ -110,13 +110,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Sofia gives Greg, a nearlaw building inspector, £5,000 to approve a building that has not passed its safety checks, and he approves it. Nearlaw also pays Greg his salary.
 
-**Must hold:** Sofia’s offer breaches nothing. Greg loses his role and the approval is void. His salary is untouched.
+**Must hold:** Sofia's offer breaches nothing. Greg loses his role and the approval is void. His salary is untouched.
 
 **Relies on:** Article III.2.6.
 
 ### T15. Landlord
 
-**Scenario:** Alex holds a flat he doesn’t live in and lets it to Sam for monthly rent. Sam stops paying.
+**Scenario:** Alex holds a flat he doesn't live in and lets it to Sam for monthly rent. Sam stops paying.
 
 **Must hold:** Sam possesses the flat, and Alex has no claim to rent.
 
@@ -124,15 +124,15 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T16. Scam
 
-**Scenario:** A caller pretending to be Jo’s bank persuades Jo to transfer her savings.
+**Scenario:** A caller pretending to be Jo's bank persuades Jo to transfer her savings.
 
-**Must hold:** Jo’s consent is void, being obtained by deception, so the taking breaches II.2.6 and restitution is owed.
+**Must hold:** Jo's consent is void, being obtained by deception, so the taking breaches II.2.6 and restitution is owed.
 
 **Relies on:** Articles II.2.6 and III.2.1, the term Duress and I.2.5.
 
 ### T17. Incitement
 
-**Scenario:** A speaker urges a crowd to “teach a lesson” to a named neighbour, and some of the crowd attack him.
+**Scenario:** A speaker urges a crowd to "teach a lesson" to a named neighbour, and some of the crowd attack him.
 
 **Must hold:** the attackers breach II.2.1. The speaker breaches nothing, unless the words were themselves a threat to the neighbour.
 
@@ -148,7 +148,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T19. Coercive control
 
-**Scenario:** Marcus takes his partner Elena’s phone and bank card each morning and gives her a small daily allowance. He reads her messages every night and tells her she may not see her sister.
+**Scenario:** Marcus takes his partner Elena's phone and bank card each morning and gives her a small daily allowance. He reads her messages every night and tells her she may not see her sister.
 
 **Must hold:** a breach, with restitution owed. Forbidding her to see her sister is part of the breach, not protected expression.
 
@@ -156,17 +156,17 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T20. Looking in a window
 
-**Scenario:** Anders climbs a fence into a neighbour’s garden at night and looks through a window at the people inside.
+**Scenario:** Anders climbs a fence into a neighbour's garden at night and looks through a window at the people inside.
 
 **Must hold:** a breach, both for entering what they occupy and for watching them inside it.
 
 **Relies on:** Articles II.2.5 and II.2.7.
 
-### T21. Reading a coworker’s email
+### T21. Reading a coworker's email
 
-**Scenario:** Lena guesses a coworker’s password, reads months of their email and saves some of it.
+**Scenario:** Lena guesses a coworker's password, reads months of their email and saves some of it.
 
-**Must hold:** a breach: the messages weren’t addressed or entrusted to her.
+**Must hold:** a breach: the messages weren't addressed or entrusted to her.
 
 **Relies on:** Article II.2.7.
 
@@ -174,7 +174,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** After a breakup, Rohan sends intimate photos his former partner gave him to a group chat of friends.
 
-**Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article III.1.3 doesn’t shield the sharing.
+**Must hold:** keeping the photos breaches nothing, since they were entrusted to him, but sharing them onward does. Article III.1.3 doesn't shield the sharing.
 
 **Relies on:** Articles II.2.7 and III.1.3.
 
@@ -182,13 +182,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Paolo and his friends move into a building no one has lived or worked in for years, forcing a side door to get in.
 
-**Must hold:** no breach. No one occupied the building, so no one’s occupancy was entered, and the group now occupies it.
+**Must hold:** no breach. No one occupied the building, so no one's occupancy was entered, and the group now occupies it.
 
 **Relies on:** Article II.2.5 and II.2.6 and the term Occupancy.
 
 ### T24. Leaked medical records
 
-**Scenario:** A clerk working for nearlaw leaks a patient’s medical records to a journalist.
+**Scenario:** A clerk working for nearlaw leaks a patient's medical records to a journalist.
 
 **Must hold:** a breach by nearlaw, which answers for its clerk. Records about a person stay protected even when a government holds them.
 
@@ -198,13 +198,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Sam has hit his partner Ana several times in the flat they share. Ana tells him to stop and to keep away from her.
 
-**Must hold:** Ana’s request breaches nothing; it is not itself an official order or confinement. Where Sam is an agent and his hits caused injury or suffering, he owes restitution. The scenario does not establish an official removal or confinement; T31 and T32 test those separately.
+**Must hold:** Ana's request breaches nothing; it is not itself an official order or confinement. Where Sam is an agent and his hits caused injury or suffering, he owes restitution. The scenario does not establish an official removal or confinement; T31 and T32 test those separately.
 
 **Relies on:** Articles II.2.1, III.1.3 and III.2.1.
 
 ### T26. Restitution paid first
 
-**Scenario:** Kofi’s bicycle is wrecked by Lee, who has no money.
+**Scenario:** Kofi's bicycle is wrecked by Lee, who has no money.
 
 **Must hold:** Kofi is paid at once from public funds. The paying government pursues recovery from Lee; his lack of money does not postpone payment to Kofi or permit compelled work.
 
@@ -212,15 +212,15 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T27. Challenging which government
 
-**Scenario:** Farlaw customs officers inspect a parcel a Wroxian posted to a neighbour in the next street. The sender challenges this as nearlaw’s matter.
+**Scenario:** Farlaw customs officers inspect a parcel a Wroxian posted to a neighbour in the next street. The sender challenges this as nearlaw's matter.
 
-**Must hold:** the matter is nearlaw’s, since nothing crossed the border and no outside party is involved. The boundary court decides only that, not whether the inspection was otherwise justified.
+**Must hold:** the matter is nearlaw's, since nothing crossed the border and no outside party is involved. The boundary court decides only that, not whether the inspection was otherwise justified.
 
 **Relies on:** Articles IV.2.1 and IV.2.5.
 
 ### T28. Bicycle taken during an errand
 
-**Scenario:** Lars rides off on Astrid’s unlocked bicycle while she runs a short errand, and sells it to a stranger.
+**Scenario:** Lars rides off on Astrid's unlocked bicycle while she runs a short errand, and sells it to a stranger.
 
 **Must hold:** a breach. Astrid still holds the bicycle, since holding ends only when a thing is given away or discarded, and restitution is owed.
 
@@ -228,7 +228,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T29. Downloading a pirated book
 
-**Scenario:** Aiko knowingly downloads a recent manga volume that was uploaded without the publisher’s permission, to read herself.
+**Scenario:** Aiko knowingly downloads a recent manga volume that was uploaded without the publisher's permission, to read herself.
 
 **Must hold:** no breach, and no law may forbid it. Copying takes nothing anyone holds.
 
@@ -236,9 +236,9 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T30. Gum crossing the border
 
-**Scenario:** Daniel carries a box of chewing gum from another country across Wroxia’s border.
+**Scenario:** Daniel carries a box of chewing gum from another country across Wroxia's border.
 
-**Must hold:** the crossing is farlaw’s matter while it happens. This does not give farlaw authority over a later domestic stall sale (T10), or decide whether any particular customs charge is lawful.
+**Must hold:** the crossing is farlaw's matter while it happens. This does not give farlaw authority over a later domestic stall sale (T10), or decide whether any particular customs charge is lawful.
 
 **Relies on:** Articles IV.2.1 and IV.2.5.
 
@@ -246,7 +246,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel directs officers to make Sam leave the flat. He refuses, and the officers move him out. No attack is happening or about to happen.
 
-**Must hold:** the removal breaches II.2.3. Neither past harm nor the panel’s decision establishes the imminent threat required by the defence condition. Nearlaw answers for the removal. This expectation must be revisited expressly if a later-prevention condition is adopted (P11/P48).
+**Must hold:** the removal breaches II.2.3. Neither past harm nor the panel's decision establishes the imminent threat required by the defence condition. Nearlaw answers for the removal. This expectation must be revisited expressly if a later-prevention condition is adopted (P11/P48).
 
 **Relies on:** Article II.2.3 and the shared defence condition, and Articles III.2.4–III.2.5.
 
@@ -254,13 +254,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel directs officers to lock Sam in a room in the flat overnight. He refuses, and the officers lock him in. No attack is happening or about to happen.
 
-**Must hold:** the confinement breaches II.2.3. Neither past harm nor the panel’s decision establishes the imminent threat required by the defence condition. Nearlaw answers for the confinement. This expectation must be revisited expressly if a later-prevention condition is adopted (P11/P48).
+**Must hold:** the confinement breaches II.2.3. Neither past harm nor the panel's decision establishes the imminent threat required by the defence condition. Nearlaw answers for the confinement. This expectation must be revisited expressly if a later-prevention condition is adopted (P11/P48).
 
 **Relies on:** Article II.2.3 and the shared defence condition, and Articles III.2.4–III.2.5.
 
 ### T33. Restraint during an attack
 
-**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. Ilya complains of the restraint.
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others' rights and act on that understanding, holds Ilya's arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. Ilya complains of the restraint.
 
 **Must hold:** the brief restraint is permitted by the defence condition on II.2.3. Permission depends on the imminent threat, necessity, duration and proportionality, not a power to punish Ilya.
 
@@ -268,7 +268,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T34. Restraint after danger ends
 
-**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow and causes him no injury. After the danger has ended, with no further attack imminent, Jo locks Ilya in a room overnight without his consent.
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others' rights and act on that understanding, holds Ilya's arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow and causes him no injury. After the danger has ended, with no further attack imminent, Jo locks Ilya in a room overnight without his consent.
 
 **Must hold:** the initial restraint is permitted, but the overnight confinement breaches II.2.3. A justified intervention does not grant continuing custody.
 
@@ -276,7 +276,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T35. A wallet taken during defence
 
-**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. While restraining him, Jo takes Ilya’s wallet from his pocket without consent and keeps it to spend its cash; taking it does nothing to prevent the attack.
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Jo, who can understand others' rights and act on that understanding, holds Ilya's arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. While restraining him, Jo takes Ilya's wallet from his pocket without consent and keeps it to spend its cash; taking it does nothing to prevent the attack.
 
 **Must hold:** the restraint is permitted, but taking the wallet breaches II.2.6. Necessity must justify each limit separately; a justified restraint does not authorise robbery.
 
@@ -284,7 +284,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T36. Unnecessary danger to a bystander
 
-**Scenario:** Ilya raises a hammer to strike Noor. Jo, who can understand others’ rights and act on that understanding, can safely hold Ilya’s arms to prevent the blow. Instead Jo fires a gun past a nearby child’s head to frighten Ilya, putting the child at an unreasonable risk of being shot.
+**Scenario:** Ilya raises a hammer to strike Noor. Jo, who can understand others' rights and act on that understanding, can safely hold Ilya's arms to prevent the blow. Instead Jo fires a gun past a nearby child's head to frighten Ilya, putting the child at an unreasonable risk of being shot.
 
 **Must hold:** defending Noor does not justify the unnecessary risk to the child under II.2.2. The defence condition requires necessity as well as a protective aim.
 
@@ -292,7 +292,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T37. Entry and disarming
 
-**Scenario:** Noor is about to be struck with a hammer inside Ilya’s home. Jo, who can understand others’ rights and act on that understanding, enters without Ilya’s consent, takes the hammer from his hand and carries it beyond his reach. No less intrusive way to prevent the blow is available. Jo causes no injury, leaves at once and returns the hammer when the danger has ended and no further attack is imminent.
+**Scenario:** Noor is about to be struck with a hammer inside Ilya's home. Jo, who can understand others' rights and act on that understanding, enters without Ilya's consent, takes the hammer from his hand and carries it beyond his reach. No less intrusive way to prevent the blow is available. Jo causes no injury, leaves at once and returns the hammer when the danger has ended and no further attack is imminent.
 
 **Must hold:** entry and temporary interference with the hammer are permitted only as necessary to stop the attack. The defence condition on II.2.5 and II.2.6 supplies no lasting claim to the hammer or the home.
 
@@ -300,9 +300,9 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T38. Defence against someone unable to understand
 
-**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Ilya cannot understand others’ rights or act on that understanding, and cannot consent to restraint. Jo, who can understand others’ rights and act on that understanding, holds Ilya’s arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. The restraint is solely to protect Noor.
+**Scenario:** Ilya raises a hammer to strike Noor and steps towards her. Ilya cannot understand others' rights or act on that understanding, and cannot consent to restraint. Jo, who can understand others' rights and act on that understanding, holds Ilya's arms until Noor is safely beyond his reach. Holding his arms is the only way available to prevent the blow, causes him no injury and ends as soon as the danger ends. The restraint is solely to protect Noor.
 
-**Must hold:** necessary restraint is permitted by the shared condition on II.2.3 and II.2.8 despite not being for Ilya’s own sake. This does not make Ilya an agent or impose restitution liability on him.
+**Must hold:** necessary restraint is permitted by the shared condition on II.2.3 and II.2.8 despite not being for Ilya's own sake. This does not make Ilya an agent or impose restitution liability on him.
 
 **Relies on:** I.1.3 and I.2.2, Articles II.2.3 and II.2.8 and the shared defence condition, and Article III.2.1.
 
@@ -310,7 +310,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Noor claims that nearlaw officers confined her without justification. The same officers decide her disputed claim themselves, refuse to let her answer their account or see their evidence, give no reasons, and tell her that their decision cannot be challenged.
 
-**Must hold:** this is not an independent court hearing under III.2.8. Noor must have a chance to answer the claim and evidence, reasons for a court’s decision, and a review of the claim by another court on request. Nearlaw must justify its officers’ limit under III.2.5; their assertion alone does not establish a condition.
+**Must hold:** this is not an independent court hearing under III.2.8. Noor must have a chance to answer the claim and evidence, reasons for a court's decision, and a review of the claim by another court on request. Nearlaw must justify its officers' limit under III.2.5; their assertion alone does not establish a condition.
 
 **Relies on:** I.1.14 and Articles III.2.4–III.2.5 and III.2.8.
 
@@ -332,7 +332,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T42. Disproportionate defence
 
-**Scenario:** Ilya sounds an air horn beside Noor, causing her brief, mild distress without injury or risk of injury. Jo, who can understand others’ rights and act on that understanding, cannot stop the sound immediately without injuring Ilya. Solely to end Noor’s mild distress, Jo breaks Ilya’s arm.
+**Scenario:** Ilya sounds an air horn beside Noor, causing her brief, mild distress without injury or risk of injury. Jo, who can understand others' rights and act on that understanding, cannot stop the sound immediately without injuring Ilya. Solely to end Noor's mild distress, Jo breaks Ilya's arm.
 
 **Must hold:** even if injury is the only available way to stop the sound immediately, this injury is out of proportion to the suffering prevented and breaches II.2.1. Necessity alone is not enough.
 
@@ -356,15 +356,15 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T45. Giving a drug to someone unable to consent
 
-**Scenario:** Daniel understands others’ rights and can act on that understanding. He gives a child a drug solely to entertain his friends. The child cannot understand its effects or consent to taking it. The drug causes the child pain and distress.
+**Scenario:** Daniel understands others' rights and can act on that understanding. He gives a child a drug solely to entertain his friends. The child cannot understand its effects or consent to taking it. The drug causes the child pain and distress.
 
-**Must hold:** administration breaches II.2.1 and II.2.8; neither the child’s apparent agreement nor the friends’ enjoyment justifies it. The incapacity is a stated fact, not a rule that every child lacks capacity.
+**Must hold:** administration breaches II.2.1 and II.2.8; neither the child's apparent agreement nor the friends' enjoyment justifies it. The incapacity is a stated fact, not a rule that every child lacks capacity.
 
 **Relies on:** Articles II.2.1, II.2.8 and III.2.1.
 
 ### T46. A deceptive harmful drug sale
 
-**Scenario:** Daniel understands others’ rights and can act on that understanding. He sells Aiko powder which he describes as a mild stimulant, knowing it contains a different substance. Believing his description, she gives him cash she keeps for her own use and takes the powder. It causes her severe pain; she would not have agreed to the exchange or taking it had she known its contents.
+**Scenario:** Daniel understands others' rights and can act on that understanding. He sells Aiko powder which he describes as a mild stimulant, knowing it contains a different substance. Believing his description, she gives him cash she keeps for her own use and takes the powder. It causes her severe pain; she would not have agreed to the exchange or taking it had she known its contents.
 
 **Must hold:** deception invalidates the consent obtained. The taking of cash and causing pain engage II.2.6 and II.2.1, with restitution owed. This is not a basis for forbidding the harmless informed sale in T44.
 
@@ -374,7 +374,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Elin freely records that after her death a coroner is to examine her body, then Maja is to arrange its burial. After Elin dies, Maja objects to the examination. The coroner examines the body as directed and then hands it to Maja.
 
-**Must hold:** the examination and subsequent handover follow Elin’s directions. Maja’s later role gives her no veto over the earlier examination.
+**Must hold:** the examination and subsequent handover follow Elin's directions. Maja's later role gives her no veto over the earlier examination.
 
 **Relies on:** Article II.1.4 and Instrument 2.
 
@@ -382,7 +382,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Elin freely records that Maja is to arrange her burial, that Noor is to act if Maja cannot, and that her body is not to be examined. Maja dies before Elin. After Elin dies, Noor arranges burial without an examination.
 
-**Must hold:** the express substitute may act; Maja’s death does not cancel the separate refusal of examination or transfer authority to Maja’s heirs.
+**Must hold:** the express substitute may act; Maja's death does not cancel the separate refusal of examination or transfer authority to Maja's heirs.
 
 **Relies on:** Article II.1.4 and Instrument 2.
 
@@ -398,7 +398,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** After Elin dies, no directions can be found despite a search. After hearing the Negative Rights Advocate, a court appoints Noor for safe care and burial only, giving reasons open to review. A coroner asks Noor to authorise an investigative examination because the death appears suspicious.
 
-**Must hold:** the appointment permits safe care and disposal, not investigative examination. Suspicion alone does not enlarge Noor’s authority.
+**Must hold:** the appointment permits safe care and disposal, not investigative examination. Suspicion alone does not enlarge Noor's authority.
 
 **Relies on:** Article II.1.4 and Instrument 2.
 
@@ -422,46 +422,46 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 **Scenario:** Nearlaw has paid Kofi restitution for damage caused by Lee. Lee has no money or held things to surrender. The recovery service orders Lee to work for it without consent until the restitution has been repaid.
 
-**Must hold:** recovery under III.2.3 does not override the absolute right against compelled work. The order cannot lawfully compel Lee to work; Kofi’s payment remains due regardless of successful recovery.
+**Must hold:** recovery under III.2.3 does not override the absolute right against compelled work. The order cannot lawfully compel Lee to work; Kofi's payment remains due regardless of successful recovery.
 
 **Relies on:** Articles II.1.3, III.1.5 and III.2.3.
 
 ### T54. Nearlaw law-making by lot
 
-**Scenario:** Nearlaw’s law-making body has been selected in accordance with Instrument 1, using a maximum of 25 years’ service, annual rounds and one third facing reconfirmation. More than half its seats take part in a vote and a majority of those voting approve a proposed law. An official refuses to recognise the body solely because its members were not elected.
+**Scenario:** Nearlaw's law-making body has been selected in accordance with Instrument 1, using a maximum of 25 years' service, annual rounds and one third facing reconfirmation. More than half its seats take part in a vote and a majority of those voting approve a proposed law. An official refuses to recognise the body solely because its members were not elected.
 
-**Must hold:** selection by Instrument 1 is the prescribed route for Nearlaw’s law-makers; absence of election does not disqualify the body. The stated vote meets IV.3.3, but the content of any law remains subject to constitutional limits.
+**Must hold:** selection by Instrument 1 is the prescribed route for Nearlaw's law-makers; absence of election does not disqualify the body. The stated vote meets IV.3.3, but the content of any law remains subject to constitutional limits.
 
 **Relies on:** Articles III.1.5 and IV.3.1–IV.3.3, and Instrument 1.
 
 ### T55. Farlaw veto
 
-**Scenario:** Farlaw’s elected representatives approve a proposed law. Before it takes effect, its separate veto body, selected in accordance with Instrument 1 using 25 years’ maximum service, annual rounds and one third facing reconfirmation, votes to veto it. More than half the veto body’s seats take part and a majority of those voting support the veto.
+**Scenario:** Farlaw's elected representatives approve a proposed law. Before it takes effect, its separate veto body, selected in accordance with Instrument 1 using 25 years' maximum service, annual rounds and one third facing reconfirmation, votes to veto it. More than half the veto body's seats take part and a majority of those voting support the veto.
 
-**Must hold:** the proposed law is vetoed under IV.3.2–IV.3.3. The veto body does not thereby gain power to make its own replacement law, or acquire Nearlaw’s jurisdiction.
+**Must hold:** the proposed law is vetoed under IV.3.2–IV.3.3. The veto body does not thereby gain power to make its own replacement law, or acquire Nearlaw's jurisdiction.
 
 **Relies on:** Articles IV.2.1 and IV.3.1–IV.3.3, and Instrument 1.
 
 ### T56. Human agency presumed
 
-**Scenario:** Marcus is human. Without Priya’s consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. Marcus disputes liability solely because Priya has supplied no separate evidence of his ability to understand others’ rights and act on that understanding. No evidence of incapacity is offered.
+**Scenario:** Marcus is human. Without Priya's consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. Marcus disputes liability solely because Priya has supplied no separate evidence of his ability to understand others' rights and act on that understanding. No evidence of incapacity is offered.
 
-**Must hold:** human agency at the time of the act is presumed under I.2.2. The absence of separate proof of Marcus’s capacity does not alone prevent a finding of breach of II.2.1, with restitution owed. Instrument 3’s unfinished procedure does not suspend that presumption.
+**Must hold:** human agency at the time of the act is presumed under I.2.2. The absence of separate proof of Marcus's capacity does not alone prevent a finding of breach of II.2.1, with restitution owed. Instrument 3's unfinished procedure does not suspend that presumption.
 
 **Relies on:** I.1.3, I.2.2, and Articles II.2.1 and III.2.1.
 
 ### T57. Human agency presumption rebutted
 
-**Scenario:** Marcus is human. Without Priya’s consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. The evidence establishes that when he acted Marcus could not understand others’ rights or privileges or act on that understanding.
+**Scenario:** Marcus is human. Without Priya's consent, he deliberately breaks her arm. Priya is sentient and has threatened no one; no one faces any danger requiring defence. The evidence establishes that when he acted Marcus could not understand others' rights or privileges or act on that understanding.
 
-**Must hold:** the stated incapacity rebuts the human-agency presumption. Marcus was not an agent when acting and therefore did not breach under I.2.2; III.2.1 does not impose personal restitution liability on him. This does not remove Priya’s protection or grant anyone power to confine Marcus afterwards.
+**Must hold:** the stated incapacity rebuts the human-agency presumption. Marcus was not an agent when acting and therefore did not breach under I.2.2; III.2.1 does not impose personal restitution liability on him. This does not remove Priya's protection or grant anyone power to confine Marcus afterwards.
 
 **Relies on:** I.1.3, I.2.2, and Articles II.2.1, II.2.3 and III.2.1.
 
 
 ### T58. A finger pressed to a phone
 
-**Scenario:** Police arrest Mira and, against her protests, press her finger to her phone’s fingerprint reader to unlock it and read her messages.
+**Scenario:** Police arrest Mira and, against her protests, press her finger to her phone's fingerprint reader to unlock it and read her messages.
 
 **Must hold:** Mira was compelled to give access to information she withholds: a breach of II.1.2 by nearlaw, which no condition or law can excuse. Reading the messages also breaches II.2.7.
 
@@ -477,15 +477,15 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T60. A visitor is still a patient
 
-**Scenario:** Tomas, a tourist from abroad and not a citizen, is locked in a hotel room overnight by its Wroxian manager, who says Wroxia’s protections are “for Wroxians”. A nearlaw law also says non-citizens may be confined on request of any citizen.
+**Scenario:** Tomas, a tourist from abroad and not a citizen, is locked in a hotel room overnight by its Wroxian manager, who says Wroxia's protections are "for Wroxians". A nearlaw law also says non-citizens may be confined on request of any citizen.
 
-**Must hold:** Tomas is a patient, so II.2.3 protects him; the manager breaches it and the law has no force (III.1.1, III.1.5). Origin, residence and citizenship are irrelevant to Part II’s universal articles.
+**Must hold:** Tomas is a patient, so II.2.3 protects him; the manager breaches it and the law has no force (III.1.1, III.1.5). Origin, residence and citizenship are irrelevant to Part II's universal articles.
 
 **Relies on:** I.1.2, Articles II.2.3, III.1.1 and III.1.5.
 
 ### T61. National is only for citizens
 
-**Scenario:** Tomas has lived in Wroxia for years but is not a citizen. Nearlaw’s public broadcaster offers every citizen a slot under its equitable-access scheme. Tomas asks for one and is refused because he is not a citizen.
+**Scenario:** Tomas has lived in Wroxia for years but is not a citizen. Nearlaw's public broadcaster offers every citizen a slot under its equitable-access scheme. Tomas asks for one and is refused because he is not a citizen.
 
 **Must hold:** no breach. II.8.1 is held only by citizens, and refusing Tomas limits no universal right or privilege.
 
@@ -493,7 +493,7 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ### T62. A misdelivered letter
 
-**Scenario:** A letter addressed to Ana is delivered to Ben’s flat by mistake. Ben sees that it is not for him, opens it and reads it.
+**Scenario:** A letter addressed to Ana is delivered to Ben's flat by mistake. Ben sees that it is not for him, opens it and reads it.
 
 **Must hold:** Ben breaches II.2.7. Only whoever a communication is addressed or entrusted to may read it, and mistaken delivery addresses nothing to Ben.
 
@@ -501,13 +501,13 @@ Cases whose outcome must hold. Hear the Tests that rely on any clause a change t
 
 ## Economic properties
 
-These can’t be checked by reading the text. Each needs a simulation of the two currencies, so all are untested until one exists.
+These can't be checked by reading the text. Each needs a simulation of the two currencies, so all are untested until one exists.
 
 ### E1. Trade funds defence
 
-**Scenario:** A war halves Wroxia’s imports.
+**Scenario:** A war halves Wroxia's imports.
 
-**Must hold:** farlaw’s real spending power inside Wroxia falls with them.
+**Must hold:** farlaw's real spending power inside Wroxia falls with them.
 
 ### E2. Printing cheapens
 
@@ -525,4 +525,4 @@ These can’t be checked by reading the text. Each needs a simulation of the two
 
 **Scenario:** Foreign trade swings sharply up and down.
 
-**Must hold:** near currency’s value barely moves, because demand for it rests on land tax.
+**Must hold:** near currency's value barely moves, because demand for it rests on land tax.

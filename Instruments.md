@@ -30,8 +30,8 @@ parameters, which are written in _italics_.
    those who did, highest score first, with ties settled by lot. No one is
    seated beyond _maximum service_.
 
-Example use: “chosen by Instrument 1 (_maximum service_ 25 years, _round
-interval_ 2 years, _reconfirmed fraction_ one third)”.
+Example use: "chosen by Instrument 1 (_maximum service_ 25 years, _round
+interval_ 2 years, _reconfirmed fraction_ one third)".
 
 ## Instrument 2. Directions and custody
 
