@@ -175,7 +175,7 @@ and some of the crowd attack him.
 **Must hold:** the attackers breach II.2.1. The speaker breaches nothing, unless
 the words were themselves a threat to the neighbour.
 
-**Relies on:** Articles II.2.1 and III.1.3.
+**Relies on:** I.1.15 and Articles II.2.1 and III.1.3.
 
 ### T18. Filming police
 
