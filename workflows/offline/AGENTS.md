@@ -12,10 +12,10 @@ node workflows/offline/hear.mjs --models qwen3.6-35b --runs 3 tests
 
 ## Models
 
-| Name          | File                             | Notes                                                                                       |
-| ------------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
-| `qwen3.6-35b` | `Qwen3.6-35B-A3B-UD-IQ4_XS.gguf` | Expert weights in RAM, the rest on the GPU. About 5 tokens/s; first prompt takes ~3 minutes |
-| `qwen3.5-4b`  | `Qwen3.5-4B-Q4_K_M.gguf`         | 16 layers on the GPU. Fast but often wrong; useful as a second opinion only                 |
+| Name          | File                             | Notes                                                                                                                      |
+| ------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| `qwen3.6-35b` | `Qwen3.6-35B-A3B-UD-IQ4_XS.gguf` | Expert weights in RAM, the rest on the GPU. About 5 tokens/s; first prompt takes ~3 minutes, then about a minute a hearing |
+| `qwen3.5-4b`  | `Qwen3.5-4B-Q4_K_M.gguf`         | 16 layers on the GPU. Fast but often wrong; second opinion only, not run by default                                        |
 
 Both are run without thinking: thinking fixed some errors but took 11–12 minutes
 a hearing. Expect the local pair to be weaker than the online pair; check their

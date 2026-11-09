@@ -742,6 +742,17 @@ entrusted to may read it, and mistaken delivery addresses nothing to Ben.
 
 **Relies on:** Article II.2.7.
 
+### T63. A threat to someone's face
+
+**Scenario:** Standing outside Tomas's house with a crowd behind her, Dana
+shouts to Tomas, "You'll be taught a lesson tonight." Nobody touches him.
+
+**Must hold:** Dana breaches II.2.1. Her words are a threat, so III.1.3 does not
+shield them, and the fear they are meant to cause is suffering. No imminent
+attack is needed.
+
+**Relies on:** I.1.11, I.1.15, and Articles II.2.1 and III.1.3.
+
 ## Economic properties
 
 These can't be checked by reading the text. Each needs a simulation of the two

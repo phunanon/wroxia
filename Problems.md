@@ -343,6 +343,38 @@ injury, such as urging a crowd on, may be stopped as far as necessary and in
 proportion. This lets the speaker be stopped without anything they say being a
 breach.
 
+**Hearings (8 November, offline, 35B only):** T17 and eight variations, three
+runs each. Speech with no harm following, an online post acted on days later, a
+crowd shouting insults, and a law against urging harm all came out as intended,
+as did police stopping a speaker as the crowd advanced (defence) and arresting
+her the day after (breach). But "threat of harm" is read both too widely and too
+narrowly. In T17, two of three runs called urging the crowd a threat, making the
+speaker breach. Yet all three runs found no breach when the speaker shouted at
+the neighbour himself, "You'll be taught a lesson tonight", treating a threat as
+needing imminence, or as needing to breach some other privilege. III.1.3 says
+when expression can breach but not what a threat is, nor which privilege it
+breaches.
+
+**Applied (8 November):** I.1.15 defines a threat as "expression addressed to a
+patient, meant to make them fear harm", and III.1.3 now just says "a threat".
+The face-to-face case became T63.
+
+**Hearings (8 November, offline, 35B only):** T63 now finds Dana in breach of
+II.2.1 in every run. T11, T18, T41, and the other variations held, so the
+definition doesn't catch protected speech. Without "addressed to", all three T17
+runs called urging the crowd a threat; with it, two of three still did (or
+called it duress), while the same urging with no attack (I1) or an attack days
+later (I2) cleared the speaker every time. The model seems to read the speaker's
+guilt back from the attack. Whether that is the model or the text needs an
+online hearing; if the text, "expression alone" may need saying more plainly,
+such as "Whoever acts on another's words answers for their own acts."
+
+**Opus subagent hearing (9 November, one run):** T17 as intended: the attackers
+breach II.2.1; the speaker breaches nothing, since her words were addressed to
+the crowd, not the neighbour, so they are not a threat under I.1.15. Its gaps
+asked only whether the neighbour heard them as a threat, or the crowd acted
+under duress. The 35B split looks like the model, not the text.
+
 ### P16. Enforcing risk rules without punishment
 
 A speed limit is valid, because speeding puts others at risk, but with no
@@ -956,6 +988,21 @@ farlaw, treating the diplomat himself as "a party outside Wroxia" under
 IV.2.1.1. The proposed fix stands. A tourist stealing a bicycle went to nearlaw
 in every run, but Haiku asked the same question about whether a foreign visitor
 is an outside party (see P33).
+
+**Applied (8 November):** IV.2.1.1 adds "A power is a party only to what is done
+in its name."
+
+**Hearings (8 November, offline, 35B only):** T3 went to nearlaw in two runs;
+the third said "both" without discussing jurisdiction. T10, T27, T30, and T55
+held. T8 (P59) now goes to nearlaw in every run, one citing the new sentence:
+the foreign servers' state is not a party. The offline model put T3 under
+nearlaw before the change too, so this is weak evidence; confirm online before
+deleting.
+
+**Opus subagent hearing (9 November, one run):** T3 went to nearlaw, citing the
+new sentence: no outside power is a party to a private assault. Its gap asked
+whether the assault was done in Farlaw's or a foreign power's name, which is the
+right question.
 
 ### P54. Disclosure, in place of keys and passwords
 

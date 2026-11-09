@@ -36,6 +36,8 @@ know it.
 13. **Duress** (noun): pressure that leaves no reasonable choice.
 14. **Court** (noun): a body independent of the parties that hears and decides a
     case under law.
+15. **Threat** (noun): expression addressed to a patient, meant to make them
+    fear harm.
 
 ### I.2. Application
 
@@ -140,9 +142,9 @@ Every citizen has the privilege:
 1. No law may forbid an act that breaches no right or privilege.
 2. A law may distinguish between patients by a trait only if it would make the
    same distinction between two humans who differed in that trait.
-3. Expression alone never breaches a right or privilege, except: a threat of
-   harm to a patient; a demand backed by duress; communications kept up towards
-   someone who has asked for them to stop; or sharing what II.2.7 protects.
+3. Expression alone never breaches a right or privilege, except: a threat; a
+   demand backed by duress; communications kept up towards someone who has asked
+   for them to stop; or sharing what II.2.7 protects.
 4. Within those limits, law may build freely on this constitution: founding
    institutions, raising taxes, and providing services.
 5. A law contrary to this constitution has no force.
@@ -185,7 +187,8 @@ Every citizen has the privilege:
 
 1. Wroxia has two governments:
    1. Farlaw governs every matter to which a power or party outside Wroxia is a
-      party, and anything while it crosses Wroxia's border.
+      party, and anything while it crosses Wroxia's border. A power is a party
+      only to what is done in its name.
    2. Nearlaw governs every other matter.
 2. Each government issues its own currency.
 3. Each government raises taxes only from matters within its own domain, payable

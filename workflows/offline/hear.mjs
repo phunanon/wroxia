@@ -14,7 +14,7 @@ const profiles = {
 const { values, positionals } = parseArgs({
   allowPositionals: true,
   options: {
-    models: { type: 'string', default: Object.keys(profiles).join(',') },
+    models: { type: 'string', default: 'qwen3.6-35b' },
     runs: { type: 'string', default: '2' },
     port: { type: 'string', default: '8087' },
     out: { type: 'string' },
@@ -53,7 +53,7 @@ async function call(text, seed) {
       chat_template_kwargs: { enable_thinking: false },
       // Qwen's recommended non-thinking sampling.
       temperature: 0.7, top_p: 0.8, top_k: 20, min_p: 0, presence_penalty: 1.5,
-      max_tokens: 1024, seed, cache_prompt: true,
+      max_tokens: 2048, seed, cache_prompt: true,
     }),
   });
   if (!response.ok) throw new Error(`HTTP ${response.status}: ${await response.text()}`);
