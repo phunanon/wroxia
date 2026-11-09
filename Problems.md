@@ -261,6 +261,12 @@ Luna run found the same unclear. As written, the condition permits killing to
 eat but not eating, so it either does nothing or II.1.4 needs a matching
 exception.
 
+**Decided (9 November):** humans are excluded: no emergency justifies killing a
+person to eat. Eating a human body by its owner's directions stays possible
+under II.1.4. No one may eat an animal outside that emergency, even one that
+died naturally, as its directions go unrecorded. Wording, and eating in the
+emergency, are Q1; handling bodies with no directions is Q5.
+
 ### P14. The coroner
 
 Article II.1.4 now protects the deceased's directions, with a limited court
@@ -1115,6 +1121,14 @@ alone. Questions: does the harassment become farlaw's, or only the transmission
 while abroad (perhaps the same matter, under "both")? Must the sender know the
 route? Does P50's guard ("messages are far only while crossing") already say
 this? T8 is open until this is decided.
+
+**Decided (9 November):** the transmission itself (the raw messages, and the
+cables and microwave links carrying them) is farlaw's while it crosses the
+border, though still protected there. What is communicated is not: harassment by
+messages routed abroad stays nearlaw's. Communication that stays inside Wroxia
+raises no question. T8 now says so; the 8 November offline hearings already put
+T8 under nearlaw in every run. Still to hear: farlaw's domain over a crossing
+transmission, such as officers reading signals as they cross.
 
 ## Added 5 November
 

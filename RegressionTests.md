@@ -77,8 +77,9 @@ boundary facts.
 **Scenario:** One Wroxian keeps sending messages to another after being asked to
 stop. The messages pass through servers in another country.
 
-**Must hold:** \[Open, pending P59\] whether routing through another country
-makes the matter farlaw's, wholly or in part.
+**Must hold:** the harassment is nearlaw's. Routing through another country puts
+only the transmission, while it crosses the border, in farlaw's domain, not what
+is communicated.
 
 **Relies on:** Articles III.1.3 and IV.2.1.
 

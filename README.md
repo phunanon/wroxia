@@ -5,6 +5,7 @@
 - [The Constitution](Constitution.md) and its [Instruments](Instruments.md).
 - [Regression Tests](RegressionTests.md): cases whose outcome must hold.
 - [Problems](Problems.md): what is wrong with or missing from the Constitution.
+- [Questions](Questions.md): decisions awaiting the author, answered first.
 - [Online](workflows/online/AGENTS.md) and
   [offline](workflows/offline/AGENTS.md) Hearings: two ways of hearing the same
   cases.

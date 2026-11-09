@@ -17,6 +17,7 @@ can't unknow.
   Cross-reference by number.
 - A proposed fix in Problems is a starting point, not a decision. Change the
   Constitution only when asked.
+- Put decisions you need from the author in Questions.md, numbered `Q<n>`.
 - Problems accumulate remarks as thinking develops; delete a Problem once a
   Hearing shows it is resolved. Tests describe the current text only, with no
   status history.
