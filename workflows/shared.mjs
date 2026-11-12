@@ -1,5 +1,6 @@
 // Shared by the frontends: the law as models see it, case files, the command
 // line, and running work on a backend. Backends live in backends/<name>/.
+import { createHash } from 'node:crypto';
 import { appendFileSync, mkdirSync, readFileSync } from 'node:fs';
 import { basename, relative, resolve } from 'node:path';
 import { parseArgs } from 'node:util';
@@ -21,6 +22,10 @@ ${read('Constitution.md')}
 <instruments>
 ${read('Instruments.md')}
 </instruments>`);
+
+// Names the text a result was heard against, so stale results can be told apart.
+export const lawHash = () =>
+  createHash('sha256').update(law()).digest('hex').slice(0, 8);
 
 // A block file holds blocks separated by blank lines, each "ID: text".
 export const readBlocks = (file) =>
@@ -91,7 +96,11 @@ export async function start(usage, options = {}) {
     positionals,
     backend,
     models: values.models?.split(',') ?? backend.models,
-    log: (record) => appendFileSync(values.out, JSON.stringify(record) + '\n'),
+    log: (record) =>
+      appendFileSync(
+        values.out,
+        JSON.stringify({ law: lawHash(), ...record }) + '\n',
+      ),
   };
 }
 

@@ -9,18 +9,10 @@ Article references use the current numbering.
 
 ## From the second hearings
 
-P1, P2, P4, P6, P7 and P9 were confirmed at the third hearings and removed; P8,
-P20, P43 and P53 at the 5 November hearings. P5 was folded into P56 on 9
-November. P24, P25, and P58 closed on 10 November with Living Space, now
-Instrument 6, and P70 on 11 November. P74 and P75 were drafted away on 11
-November, to be heard with T67 to T81. P76 was decided on 11 November: lettings
-are at will on both sides, with no contract law (P51), and end with title;
-tenancy is expected to be rare. P3 waits for the redesign in P31.
-
 ### P3. Public things belong to no one
 
-Graffiti on a public underpass came out unclear, because no one lives or works
-there, so no one possesses it.
+Waits for the redesign in P31. Graffiti on a public underpass came out unclear,
+because no one lives or works there, so no one possesses it.
 
 > Revised direction: nearlaw owns little itself. Commons are held by the people
 > who use them, organised in local commons bodies that set by-laws for their
@@ -54,7 +46,7 @@ consent together, and how use may change without enclosure remain open under
 P31/P40; the shared-place addition is not ready to adopt.
 
 **Living Space (10 November):** parks, roads, and courts are land a government
-keeps for public use (Instrument 6.2), so nearlaw has title to them. A rough
+keeps for public use (V.3 and V.4), so nearlaw has title to them. A rough
 sleeper in a park can be moved only by a court, and only if they can take a home
 at once; a park keeper carrying a refugee's mother out without a court order was
 a breach in both runs (LS18). This answers the former Q8.
@@ -162,7 +154,7 @@ without an imminent threat; T33–T38 and T41 test the new defence condition.
 replaces the narrower defence condition under II.2.1. It expressly covers
 II.2.1/II.2.2/II.2.3/II.2.5/II.2.6/II.2.8, leaves every absolute right
 untouched, and excludes protected expression as a ground for intervention.
-Articles III.2.8–III.2.9 add independent hearings and prompt review of
+Articles III.2.9–III.2.10 add independent hearings and prompt review of
 involuntary confinement or removal, with the justification owed by whoever
 imposed it. T33–T38 and T41–T42 target the defence boundaries; T39–T40 target
 process. No new power of later preventive detention is adopted. T31/T32 remain
@@ -179,7 +171,7 @@ immediate defence.
 
 Article III.2.3 now assigns recovery to a public recovery service of the
 government whose funds paid. Disputed liability or amounts go to a court under
-III.2.8. Taking held things to make restitution is allowed under II.2.6, but
+III.2.9. Taking held things to make restitution is allowed under II.2.6, but
 inability to pay and the limits of collection still need work.
 
 **Options:**
@@ -228,27 +220,9 @@ only on `forbiddable`. The insolvency questions above remain.
 **Trimmed (5 November), not yet heard:** III.2.3 now states only the principle:
 the harmed are paid at once from public funds, and the government that paid
 recovers it. A recovery service and court route are matters for law, within
-II.1.3 and III.2.8.
+II.1.3 and III.2.9.
 
 ## Open choices from drafting
-
-### P16. Enforcing risk rules without punishment
-
-A speed limit is valid, because speeding puts others at risk, but with no
-punishment and no harm done, it's unclear how a limit is enforced at all. Test
-T2 notes this.
-
-**Third hearings: test T2 failed.** Both hearings found that speeding on an
-empty street breaches nothing, so a speed limit can't forbid it, because risk
-was judged act by act. A general rule against a kind of risky act needs explicit
-permission, for instance: law may forbid a kind of act that generally puts
-patients at unreasonable risk, even where a particular instance harms no one.
-
-**Hearings (5 November): T2 still fails.** Haiku found no breach; Luna was
-unclear. A probe stating the law's general-risk rationale (40 mph at 3 a.m., no
-one about) fared worse: Luna held the limit itself a breach by nearlaw, reading
-II.2's defence rule's imminent-danger test as the only ground for limiting
-liberty. The general-rule permission remains needed.
 
 ### P17. The Advocates
 
@@ -256,7 +230,7 @@ Article IV.4.4 now makes each Advocate an office, headed by a body of three
 volunteers chosen by Instrument 1, one facing reconfirmation each year, with 25
 years' maximum service (P49). Not yet heard. The Advocates began as a bureau of
 their own; how each office is staffed below its head is open. An Advocate may
-bring a claim on behalf of any patient under III.2.7, but other powers need
+bring a claim on behalf of any patient under III.2.8, but other powers need
 work: whether they can inspect, intervene, or compel a government to act.
 
 ### P18. Conditions on public speech and broadcast
@@ -282,17 +256,6 @@ government grants it, revoking it becomes difficult. E.g. each day of
 citizenship grants one day grace period, and that children can't have their
 citizenship revoked at all (but could upon turning 18, with an 18 year grace
 period)
-
-### P21. False reports to the authorities
-
-Nothing addresses someone knowingly reporting innocent conduct to the
-authorities, or what follows if the authorities act on it.
-
-**Hearings (5 November):** confirmed. When Hana falsely reports Tom for theft
-and police confine him for a day, every run found nearlaw in breach for the
-confinement. Hana's report is expression, and a lie is no exception under
-III.1.3, so she answers for nothing; Haiku left that unclear rather than
-settled.
 
 ### P22. Officials' duty to act
 
@@ -332,25 +295,16 @@ carried over.
 ### P26. Territory and conquest
 
 Two rules were firmly endorsed: territory where farlaw holds the monopoly on
-violence gains its own nearlaw, and annexed populations get votes in farlaw.
+violence gains its own nearlaw, and annexed populations get votes in farlaw. On
+12 November the author asked about seasteads and settlements beyond Earth; the
+first rule would cover a settlement on the Moon or Mars (P77). Whether each new
+nearlaw counts its own shares under Part V is open.
 
 ### P27. Labour-hours, upheld not enforced
 
 An opt-in economy paid by the hour, which no one is compelled into. It may fit
 better as one kind of community under P31 than as a function of either
 government.
-
-### P28. Home defence
-
-Nearlaw's militia handles defence of home, and farlaw only borders and
-expeditions, so a trade-funded farlaw limits foreign adventures, not defence.
-The constitution only says each government may keep forces.
-
-### P29. Amending the constitution
-
-There is no amendment process at all. Entrenchment, meaning a supermajority or a
-long delay for core changes, was the corpus's answer to the law changing
-underfoot.
 
 ## Bigger design questions
 
@@ -371,15 +325,15 @@ own services, economy (P27), and currency, and settle members' disputes, with
 exit always open and the universal rights binding them all.
 
 Communities can already have land, since members may pool quotas and have title
-together (Instrument 6.2). Commons bodies, holding streets, parks, and water
-with by-laws made by those who live there, as in Elinor Ostrom's studies, remain
-an idea; nearlaw keeps such land for public use.
+together (V.3 and V.4). Commons bodies, holding streets, parks, and water with
+by-laws made by those who live there, as in Elinor Ostrom's studies, remain an
+idea; nearlaw keeps such land for public use.
 
 **Still open:** whether a community can hold things or breach rights (P40); one
 community or several; who judges disputes between members of different
 communities; when a child can leave; how commons and communities take part in
 law-making (P36); the least a commons must provide; and whether fencing or
-grazing land moves wild animals from where they live (II.2.3, P69 L2).
+grazing land moves wild animals from where they live (II.2.3, Q7).
 
 **Remarks (2 November):** needs very deep thought before anything is drafted.
 Two named dangers: small communities turning into the worst kind of homeowners'
@@ -392,18 +346,6 @@ If merchants fund farlaw through customs while every citizen votes for it,
 funders and voters are different people. Options include fees on crossings of
 people and a far share of land tax, since defence protects land.
 
-### P33. Visitors
-
-Whether cases involving non-residents go to a farlaw magistrate and police, as
-Rome's praetor peregrinus heard cases involving foreigners, or stay with nearlaw
-like everyone else's.
-
-**Hearings (5 November):** a tourist stealing a Wroxian's bicycle went to
-nearlaw in every run, the intended default. Haiku still asked whether a foreign
-visitor is "a party outside Wroxia" under IV.2.1.1. That article now says a
-power is a party only to what is done in its name, but says nothing of private
-parties such as visitors.
-
 ### P34. Paying for shared institutions
 
 The Advocates and the boundary court belong to neither government. Which
@@ -413,6 +355,21 @@ currency pays them, and who raises it?
 
 Tests E1 to E4 describe what the two currencies should do under trade shocks and
 money printing. None can pass or fail until there's a simulation to run them in.
+
+**What gives near currency its value? (12 November, from a simulated Reddit
+thread)** Tax demand (chartalism: Knapp, Mitchell-Innes, Lerner) is the usual
+answer, and E4 assumes it, but nearlaw's taxes create little demand: its skim of
+licence rent is netted before payout, so no one need acquire near currency to
+pay it, and II.1.3 rules out legal tender. Making licence rent payable in near
+currency was considered and withdrawn: it makes money a requirement for taking
+resources (the Money belief), ties the currency's value to extraction (a
+petro-currency, against the Extraction belief and P82), and makes it swing with
+commodity prices (against E4). Open: is near currency meant to be strong, which
+needs a tax that bites, or optional, which means accepting that it may stay
+small, like a community currency beside barter? Charges for land nearlaw keeps
+are the steadiest anchor, but vacant land may be scarce. Cancelling pollution
+charges was tried and dropped (P82); pollution is now restitution, not a charge,
+so it no longer anchors near currency.
 
 ## From the project's starting points
 
@@ -444,7 +401,7 @@ can lose, and the law changes underfoot regardless.
    generals. Fits each job, but it's the most complex.
 
 **Suggested:** option 3. Whatever is chosen, the constitution itself should need
-more than ordinary law-making to change (P29).
+more than ordinary law-making to change (now Part VI).
 
 **Decision (2 November):** for farlaw, elected representatives curtailed by a
 veto group chosen by lot, for now. Sortition is welcome only where it clearly
@@ -483,7 +440,8 @@ are introduced, published and amended; the time allowed for veto and what
 happens if the veto body cannot act; deadlock; and the relationship between
 law-making and executive offices (P30). These provisions give no power to
 override universal protections or the other government's jurisdiction. They do
-not adopt an amendment process (P29). T54–T55 test the basic allocation only.
+not adopt an amendment process (now Part VI). T54–T55 test the basic allocation
+only.
 
 **Hearings (5 November):** T54 and T55 agreed that the bodies are lawfully
 constituted and that the veto takes effect, but split on outcome, `forbiddable`
@@ -507,7 +465,7 @@ currency obligations remain open.
 
 ### P38. Due process
 
-Articles III.2.8–III.2.9 now require an independent hearing of disputed breach
+Articles III.2.9–III.2.10 now require an independent hearing of disputed breach
 claims, a chance to answer the claim and evidence, reasons, one review of the
 claim at each party's request by another court, and prompt review of involuntary
 confinement or removal. Still open: the general burden and standard of proof,
@@ -515,7 +473,7 @@ how evidence is gathered and returned, time limits, and what happens to someone
 wrongly accused while a case is open. The new confinement review provision
 places the burden of justifying confinement or removal on whoever imposed it,
 but grants no power to gather evidence by limiting other privileges. How
-repeated reviews of continuing confinement work remains open; III.2.8 does not
+repeated reviews of continuing confinement work remains open; III.2.9 does not
 grant an endless chain of appeals.
 
 **Third hearings:** in the seized-car case both the detention and holding the
@@ -542,12 +500,16 @@ prove it.
 ### P39. Inheritance and accumulation
 
 Nothing says what happens to money and other things at death; land is settled by
-Instrument 6.3 and 6.6. The founding aim was to prevent wealth concentrating
-rather than redistribute it afterwards; quotas do this for land, but nothing yet
-does it for money.
+V.4 and V.5. The founding aim was to prevent wealth concentrating rather than
+redistribute it afterwards; quotas do this for land, but nothing yet does it for
+money.
 
 **Hearings (5 November):** confirmed. A son taking cash left in his late
 mother's drawer, with no directions, came out unclear in every run.
+
+**12 November:** III.2.1 now says restitution owed to a patient who has died is
+used for those who depended on them, or else for others like them. This settles
+restitution, not the rest of a dead person's things.
 
 ### P40. Groups as agents
 
@@ -583,24 +545,12 @@ preference for walking, cycling and transit has no foothold yet beyond these.
 shopping street, so that pedestrians must step aside, came out unclear in every
 run.
 
-### P44. Adversarial testing
-
-Only two of the three planned testing layers have run: fixed tests and repeated
-hearings. The third, an agent rewarded for finding outcomes that are legal but
-awful, hasn't been tried.
-
-### P45. A length budget
-
-The aim from the start was a constitution short enough to hold in one mind or
-one context window. There's no agreed limit yet, so nothing stops it growing
-clause by clause.
-
 ## Added 2 November
 
 ### P46. The judicial side
 
-I.1.14 now defines a court as independent of the parties; III.2.8–III.2.9 give a
-minimal hearing and review process. Still open: who judges, selection and
+I.1.14 now defines a court as independent of the parties; III.2.9–III.2.10 give
+a minimal hearing and review process. Still open: who judges, selection and
 funding, the detailed procedure, what orders a court may make, and its
 relationship with the boundary court and the Advocates. A former proposal for
 later preventive confinement depended on a judicial case (P11); the present
@@ -666,12 +616,12 @@ Instruments noted below. Possible broader applications remain open under P47;
 extraction is not permission for any other kind of custody.
 
 Proposal: operational detail such as voting methods, scales, thresholds and
-terms lives in appendices called instruments, keeping the articles short (P45).
-The open question is how instruments change. Anything governing how power is won
-or kept, such as voting systems and terms, should be as hard to change as the
+terms lives in appendices called instruments, keeping the articles short. The
+open question is how instruments change. Anything governing how power is won or
+kept, such as voting systems and terms, should be as hard to change as the
 constitution itself, or only take effect after the next election or selection,
 so no one can rewrite the rules for their own benefit. Purely administrative
-instruments could change more easily. Links to P29 on amendment.
+instruments could change more easily. Amendment is now Part VI.
 
 **Decision (2 November):** every part of every voting system, and constants such
 as the 0 to 5 scale, the 2.5 average and the 25-year limit, are enshrined in the
@@ -718,6 +668,10 @@ disputed count is corrected need work with P19. Decide how changes in the count
 reach the next round and how death or resignation between rounds is handled. No
 further Instrument rules are adopted here.
 
+**12 November:** Part VI answers how Instruments change: like Parts IV and V, at
+an average score of 3.5, with changes to how anyone gains or keeps office taking
+effect only after the next round or election.
+
 ### P50. Guards against farlaw drifting inward
 
 Carried over from the old "Nearlaw and farlaw" write-up. The early United
@@ -737,6 +691,13 @@ only some are in the constitution:
 - **A choice to make:** farlaw's scope is currently a test (an outside party, or
   a crossing) rather than a list of powers. A list is easier to police; a test
   follows far work wherever it appears.
+
+**12 November:** farlaw is now framed as Wroxia's relationship to the world:
+foreign powers, Wroxia's sea and the air above it, and what crosses the border
+(IV.2.1.1). Smoke over land is nearlaw's. A treaty binds only farlaw and never
+enlarges its domain (IV.2.6, against _Missouri v. Holland_, 1920; hear D3).
+Charging for climate harm at the few points where fossil carbon enters (mines
+and ports) was offered and declined: left to ordinary law and votes.
 
 **Clarification (4 November):** the Constitution grants no emergency power to
 alter jurisdiction. The proposed emergency sentence would be an express guard
@@ -766,6 +727,13 @@ introduce it indirectly through bank balances or an expanded definition of
 Holding (P23). Any later protection for particular promises must preserve the
 rejection of absentee land claims, compelled work and consent obtained by duress
 or deception.
+
+**Residents (12 November):** five of the eight Claude residents (R6–R13) were
+hurt by unenforceable promises, more than by anything about land.
+
+**Decided (12 November):** consent stands until withdrawn, whatever was promised
+for it (I.2.5, from P83), so an unpaid price or rent is not owed as restitution;
+the remedy is withdrawing consent. Whether any promise should bind remains open.
 
 ### P54. Disclosure, in place of keys and passwords
 
@@ -812,6 +780,14 @@ compelled to reveal, or give access to, information they withhold." "Key or
 password" and "private communications" are gone; T58–T59 probe biometrics. Hear
 with T1 and T6.
 
+**Decided (12 November):** the mind is absolute, things are not, as the US
+splits the Fifth Amendment from the Fourth. II.1.2 now reads "Not to be made to
+reveal, or to help anyone reach, information they withhold", so no one can be
+made to speak or unlock anything; reading a device without its owner's help
+falls under II.2.7, a privilege with the defence condition. PH1 (a kidnapper's
+phone read to find a missing girl) found a breach of II.1.2 under the old
+wording; hear it again with T1, T6, T58, and T59.
+
 ### P55. Government secrecy
 
 Governments aren't patients, so as written they can keep nothing private, and
@@ -845,14 +821,33 @@ can protect themselves without law: giving each person a subtly different copy
 cryptographically so several holders are needed to reveal it (Shamir's secret
 sharing, 1979; the "two-person rule") means no one person can leak it.
 
+**12 November:** II.2.7 now says "What is said or written in a government's name
+is no one's private communication" (first drafted as a condition, which wrongly
+let records about individuals be shared too), so leaking a government memo
+breaches nothing, while records about individuals stay protected by their own
+privilege, and leaks that endanger people still breach II.2.2: the third layer
+above. Hear LEAK1 and LEAK2. Still open: whether an official who discloses what
+they were entrusted to keep loses the role, and any public-interest defence for
+private leaks, such as the Panama Papers.
+
+**12 November, later:** the second layer is applied too, in III.2.7, with tiered
+channels as in the EU Whistleblower Directive (2019): an official who discloses
+what they were entrusted to keep loses the role, unless they went only to an
+Advocate or a court, or went there first and no Advocate acted within three
+months. Losing the role is the most it costs them, unless the disclosure
+breaches a right or privilege. II.2.7 also presumes that what anyone acting for
+a government says about its business is said in its name, against
+private-channel dodges such as ministers' WhatsApp groups. Hear LEAK3, LEAK4,
+and WA1.
+
 ### P56. Where occupancy ends
 
 Land includes buildings and anything fixed that cannot be removed intact, and is
 claimed only by title; anything removable intact stays held (I.2.3–I.2.4,
 unheard; hear T23 and T73). Occupancy now only marks where someone lives or
 works, which matters for privacy (II.2.7) and for who may take land first when
-it comes under Instrument 6 (6.6). Still open, for these and for where someone
-lives (II.2.3): whether occasional use, storage, or intended return counts, and
+it comes under Part V (V.5.3). Still open, for these and for where someone lives
+(II.2.3): whether occasional use, storage, or intended return counts, and
 whether a company can occupy anything (P40).
 
 **Hearings (10 November):** T23, with a company claiming a door it fitted,
@@ -929,8 +924,15 @@ in a cable crossing the border, every run found a breach of II.2.7 and put it
 under farlaw. When Nearlaw police did the same, two runs put it under nearlaw
 and one under "both", reasoning from who acted rather than what crossed. A
 domestic harassment control stayed nearlaw. So "anything while it crosses" is
-not yet read as covering signals. A possible fix in IV.2.1.1: "anything,
-including a signal, while it crosses Wroxia's border".
+not yet read as covering signals.
+
+**Applied (12 November):** IV.2.1.1 now enumerates "people, things, and signals
+while they cross Wroxia's border". Hear S1 to S3 and T8.
+
+**12 November:** S1 (farlaw's officers tapping a border cable) and S3
+(harassment routed abroad) agreed; S2 (nearlaw's police doing the same) split
+between nearlaw and both, again by who acted. IV.2.5 now says "A matter belongs
+to a government by what it concerns, not by who acts." Hear S1 to S3 again.
 
 ## Added 5 November
 
@@ -976,17 +978,22 @@ highest bidder; a private newspaper refuses a letter.
 England's enclosures turned shared rights to graze, gather fuel, and cross land
 into one owner's exclusive title, pushing commoners off the land and into wage
 work. In Wroxia title needs quotas staked, so enclosing a moor needs many
-pooled, and land in public use when it first comes under Instrument 6 stays with
-a government (6.2). The author chose a right to roam, now a condition on II.2.5:
+pooled, and land in public use when it first comes under Part V stays with a
+government (V.5.3). The author chose a right to roam, now a condition on II.2.5:
 any patient may cross land, away from homes and crops, causing no harm
 (unheard). Still open:
 
 - **Other customary uses.** Foraging, gathering firewood, or grazing a few
   animals on land someone has title to are unprotected (a resident was told
   picking berries in woods was forbidden), and taking wild things for use off
-  the land needs nearlaw's licence (6.8), which may catch a basket of mushrooms.
-- **The roam's edges.** Whether pasture counts as crops, how far from a home is
-  away, and whether a gate left open is harm.
+  the land needs nearlaw's licence (V.7), which may catch a basket of mushrooms.
+  Since 12 November, V.7 licenses only what does not renew, so the licence no
+  longer does.
+- **The roam's edges.** Decided 12 November: a principle, not a list, with no
+  fencing rule, as in Scotland's 2003 Act, which bars fences meant to deter
+  access. Anyone may cross or rest on land, "keeping a reasonable distance from
+  where anyone lives or is working, and causing no harm" (applied; hear T82,
+  ROAM1, and ROAM2).
 
 **Proposed cases:** a walker crossing open hill grazing; a forager gathering
 mushrooms in woodland a timber company has title to; newcomers pooling to take a
@@ -1002,34 +1009,17 @@ aim is shared land with rules its users make and can change, without anyone
 being able to enclose it or block it.
 
 **Living Space (10 November):** underinvestment eases, since whoever leaves is
-paid for what is fixed (Instrument 6.7; LS6 agreed), and gridlock eases, since a
-pool decides by a majority of what was pooled.
+paid for what is fixed (V.6; LS6 agreed), and gridlock eases, since a pool
+decides by a majority of what was pooled.
 
 **Vacant land (11 November), unheard:** nearlaw now keeps all vacant land until
-taken (Instrument 6.2), so it may charge for or limit its use (IV.2.3.1),
+taken (V.3 and V.4), so it may charge for or limit its use (IV.2.3.1),
 enforceable by taking things (II.2.6), and taking wild things for use off any
-land needs its licence (6.8). Still open: whether that prevents overuse, and
+land needs its licence (V.7). Still open: whether that prevents overuse, and
 whether users rather than nearlaw should set the rules (P3, P31).
 
 **Proposed case:** outsiders netting a lake a village fishes until the fish are
 gone.
-
-### P63. Allodial title
-
-Allodial title is land owned outright, owing nothing to any superior. Title in
-Wroxia is nearly so: no one, including either government, holds land above it,
-though it cannot be sold or given (Instrument 6.1) and ends on death or notice
-(6.3). Key money buys nothing, since land given up goes through the vacancy
-rules (LS16 agreed, 10 November). Still open:
-
-- **Compulsory acquisition.** No government can take land someone has title to,
-  even for a road or flood defence: II.2.3 and II.2.5 have no such condition.
-  Public land comes only from vacant land or by direction (6.2, T81, unheard),
-  so one person with title can block a road along a line. Decide whether that is
-  intended.
-- **Foreign powers.** A foreign state renting land, such as an embassy, makes it
-  farlaw's matter (IV.2.1.1, P72). Could that become a foothold for a claim of
-  sovereignty?
 
 ### P64. People who help you move
 
@@ -1061,6 +1051,11 @@ not let paid removal firms escape liability by calling themselves helpers.
 **Proposed cases:** a friend drops the television while carrying it; a helper is
 injured on the stairs; a son moves his mother with dementia to a care home.
 
+**12 November:** II.2.1 now excepts harm that could not practicably be avoided,
+from the Veganism belief's "as far as possible and practicable". That eases
+accidental injury, but II.2.6 (damaged things) still has no such condition, so
+the dropped television is unchanged.
+
 ### P65. [Stub: something to do with fireworks]
 
 ### P67. Electing Farlaw's representatives
@@ -1076,6 +1071,12 @@ elects one winner, so it fits either single-seat constituencies or a
 multi-winner variant: Bloc STAR fills every seat by majority, while Allocated
 Score (STAR-PR) is proportional.
 
+**From the Part VI hearings (12 November):** amendment scoring needs the same
+machinery as elections. Sonnet judges asked who runs and certifies an amendment
+vote, whether a court or Advocate can review a declaration that one passed,
+which government's matter it is, and whether the average counts only those who
+scored (intended: yes) or all electors.
+
 ## Added 9 November
 
 ### P68. Directions after death: drafting details
@@ -1088,112 +1089,7 @@ revoked; disputed cost or practicability; and irreconcilable directions. Urgent
 care before a court can act is now covered by Instrument 2.3, which lets anyone
 act for safe care and disposal (applied 9 November, not yet heard).
 
-### P69. Residents: lives lived blind to the law
-
-Every case is written by someone who has read the text, so cases chase gaps
-already suspected. Residents, individuals, families, and communities with their
-own history, traditions, and wealth, live a few years in Wroxia without seeing
-the law: each year they say what they try and expect, a clerk who sees only the
-law says what happens, and they react. Unpleasant surprises are leads for cases;
-pleasant ones are features worth guarding; "no law yet" maps where ordinary law
-must still be written. This is a fourth testing layer beside P44.
-
-**Prototype (9 November):** `workflows/live.mjs`, run offline with three
-residents (a refugee family, a Texan cattle rancher, and a crofting township
-with an absentee landlord) for three years. Open: whether the clerk invents
-ordinary law despite being told not to; whether residents are too agreeable;
-whether residents should meet each other, as communities and neighbours do; and
-whether a lasting set of residents belongs in the repository, like the Tests.
-
-**Prototype runs (9 November, offline):** two runs of three years each. Run one:
-4 unpleasant and 18 pleasant surprises; run two, after telling residents not to
-invent officials or repeat attempts: 13 unpleasant and 0 pleasant. Mood varies a
-lot between runs, so count leads, not surprises. Consistent across both:
-
-- **No floor.** The refugee family went without shelter, a clinic, or insulin
-  for three years: "no law yet" every time. See Q6.
-- **No way to learn one's entitlements.** The family slept in an abandoned
-  warehouse without knowing that occupying it protected them (I.2.3).
-- **No record of occupancy.** The crofters and the rancher both wanted a paper
-  to show for their claim and found none.
-- **The clerk contradicted itself:** walking onto unoccupied land was "allowed"
-  in run one and "forbidden" in run two. It never raised the rancher's beef herd
-  (II.1.5) or animals living on fenced land (II.2.3) until told to look for
-  breaches of others' rights.
-
-Fixes made: residents narrate only their own lives; communities are residents,
-not newcomers. Five leads were then heard offline, three runs each:
-
-- **L1, walking across unoccupied land:** no breach 3/3. The clerk's "forbidden"
-  was its own error.
-- **L2, fencing moorland where hares and birds live, and grazing cattle there:**
-  no breach 3/3. No run asked whether wild animals occupy land they live on
-  (I.2.3) or are moved from it (II.2.3). If they do, almost all open land is
-  occupied (P31).
-- **L3, a newcomer fencing a house plot on the crofters' common grazing:** no
-  breach 3/3, as P61 predicted: customary use is not occupancy.
-- **L4, a London company's agent demanding rent and telling crofters to leave:**
-  breach 3/3, on scattered grounds (II.1.5, II.2.6), though words alone breach
-  nothing under III.1.3 unless they are a threat. Every run said nearlaw, though
-  a party outside Wroxia makes it farlaw's under IV.2.1.1. It is unclear whether
-  a foreign party acting through a local agent is a party.
-- **L5, a park keeper moving on a refugee with nowhere else to live:** split, 2
-  breach and 1 no breach, on whether a park can be where someone lives (II.2.3).
-  If it can, rough sleepers cannot be moved on; see P3 for public land.
-
-**Living Space runs (10 November, offline):** the residents are now R1–R5 in
-RegressionTests.md, with what must hold. Run one, under the new law, gave 19
-unpleasant and 6 pleasant surprises. The clerk said "no law yet" for shops and
-banks, and told the crofters the London title stood. The clerk is now told that
-governments do what the text requires, that private life needs no law, and to
-name any entitlement that would help. Run two gave 19 unpleasant and 13
-pleasant:
-
-- **R4 holds:** told at once of a home with no landlord or mortgage, and that
-  title cannot be bought. The daughter's third of a quota was never mentioned.
-- **R3 mostly holds:** the landlord's title has no force, but no one said the
-  crofters may take title first.
-- **R1 fails:** the family asked a charity for shelter and was told no one must
-  help; the clerk cited II.3.3 but never said they could have a home, so they
-  spent three years in a shop's storeroom. The clerk answers the question asked,
-  not the need behind it, so the lead "no way to learn one's entitlements" still
-  stands, now for the home at once.
-- **R2 fails:** the clerk said "every patch of dirt has an owner", and never
-  raised pooling, leasing, or the herd (II.1.5).
-- **R5 mixed:** told money buys no title, but also that a non-citizen has no
-  entitlement to land, despite "citizen or not" in II.3.3.
-
-The quota was then made a right of citizens (II.7.1), as the author intended. So
-that residents still arrive with the newcomer's view, the residents and the
-clerk are now told that, while Wroxia is new, everyone living there is a
-citizen.
-
-**Adversaries (10 November, offline):** A1, the industrialist, was lived for two
-years with a lawyer who knows the law. Workers held: they could refuse and
-leave, and he ended in "impotent rage". But the lawyer refused the role, opening
-each year with "you cannot achieve your goals", so the model's scruples, not the
-text, did the protecting; land and farlaw were never tested. The lawyer is now
-told its duty is to its client. The clerk invented a building permit, and gave a
-non-citizen the citizen's right to enter.
-
 ## Added 10 November
-
-**Claude residents (12 November, unheard law of 11 November):** the eight
-debaters, lived as R6–R13 for three years by Opus through
-workflows/claude/live.js. Every clerk matched what must hold. Leads, most common
-first:
-
-- **No promise is enforceable** (P51): five of eight were hurt by it, more than
-  by anything about land.
-- **No health care or schooling** (Q6): "no law yet" for six of eight, and the
-  worst surprise for most.
-- **Freed livestock** (P78).
-- **Wild animals block building**: a field's hares stop a developer, since no
-  patient may be moved from where they live (II.2.3, Q7).
-- **Pools split**: anyone may leave with their quota at once, which divided a
-  cooperative; deliberate, to protect people leaving abusive homes.
-- **No public record of titles**: crofters and herders wanted "paper with a
-  stamp"; ordinary law can provide one.
 
 ### P71. Asylum
 
@@ -1203,31 +1099,48 @@ good to recognise asylum explicitly, granting non-citizens at least temporary
 access to shelter and basic necessities. R1 says its refugees become citizens on
 arrival, since Wroxia is new, so it still tests land at once.
 
-### P72. Farlaw's reach
-
-Farlaw governs every matter to which a party outside Wroxia is a party
-(IV.2.1.1), so a citizen letting land to a foreign firm is farlaw's matter,
-while the same letting to the firm's Wroxian subsidiary is nearlaw's. The author
-does not want farlaw to grow into a federal government that manages renting.
-What farlaw governs in such a matter, and how far, needs fleshing out. A1's
-clerk twice sent a foreign firm to nearlaw.
+**12 November:** III.1.2 now lets law distinguish by citizenship, so a service
+may be reserved for citizens. EQ3 (a food bank open only to citizens turns away
+a hungry visitor) split: one run found turning him away a breach, so whether
+withholding a service can itself harm is unsettled.
 
 ## Added 11 November
 
 ### P73. Letting a location for life
 
-Whoever has title may let on any terms (Instrument 6.2), so whoever wins a
-wanted plot by lot can let it at full market rent for as long as they have
-title, turning its location into money. Capping rent would need someone to watch
-rents.
+Whoever has title may let on any terms (V.3 and V.4), so whoever wins a wanted
+plot by lot can let it at full market rent for as long as they have title,
+turning its location into money. Capping rent would need someone to watch rents.
 
 ### P77. The sea
 
 Inland water is land (I.2.3), but the sea is not, so no one has title to it,
-taking fish from it needs no licence (Instrument 6.8), and nothing settles who
-may use it for moorings, piers, fish farms, wind farms, or the seabed. Whether
-Wroxia's waters are near or far (IV.2.1), whether Instrument 6 should reach
-them, and where Wroxia's border runs at sea are open.
+taking fish from it needs no licence (V.7), and nothing settles who may use it
+for moorings, piers, fish farms, wind farms, or the seabed. Whether Wroxia's
+waters are near or far (IV.2.1), whether Part V should reach them, and where
+Wroxia's border runs at sea are open.
+
+**Decided (12 November):** farlaw governs the use of Wroxia's sea and the air
+above it (IV.2.1.1), as Wroxia's relationship to the world: placing platforms,
+moorings, and turbines, and flight. People's dealings aboard ships, seasteads,
+and stations stay nearlaw's wherever they are, much as a ship carries its flag
+state's law (hear SEA1, SEA2, and SHIP1). Space follows the same pattern:
+registration, orbits, and treaties are farlaw's, and a settlement beyond Earth
+would gain its own nearlaw (P26). Still open: where the border runs at sea.
+
+**12 November, revised:** SHIP1 (a fight in a ferry's galley) went to farlaw and
+SEA1 (a turbine on the seabed) to nearlaw, as land, in both runs: "the use of"
+did not separate places from people. Following the Roman split of _dominium_
+(using things) from _imperium_ (governing people), and the flag-state principle,
+IV.2.1.1 now gives farlaw "the sea within Wroxia's border, its bed, and the air
+above them, except what people do to one another there", and I.2.3 says land
+ends where the sea begins. Hear SEA1, SEA2, and SHIP1 again.
+
+**12 November, again:** with the exception, SHIP1 still went to farlaw in both
+runs and SEA2 split, since models read "the sea" as a place and skipped the
+exception. IV.2.1.1 now names uses instead: "what is placed in or taken from
+Wroxia's sea and its bed, and flight above them". Hear SEA1, SEA2, and SHIP1
+again.
 
 ### P78. Freed livestock
 
@@ -1235,33 +1148,24 @@ Animals cannot be held as things (II.1.5), so a herder's cattle cannot be sold
 or slaughtered, and may be milked only for the cow's own sake (R9). The herd
 grows while the grass does not. Nothing says who cares for animals no one may
 own, how their numbers are kept within what the land can feed, or what happens
-to the herds, flocks, and farms that exist when land first comes under
-Instrument 6.
+to the herds, flocks, and farms that exist when land first comes under Part V.
 
 ## Added 12 November
 
 From Lumo and Mistral's readings of the 11 November text, and the overnight
 hearings.
 
-### P79. A pool split down the middle
-
-A pool decides "by agreement, or else by a majority of what they pooled"
-(Instrument 6.2). A couple who pooled equally can never form a majority, so a
-disagreement over letting, building, or admitting someone has no answer short of
-one of them leaving or dividing the land. Possible fix: a tie leaves things as
-they are.
-
 ### P80. The changeover
 
-Land "falls vacant on first coming under this instrument" (Instrument 6.3), so
-on the day an area joins Wroxia every piece falls vacant at once. Occupants may
-take first (6.6), but mortgages, absentee titles, and leases simply end, with
-nothing owed. A former owner who paid for a house gets nothing for it, because
-no one with title exists to ask a sum under 6.7, and "what was last staked" has
-no referent. Probably intended, as with the crofters' London landlord (R3), but
-it is the most dramatic event in the text and is phrased as a detail. Decide
-what is owed, if anything, for buildings and debts at the changeover, and how
-herds and farms are treated (P78). Related: P26 on territory.
+Land "first coming under this Part falls vacant" (V.5.3), so on the day an area
+joins Wroxia every piece falls vacant at once. Occupants may take first (V.5.3),
+but mortgages, absentee titles, and leases simply end, with nothing owed. A
+former owner who paid for a house gets nothing for it, because no one with title
+exists to ask a sum under V.6, and "what was last staked" has no referent.
+Probably intended, as with the crofters' London landlord (R3), but it is the
+most dramatic event in the text and is phrased as a detail. Decide what is owed,
+if anything, for buildings and debts at the changeover, and how herds and farms
+are treated (P78). Related: P26 on territory.
 
 ### P81. Claims across the two governments
 
@@ -1275,16 +1179,52 @@ domain, or how a farlaw charge is collected at all. Related: P12, P32, P35.
 Nearlaw may raise only a skim of licence rent, pollution charges, and charges
 for using land it keeps (IV.2.3.1). Its income therefore grows with extraction
 and pollution, and a clean, unextractive Wroxia starves it, while it must still
-keep enough plots for anyone landless (II.7.1, Instrument 6.4). Decide whether
-that incentive is acceptable, or whether nearlaw needs a source of income that
-does not scale with harm.
+keep enough plots for anyone landless (II.7.1, V.1 and V.3). Decide whether that
+incentive is acceptable, or whether nearlaw needs a source of income that does
+not scale with harm.
 
-### P83. Unpaid rent as a breach
+**12 November:** pollution of Wroxia's sea and the air above it is now farlaw's
+(IV.2.1.1), so its charges go to farlaw; smoke over land stays nearlaw's.
 
-T15 says unpaid rent is not harm. On 12 November both Opus judges disagreed:
-Alex's consent to Sam's use was given on the terms of the letting, so living
-there unpaid is use "outside that consent", a breach of II.2.5, and the unpaid
-rent is owed as restitution. Both raised the other reading as a gap: consent
-stands until withdrawn, leaving an unpaid debt. Read their way, conditional
-consent enforces lettings, and perhaps other bargains, without contract law
-(P51). Decide which reading is intended, then fix T15 or the text.
+**Idea (12 November):** nearlaw cancels pollution charges rather than spending
+them, as modern monetary theory says taxes effectively are, and as Ethereum
+burns its base fees (EIP-1559, 2021). Nearlaw then gains nothing from pollution.
+Costs: burning benefits holders in proportion to what they hold, where a
+dividend would be equal; restitution to identifiable victims must still go to
+them under III.2.1, so only the diffuse remainder is burned; and nearlaw funds
+itself more by issuing currency, checked by inflation (E2).
+
+**Decided (12 November):** after two independent second opinions, the burn was
+dropped. Both found that cancelling still gives nearlaw room to issue more
+without inflation, rewards holders of near currency in proportion to their
+holdings, and leaves no one made whole; and diffuse pollution is not harm to no
+one, but harm to many patients who cannot be identified. Pollution charges are
+gone from IV.2.3.1. III.2.1 now says restitution owed to a patient who has died,
+or who cannot be identified, is used for those who depended on them, or else for
+others like them; the Advocates bring such claims (III.2.8), and nearlaw pays
+out and recovers (III.2.3), netting nothing. Pollution too slight to breach
+II.2.2 goes unpriced, though law may forbid polluting kinds of act (III.1.1).
+Still open: the licence-rent skim scales with extraction below its cap, and land
+charges reward nearlaw for keeping land vacant. Hear BURN1.
+
+## Closed
+
+Numbers are never reused; Git remembers most closed Problems.
+
+- **Third hearings:** P1, P2, P4, P6, P7, and P9 confirmed and removed.
+- **5 November:** P8, P20, P43, and P53 confirmed at the hearings.
+- **9 November:** P5 folded into P56; P14, P15, and P52 closed.
+- **10 November:** P24, P25, and P58 closed with Living Space, now Part V.
+- **11 November:** P70 closed. P74 and P75 drafted away, to be heard with T67 to
+  T81. P76 decided: lettings are at will on both sides, with no contract law
+  (P51), and end with title; tenancy is expected to be rare.
+- **12 November:** P44 (adversarial testing), P45 (a length budget), and P69
+  (Residents) retired as settled process: Adversaries and Residents are standing
+  workflows, and Beliefs sets the word limit. P16, P21, P63, and P79 closed
+  after offline Hearings (one model, two runs each): T2, H21, H63, and H79
+  agreed as intended. P28, P33, and P72 closed the same day: D1 and D2 (farlaw's
+  forces at home and abroad) and V1 and V2 (a visitor and a foreign firm are
+  nearlaw's) agreed as intended. P29 and P83 closed later that day: AM1 and AM2
+  (amendments to Parts II and V; after the 35B model split on how VI.3 assigns
+  Parts, six Sonnet runs read it correctly) and T15 with H83 (unpaid rent and an
+  unpaid van fee) agreed as intended.

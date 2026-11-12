@@ -1,5 +1,5 @@
 // Hears cases: fresh models judge each case under the working-tree law. See README.md.
-import { start, using, readEntries, law, json } from './shared.mjs';
+import { start, using, readEntries, law, lawHash, json } from './shared.mjs';
 
 const enums = {
   outcome: ['breach', 'no breach', 'unclear'],
@@ -119,7 +119,7 @@ const seeds = Array.from(
 );
 const runs = [];
 console.log(
-  `Hearing ${cases.length} case(s) × ${opts.models.length * seeds.length} runs, one model at a time...`,
+  `Hearing ${cases.length} case(s) × ${opts.models.length * seeds.length} runs against law ${lawHash()}, one model at a time...`,
 );
 for (const model of opts.models) {
   await using(opts.backend, model, (ask, all) =>

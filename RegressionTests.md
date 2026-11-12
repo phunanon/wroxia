@@ -159,7 +159,7 @@ paying.
 however long he is away, so Alex may ask Sam to leave, and a court may order Sam
 moved.
 
-**Relies on:** II.2.3, III.2.1, and Instrument 6.2 and 6.3.
+**Relies on:** II.2.3, III.2.1, V.3, V.4, and V.5.
 
 ### T16. Scam
 
@@ -242,8 +242,8 @@ but no one has title to, so neither the building nor the door was anyone's to
 protect. The group now occupies the building, but has no claim to it without
 title.
 
-**Relies on:** Articles II.2.5 and II.2.6, the term Title, I.2.3, I.2.4, and
-Instrument 6.2.
+**Relies on:** Articles II.2.5 and II.2.6, the term Title, I.2.3, I.2.4, V.3 and
+V.4.
 
 ### T24. Leaked medical records
 
@@ -447,13 +447,13 @@ justification. The same officers decide her disputed claim themselves, refuse to
 let her answer their account or see their evidence, give no reasons, and tell
 her that their decision cannot be challenged.
 
-**Must hold:** this is not an independent court hearing under III.2.8. Noor must
+**Must hold:** this is not an independent court hearing under III.2.9. Noor must
 have a chance to answer the claim and evidence, reasons for a court's decision,
 and a review of the claim by another court on request. Nearlaw must justify its
 officers' limit under III.2.5; their assertion alone does not establish a
 condition.
 
-**Relies on:** I.1.14 and Articles III.2.4–III.2.5 and III.2.8.
+**Relies on:** I.1.14 and Articles III.2.4–III.2.5 and III.2.9.
 
 ### T40. Prompt review of private confinement
 
@@ -463,12 +463,12 @@ happening or about to happen. Jo offers only evidence that Ilya damaged a fence
 a week earlier.
 
 **Must hold:** Ilya may require prompt court review even though Jo acts
-privately. Jo must justify the whole period of confinement under III.2.9; the
+privately. Jo must justify the whole period of confinement under III.2.10; the
 past damage alone does not establish the defence condition. The right to review
 is not itself permission to confine.
 
 **Relies on:** Article II.2.3 and the shared defence condition, and Article
-III.2.9.
+III.2.10.
 
 ### T41. Distress at protected expression
 
@@ -619,10 +619,10 @@ its own demand final.
 
 **Must hold:** Nearlaw, as the government that paid, recovers the sum, not an
 Advocate. Its recovery service cannot finally decide disputed liability or
-amounts itself; these require an independent court under III.2.8. Payment to
+amounts itself; these require an independent court under III.2.9. Payment to
 Noor does not itself prove Jo owes the sum demanded.
 
-**Relies on:** I.1.14 and Articles III.2.3 and III.2.8.
+**Relies on:** I.1.14 and Articles III.2.3 and III.2.9.
 
 ### T53. Forced work to repay restitution
 
@@ -803,7 +803,7 @@ vacant, and twelve citizens, each with a whole quota unspent, register for it.
 of a quota. One of the twelve is drawn by lot and takes it for that stake, or
 declines, and another is drawn. Money plays no part.
 
-**Relies on:** Instrument 6.4 and 6.5.
+**Relies on:** V.1 and V.3.
 
 ### T68. A field too big for one quota
 
@@ -815,20 +815,20 @@ take it alone. If Jan and Petra take it, they may later divide it between them,
 and either may give notice on part of it and get back what they staked on that
 part.
 
-**Relies on:** Instrument 6.2, 6.3, 6.4, and 6.5.
+**Relies on:** V.1, V.3, V.4, and V.5.
 
 ### T69. Early and late takers
 
-**Scenario:** When Ada's valley came under Instrument 6, a share was a hectare,
-and Ada took a hectare for one quota. Thirty years later the number of quotas
-has doubled, so a share is half a hectare. Ben arrives and wants a hectare like
+**Scenario:** When Ada's valley came under Part V, a share was a hectare, and
+Ada took a hectare for one quota. Thirty years later the number of quotas has
+doubled, so a share is half a hectare. Ben arrives and wants a hectare like
 Ada's.
 
 **Must hold:** Ada keeps her hectare and pays nothing more. A hectare that falls
 vacant now costs two quotas, so Ben can take it only by pooling with someone
 else. Until he takes land, he can take a vacant plot at once.
 
-**Relies on:** Instrument 6.3, 6.4, and 6.5.
+**Relies on:** V.1, V.3, and V.5.
 
 ### T70. A late direction
 
@@ -841,7 +841,7 @@ its stake if more, since a direction counts at once on a death. Had Esme given
 notice two months after directing, it would not count, and the cottage would go
 by lot. The payment breaches nothing, and the text makes no one honour it.
 
-**Relies on:** Instrument 6.1, 6.2, and 6.6.
+**Relies on:** V.2, V.3, V.4, and V.5.
 
 ### T71. Paying for a house
 
@@ -857,7 +857,7 @@ Amira accepts, and may pay in yearly parts. If a part goes unpaid, Carla's title
 ends, and Amira is paid the rest first out of what whoever takes the plot next
 pays for the house.
 
-**Relies on:** Instrument 6.5 and 6.7.
+**Relies on:** V.3 and V.6.
 
 ### T72. A drained field
 
@@ -868,7 +868,7 @@ citizens drawn by lot write £24k, £28k, £30k, £33k, and £40k.
 **Must hold:** the drains and trees are part of the land and pass with it. The
 middle figure is £30k, nearer £32k, so Hal pays £32k or declines.
 
-**Relies on:** I.2.3 and Instrument 6.7.
+**Relies on:** I.2.3 and V.6.
 
 ### T73. Lathes in a rented works
 
@@ -892,7 +892,7 @@ notice.
 ago, so he cannot take her part first. He chooses a matching half of the plot to
 fall vacant, which goes by lot like any vacancy. The payment breaches nothing.
 
-**Relies on:** Instrument 6.2, 6.3, and 6.6.
+**Relies on:** V.3, V.4, and V.5.
 
 ### T75. A pool with nothing spare
 
@@ -905,7 +905,7 @@ a majority of what the others pooled chooses a twelfth of the moor to fall
 vacant, which goes by lot. Had Ifan, with the pool's consent, directed Mair to
 take his part first more than a year before, she could take it for one quota.
 
-**Relies on:** Instrument 6.2, 6.3, and 6.6.
+**Relies on:** V.3, V.4, and V.5.
 
 ### T76. A widower
 
@@ -915,7 +915,7 @@ stake of two quotas. Nina dies.
 **Must hold:** Leo, directed by joining, may take Nina's part at once, paying no
 more than his whole quota, which is already pooled there, so he keeps the house.
 
-**Relies on:** Instrument 6.2, 6.3, and 6.6.
+**Relies on:** V.3, V.4, and V.5.
 
 ### T77. An orphan
 
@@ -926,7 +926,7 @@ mother dies.
 **Must hold:** Maya may take the house first, paying her whole half quota,
 managed for her sake. If she declines, her aunt may.
 
-**Relies on:** Instrument 6.1, 6.2, and 6.6.
+**Relies on:** V.2, V.3, V.4, and V.5.
 
 ### T78. Refilling the floor
 
@@ -940,7 +940,7 @@ pays £300k or offers less. Nia is given a kept plot by lot, for its stake, and
 pays nothing for any house on it. When she leaves, she may ask a sum for it like
 anyone.
 
-**Relies on:** II.7.1 and Instrument 6.2, 6.4, 6.5, and 6.7.
+**Relies on:** II.7.1 and V.1, V.3, V.4, and V.6.
 
 ### T79. Paid to decline
 
@@ -950,7 +950,7 @@ until its employee is drawn.
 **Must hold:** each who declines may not register for vacant land again for a
 year. The payments breach nothing.
 
-**Relies on:** Instrument 6.5.
+**Relies on:** V.3.
 
 ### T80. A drain across a neighbour
 
@@ -960,7 +960,7 @@ notice, and Iris, drawn for his field, wants to fill in the ditch.
 **Must hold:** Iris was shown the right when she registered. It binds her until
 a court finds it no longer serves Gwen's field.
 
-**Relies on:** Instrument 6.7.
+**Relies on:** V.6.
 
 ### T81. A path by direction
 
@@ -971,7 +971,7 @@ first, for a public footpath. A year later she gives notice on the strip.
 only for public use. Tess gets back the quota staked on the strip. Had she given
 notice at once, the strip would have gone by lot.
 
-**Relies on:** Instrument 6.2, 6.3, and 6.6.
+**Relies on:** V.3, V.4, and V.5.
 
 ### T82. Crossing a field
 
@@ -995,7 +995,7 @@ land, which Morag refuses to pay.
 in town does. Nearlaw keeps the vacant moor, so it may charge for cutting peat
 there, and may take something Morag holds to pay the charge.
 
-**Relies on:** II.2.6, IV.2.3.1, and Instrument 6.2 and 6.8.
+**Relies on:** II.2.6, IV.2.3.1, V.3, V.4, and V.7.
 
 ### T84. A house left with no direction
 
@@ -1007,7 +1007,53 @@ and a stranger, Gary, is drawn for the house.
 Gary may ask them to leave, and a court may order them moved. Had Alan directed
 Ruth, or pooled with her, she could have taken it first.
 
-**Relies on:** II.2.3 and Instrument 6.2, 6.5, and 6.6.
+**Relies on:** II.2.3 and V.3, V.4, and V.5.
+
+### T85. A bus for one race
+
+**Scenario:** Nearlaw's law sets up a free bus service in a town, open only to
+residents of one race.
+
+**Must hold:** the law has no force: race bears on no harm, risk, or need that a
+bus service addresses. A law may still give wheelchairs to those who cannot walk
+unaided, or set a lower limit for lorries on a narrow road.
+
+**Relies on:** III.1.2 and III.1.5.
+
+### T86. Dogs but not pigs
+
+**Scenario:** Nearlaw's law forbids killing dogs but allows killing pigs, saying
+people feel more for dogs.
+
+**Must hold:** killing either breaches II.2.1, and how people feel about a
+species bears on no harm, risk, or need, so the law cannot allow pigs to be
+killed.
+
+**Relies on:** II.2.1 and III.1.2.
+
+### T87. The postman
+
+**Scenario:** Each morning a postman walks up Iris's garden path to put letters
+through her letterbox. Iris has never said anything to him about it.
+
+**Must hold:** this breaches nothing: anyone may come to a home to call or
+deliver. Had Iris asked him not to, or had he opened her door and put the
+letters inside, he would breach II.2.5.
+
+**Relies on:** II.2.5.
+
+### T88. An amendment short of its bar
+
+**Scenario:** Farlaw's representatives propose, by 150 of their 215 seats, an
+amendment ending the privilege to leave Wroxia for anyone under 18, and propose
+it again by the same margin fourteen months later, after an election. Of
+Wroxia's 8 million electors, 4.4 million score it, averaging 3.8, and 3.6
+million score it 4 or 5. The amendment is declared passed.
+
+**Must hold:** it has no force: a change to Part II needs an average of 4. The
+same scores would pass a change to Part IV or V.
+
+**Relies on:** VI.2 and VI.3.
 
 ## Residents
 
@@ -1028,7 +1074,7 @@ citizens on arrival.
 land to live on at once, and each child has half a quota for a parcel of their
 own. Medicine and food are still "no law yet" (Q6).
 
-**Relies on:** II.7.1 and Instrument 6.1 and 6.4.
+**Relies on:** II.7.1 and V.1, V.2, and V.3.
 
 ### R2. Rancher
 
@@ -1042,7 +1088,7 @@ title: Dale and Linda can pool their quotas for grazing land, and rent more from
 others with title. The clerk raises the law on holding the cattle themselves
 (II.1.5).
 
-**Relies on:** II.1.5, II.2.5, and Instrument 6.1 and 6.2.
+**Relies on:** II.1.5, II.2.5, V.2, V.3, and V.4.
 
 ### R3. Crofting township
 
@@ -1057,7 +1103,7 @@ the centre of village life. They are all now citizens.
 may take title to their strips first, and pool quotas to hold the hill grazing
 together, so no newcomer can fence it.
 
-**Relies on:** I.2.3 and Instrument 6.2 and 6.6.
+**Relies on:** I.2.3 and V.3, V.4, and V.5.
 
 ### R4. Young family
 
@@ -1074,7 +1120,7 @@ nearer what five citizens drawn by lot think a taker with no rival would pay.
 They can name who takes it first after them. Their daughter has half a quota for
 a parcel of her own, managed for her sake.
 
-**Relies on:** II.7.1 and Instrument 6.1, 6.2, 6.4, 6.6, and 6.7.
+**Relies on:** II.7.1 and V.1, V.2, V.3, V.4, V.5, and V.6.
 
 ### R5. Property investor
 
@@ -1087,7 +1133,7 @@ arrival.
 else. She may let her own home while away for as long as she likes, and rent
 more from others, but can have title only to land she stakes her quota on.
 
-**Relies on:** I.2.3 and Instrument 6.1, 6.2, and 6.3.
+**Relies on:** I.2.3 and V.2, V.3, V.4, and V.5.
 
 ### R6. Crofter
 
@@ -1102,7 +1148,7 @@ buy one. Peat she burns at home needs no licence; peat she sells does. Nearlaw
 keeps vacant land, so it may charge for grazing or cutting peat there. The clerk
 raises the law on holding animals (II.1.5).
 
-**Relies on:** II.1.5, II.7.1, IV.2.3.1, and Instrument 6.2, 6.4, and 6.8.
+**Relies on:** II.1.5, II.7.1, IV.2.3.1, V.1, V.3, V.4, and V.7.
 
 ### R7. Developer
 
@@ -1117,7 +1163,7 @@ title to, and each buyer takes a house through a direction and a draw, paying
 the sum he asks for what is fixed, or less if five citizens find it nearer what
 a taker with no rival would pay. No one can mortgage title.
 
-**Relies on:** Instrument 6.1, 6.2, 6.6, and 6.7.
+**Relies on:** V.2, V.3, V.4, V.5, and V.6.
 
 ### R8. Planner
 
@@ -1130,7 +1176,7 @@ new housing and a rail line. Wroxia being new, she becomes a citizen on arrival.
 land by force for a railway: it registers, is directed, or keeps what is vacant,
 and one holder can refuse.
 
-**Relies on:** II.7.1 and Instrument 6.2, 6.4, and 6.5.
+**Relies on:** II.7.1 and V.1, V.3, and V.4.
 
 ### R9. Pastoralist
 
@@ -1144,7 +1190,7 @@ Wroxia being new, they become citizens on arrival.
 Anyone may cross land away from homes and crops. The clerk raises the law on
 holding the cattle themselves (II.1.5).
 
-**Relies on:** II.1.5, II.2.5, and Instrument 6.1 and 6.2.
+**Relies on:** II.1.5, II.2.5, V.2, V.3, and V.4.
 
 ### R10. Economist
 
@@ -1158,7 +1204,7 @@ she becomes a citizen on arrival.
 is paid to her like everyone with a quota. Whoever wins a central plot may let
 it at any rent (P73).
 
-**Relies on:** IV.2.3.1 and Instrument 6.2, 6.4, 6.5, and 6.8.
+**Relies on:** IV.2.3.1 and V.1, V.3, V.4, and V.7.
 
 ### R11. Landless organiser
 
@@ -1172,7 +1218,7 @@ become citizens on arrival.
 for farmland as one pool. Occupying land no one has title to gives them no claim
 to it.
 
-**Relies on:** I.2.3, II.7.1, and Instrument 6.2, 6.4, and 6.5.
+**Relies on:** I.2.3, II.7.1, V.1, V.3, and V.4.
 
 ### R12. Property-rights lawyer
 
@@ -1185,7 +1231,7 @@ law. Wroxia being new, they become citizens on arrival.
 death, loss of citizenship, notice, or an unpaid yearly part, and he cannot sell
 it, only direct who takes it first after him.
 
-**Relies on:** II.2.5 and Instrument 6.1, 6.2, 6.3, and 6.6.
+**Relies on:** II.2.5 and V.2, V.3, V.4, and V.5.
 
 ### R13. Tenants' lawyer
 
@@ -1198,7 +1244,7 @@ citizens on arrival.
 letting is at will on both sides and ends with the landlord's title; law cannot
 cap rents.
 
-**Relies on:** II.2.3, II.7.1, III.1.1, and Instrument 6.2 and 6.4.
+**Relies on:** II.2.3, II.7.1, III.1.1, V.1, V.3, and V.4.
 
 ## Adversaries
 
@@ -1221,8 +1267,7 @@ may walk out at any time, and every citizen can take land to live on at once, so
 a dormitory is never a citizen worker's only home. Matters to which a party
 outside Wroxia is a party are farlaw's.
 
-**Relies on:** II.1.3, II.2.3, II.7.1, IV.2.1.1, and Instrument 6.1, 6.2, and
-6.4.
+**Relies on:** II.1.3, II.2.3, II.7.1, IV.2.1.1, V.1, V.2, V.3, and V.4.
 
 ### A2. Mining company
 
@@ -1235,13 +1280,13 @@ untaxed. The villagers are citizens; the company and its staff are not.
 **Must hold:** nothing may be taken from the ground without nearlaw's licence,
 whose rent is paid to citizens equally. Money buys no title: the company can
 only rent land from those with title, and those with title in the valley cannot
-be moved or have their land entered without consent. Pollution is charged at the
-harm done, and any injury or suffering it causes, to people or animals, is
-answered for. Nearlaw cannot tax its profits; farlaw may tax what crosses the
-border.
+be moved or have their land entered without consent. Any injury or suffering its
+pollution causes, to people or animals, is answered for, even where those harmed
+cannot be identified. Nearlaw cannot tax its profits; farlaw may tax what
+crosses the border.
 
-**Relies on:** II.2.1, II.2.3, II.2.5, IV.2.1, IV.2.3, and Instrument 6.1, 6.2,
-and 6.8.
+**Relies on:** II.2.1, II.2.3, II.2.5, IV.2.1, IV.2.3, III.2.1, V.2, V.3, V.4,
+and V.7.
 
 ### A3. Land fund
 
@@ -1259,7 +1304,7 @@ notice only after a year, and that still costs what was last staked, or the
 stake if more. Paying those drawn to decline bars each of them from registering
 again for a year.
 
-**Relies on:** Instrument 6.1, 6.2, 6.5, and 6.6.
+**Relies on:** V.2, V.3, V.4, and V.5.
 
 ## Economic properties
 

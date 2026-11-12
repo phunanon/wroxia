@@ -19,17 +19,23 @@ reports whether the runs agree.
 
 `node workflows/hear.mjs T9 T47 cases.txt` hears Tests by number (or `tests` for
 every Test), and cases in files of `ID: scenario` blocks separated by blank
-lines.
+lines. Every result carries a hash of the law it was heard against, so results
+from an older text can be told apart.
+
+To queue Hearings, add lines of hear.mjs arguments to `workflows/runs/queue.txt`
+and run [drain.mjs](drain.mjs). It hears each line in turn, writing each report
+and log as `runs/hear-<time>.txt` and `.jsonl`, and records each in
+`runs/drained.txt`. It removes a line only once it is heard, so an interrupted
+drain resumes where it stopped, and a second drain exits at once.
 
 ## Residents
 
-A prototype (P69). `node workflows/live.mjs residents` follows each Resident and
-Adversary in [Regression Tests](../RegressionTests.md) (or `R1`, `A1`, or new
-ones in `ID: text` block files) through a few years in Wroxia. Each year they
-say what they try to do and expect, a clerk who sees only the law says what
-happens, and they react. Residents never see the law. Adversaries don't either,
-but each year their lawyer, a second character who knows the law, advises them
-first.
+`node workflows/live.mjs residents` follows each Resident and Adversary in
+[Regression Tests](../RegressionTests.md) (or `R1`, `A1`, or new ones in
+`ID: text` block files) through a few years in Wroxia. Each year they say what
+they try to do and expect, a clerk who sees only the law says what happens, and
+they react. Residents never see the law. Adversaries don't either, but each year
+their lawyer, a second character who knows the law, advises them first.
 
 ## Claude Code workflows
 
