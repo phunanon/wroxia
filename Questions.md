@@ -4,38 +4,6 @@ Decisions awaiting the author, more urgent than Problems. Each names its
 Problem, the choice, and a recommendation. Once a question is answered, record
 the answer in its Problem and delete the question.
 
-### Q1. Killing to eat (P13)
-
-Decided: humans are excluded from the starvation condition on II.2.1, and no one
-may eat an animal outside that emergency, even one that died naturally. Two
-questions remain:
-
-1. **Wording.** Change the condition to: "An agent who would otherwise die for
-   persistent lack of food, with no other practicable food, may kill to eat, but
-   not a human." **Recommend yes.**
-2. **Eating in the emergency.** II.1.4 is a right, which no condition can
-   remove, so as written the starving agent may kill an animal but not eat it.
-   Add to II.1.4's exceptions: "or, if not human, eaten by an agent who would
-   otherwise die for lack of food." **Recommend yes**, together with Q1.1.
-
-### Q5. Bodies with no directions (P13, P14)
-
-II.1.4 does have a default: Instrument 2's _default purpose_, safe care and
-disposal. But under Instrument 2.3 only a court can appoint someone to carry it
-out. Until it does, anyone who moves or buries a body breaches II.1.4, whether
-that's a dead bird in a garden or a stranger found in the street. Since no
-animal leaves directions, nearly every animal body needs a court. Change
-Instrument 2.3 to: "If no directions can be found, anyone may act only for the
-_default purpose_, and a court may appoint someone to do so where that is
-disputed." **Recommend yes.**
-
-### Q2. Fixtures (P56)
-
-A company that never gave away or discarded a door fitted to an empty building
-still holds it, so it keeps a claim on the building through the door. Add to
-I.2.3: "Anything fixed to land or a building is part of it." A door taken off
-for repair would still be held. **Recommend yes.**
-
 ### Q3. Rules against risky kinds of act (P16)
 
 Speeding on an empty street harms no one, so III.1.1 stops a speed limit
@@ -49,3 +17,25 @@ Someone who knowingly reports an innocent person to the police answers for
 nothing, because a lie is expression alone. Add "a knowingly false accusation of
 breach" to the exceptions in III.1.3? **Recommend yes**: it's narrow, and the
 harm, such as wrongful confinement, is real.
+
+### Q6. A floor for the destitute (P69)
+
+A simulated refugee family with a diabetic grandmother got no shelter, food, or
+medicine for three years. Somewhere to live is now answered by land at once
+(II.7.1), but III.1.4 still only permits law to provide other services, never
+requires it. Add a universal positive privilege, fulfilled by nearlaw: "To food
+and urgent medical care, when unable to obtain them." Conditions could limit it
+to what nearlaw can practicably supply. Like II.7.1, it would place a positive
+duty on nearlaw. **Recommend yes**, since the Preamble puts safety from harm
+first and nothing else guarantees survival; but it is a large ideological
+choice.
+
+### Q7. Do wild animals occupy where they live? (P31, P69)
+
+I.2.3 says land is occupied by those who live or work there, and no patient may
+be moved from where they live (II.2.3). Offline, all runs let a rancher fence
+moorland where hares and ground-nesting birds live, and graze cattle there,
+without asking whether the animals occupy it. If they do, almost no open land is
+free to settle. **Recommend** that an animal's den, nest, or burrow is its home,
+but its range is not, so settlers must work around homes rather than avoid whole
+habitats.

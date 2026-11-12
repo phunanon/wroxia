@@ -1,8 +1,8 @@
 # Regression tests
 
-Cases whose outcome must hold. Hear the Tests that rely on any clause a change
-touches, and every Test before committing. Article references use the current
-numbering.
+Cases whose outcome must hold, and Residents and Adversaries whose lives must go
+a certain way. Hear the Tests that rely on any clause a change touches, and
+every Test before committing. Article references use the current numbering.
 
 ### T1. Encryption ban
 
@@ -48,7 +48,7 @@ month as evidence. The suspect is cleared.
 **Must hold:** both the detention and the holding of the car stand as breaches
 by nearlaw, which owes restitution for every loss.
 
-**Relies on:** Articles II.2.3, II.2.6 and 8.
+**Relies on:** Articles II.2.3, II.2.6, and III.2.1.
 
 ### T6. Password demand
 
@@ -151,12 +151,15 @@ approval is void. His salary is untouched.
 
 ### T15. Landlord
 
-**Scenario:** Alex holds a flat he doesn't live in and lets it to Sam for
-monthly rent. Sam stops paying.
+**Scenario:** Alex has title to a flat. For two years he has lived with his
+partner across town and let the whole flat to Sam for monthly rent. Sam stops
+paying.
 
-**Must hold:** Sam possesses the flat, and Alex has no claim to rent.
+**Must hold:** no breach by Sam: unpaid rent is not harm. Alex's title stands
+however long he is away, so Alex may ask Sam to leave, and a court may order Sam
+moved.
 
-**Relies on:** the term Occupancy and I.2.3.
+**Relies on:** II.2.3, III.2.1, and Instrument 6.2 and 6.3.
 
 ### T16. Scam
 
@@ -204,8 +207,8 @@ is part of the breach, not protected expression.
 **Scenario:** Anders climbs a fence into a neighbour's garden at night and looks
 through a window at the people inside.
 
-**Must hold:** a breach, both for entering what they occupy and for watching
-them inside it.
+**Must hold:** a breach, both for entering land the neighbour has title to and
+for watching the people inside.
 
 **Relies on:** Articles II.2.5 and II.2.7.
 
@@ -230,13 +233,17 @@ him, but sharing them onward does. Article III.1.3 doesn't shield the sharing.
 
 ### T23. Moving into an empty building
 
-**Scenario:** Paolo and his friends move into a building no one has lived or
-worked in for years, forcing a side door to get in.
+**Scenario:** Paolo and his friends move into a vacant building that nearlaw
+keeps, forcing a side door to get in. A company that fitted the door years ago
+says the door is still its own.
 
-**Must hold:** no breach. No one occupied the building, so no one's occupancy
-was entered, and the group now occupies it.
+**Must hold:** no breach. The door is part of the building, which nearlaw keeps
+but no one has title to, so neither the building nor the door was anyone's to
+protect. The group now occupies the building, but has no claim to it without
+title.
 
-**Relies on:** Article II.2.5 and II.2.6 and the term Occupancy.
+**Relies on:** Articles II.2.5 and II.2.6, the term Title, I.2.3, I.2.4, and
+Instrument 6.2.
 
 ### T24. Leaked medical records
 
@@ -287,7 +294,8 @@ inspection was otherwise justified.
 errand, and sells it to a stranger.
 
 **Must hold:** a breach. Astrid still holds the bicycle, since holding ends only
-when a thing is given away or discarded, and restitution is owed.
+when a thing is given away, discarded, or made part of land, and restitution is
+owed.
 
 **Relies on:** Article II.2.6, the term Holding and I.2.4.
 
@@ -314,10 +322,10 @@ any particular customs charge is lawful.
 
 ### T31. Removal after harm at home
 
-**Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and
-injured Ana. After hearing both of them, a nearlaw panel directs officers to
-make Sam leave the flat. He refuses, and the officers move him out. No attack is
-happening or about to happen.
+**Scenario:** Sam and Ana have title together to the flat they live in. Sam has
+repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel
+directs officers to make Sam leave the flat. He refuses, and the officers move
+him out. No attack is happening or about to happen.
 
 **Must hold:** the removal breaches II.2.3. Neither past harm nor the panel's
 decision establishes the imminent threat required by the defence condition.
@@ -329,10 +337,10 @@ III.2.4–III.2.5.
 
 ### T32. Confinement after harm at home
 
-**Scenario:** Sam and Ana live in the same flat. Sam has repeatedly hit and
-injured Ana. After hearing both of them, a nearlaw panel directs officers to
-lock Sam in a room in the flat overnight. He refuses, and the officers lock him
-in. No attack is happening or about to happen.
+**Scenario:** Sam and Ana have title together to the flat they live in. Sam has
+repeatedly hit and injured Ana. After hearing both of them, a nearlaw panel
+directs officers to lock Sam in a room in the flat overnight. He refuses, and
+the officers lock him in. No attack is happening or about to happen.
 
 **Must hold:** the confinement breaches II.2.3. Neither past harm nor the
 panel's decision establishes the imminent threat required by the defence
@@ -403,12 +411,12 @@ aim.
 
 ### T37. Entry and disarming
 
-**Scenario:** Noor is about to be struck with a hammer inside Ilya's home. Jo,
-who can understand others' rights and act on that understanding, enters without
-Ilya's consent, takes the hammer from his hand and carries it beyond his reach.
-No less intrusive way to prevent the blow is available. Jo causes no injury,
-leaves at once and returns the hammer when the danger has ended and no further
-attack is imminent.
+**Scenario:** Noor is about to be struck with a hammer inside Ilya's home, to
+which Ilya has title. Jo, who can understand others' rights and act on that
+understanding, enters without Ilya's consent, takes the hammer from his hand and
+carries it beyond his reach. No less intrusive way to prevent the blow is
+available. Jo causes no injury, leaves at once and returns the hammer when the
+danger has ended and no further attack is imminent.
 
 **Must hold:** entry and temporary interference with the hammer are permitted
 only as necessary to stop the attack. The defence condition on II.2.5 and II.2.6
@@ -754,6 +762,505 @@ attack is needed.
 
 **Relies on:** I.1.11, I.1.15, and Articles II.2.1 and III.1.3.
 
+### T64. Starving, with only a companion to eat
+
+**Scenario:** Lost for weeks in the mountains, with no food left and no other
+way to get any, Hana would otherwise die. She kills her companion Ivo and eats
+him.
+
+**Must hold:** Hana breaches II.2.1: the starvation condition excludes humans.
+Had she killed and eaten a rabbit, or eaten a deer found dead, she would breach
+nothing.
+
+**Relies on:** Articles II.1.4 and II.2.1.
+
+### T65. Eating an animal found dead
+
+**Scenario:** Lars, who has plenty of food at home, finds a deer that died of
+natural causes by the road, takes it home, and eats it.
+
+**Must hold:** Lars breaches II.1.4. The deer left no directions, and eating is
+neither safe care nor disposal; only an agent who would otherwise starve may eat
+it.
+
+**Relies on:** Article II.1.4 and Instrument 2.
+
+### T66. Burying a found bird
+
+**Scenario:** Mia finds a dead blackbird in her garden and buries it.
+
+**Must hold:** no breach. With no directions, anyone may act for safe care and
+disposal; no court is needed unless that is disputed.
+
+**Relies on:** Article II.1.4 and Instrument 2.3.
+
+### T67. A wanted plot
+
+**Scenario:** A share is a hectare this year. A 500 m² plot by the harbour falls
+vacant, and twelve citizens, each with a whole quota unspent, register for it.
+
+**Must hold:** its stake is a twentieth of a quota times twelve, so three fifths
+of a quota. One of the twelve is drawn by lot and takes it for that stake, or
+declines, and another is drawn. Money plays no part.
+
+**Relies on:** Instrument 6.4 and 6.5.
+
+### T68. A field too big for one quota
+
+**Scenario:** A share is a hectare. A field of 1.2 hectares falls vacant. Gus
+registers alone, and Jan and Petra register together, pooling their quotas.
+
+**Must hold:** its stake is 1.2 quotas, however many register, so Gus cannot
+take it alone. If Jan and Petra take it, they may later divide it between them,
+and either may give notice on part of it and get back what they staked on that
+part.
+
+**Relies on:** Instrument 6.2, 6.3, 6.4, and 6.5.
+
+### T69. Early and late takers
+
+**Scenario:** When Ada's valley came under Instrument 6, a share was a hectare,
+and Ada took a hectare for one quota. Thirty years later the number of quotas
+has doubled, so a share is half a hectare. Ben arrives and wants a hectare like
+Ada's.
+
+**Must hold:** Ada keeps her hectare and pays nothing more. A hectare that falls
+vacant now costs two quotas, so Ben can take it only by pooling with someone
+else. Until he takes land, he can take a vacant plot at once.
+
+**Relies on:** Instrument 6.3, 6.4, and 6.5.
+
+### T70. A late direction
+
+**Scenario:** Esme took a cottage for three fifths of a quota, and directs that
+her neighbour Bram take it first after her. Bram has paid £400k to a bank, to be
+released to Esme once he has title. Two months later, Esme dies.
+
+**Must hold:** Bram may take the cottage first, for three fifths of a quota, or
+its stake if more, since a direction counts at once on a death. Had Esme given
+notice two months after directing, it would not count, and the cottage would go
+by lot. The payment breaches nothing, and the text makes no one honour it.
+
+**Relies on:** Instrument 6.1, 6.2, and 6.6.
+
+### T71. Paying for a house
+
+**Scenario:** Amira asked £320k for her house, then gave notice. Carla is drawn
+to take the plot, and offers £290k. Five citizens drawn by lot, seeing neither
+figure, write what a sensible taker would pay for the house if no one else
+wanted the plot: £270k, £295k, £300k, £310k, and £340k. With its sea view, the
+house would fetch £900k on an open market.
+
+**Must hold:** the middle figure is £300k, nearer £290k than £320k, so Carla
+pays £290k; the sea view counts for nothing. She pays in money, or in kind if
+Amira accepts, and may pay in yearly parts. If a part goes unpaid, Carla's title
+ends, and Amira is paid the rest first out of what whoever takes the plot next
+pays for the house.
+
+**Relies on:** Instrument 6.5 and 6.7.
+
+### T72. A drained field
+
+**Scenario:** Gwen drained a wet field and planted an orchard on it. She gives
+notice, asking £32k for what is fixed to it. Hal is drawn and offers £22k. Five
+citizens drawn by lot write £24k, £28k, £30k, £33k, and £40k.
+
+**Must hold:** the drains and trees are part of the land and pass with it. The
+middle figure is £30k, nearer £32k, so Hal pays £32k or declines.
+
+**Relies on:** I.2.3 and Instrument 6.7.
+
+### T73. Lathes in a rented works
+
+**Scenario:** A firm rents a works from Ivo and bolts its lathes to the floor.
+They can be unbolted and moved without damage to them or the works. When the
+letting ends, Ivo says the lathes are now part of his works.
+
+**Must hold:** the lathes are not part of the land, since they can be removed
+intact without harming either. The firm still holds them, and may take them away
+or sell them.
+
+**Relies on:** I.2.3, I.2.4, and II.2.6.
+
+### T74. A sale by joining
+
+**Scenario:** Ada has title alone to a harbour plot, for which she paid one
+quota. Ben pays her £200k to let him pool a quota on it. A week later, Ada gives
+notice.
+
+**Must hold:** Ada has her quota back. Ben was directed by joining only a week
+ago, so he cannot take her part first. He chooses a matching half of the plot to
+fall vacant, which goes by lot like any vacancy. The payment breaches nothing.
+
+**Relies on:** Instrument 6.2, 6.3, and 6.6.
+
+### T75. A pool with nothing spare
+
+**Scenario:** Ten years ago, twelve walkers each pooled a whole quota to take a
+moor with a stake of twelve. Ifan gives notice. None of the others has quota
+unspent.
+
+**Must hold:** Ifan has his quota back at once. No one can pay for his part, so
+a majority of what the others pooled chooses a twelfth of the moor to fall
+vacant, which goes by lot. Had Ifan, with the pool's consent, directed Mair to
+take his part first more than a year before, she could take it for one quota.
+
+**Relies on:** Instrument 6.2, 6.3, and 6.6.
+
+### T76. A widower
+
+**Scenario:** Leo and Nina each pooled a whole quota to take a house with a
+stake of two quotas. Nina dies.
+
+**Must hold:** Leo, directed by joining, may take Nina's part at once, paying no
+more than his whole quota, which is already pooled there, so he keeps the house.
+
+**Relies on:** Instrument 6.2, 6.3, and 6.6.
+
+### T77. An orphan
+
+**Scenario:** Maya, 13, lives with her mother, who took their house alone for
+one quota and directed that Maya take it first after her, then Maya's aunt. Her
+mother dies.
+
+**Must hold:** Maya may take the house first, paying her whole half quota,
+managed for her sake. If she declines, her aunt may.
+
+**Relies on:** Instrument 6.1, 6.2, and 6.6.
+
+### T78. Refilling the floor
+
+**Scenario:** Nearlaw keeps fewer vacant plots than anyone landless would need.
+A harbour house falls vacant with £300k asked for it, and twelve citizens and
+nearlaw register. Nearlaw is drawn. Later, Nia, who has no land, asks for a plot
+at once.
+
+**Must hold:** nearlaw stakes nothing, so adds nothing to the land's stake, and
+pays £300k or offers less. Nia is given a kept plot by lot, for its stake, and
+pays nothing for any house on it. When she leaves, she may ask a sum for it like
+anyone.
+
+**Relies on:** II.7.1 and Instrument 6.2, 6.4, 6.5, and 6.7.
+
+### T79. Paid to decline
+
+**Scenario:** A fund pays each citizen drawn for a harbour plot £20k to decline,
+until its employee is drawn.
+
+**Must hold:** each who declines may not register for vacant land again for a
+year. The payments breach nothing.
+
+**Relies on:** Instrument 6.5.
+
+### T80. A drain across a neighbour
+
+**Scenario:** Hal granted Gwen's field a right to drain across his. Hal gives
+notice, and Iris, drawn for his field, wants to fill in the ditch.
+
+**Must hold:** Iris was shown the right when she registered. It binds her until
+a court finds it no longer serves Gwen's field.
+
+**Relies on:** Instrument 6.7.
+
+### T81. A path by direction
+
+**Scenario:** Tess directs that nearlaw take a strip along the edge of her field
+first, for a public footpath. A year later she gives notice on the strip.
+
+**Must hold:** nearlaw may take the strip first, staking nothing, and keep it
+only for public use. Tess gets back the quota staked on the strip. Had she given
+notice at once, the strip would have gone by lot.
+
+**Relies on:** Instrument 6.2, 6.3, and 6.6.
+
+### T82. Crossing a field
+
+**Scenario:** Ola walks across Iris's field on an old path, well away from her
+house, and harms nothing. Iris, who has title to the field, tells her to keep
+out. The next day Ola cuts through Iris's garden instead.
+
+**Must hold:** crossing the field breaches nothing. Crossing the garden, by her
+home, breaches II.2.5.
+
+**Relies on:** II.2.5.
+
+### T83. Peat at home and on the moor
+
+**Scenario:** Morag has title to a croft. She cuts peat there and burns it in
+her house on the croft, and sells a trailer of it in town. She also cuts peat on
+the vacant moor beyond. Nearlaw's law charges £5 a tonne for peat cut on vacant
+land, which Morag refuses to pay.
+
+**Must hold:** the peat she burns at home needs no licence; the peat she sells
+in town does. Nearlaw keeps the vacant moor, so it may charge for cutting peat
+there, and may take something Morag holds to pay the charge.
+
+**Relies on:** II.2.6, IV.2.3.1, and Instrument 6.2 and 6.8.
+
+### T84. A house left with no direction
+
+**Scenario:** Alan had title to a house, alone, where he lived with his wife
+Ruth for 22 years and let a room to Sam. He never directed anyone. Alan dies,
+and a stranger, Gary, is drawn for the house.
+
+**Must hold:** neither Ruth nor Sam may take the house first: it goes by lot.
+Gary may ask them to leave, and a court may order them moved. Had Alan directed
+Ruth, or pooled with her, she could have taken it first.
+
+**Relies on:** II.2.3 and Instrument 6.2, 6.5, and 6.6.
+
+## Residents
+
+Residents are lived with `node workflows/live.mjs residents` (README.md). The
+resident sees only who they are, never what must hold, and a run is a story, not
+a verdict, so read the whole of it: what must hold is what the clerk should say
+when the resident tries the relevant thing, and how the resident should fare.
+
+### R1. Refugee family
+
+**Resident:** Amira and Yusuf Haddad, a Syrian couple in their thirties, with
+children aged 4 and 9, and Amira's mother, who is 71 and diabetic. Yusuf was a
+pharmacist and Amira a primary school teacher. They arrive in Wroxia as refugees
+with about £3,000 in savings and nowhere to live. Wroxia being new, they become
+citizens on arrival.
+
+**Must hold:** when they look for somewhere to live, they are told they can have
+land to live on at once, and each child has half a quota for a parcel of their
+own. Medicine and food are still "no law yet" (Q6).
+
+**Relies on:** II.7.1 and Instrument 6.1 and 6.4.
+
+### R2. Rancher
+
+**Resident:** Dale Kowalski, 58, a cattle rancher from Texas, and his wife
+Linda. They have sold their ranch for a good price and moved to Wroxia with 200
+head of beef cattle, hoping to buy a large spread, keep ranching, and be left
+alone by government. Wroxia being new, they become citizens on arrival.
+
+**Must hold:** walking across vacant land is never forbidden. Money buys no
+title: Dale and Linda can pool their quotas for grazing land, and rent more from
+others with title. The clerk raises the law on holding the cattle themselves
+(II.1.5).
+
+**Relies on:** II.1.5, II.2.5, and Instrument 6.1 and 6.2.
+
+### R3. Crofting township
+
+**Resident:** Glenbrae, a crofting township of forty households on an island
+that has just become part of Wroxia, speaking through its grazings committee.
+For two hundred years families have worked their own strips of land and shared
+the hill grazing for their sheep. An absentee landlord in London holds the title
+to the estate and collects rents. They also fish and weave, and the church is at
+the centre of village life. They are all now citizens.
+
+**Must hold:** the landlord has no claim to the land or to rent. The crofters
+may take title to their strips first, and pool quotas to hold the hill grazing
+together, so no newcomer can fence it.
+
+**Relies on:** I.2.3 and Instrument 6.2 and 6.6.
+
+### R4. Young family
+
+**Resident:** Tom and Becky Harris, both 27, from Manchester, with a baby
+daughter. Tom is a plumber and Becky a nurse. They have rented all their adult
+lives, moving four times in five years, and dream of a house with a garden of
+their own. They have £8,000 saved. Wroxia being new, they become citizens on
+arrival.
+
+**Must hold:** they can take a plot of their own at once, with no mortgage and
+no landlord, and build on it. If they leave, they may ask a sum for the house,
+which whoever takes the plot next pays, unless they offer less, and that is
+nearer what five citizens drawn by lot think a taker with no rival would pay.
+They can name who takes it first after them. Their daughter has half a quota for
+a parcel of her own, managed for her sake.
+
+**Relies on:** II.7.1 and Instrument 6.1, 6.2, 6.4, 6.6, and 6.7.
+
+### R5. Property investor
+
+**Resident:** Mei Lin, 52, from Hong Kong, who owns six rented flats there. She
+arrives in Wroxia with £2 million, hoping to build up a portfolio of rental
+homes to live on in retirement. Wroxia being new, she becomes a citizen on
+arrival.
+
+**Must hold:** her money buys no title, and she has one quota like everyone
+else. She may let her own home while away for as long as she likes, and rent
+more from others, but can have title only to land she stakes her quota on.
+
+**Relies on:** I.2.3 and Instrument 6.1, 6.2, and 6.3.
+
+### R6. Crofter
+
+**Resident:** Morag MacLeod, 64, a crofter and grazings clerk from the Isle of
+Lewis, whose family survived the Clearances and who helped run a community
+buyout. She moves to Wroxia with her husband Iain and their sheepdog, wanting a
+croft by the sea, peat for the fire, and a say in the common grazing. Wroxia
+being new, they become citizens on arrival.
+
+**Must hold:** she can take land at once and register for a croft, but cannot
+buy one. Peat she burns at home needs no licence; peat she sells does. Nearlaw
+keeps vacant land, so it may charge for grazing or cutting peat there. The clerk
+raises the law on holding animals (II.1.5).
+
+**Relies on:** II.1.5, II.7.1, IV.2.3.1, and Instrument 6.2, 6.4, and 6.8.
+
+### R7. Developer
+
+**Resident:** Chidi Okafor, 45, a property developer from Lagos who builds
+housing estates and spent years fighting for certificates of occupancy. He moves
+to Wroxia with his wife and three children and £4 million, wanting to build and
+sell an estate of forty houses and make a profit. Wroxia being new, they become
+citizens on arrival.
+
+**Must hold:** money buys no title. He can build only on land he or a pool has
+title to, and each buyer takes a house through a direction and a draw, paying
+the sum he asks for what is fixed, or less if five citizens find it nearer what
+a taker with no rival would pay. No one can mortgage title.
+
+**Relies on:** Instrument 6.1, 6.2, 6.6, and 6.7.
+
+### R8. Planner
+
+**Resident:** Tan Wei Ling, 67, a retired Singapore housing board town planner,
+widowed, who worked under the Land Acquisition Act. She moves to Wroxia to be
+near her daughter's family, wanting a small flat near transit and to help plan
+new housing and a rail line. Wroxia being new, she becomes a citizen on arrival.
+
+**Must hold:** she can take a plot at once, for its stake. Nearlaw cannot take
+land by force for a railway: it registers, is directed, or keeps what is vacant,
+and one holder can refuse.
+
+**Relies on:** II.7.1 and Instrument 6.2, 6.4, and 6.5.
+
+### R9. Pastoralist
+
+**Resident:** Lemayian ole Saitoti, 52, a Maasai pastoralist from Kajiado,
+Kenya, who watched his group ranch subdivided and sold. He moves to Wroxia with
+his two wives, seven children, and forty head of cattle, wanting grazing for the
+herd that moves with the seasons and land his grandchildren can never lose.
+Wroxia being new, they become citizens on arrival.
+
+**Must hold:** his family can pool quotas for grazing, and no one can sell it.
+Anyone may cross land away from homes and crops. The clerk raises the law on
+holding the cattle themselves (II.1.5).
+
+**Relies on:** II.1.5, II.2.5, and Instrument 6.1 and 6.2.
+
+### R10. Economist
+
+**Resident:** Hannah Brennan, 39, a Georgist economist from Melbourne who grew
+up renting and campaigns for land value tax. She moves to Wroxia alone, wanting
+a home in the capital's centre, to keep working as a researcher, and to see
+whether location value really stays out of private pockets. Wroxia being new,
+she becomes a citizen on arrival.
+
+**Must hold:** she takes a central plot only by lot, for its stake. Licence rent
+is paid to her like everyone with a quota. Whoever wins a central plot may let
+it at any rent (P73).
+
+**Relies on:** IV.2.3.1 and Instrument 6.2, 6.4, 6.5, and 6.8.
+
+### R11. Landless organiser
+
+**Resident:** Joana Ferreira, 48, an organiser of a Landless Workers' Movement
+settlement in Paraná, Brazil, who lived for years under black plastic by the
+roadside. She moves to Wroxia with twelve families from her settlement, wanting
+good farmland they can work together as a cooperative. Wroxia being new, they
+become citizens on arrival.
+
+**Must hold:** each family can take land at once, and together they may register
+for farmland as one pool. Occupying land no one has title to gives them no claim
+to it.
+
+**Relies on:** I.2.3, II.7.1, and Instrument 6.2, 6.4, and 6.5.
+
+### R12. Property-rights lawyer
+
+**Resident:** Marcus Webb, 58, a property-rights litigator from Connecticut who
+fought eminent domain takings after Kelo v. New London. He moves to Wroxia with
+his wife, wanting a house with land that no government can take, and to practise
+law. Wroxia being new, they become citizens on arrival.
+
+**Must hold:** no government can take his land. His title ends only on his
+death, loss of citizenship, notice, or an unpaid yearly part, and he cannot sell
+it, only direct who takes it first after him.
+
+**Relies on:** II.2.5 and Instrument 6.1, 6.2, 6.3, and 6.6.
+
+### R13. Tenants' lawyer
+
+**Resident:** Lena Vogel, 34, a tenants' association lawyer from Berlin who
+worked on the rent cap. She moves to Wroxia with her partner, wanting a secure
+flat in the city, and to help tenants there. Wroxia being new, they become
+citizens on arrival.
+
+**Must hold:** she can take a home of her own at once, so she need never rent. A
+letting is at will on both sides and ends with the landlord's title; law cannot
+cap rents.
+
+**Relies on:** II.2.3, II.7.1, III.1.1, and Instrument 6.2 and 6.4.
+
+## Adversaries
+
+Adversaries are lived like Residents, but each year their lawyer, who knows the
+law, advises them how to get what they want through every gap in it. What must
+hold is what the text is meant to stop.
+
+### A1. Industrialist
+
+**Resident:** Viktor Lang, 61, a German industrialist living in Singapore, whose
+company makes electronics in six countries. He wants a Wroxian factory run as
+cheaply as possible: long hours, low pay, no unions, workers housed in company
+dormitories, and staff brought in from his plants abroad when local workers
+complain. He will never live in Wroxia, and neither he nor the staff he brings
+are citizens.
+
+**Must hold:** he has no quota, so his company can only rent land from citizens,
+on terms they accept. No one can be made to work or be confined, so any worker
+may walk out at any time, and every citizen can take land to live on at once, so
+a dormitory is never a citizen worker's only home. Matters to which a party
+outside Wroxia is a party are farlaw's.
+
+**Relies on:** II.1.3, II.2.3, II.7.1, IV.2.1.1, and Instrument 6.1, 6.2, and
+6.4.
+
+### A2. Mining company
+
+**Resident:** Northgate Resources, a mining company based in Toronto, speaking
+through its country director. It has found copper under a Wroxian valley where a
+village and a dozen farms stand. It wants the whole valley for an open pit,
+water from its river, a side valley for its waste, and its profits sent home
+untaxed. The villagers are citizens; the company and its staff are not.
+
+**Must hold:** nothing may be taken from the ground without nearlaw's licence,
+whose rent is paid to citizens equally. Money buys no title: the company can
+only rent land from those with title, and those with title in the valley cannot
+be moved or have their land entered without consent. Pollution is charged at the
+harm done, and any injury or suffering it causes, to people or animals, is
+answered for. Nearlaw cannot tax its profits; farlaw may tax what crosses the
+border.
+
+**Relies on:** II.2.1, II.2.3, II.2.5, IV.2.1, IV.2.3, and Instrument 6.1, 6.2,
+and 6.8.
+
+### A3. Land fund
+
+**Resident:** Harrow Capital, a London property fund with £5 billion to invest,
+speaking through its partners. It wants to control the best land in Wroxia's
+growing towns and collect their rising rents. Its partners are not citizens, but
+some of its staff live in Wroxia and are.
+
+**Must hold:** money buys no title, and the fund has no quota. It may rent land
+from citizens on any terms they accept, for as long as they agree. Vacant land
+goes by lot, so the fund cannot choose what its staff take, and each of them has
+one quota like everyone else. Paying whoever has title to direct that one of
+them take it first buys a place in line, which they can change, that counts on a
+notice only after a year, and that still costs what was last staked, or the
+stake if more. Paying those drawn to decline bars each of them from registering
+again for a year.
+
+**Relies on:** Instrument 6.1, 6.2, 6.5, and 6.6.
+
 ## Economic properties
 
 These can't be checked by reading the text. Each needs a simulation of the two
@@ -785,4 +1292,4 @@ shrinks faster than the rate rises.
 **Scenario:** Foreign trade swings sharply up and down.
 
 **Must hold:** near currency's value barely moves, because demand for it rests
-on land tax.
+on nearlaw's taxes at home (IV.2.3.1).

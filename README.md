@@ -1,33 +1,36 @@
-# Wroxia Constitution Project
+<p align="center"><img src="Wroxia.svg" alt="Flag of Wroxia" width="312"></p>
 
-## Files
+# Wroxia
 
-- [The Constitution](Constitution.md) and its [Instruments](Instruments.md).
-- [Regression Tests](RegressionTests.md): cases whose outcome must hold.
-- [Problems](Problems.md): what is wrong with or missing from the Constitution.
-- [Questions](Questions.md): decisions awaiting the author, answered first.
-- [Online](workflows/online/AGENTS.md) and
-  [offline](workflows/offline/AGENTS.md) Hearings: two ways of hearing the same
-  cases.
+A constitution for a hypothetical country, kept short enough for everyone it
+governs to know.
 
-## Hearings
+> We who live in Wroxia establish this constitution so that every being able to
+> fare well or badly is safe from harm, so that each person is as free as that
+> safety allows, and so that the law stays short enough for everyone it governs
+> to know it.
 
-A Hearing is a quick clerical check of the current text, not a record. Each case
-goes to fresh, isolated models that see only the Constitution, the Instruments
-and the case, twice to each of two models, and come back as JSON. The script
-reports whether the runs agree; the main agent does the thinking.
+## Read it
 
-1. **Pick.** Choose the Problems a change targets and the Tests that rely on the
-   clauses it touched. Write new cases as blocks of `ID: scenario` separated by
-   blank lines. Now and then, add a blind case: a neutral account of a real
-   crime or dispute from a fresh agent that knows nothing of Wroxia.
-2. **Hear.** `node workflows/online/hear.mjs T9 T47 cases.txt` (or `tests` for
-   every Test).
-3. **Review.** A split means the text is unclear. Agreement on the wrong answer
-   means the text is wrong. Agreement on the right answer means the Problem is
-   resolved: delete it. Its spirit now lives in the Constitution; add a Test
-   only if a specific outcome is worth guarding.
-4. **Repeat** until the change holds, then hear every Test once before
-   committing. The commit message says what was heard and what changed.
+- [The Constitution](Constitution.md), and its [Instruments](Instruments.md):
+  the procedures its articles share.
+- [Regression Tests](RegressionTests.md): cases whose outcome must hold, and
+  lives the law must serve.
+- [Problems](Problems.md): what is still wrong or missing.
+- [Questions](Questions.md): decisions awaiting the author.
+- [Beliefs](Beliefs.md): what I want the constitution to deliver.
+- [Roadmap](Roadmap.md): what a constitution needs, and how far each part has
+  come.
+- [Essays](essays/): dated design notes.
 
-Nothing is saved. Git keeps earlier texts and deleted Problems for posterity.
+## How it's tested
+
+Every change is checked against the text alone. In a Hearing, fresh language
+models that know nothing but the law judge a case: a split means the text is
+unclear, and agreement on the wrong answer means it is wrong. Simulated
+residents live a few years under the law without reading it, and newcomers from
+around the world debate it. [AGENTS.md](AGENTS.md) describes the work, and
+[workflows](workflows/AGENTS.md) how to run it.
+
+Earlier texts and resolved Problems are kept in Git's history. Released under
+[CC0](LICENSE).

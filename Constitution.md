@@ -1,4 +1,4 @@
-<p align="center"><img src="Wroxia.png" alt="Flag of Wroxia" width="312" height="192"></p>
+<p align="center"><img src="Wroxia.svg" alt="Flag of Wroxia" width="312"></p>
 
 # Constitution of Wroxia
 
@@ -28,7 +28,7 @@ know it.
    refraining from action.
 8. **Positive** (adjective, of a right or privilege): fulfilled by action of the
    government in whose domain it falls.
-9. **Occupancy** (noun): making land or a building one's home or workplace.
+9. **Occupancy** (noun): making land one's home or workplace.
 10. **Holding** (noun): keeping a thing for one's own use.
 11. **Suffering** (noun): pain, fear, or distress felt by a patient.
 12. **Torture** (noun): deliberately causing severe suffering, to punish, to
@@ -38,6 +38,7 @@ know it.
     case under law.
 15. **Threat** (noun): expression addressed to a patient, meant to make them
     fear harm.
+16. **Title** (noun): a claim to land gained under Instrument 6.
 
 ### I.2. Application
 
@@ -45,10 +46,12 @@ know it.
 2. Only an agent can breach a right or privilege. A human is presumed to have
    been an agent when acting, unless evidence shows otherwise. Capacity is
    established under Instrument 3.
-3. Land and buildings are occupied by those who live or work there, and no one
-   has any claim to them except by occupancy.
+3. Land includes buildings, water on it, and anything fixed to it that cannot be
+   removed intact without harming either. Land is occupied by those who live or
+   work there, but no one has any claim to it except by title.
 4. A thing one has lent is still held. Holding ends only when the thing is given
-   away or discarded, and no one has any claim to a thing except by holding it.
+   away, discarded, or made part of land, and no one has any claim to a thing
+   except by holding it.
 5. A waiver, consent, direction, or renunciation given under duress, or obtained
    by deception, is void.
 
@@ -62,9 +65,10 @@ Every patient has the right:
 2. Not to be compelled to reveal, or give access to, information they withhold.
 3. Not to be compelled to work, or to take part in any public scheme of work or
    exchange.
-4. Not to have their body, after death, held or used except as they directed, or
-   under Instrument 2 (_default purpose_ safe care and disposal, _Advocate_
-   Negative Rights Advocate).
+4. Not to have their body, after death, held or used except as they directed.
+   Their directions are followed under Instrument 2 (_default purpose_ safe care
+   and disposal, _Advocate_ Negative Rights Advocate). If they were not human,
+   an agent who would otherwise die for lack of food may eat their body.
 5. Not to be held by anyone as a thing.
 
 ### II.2. Universal negative privileges
@@ -81,20 +85,24 @@ Every patient has the privilege:
    as to death only through the Negative Privileges Advocate. Conditions:
    - Defence under II.2.
    - An agent who would otherwise die for persistent lack of food, with no other
-     practicable food, may kill to eat.
+     practicable food, may kill to eat, but not a human.
 2. Not to be put at unreasonable risk of death, injury, or suffering by others.
    Conditions:
    - Defence under II.2.
 3. Not to be confined, or moved from where they live. Conditions:
    - Defence under II.2.
+   - A court may order someone moved from land to which they have no title, if
+     whoever has title has asked them to leave.
 4. To leave Wroxia.
-5. Not to have land or buildings they occupy entered or used without their
+5. Not to have land to which they have title entered or used without their
    consent. Conditions:
    - Defence under II.2.
+   - Any patient may cross land, away from homes and crops, causing no harm.
 6. Not to have things they hold taken, damaged, or used without their consent.
    Conditions:
    - Defence under II.2.
-   - A thing may be taken to make restitution owed under III.2.
+   - A thing may be taken to make restitution owed under III.2, or to pay a
+     charge under IV.2.3.1.
 7. Not to be watched or recorded in a place they occupy, nor to have their
    communications, or records about them, read, copied, or shared, without their
    consent. Whoever they address or entrust one to may read and keep it, but not
@@ -127,7 +135,10 @@ None yet.
 
 ### II.7. National positive rights
 
-None yet.
+Every citizen has the right:
+
+1. If human and aged 18 or over, to an equal quota for land, and to land to live
+   on at once, under Instrument 6.
 
 ### II.8. National positive privileges
 
@@ -193,6 +204,9 @@ Every citizen has the privilege:
 2. Each government issues its own currency.
 3. Each government raises taxes only from matters within its own domain, payable
    only in its own currency.
+   1. Nearlaw raises only a fixed sum a year from each person's share of licence
+      rent under Instrument 6, never more than it; charges for pollution, set by
+      a court at the harm done; and charges for using land it keeps.
 4. Each government may keep its own forces and police, which enforce only that
    government's law.
 5. Every matter is nearlaw unless shown to be farlaw. Which government a matter

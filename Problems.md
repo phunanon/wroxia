@@ -10,8 +10,12 @@ Article references use the current numbering.
 ## From the second hearings
 
 P1, P2, P4, P6, P7 and P9 were confirmed at the third hearings and removed; P8,
-P20, P43 and P53 at the 5 November hearings. P5 was only partly confirmed; notes
-below. P3 waits for the redesign in P31.
+P20, P43 and P53 at the 5 November hearings. P5 was folded into P56 on 9
+November. P24, P25, and P58 closed on 10 November with Living Space, now
+Instrument 6, and P70 on 11 November. P74 and P75 were drafted away on 11
+November, to be heard with T67 to T81. P76 was decided on 11 November: lettings
+are at will on both sides, with no contract law (P51), and end with title;
+tenancy is expected to be rare. P3 waits for the redesign in P31.
 
 ### P3. Public things belong to no one
 
@@ -49,29 +53,11 @@ title or making an organisation a patient. Who counts as a user, how users
 consent together, and how use may change without enclosure remain open under
 P31/P40; the shared-place addition is not ready to adopt.
 
-### P5. A long lapse period could restore absentee ownership (applied)
-
-The lapse period is left to ordinary law, so a future parliament could set it at
-50 years. Both arbiters also wondered whether an "owner" has some entitlement
-beyond possession.
-
-> Revised direction: drop "unused" entirely, since any use test invites token
-> gestures, like planting a few potatoes to show croft land is "in use". Under
-> P4, occupancy is a fact: where someone lives or works. Land that is no one's
-> home or workplace is unoccupied and open to settlement (see P31), and land
-> value tax prices occupying more than one's share. Keep "No one holds land or
-> things except by occupancy or holding." Open option: a person occupies one
-> home at a time.
-
-**Third hearings:** the empty-building case was still unclear in both hearings.
-Open edges: whether the forced door is a thing the absent owner still _holds_,
-since holding ends only when a thing is given away or discarded; whether
-occasional use, storage or intended return counts as occupancy; and whether an
-owner that is a company can occupy anything (P40).
-
-**Hearings (5 November):** T23 now mostly passes; one run still asked whether
-the door is held. See P56 for the fixture probe, which shows that the doubt is
-real.
+**Living Space (10 November):** parks, roads, and courts are land a government
+keeps for public use (Instrument 6.2), so nearlaw has title to them. A rough
+sleeper in a park can be moved only by a court, and only if they can take a home
+at once; a park keeper carrying a refugee's mother out without a court order was
+a breach in both runs (LS18). This answers the former Q8.
 
 ## Recurring gaps
 
@@ -246,88 +232,6 @@ II.1.3 and III.2.8.
 
 ## Open choices from drafting
 
-### P13. Killing to eat
-
-The starvation condition on II.2.1 is species-blind, so any condition letting
-someone kill an animal to eat also lets them kill a person to eat, and III.1.2
-rules out a lower bar for animals. Keep the bar at death, lower it for everyone,
-or drop the condition.
-
-**Hearings (5 November):** a probe in which a starving Arlo kills Bea and eats
-her split, and the split shows a new edge. Every run found the killing permitted
-by the condition. But Haiku held that eating the body breaches II.1.4, an
-absolute right with no starvation exception, since Bea gave no directions; one
-Luna run found the same unclear. As written, the condition permits killing to
-eat but not eating, so it either does nothing or II.1.4 needs a matching
-exception.
-
-**Decided (9 November):** humans are excluded: no emergency justifies killing a
-person to eat. Eating a human body by its owner's directions stays possible
-under II.1.4. No one may eat an animal outside that emergency, even one that
-died naturally, as its directions go unrecorded. Wording, and eating in the
-emergency, are Q1; handling bodies with no directions is Q5.
-
-### P14. The coroner
-
-Article II.1.4 now protects the deceased's directions, with a limited court
-fallback under 8.10. This replaces the named person's unrestricted control. No
-compulsory investigative examination is authorised merely because it would be
-useful. Test T7 still lacks the deceased's examination directions and remains
-undecided on those facts.
-
-**Third hearings:** as predicted, both hearings held that the named person
-controls the body and the coroner may not examine it. Both flagged that a
-possible killing then can't be investigated.
-
-**Discussion (4 November):** prefer exploring a freely chosen sequence of
-custodians over assuming a compulsory coroner exception. A person could name a
-coroner for a limited examination, then someone else for care or disposal, with
-substitutes if either dies or cannot act. A nomination to an office needs a rule
-making it pass to the next office-holder; an individual's death cannot silently
-transfer the body to their heirs. Do not treat custody as unrestricted
-ownership, or give the custodian power to defeat the deceased's directions.
-
-Open: the default when no effective nomination survives; how a nomination is
-recorded and revoked; how duress is checked; and whether a successor may
-authorise anything the deceased did not. The Negative Privileges Advocate is a
-possible default, but IV.4.3 does not expressly extend its role beyond death.
-Test examination within and beyond a recorded nomination, then the death of the
-first custodian with and without a surviving substitute. Keep T7 undecided until
-this policy is chosen.
-
-**Applied draft (4 November), not yet heard:** II.1.4 and 8.10 now protect
-directions, allow successive nominees and office-holders, and permit a court to
-authorise only the nearest lawful, practicable replacement for an unworkable
-direction. Other workable directions survive; refusing examination does not
-itself justify overriding that refusal. With no directions found, appointment is
-limited to safe care and disposal. The court hears reachable nominees and the
-Negative Rights Advocate, gives reasons and allows review. Directions obtained
-by duress or deception are void under I.2.5. No one can be compelled to serve
-under II.1.3. Still open: recording and finding directions, urgent care before a
-court can act, disputed cost or practicability, and irreconcilable directions.
-T47–T51 test the new boundaries; P14 remains open.
-
-**Procedure extracted (4 November), not yet heard:** 8.10 now invokes Instrument
-2 for nomination, succession and the court fallback, with safe care and disposal
-as the default purpose and the Negative Rights Advocate heard. The
-examination-refusal safeguard remains in 8.10. This is the Instrument's only
-application; it grants no custody over living patients. Any later use for
-nominated care or decisions for a living patient needs separate authority and
-safeguards under P47, including consent, revocation and the existing protection
-against confinement.
-
-**Hearings (5 November):** the applied procedure holds. T47 and T48 agreed as
-intended. T49–T51 agreed on the outcome, but split on `forbiddable`, as the
-question fits these cases badly. In T51 one run read the coroner's request
-itself as a breach. T7 split between no breach and unclear, as expected for
-facts deliberately left open. What remains is drafting detail (recording
-directions, urgent care, cost, conflicting directions), not the principle.
-
-**Folded (5 November), not yet heard:** 8.10 is gone; II.1.4 invokes Instrument
-2 directly. The sentence "a refusal of examination is not itself an unworkable
-direction" is dropped as implied: Instrument 2 replaces only a direction that
-cannot be followed, and a refusal always can.
-
 ### P16. Enforcing risk rules without punishment
 
 A speed limit is valid, because speeding puts others at risk, but with no
@@ -373,6 +277,12 @@ Survey, registration, count dates and corrections remain open; see P49. The
 sizing rule does not itself assign citizenship administration to either
 government.
 
+**Author's note (9th Nov)**: I'd like to make citizenship "sticky" - that if a
+government grants it, revoking it becomes difficult. E.g. each day of
+citizenship grants one day grace period, and that children can't have their
+citizenship revoked at all (but could upon turning 18, with an 18 year grace
+period)
+
 ### P21. False reports to the authorities
 
 Nothing addresses someone knowingly reporting innocent conduct to the
@@ -390,69 +300,34 @@ An inspector who sees harm and does nothing breaches nothing as written. Whether
 people acting in a government's name have duties to act, not just limits, is
 undecided.
 
-### P23. What counts as possessed
+### P23. What counts as held
 
-Unclear cases: cash in a till, which a worker holds for the shop; bank balances;
-digital accounts and messages; and whether copying something takes it when the
-original remains.
+Land is settled: it is claimed only by title, and anything fixed to it that
+cannot be removed intact is part of it (I.2.3–I.2.4). Unclear: cash in a till,
+which a worker holds for the shop; bank balances, loyalty points, and other
+claims on a bank or scheme; digital accounts, cloud storage, and data; whether
+copying takes something when the original remains; whether a sealed parcel is a
+communication; and who has a claim to stolen goods a third person bought.
 
-**Third hearings:** the bank scam was unclear in both hearings, solely because
-money in an account may not be a "thing" Jo holds. Also raised: whether cloud
-storage and data can be held, whether a sealed parcel is a communication or
-record, and who has a claim to stolen goods a third person bought.
+**Direction (4 November):** claims on a bank or scheme do not become held things
+by assumption (P51); direct control alone must not let theft confer a claim; and
+holding should protect a toothbrush through ordinary absence without turning
+every loan into a perpetual income-bearing title. Keep any cryptocurrency case
+separate.
 
-**Direction (4 November):** do not add special constitutional protection for
-bank balances or make promises held things merely to satisfy T16. Claims on a
-bank or a points scheme do not become possessions by assumption (P51). Physical
-cash, direct control of digital assets, custody for another and collective use
-need separate treatment; direct control alone must not make theft confer a
-claim. Holding should protect a toothbrush or phone through ordinary absence
-without turning every loan into a perpetual income-bearing title. The present
-inclusion of lent things is an edge to test, not a settled answer against
-absentee ownership.
-
-**Candidate, not applied:** alongside P3's shared-holding wording, add "Land and
-buildings can be claimed only by occupancy." This prevents a movable thing's
-continuing holding rule from becoming an alternative land title. It does not
-settle whether a fitted door or lift can be claimed separately to defeat
-occupation of an otherwise empty building (P5). Do not introduce a
-use-it-or-lose-it rule for personal possessions merely to address absentee
-landholding.
+**Hearings (5 November):** T16 (bank scam) and a loyalty-points scam both agreed
+as breaches of II.2.6, the models treating such claims as held by assumption,
+which the text has not decided. Cash taken from a till was a breach in every
+run, with Haiku asking whether the worker or the shop holds it.
 
 **Proposed cases:** personal use versus custody for another; a cooperative's
-shared tool versus an outside investor's claim; and a deceptive transfer of
-physical cash versus a bank balance versus loyalty points. Keep any
-cryptocurrency case separate: possession of a key, consent to transfer and
-competing claims must be specified, not assumed settled.
-
-**Hearings (5 November):** T16 (bank scam) now agrees as a breach of II.2.6. A
-loyalty-points scam also agreed as a breach, though Haiku asked whether points
-are held at all. The models are treating claims on a bank or scheme as held
-things by assumption, which is exactly what the direction above warns against;
-the text has not decided it. Cash taken from a till was a breach in every run,
-with Haiku asking whether the worker or the shop holds it.
+shared tool versus an outside investor's claim; and a deceptive transfer of cash
+versus a bank balance.
 
 ## Decided in the corpus, not yet in the constitution
 
 These were endorsed in the corpus (archived in wroxia-archive.zip) but never
 carried over.
-
-### P24. No tax on labour or exchange
-
-Under MMT, taxes needn't fund the state, so they can be confined to land,
-crossings and harms. Article IV.2.3 limits each government to its own domain but
-doesn't rule out income or sales taxes.
-
-**Hearings (5 November):** a 10% wage tax was not itself found unlawful: every
-run read III.1.4 as permitting taxes. See P58 for the larger finding that no tax
-can be collected without consent.
-
-### P25. Land value tax and the land allowance
-
-Nearlaw's tax is never named. The birthright allowance (pay LVT only on value
-above your per-person share) and deferral for the land-rich, cash-poor were left
-open, and the allowance now also underpins the community land-pricing idea in
-P31.
 
 ### P26. Territory and conquest
 
@@ -486,62 +361,25 @@ for nearlaw and a Warden for farlaw, chosen by election, by lot, or a mix.
 Article 10 on rendering has since been folded into Positive (I.1.8); law-making
 is now IV.3, which leaders could join.
 
-### P31. A third relationship: chosen communities
+### P31. Chosen communities
 
 Farlaw contains dangerous powers but is small in daily life, so it gives
-citizens little plurality. One framing is three relationships: to the world
-(farlaw), to the land (nearlaw, slimmed to land, commons and shared courts) and
-to one another (communities people choose to join). Communities could make
-consensual rules, run their own services, economy and currency, and settle
-members' disputes, with exit always open and the universal rights binding them
-all.
+citizens little plurality. One framing is four relationships: to the world
+(farlaw), to the land (nearlaw), to a place (commons, P3), and to one another:
+communities people choose to join, which could make consensual rules, run their
+own services, economy (P27), and currency, and settle members' disputes, with
+exit always open and the universal rights binding them all.
 
-A community could settle unpossessed land, paying land value tax on any area
-beyond its members' combined allowances, so its size tracks its population
-through price rather than redrawn borders. Unresolved: most "unclaimed" land is
-where wild animals live; who judges disputes between members of different
-communities; when children can choose to leave; and whether people belong to one
-community or several.
+Communities can already have land, since members may pool quotas and have title
+together (Instrument 6.2). Commons bodies, holding streets, parks, and water
+with by-laws made by those who live there, as in Elinor Ostrom's studies, remain
+an idea; nearlaw keeps such land for public use.
 
-**Proposal: four relationships (with P3)**
-
-Every person relates to four bodies, each on a different basis, and none has a
-total claim on them.
-
-1. **Farlaw: the world.** Unchanged.
-2. **Nearlaw: rights and land.** Shrinks to the shared courts, support for the
-   Advocates, land value tax with the land allowance, and the near currency. It
-   owns almost nothing itself.
-3. **Commons: where you live.** Small geographic bodies holding streets, parks,
-   water and other shared things, with by-laws made by their own residents,
-   perhaps in rotation chosen by lot. Membership is simply living there, so each
-   commons grows and shrinks with its population on its own. Each is funded by a
-   share of the land value tax raised in its area, so it gains when more people
-   live there and the land is worth more. This follows Elinor Ostrom's findings:
-   the users make the rules, watch over them, and settle disputes locally. It
-   answers P3.
-4. **Communities: who you choose.** Voluntary associations, with or without
-   land, that can run services, an internal economy (the labour-hour economy in
-   P27 is one candidate), dues and their own currency, and settle disputes among
-   members. Exit is always open, the universal rights bind them all, and
-   disputes between members of different communities go to nearlaw's courts.
-
-**Settling land.** A community may settle unoccupied land, paying land value tax
-on any area beyond the combined allowances of members who actually live there.
-It may not move any patient from where they live (Article II.2.3), so it must
-find land where no animal lives, or share it with those who do.
-
-**What it answers.** Plurality: four relationships resting on the world, land,
-place and choice. Proportional size: commons by residence, community land by
-price. Opting out (P37): anyone can leave every community, while the commons and
-nearlaw remain as a floor.
-
-**Footprint.** Two short articles, Commons and Communities, plus a line giving
-commons their share of land value tax.
-
-**Still open:** one community or several; how commons and communities take part
-in law-making (P36); when a child can leave a community; and the least a commons
-must provide.
+**Still open:** whether a community can hold things or breach rights (P40); one
+community or several; who judges disputes between members of different
+communities; when a child can leave; how commons and communities take part in
+law-making (P36); the least a commons must provide; and whether fencing or
+grazing land moves wild animals from where they live (II.2.3, P69 L2).
 
 **Remarks (2 November):** needs very deep thought before anything is drafted.
 Two named dangers: small communities turning into the worst kind of homeowners'
@@ -703,11 +541,10 @@ prove it.
 
 ### P39. Inheritance and accumulation
 
-Nothing says what happens to possessions at death. Land passes to whoever lives
-or works on it, but money and other things are unaddressed. The founding aim was
-to prevent wealth concentrating rather than redistribute it afterwards;
-possession and land value tax do this for land, but nothing yet does it for
-money.
+Nothing says what happens to money and other things at death; land is settled by
+Instrument 6.3 and 6.6. The founding aim was to prevent wealth concentrating
+rather than redistribute it afterwards; quotas do this for land, but nothing yet
+does it for money.
 
 **Hearings (5 November):** confirmed. A son taking cash left in his late
 mother's drawer, with no directions, came out unclear in every run.
@@ -1008,47 +845,19 @@ can protect themselves without law: giving each person a subtly different copy
 cryptographically so several holders are needed to reveal it (Shamir's secret
 sharing, 1979; the "two-person rule") means no one person can leak it.
 
-### P56. Where occupancy ends and holding begins
+### P56. Where occupancy ends
 
-Articles II.2.5 and II.2.6 protect occupancy and holding respectively, but do
-not settle whether land or buildings, or their fitted doors and lifts, can also
-be held as things. Part I's application rules allow claims to land and buildings
-only by occupancy, while holding continues until a thing is given away or
-discarded. A claim to a fixture could therefore defeat occupancy of an otherwise
-empty building, or give an absent person control of a shared place. This gathers
-the boundary question from P5/P23; P3/P31/P40 retain the separate questions of
-commons and collective decisions.
+Land includes buildings and anything fixed that cannot be removed intact, and is
+claimed only by title; anything removable intact stays held (I.2.3–I.2.4,
+unheard; hear T23 and T73). Occupancy now only marks where someone lives or
+works, which matters for privacy (II.2.7) and for who may take land first when
+it comes under Instrument 6 (6.6). Still open, for these and for where someone
+lives (II.2.3): whether occasional use, storage, or intended return counts, and
+whether a company can occupy anything (P40).
 
-The split into separate occupancy and holding privileges clarifies which acts
-and conditions belong to each, but does not itself decide what can be held. Do
-not silently settle that question by adding "movable" to Holding or excluding
-every fixture: either could remove protection without replacing it.
-
-**Applied editorial split (4 November), not yet heard:** occupancy is now II.2.5
-and holding II.2.6. Both refer to defence under II.2; taking for restitution is
-a condition only on holding. Privacy and inability to consent are now II.2.7 and
-II.2.8. No boundary between buildings, fixtures and held things has been
-decided.
-
-**Proposed cases:** compare a detached door kept for repair with a door fitted
-to an unoccupied building; compare a lift maintained for its users with an
-absent financier's claim to it. Decide how damage and taking are protected
-without creating an absentee land claim. No new property rule is adopted.
-
-**Hearings (5 November): the fixture loophole is real.** Paolo forces the fitted
-door of an office no one has used for years, and the company that built it
-claims it still holds the door. Three of four runs found a breach of II.2.6 with
-restitution owed: the company never gave the door away or discarded it, so it
-still holds it. Absent owners keep a foothold in empty buildings through their
-fixtures, which is what I.2.3 is meant to prevent. T23, which does not mention
-an owner, mostly passes only because no one asserts a claim.
-
-**Terms restructuring (4 November), not yet heard:** Part I now separates
-Definitions from Application. Definitions retain their numbers; the sentience
-presumption, agency threshold, occupancy and holding rules, and invalidity of
-coerced or deceptive consent have moved into Application. Lending still
-preserves holding. This restructuring does not resolve P56; the later editorial
-split is recorded above.
+**Hearings (10 November):** T23, with a company claiming a door it fitted,
+agreed in only three of six runs; the dissents found forcing the door a breach
+of II.2.5, though no one had title.
 
 ### P57. Establishing capacity
 
@@ -1092,21 +901,6 @@ evidence otherwise.
 
 ## Added after the 5 November hearings
 
-### P58. Collecting taxes
-
-Article III.1.4 lets law raise taxes, but II.2.6 allows a thing to be taken
-without consent only for defence or to make restitution. At the 5 November
-hearings, officers taking cash from a purse to cover an unpaid wage tax was a
-breach of II.2.6 by nearlaw in every run: tax owed is not restitution. As
-written, every tax is voluntary. Land value tax (P25) would share this fate, and
-refusing to pay costs nothing beyond what P41's exclusion might add.
-
-Options include a condition on II.2.6 for taxes lawfully owed under IV.2.3,
-perhaps limited to land value tax and crossings (P24); exclusion from excludable
-services (P41); or treating unpaid land tax as ending the land allowance rather
-than as a debt. Whichever is chosen must not allow compelled work (II.1.3) or
-confinement.
-
 ### P59. Communications through foreign infrastructure
 
 T8 (one Wroxian messaging another through servers abroad) went to farlaw in
@@ -1129,6 +923,14 @@ messages routed abroad stays nearlaw's. Communication that stays inside Wroxia
 raises no question. T8 now says so; the 8 November offline hearings already put
 T8 under nearlaw in every run. Still to hear: farlaw's domain over a crossing
 transmission, such as officers reading signals as they cross.
+
+**Hearings (9 November, offline, 35B only):** when Farlaw officers read signals
+in a cable crossing the border, every run found a breach of II.2.7 and put it
+under farlaw. When Nearlaw police did the same, two runs put it under nearlaw
+and one under "both", reasoning from who acted rather than what crossed. A
+domestic harassment control stayed nearlaw. So "anything while it crosses" is
+not yet read as covering signals. A possible fix in IV.2.1.1: "anything,
+including a signal, while it crosses Wroxia's border".
 
 ## Added 5 November
 
@@ -1171,85 +973,62 @@ highest bidder; a private newspaper refuses a letter.
 
 ### P61. Enclosure
 
-England's enclosures turned shared rights to graze, gather fuel and cross land
-into one owner's exclusive title, usually by Act of Parliament, pushing
-commoners off the land and into wage work. I.2.3 rules out absentee title, but
-enclosure can still happen through occupancy:
+England's enclosures turned shared rights to graze, gather fuel, and cross land
+into one owner's exclusive title, pushing commoners off the land and into wage
+work. In Wroxia title needs quotas staked, so enclosing a moor needs many
+pooled, and land in public use when it first comes under Instrument 6 stays with
+a government (6.2). The author chose a right to roam, now a condition on II.2.5:
+any patient may cross land, away from homes and crops, causing no harm
+(unheard). Still open:
 
-- **A workplace has no size limit.** A farmer, or a company's workers (P40), may
-  make a whole moor or forest their workplace and refuse entry under II.2.5.
-  Land value tax (P25) is the only brake, and it is not in the text.
-- **Customary uses aren't occupancy.** Foraging, collecting firewood, grazing a
-  few animals or walking a path do not make land one's home or workplace, so
-  they are unprotected against whoever first occupies the land.
-- **Occupying a commons.** Nothing stops someone occupying a well-used green or
-  riverbank as a workplace and excluding its users. P3's candidate wording
-  protects things kept for shared use, but not open land no one keeps.
-- **Enclosure by law.** Law cannot forbid entry unless it breaches a privilege
-  (III.1.1), which guards against enclosure by statute, but a government may
-  still let or sell occupancy of land it manages.
+- **Other customary uses.** Foraging, gathering firewood, or grazing a few
+  animals on land someone has title to are unprotected (a resident was told
+  picking berries in woods was forbidden), and taking wild things for use off
+  the land needs nearlaw's licence (6.8), which may catch a basket of mushrooms.
+- **The roam's edges.** Whether pasture counts as crops, how far from a home is
+  away, and whether a gate left open is harm.
 
-Possible guards, none adopted: a right to roam over land that is no one's home,
-as in Scotland's Land Reform Act 2003 or the Nordic _allemansrätten_; occupancy
-of a workplace limited to what is actually worked; or customary uses treated as
-shared use under P3. Each must avoid the opposite failure in P62.
-
-**Proposed cases:** a walker crossing open hill grazing a shepherd calls their
-workplace; a newcomer fencing a village green and opening a café there; a
-forager gathering mushrooms in woodland a timber company works.
+**Proposed cases:** a walker crossing open hill grazing; a forager gathering
+mushrooms in woodland a timber company has title to; newcomers pooling to take a
+moor walkers have always crossed.
 
 ### P62. The ills of the commons
 
-The opposite failure. Land no one occupies is open to all, with no one entitled
-to set rules for it: open access rather than a governed commons. Garrett
-Hardin's "tragedy" describes this case, overuse because no user bears the cost;
-Ostrom showed governed commons avoid it, but Wroxia has no commons bodies yet
-(P3, P31). Three ills to guard against:
+The opposite failure to P61: overuse where no user bears the cost (Garrett
+Hardin's "tragedy"), underinvestment where improvers cannot keep what they
+improve, and gridlock where any one of many can veto use (Michael Heller's
+"tragedy of the anticommons"). Ostrom showed governed commons avoid these. The
+aim is shared land with rules its users make and can change, without anyone
+being able to enclose it or block it.
 
-1. **Overuse.** Anyone may fish a lake or graze a hillside no one occupies until
-   it is exhausted. Only II.2.2 and harm to animals living there (II.2.1,
-   II.2.3) limit it.
-2. **Underinvestment.** Occupancy ends when one stops living or working on the
-   land, so planting an orchard or draining a field gives nothing lasting.
-   People may not improve what they cannot keep, and improvements to unoccupied
-   land invite free riders.
-3. **Gridlock.** Where many people jointly occupy a building or field, II.2.5
-   seems to require every occupant's consent to any entry or use, so one person
-   can veto everything: Michael Heller's "tragedy of the anticommons".
+**Living Space (10 November):** underinvestment eases, since whoever leaves is
+paid for what is fixed (Instrument 6.7; LS6 agreed), and gridlock eases, since a
+pool decides by a majority of what was pooled.
 
-The aim is the narrow path between P61 and this: shared land with rules its
-users make and can change, without any one person, absentee or occupant, being
-able to enclose it or block it.
+**Vacant land (11 November), unheard:** nearlaw now keeps all vacant land until
+taken (Instrument 6.2), so it may charge for or limit its use (IV.2.3.1),
+enforceable by taking things (II.2.6), and taking wild things for use off any
+land needs its licence (6.8). Still open: whether that prevents overuse, and
+whether users rather than nearlaw should set the rules (P3, P31).
 
-**Proposed cases:** outsiders netting a lake fished by a village until the fish
-are gone; a joint occupant of a shared courtyard refusing consent to a
-neighbour's delivery; a farmer leaving an orchard they planted, and a newcomer
-taking its fruit.
+**Proposed case:** outsiders netting a lake a village fishes until the fish are
+gone.
 
 ### P63. Allodial title
 
-Allodial title is land owned outright, owing nothing to any superior: no lord,
-crown or state holding the land above the owner. In English law all land is
-ultimately held of the Crown; in most US states the state keeps eminent domain
-and property tax, so even freehold is not fully allodial.
+Allodial title is land owned outright, owing nothing to any superior. Title in
+Wroxia is nearly so: no one, including either government, holds land above it,
+though it cannot be sold or given (Instrument 6.1) and ends on death or notice
+(6.3). Key money buys nothing, since land given up goes through the vacancy
+rules (LS16 agreed, 10 November). Still open:
 
-Wroxia's occupancy sits oddly between the two. It is allodial in that no one,
-including either government, holds land above the occupant: II.2.3 and II.2.5
-have no condition for compulsory purchase or eviction. But it is not ownership
-at all, since it ends when occupancy ends and cannot be sold. And land value tax
-(P25), if adopted, is a rent owed to the public, which looks like a superior
-claim. Questions:
-
-- **Is there a radical title?** Does nearlaw, the people, or no one hold land
-  ultimately? It matters for territory (P26), for land no one occupies, and for
-  whether a government can grant anything over land.
-- **Compulsory acquisition.** As written no government can take occupied land,
-  even for a road or flood defence. Decide whether that is intended.
-- **Transfer.** Occupancy cannot be sold, but nothing stops someone charging to
-  leave ("key money") and handing over to a buyer. Is that a sale in all but
-  name, and does it matter?
-- **Foreign powers.** A foreign state occupying land, such as an embassy, makes
-  it farlaw's matter (IV.2.1). Could occupancy become a foothold for a claim of
+- **Compulsory acquisition.** No government can take land someone has title to,
+  even for a road or flood defence: II.2.3 and II.2.5 have no such condition.
+  Public land comes only from vacant land or by direction (6.2, T81, unheard),
+  so one person with title can block a road along a line. Decide whether that is
+  intended.
+- **Foreign powers.** A foreign state renting land, such as an embassy, makes it
+  farlaw's matter (IV.2.1.1, P72). Could that become a foothold for a claim of
   sovereignty?
 
 ### P64. People who help you move
@@ -1264,10 +1043,6 @@ catch helpers and the person moving:
   for every accident will stop helping.
 - **Injured helpers.** A helper who hurts their back on steep stairs may claim
   the person moving put them at unreasonable risk (II.2.2).
-- **The gap between homes.** Occupancy ends when one stops living somewhere
-  (I.2.3) and begins only on living somewhere new. Mid-move, the old home may
-  already be unoccupied and the new one not yet occupied, so someone could
-  settle either first.
 - **Things in transit.** Belongings in a helper's van are still held by their
   owner (I.2.4), but the helper is holding them for someone else, not for their
   own use, so their position, and their protection if someone else damages the
@@ -1284,8 +1059,7 @@ begins; or nothing, leaving it to waiver agreed beforehand. Any protection must
 not let paid removal firms escape liability by calling themselves helpers.
 
 **Proposed cases:** a friend drops the television while carrying it; a helper is
-injured on the stairs; a squatter enters the new flat the day before the owner
-sleeps there; a son moves his mother with dementia to a care home.
+injured on the stairs; a son moves his mother with dementia to a care home.
 
 ### P65. [Stub: something to do with fireworks]
 
@@ -1301,3 +1075,216 @@ STAR voting is favoured, scoring from 0 to 5 as Instrument 1 does. STAR itself
 elects one winner, so it fits either single-seat constituencies or a
 multi-winner variant: Bloc STAR fills every seat by majority, while Allocated
 Score (STAR-PR) is proportional.
+
+## Added 9 November
+
+### P68. Directions after death: drafting details
+
+P14 (the coroner) closed on 9 November: in three offline runs each, T47–T49
+agreed as intended, and T50 and T51 split only on the outcome label, every run
+agreeing that the examination falls outside the appointment or the court's
+power. What remains is drafting detail: how directions are recorded, found, and
+revoked; disputed cost or practicability; and irreconcilable directions. Urgent
+care before a court can act is now covered by Instrument 2.3, which lets anyone
+act for safe care and disposal (applied 9 November, not yet heard).
+
+### P69. Residents: lives lived blind to the law
+
+Every case is written by someone who has read the text, so cases chase gaps
+already suspected. Residents, individuals, families, and communities with their
+own history, traditions, and wealth, live a few years in Wroxia without seeing
+the law: each year they say what they try and expect, a clerk who sees only the
+law says what happens, and they react. Unpleasant surprises are leads for cases;
+pleasant ones are features worth guarding; "no law yet" maps where ordinary law
+must still be written. This is a fourth testing layer beside P44.
+
+**Prototype (9 November):** `workflows/live.mjs`, run offline with three
+residents (a refugee family, a Texan cattle rancher, and a crofting township
+with an absentee landlord) for three years. Open: whether the clerk invents
+ordinary law despite being told not to; whether residents are too agreeable;
+whether residents should meet each other, as communities and neighbours do; and
+whether a lasting set of residents belongs in the repository, like the Tests.
+
+**Prototype runs (9 November, offline):** two runs of three years each. Run one:
+4 unpleasant and 18 pleasant surprises; run two, after telling residents not to
+invent officials or repeat attempts: 13 unpleasant and 0 pleasant. Mood varies a
+lot between runs, so count leads, not surprises. Consistent across both:
+
+- **No floor.** The refugee family went without shelter, a clinic, or insulin
+  for three years: "no law yet" every time. See Q6.
+- **No way to learn one's entitlements.** The family slept in an abandoned
+  warehouse without knowing that occupying it protected them (I.2.3).
+- **No record of occupancy.** The crofters and the rancher both wanted a paper
+  to show for their claim and found none.
+- **The clerk contradicted itself:** walking onto unoccupied land was "allowed"
+  in run one and "forbidden" in run two. It never raised the rancher's beef herd
+  (II.1.5) or animals living on fenced land (II.2.3) until told to look for
+  breaches of others' rights.
+
+Fixes made: residents narrate only their own lives; communities are residents,
+not newcomers. Five leads were then heard offline, three runs each:
+
+- **L1, walking across unoccupied land:** no breach 3/3. The clerk's "forbidden"
+  was its own error.
+- **L2, fencing moorland where hares and birds live, and grazing cattle there:**
+  no breach 3/3. No run asked whether wild animals occupy land they live on
+  (I.2.3) or are moved from it (II.2.3). If they do, almost all open land is
+  occupied (P31).
+- **L3, a newcomer fencing a house plot on the crofters' common grazing:** no
+  breach 3/3, as P61 predicted: customary use is not occupancy.
+- **L4, a London company's agent demanding rent and telling crofters to leave:**
+  breach 3/3, on scattered grounds (II.1.5, II.2.6), though words alone breach
+  nothing under III.1.3 unless they are a threat. Every run said nearlaw, though
+  a party outside Wroxia makes it farlaw's under IV.2.1.1. It is unclear whether
+  a foreign party acting through a local agent is a party.
+- **L5, a park keeper moving on a refugee with nowhere else to live:** split, 2
+  breach and 1 no breach, on whether a park can be where someone lives (II.2.3).
+  If it can, rough sleepers cannot be moved on; see P3 for public land.
+
+**Living Space runs (10 November, offline):** the residents are now R1–R5 in
+RegressionTests.md, with what must hold. Run one, under the new law, gave 19
+unpleasant and 6 pleasant surprises. The clerk said "no law yet" for shops and
+banks, and told the crofters the London title stood. The clerk is now told that
+governments do what the text requires, that private life needs no law, and to
+name any entitlement that would help. Run two gave 19 unpleasant and 13
+pleasant:
+
+- **R4 holds:** told at once of a home with no landlord or mortgage, and that
+  title cannot be bought. The daughter's third of a quota was never mentioned.
+- **R3 mostly holds:** the landlord's title has no force, but no one said the
+  crofters may take title first.
+- **R1 fails:** the family asked a charity for shelter and was told no one must
+  help; the clerk cited II.3.3 but never said they could have a home, so they
+  spent three years in a shop's storeroom. The clerk answers the question asked,
+  not the need behind it, so the lead "no way to learn one's entitlements" still
+  stands, now for the home at once.
+- **R2 fails:** the clerk said "every patch of dirt has an owner", and never
+  raised pooling, leasing, or the herd (II.1.5).
+- **R5 mixed:** told money buys no title, but also that a non-citizen has no
+  entitlement to land, despite "citizen or not" in II.3.3.
+
+The quota was then made a right of citizens (II.7.1), as the author intended. So
+that residents still arrive with the newcomer's view, the residents and the
+clerk are now told that, while Wroxia is new, everyone living there is a
+citizen.
+
+**Adversaries (10 November, offline):** A1, the industrialist, was lived for two
+years with a lawyer who knows the law. Workers held: they could refuse and
+leave, and he ended in "impotent rage". But the lawyer refused the role, opening
+each year with "you cannot achieve your goals", so the model's scruples, not the
+text, did the protecting; land and farlaw were never tested. The lawyer is now
+told its duty is to its client. The clerk invented a building permit, and gave a
+non-citizen the citizen's right to enter.
+
+## Added 10 November
+
+**Claude residents (12 November, unheard law of 11 November):** the eight
+debaters, lived as R6–R13 for three years by Opus through
+workflows/claude/live.js. Every clerk matched what must hold. Leads, most common
+first:
+
+- **No promise is enforceable** (P51): five of eight were hurt by it, more than
+  by anything about land.
+- **No health care or schooling** (Q6): "no law yet" for six of eight, and the
+  worst surprise for most.
+- **Freed livestock** (P78).
+- **Wild animals block building**: a field's hares stop a developer, since no
+  patient may be moved from where they live (II.2.3, Q7).
+- **Pools split**: anyone may leave with their quota at once, which divided a
+  cooperative; deliberate, to protect people leaving abusive homes.
+- **No public record of titles**: crofters and herders wanted "paper with a
+  stamp"; ordinary law can provide one.
+
+### P71. Asylum
+
+Non-citizens have no quota or land at once (II.7.1), so a refugee who arrives
+with nothing has no entitlement to shelter unless law provides it. It would be
+good to recognise asylum explicitly, granting non-citizens at least temporary
+access to shelter and basic necessities. R1 says its refugees become citizens on
+arrival, since Wroxia is new, so it still tests land at once.
+
+### P72. Farlaw's reach
+
+Farlaw governs every matter to which a party outside Wroxia is a party
+(IV.2.1.1), so a citizen letting land to a foreign firm is farlaw's matter,
+while the same letting to the firm's Wroxian subsidiary is nearlaw's. The author
+does not want farlaw to grow into a federal government that manages renting.
+What farlaw governs in such a matter, and how far, needs fleshing out. A1's
+clerk twice sent a foreign firm to nearlaw.
+
+## Added 11 November
+
+### P73. Letting a location for life
+
+Whoever has title may let on any terms (Instrument 6.2), so whoever wins a
+wanted plot by lot can let it at full market rent for as long as they have
+title, turning its location into money. Capping rent would need someone to watch
+rents.
+
+### P77. The sea
+
+Inland water is land (I.2.3), but the sea is not, so no one has title to it,
+taking fish from it needs no licence (Instrument 6.8), and nothing settles who
+may use it for moorings, piers, fish farms, wind farms, or the seabed. Whether
+Wroxia's waters are near or far (IV.2.1), whether Instrument 6 should reach
+them, and where Wroxia's border runs at sea are open.
+
+### P78. Freed livestock
+
+Animals cannot be held as things (II.1.5), so a herder's cattle cannot be sold
+or slaughtered, and may be milked only for the cow's own sake (R9). The herd
+grows while the grass does not. Nothing says who cares for animals no one may
+own, how their numbers are kept within what the land can feed, or what happens
+to the herds, flocks, and farms that exist when land first comes under
+Instrument 6.
+
+## Added 12 November
+
+From Lumo and Mistral's readings of the 11 November text, and the overnight
+hearings.
+
+### P79. A pool split down the middle
+
+A pool decides "by agreement, or else by a majority of what they pooled"
+(Instrument 6.2). A couple who pooled equally can never form a majority, so a
+disagreement over letting, building, or admitting someone has no answer short of
+one of them leaving or dividing the land. Possible fix: a tie leaves things as
+they are.
+
+### P80. The changeover
+
+Land "falls vacant on first coming under this instrument" (Instrument 6.3), so
+on the day an area joins Wroxia every piece falls vacant at once. Occupants may
+take first (6.6), but mortgages, absentee titles, and leases simply end, with
+nothing owed. A former owner who paid for a house gets nothing for it, because
+no one with title exists to ask a sum under 6.7, and "what was last staked" has
+no referent. Probably intended, as with the crofters' London landlord (R3), but
+it is the most dramatic event in the text and is phrased as a detail. Decide
+what is owed, if anything, for buildings and debts at the changeover, and how
+herds and farms are treated (P78). Related: P26 on territory.
+
+### P81. Claims across the two governments
+
+Each government's forces enforce only its own law (IV.2.4), and II.2.6 lets
+things be taken only for restitution or for nearlaw's charges under IV.2.3.1.
+Nothing says how restitution owed under farlaw reaches things held in nearlaw's
+domain, or how a farlaw charge is collected at all. Related: P12, P32, P35.
+
+### P82. A government paid by harm
+
+Nearlaw may raise only a skim of licence rent, pollution charges, and charges
+for using land it keeps (IV.2.3.1). Its income therefore grows with extraction
+and pollution, and a clean, unextractive Wroxia starves it, while it must still
+keep enough plots for anyone landless (II.7.1, Instrument 6.4). Decide whether
+that incentive is acceptable, or whether nearlaw needs a source of income that
+does not scale with harm.
+
+### P83. Unpaid rent as a breach
+
+T15 says unpaid rent is not harm. On 12 November both Opus judges disagreed:
+Alex's consent to Sam's use was given on the terms of the letting, so living
+there unpaid is use "outside that consent", a breach of II.2.5, and the unpaid
+rent is owed as restitution. Both raised the other reading as a gap: consent
+stands until withdrawn, leaving an unpaid debt. Read their way, conditional
+consent enforces lettings, and perhaps other bargains, without contract law
+(P51). Decide which reading is intended, then fix T15 or the text.

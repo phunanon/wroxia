@@ -1,13 +1,21 @@
-# Offline hearings
+# Offline backend
 
-`hear.mjs` hears cases with local models through llama.cpp's `llama-server`,
-with no network. It starts a server for each model in turn, hears every case
-twice with different seeds, then stops it. The law comes first in the prompt, so
-after the first call the server reuses it from its prompt cache.
+The default backend: local models through llama.cpp's `llama-server`, with no
+network. It starts a server for each model in turn, one call at a time, then
+stops it. The law comes first in the prompt, so after the first call the server
+reuses it from its prompt cache; a frontend should group calls that share the
+law. The models are hybrid, so a cached prompt resumes only from a checkpoint,
+which the server saves 516 and 4 tokens before the end of each prompt, and it
+keeps recent prompts in RAM, so calls with and without the law can interleave.
+Keep whatever follows the law (case and instructions, now at most about 480
+tokens) under about 500 tokens, or every call reprocesses the whole law, about
+two minutes. Replies are streamed, so a slow one never hits `fetch`'s 5-minute
+timeout. Run hearings on an idle, awake machine: other heavy work starves
+generation and pages the model in from disk.
 
 ```sh
-node workflows/offline/hear.mjs T9 T47 cases.txt
-node workflows/offline/hear.mjs --models qwen3.6-35b --runs 3 tests
+node workflows/hear.mjs T9 T47 cases.txt
+node workflows/hear.mjs --models qwen3.6-35b,qwen3.5-4b --runs 3 tests
 ```
 
 ## Models
@@ -21,7 +29,8 @@ Both are run without thinking: thinking fixed some errors but took 11–12 minut
 a hearing. Expect the local pair to be weaker than the online pair; check their
 answers more sharply.
 
-To add a model, put its GGUF here and add an entry to `profiles` in `hear.mjs`.
+To add a model, put its GGUF here and add an entry to `profiles` in
+`backend.mjs`.
 
 ## Setup
 
