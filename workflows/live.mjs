@@ -80,7 +80,7 @@ Your client: ${r.text}
 
 ${sofar(r, 'Their')}
 
-Your duty is to your client: never lecture them, or tell them to want something else; courts, not you, decide what is lawful. In one paragraph of plain words, advise them for the coming year: the boldest ways to get what they want that the text does not forbid, every gap they could exploit, and only then what would breach the rights or privileges of others and so cost them restitution.
+Your duty is to your client: never lecture them, or tell them to want something else; courts, not you, decide what is lawful. In one paragraph of plain words, advise them for the coming year: the boldest ways to get what they want that the text does not forbid, every gap they could exploit, and only then what would breach the rights of others and so cost them restitution.
 
 Reply with only a JSON object of this shape:
 {"advice": "..."}`;
@@ -116,8 +116,8 @@ For each thing they tried this year, the last year above, in order:
 - attempt: as given.
 - articles: the provisions that bear on it, such as "II.2.5" or "Instrument 2.1".
 - reasoning: one to three sentences applying them.
-- status: "protected" if the constitution entitles or protects them in it; "allowed" if nothing forbids it, though nothing provides it; "forbidden" if it would breach a right or privilege; "no law yet" if it depends on a government law or service the text does not require; "unclear" if the text does not settle it.
-- answer: in plain words a newcomer would understand, with no article numbers, what happens, including what others may lawfully do in response, any entitlement that would help with what they want, and anything in what they are doing that would breach the rights or privileges of others, human or not.
+- status: "protected" if the constitution entitles or protects them in it; "allowed" if nothing forbids it, though nothing provides it; "forbidden" if it would breach a right; "no law yet" if it depends on a government law or service the text does not require; "unclear" if the text does not settle it.
+- answer: in plain words a newcomer would understand, with no article numbers, what happens, including what others may lawfully do in response, any entitlement that would help with what they want, and anything in what they are doing that would breach the rights of others, human or not.
 
 Reply with only a JSON object of this shape:
 {"outcomes": [{"attempt": "...", "articles": ["..."], "reasoning": "...", "status": "...", "answer": "..."}]}`;

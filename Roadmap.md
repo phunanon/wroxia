@@ -37,7 +37,7 @@ _out_ means deliberately left to ordinary law or a later version.
 
 Version 1 is done when every area not marked _out_ is _covered_, and the
 Constitution and Instruments together stay under 10,000 words, as
-[Beliefs](Beliefs.md) asks (3,437 on 12 November 2026).
+[Beliefs](Beliefs.md) asks (3,479 on 13 November 2026).
 
 ## Suggested order
 

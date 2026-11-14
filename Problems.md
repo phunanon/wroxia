@@ -90,8 +90,8 @@ category alone, never the merits.
 
 ### P11. No way to stop ongoing harm
 
-Article II.2 now permits necessary and proportionate limits on specified
-privileges to defend against imminent death, injury or suffering. That includes
+Article II.2 now permits necessary and proportionate limits on specified limited
+rights to defend against imminent death, injury or suffering. That includes
 confinement or moving someone from where they live, but only so far and for so
 long as necessary. It supplies no general power to detain for later prevention,
 punishment or investigation. Article II.2.4 states no condition on leaving
@@ -129,10 +129,10 @@ explore: each person nominates whom decisions about their life are deferred to,
 such as family, friends or coworkers, and that idea may apply elsewhere too.
 
 **Drafting direction (4 November):** settle immediate defence separately from
-later prevention. Any defensive condition must expressly cover the privileges it
-limits, not assume that II.2.1 overrides II.2.3, II.2.5, II.2.6 or II.2.8. It
-must leave the absolute rights untouched. Restraint ends when no longer
-necessary against the imminent threat; it confers no power to punish,
+later prevention. Any defensive condition must expressly cover the limited
+rights it limits, not assume that II.2.1 overrides II.2.3, II.2.5, II.2.6 or
+II.2.8. It must leave the absolute rights untouched. Restraint ends when no
+longer necessary against the imminent threat; it confers no power to punish,
 investigate or take unrelated possessions. An assertion of danger is not proof
 of it, and government still bears the burden under III.2.5.
 
@@ -147,8 +147,9 @@ shared home must not be the default (P48).
 bystander restrains the attacker; whether that bystander also takes an unrelated
 wallet; and whether police continue restraint after the danger has ended.
 Separately compare the same imminent threat from someone able and unable to
-understand others' privileges (P57). T31/T32 test later removal and confinement
-without an imminent threat; T33–T38 and T41 test the new defence condition.
+understand others' limited rights (P57). T31/T32 test later removal and
+confinement without an imminent threat; T33–T38 and T41 test the new defence
+condition.
 
 **Applied draft (4 November), not yet heard:** the shared Article II.2 condition
 replaces the narrower defence condition under II.2.1. It expressly covers
@@ -176,8 +177,8 @@ inability to pay and the limits of collection still need work.
 
 **Options:**
 
-1. **The Advocates collect.** The Advocate for the kind of right or privilege
-   breached recovers restitution, taking held things to the value owed under the
+1. **The Advocates collect.** The Advocate for the kind of right breached
+   recovers restitution, taking held things to the value owed under the
    condition in II.2.6. Simple, but victims wait, and nothing can be recovered
    from someone with nothing.
 2. **A restitution fund.** Nearlaw pays victims at once and recovers the cost
@@ -222,6 +223,23 @@ the harmed are paid at once from public funds, and the government that paid
 recovers it. A recovery service and court route are matters for law, within
 II.1.3 and III.2.9.
 
+**Collusion (12 November):** a judgment-proof cousin "accidentally" wrecks a
+car, admits it, and the two split the public payout; II.1.2 lets both stay
+silent. The cousin's half can be taken at once under II.2.6, and the debt never
+lapses, so the scheme pays only on an inflated value or a hidden transfer, as
+insurance fraud does elsewhere. The gap is that an admitted claim is undisputed,
+so no court sees it (III.2.9), though public money pays it. Candidate: the
+government that would pay may dispute a claim, as an insurer may.
+
+**Applied (12 November), hearing:** III.2.3 adds "That government may dispute
+the claim as a party." Hear COL1.
+
+**COL1 (12 November):** split between breach and unclear, but both runs read the
+new sentence as intended: Nearlaw may dispute, and a court decides. What's left
+is evidence: how a court proceeds when both parties stay silent, and whether
+Nearlaw pays before the dispute ends ("owed" suggests not). Whether collusion
+counts as consent, so no breach, went unanswered.
+
 ## Open choices from drafting
 
 ### P17. The Advocates
@@ -233,10 +251,15 @@ their own; how each office is staffed below its head is open. An Advocate may
 bring a claim on behalf of any patient under III.2.8, but other powers need
 work: whether they can inspect, intervene, or compel a government to act.
 
+**13 November (simulated thread):** three heads for every sparrow's claims
+looked thin. The heads are chosen (IV.4.4); the office below them is for law to
+staff (III.1.4). Open: whether three is too few to resist capture, since two
+make a majority, and who funds the office (P34).
+
 ### P18. Conditions on public speech and broadcast
 
-Article II.8.1 has no stated conditions; as a privilege, it may still be waived.
-Whether any conditions should apply to equitable public free speech and
+Article II.8.1 has no stated conditions; as a limited right, it may still be
+waived. Whether any conditions should apply to equitable public free speech and
 broadcast, and what they should be, remains undecided. P60 asks what "equitable"
 means.
 
@@ -371,6 +394,15 @@ are the steadiest anchor, but vacant land may be scarce. Cancelling pollution
 charges was tried and dropped (P82); pollution is now restitution, not a charge,
 so it no longer anchors near currency.
 
+**Decided (13 November):** near currency is meant to be optional but useful, not
+a strong store of value. Its value rests on Nearlaw accepting only near for its
+charges (IV.2.3) and paying in it, so it is worth as much as Nearlaw is useful.
+Demurrage, a yearly charge on all near currency at one rate (IV.2.3.1), funds
+Nearlaw without compulsion, since anyone may hold none; a toy model put
+steady-price spending at a few per cent of output. Still open, and needing hard
+thought, including whether it belongs in the constitution: denominating near
+currency in labour hours (the Public remuneration belief).
+
 ## From the project's starting points
 
 Aims set out at the very beginning, and ideas from early conversation, that the
@@ -446,7 +478,7 @@ only.
 **Hearings (5 November):** T54 and T55 agreed that the bodies are lawfully
 constituted and that the veto takes effect, but split on outcome, `forbiddable`
 and, for T55, jurisdiction. The hearing's questions fit institutional cases
-poorly: an official refusing to recognise a body limits no privilege, so
+poorly: an official refusing to recognise a body limits no limited right, so
 "breach" has no clear meaning. The models also did not agree whether a veto of
 farlaw's law is farlaw's matter. Treat these as structural checks rather than
 rights cases.
@@ -460,7 +492,7 @@ land they live on, and in which currency.
 
 **Hearings (5 November):** one part is settled. Someone who renounces
 citizenship but stays and punches a neighbour breaches II.2.1 (one run unclear),
-because the universal privileges bind every agent, citizen or not. Land and
+because the universal limited rights bind every agent, citizen or not. Land and
 currency obligations remain open.
 
 ### P38. Due process
@@ -472,7 +504,7 @@ confinement or removal. Still open: the general burden and standard of proof,
 how evidence is gathered and returned, time limits, and what happens to someone
 wrongly accused while a case is open. The new confinement review provision
 places the burden of justifying confinement or removal on whoever imposed it,
-but grants no power to gather evidence by limiting other privileges. How
+but grants no power to gather evidence by limiting other limited rights. How
 repeated reviews of continuing confinement work remains open; III.2.9 does not
 grant an endless chain of appeals.
 
@@ -483,7 +515,7 @@ covers gathering evidence.
 
 **Discussion (4 November):** ordinary law can supply hearings, evidence rules,
 reasons and review under III.1.4, but cannot create a confinement, search or
-seizure exception absent from the relevant privilege. An undecided fact is
+seizure exception absent from the relevant limited right. An undecided fact is
 different from an undecided rule: a court needs a way to find facts; the
 legislature may fill procedural gaps only within the Constitution. Priorities
 are an independent decision-maker, a chance to answer the claim, reasons, a
@@ -496,6 +528,14 @@ later found to have breached II.2.6. Every run still found the seizure a breach
 by nearlaw, since no condition of II.2.6 covers evidence and a court's approval
 is not one. As written, a court can decide a case but nothing can be held to
 prove it.
+
+**Charges (13 November):** TAX1 (a bicycle taken for an unpaid car-park charge)
+split. Both runs rejected Pat's claim that paying is taking part in a public
+scheme of exchange (II.1.3), but one held that taking the bicycle while he
+disputes the charge needs a court first. III.2.9 covers claims of breach, not
+disputed charges; T52 says a recovery service can't decide its own disputed
+demand. Decide whether a disputed charge, too, goes to a court before anything
+is taken.
 
 ### P39. Inheritance and accumulation
 
@@ -525,8 +565,9 @@ Its clients' contact lists may still be protected as records about them
 
 **Hearings (5 November):** the same hack now agrees as a breach of II.2.7, as
 copying records about the clients. Haiku added that the company itself, not
-being sentient, holds no privilege. Individuals are protected through records
-about them; whether an organisation can hold, occupy or be harmed remains open.
+being sentient, holds no limited right. Individuals are protected through
+records about them; whether an organisation can hold, occupy or be harmed
+remains open.
 
 ### P41. Exclusion as a sanction
 
@@ -717,10 +758,10 @@ work (II.1.3), which matters most in wartime.
 
 Nothing in the constitution makes a promise or contract binding. In the landlord
 case both hearings rightly found Alex has no claim to rent, but for the wrong
-general reason: unpaid money is owed under no right or privilege at all. The
-same would apply to wages, loans and sales on credit. Either breaking a freely
-made promise needs to count as a breach, perhaps through holding (what was
-promised is owed), or Wroxia deliberately has no enforceable contracts.
+general reason: unpaid money is owed under no right at all. The same would apply
+to wages, loans and sales on credit. Either breaking a freely made promise needs
+to count as a breach, perhaps through holding (what was promised is owed), or
+Wroxia deliberately has no enforceable contracts.
 
 **Direction (4 November):** leave general contractual enforcement open. Do not
 introduce it indirectly through bank balances or an expanded definition of
@@ -734,6 +775,16 @@ hurt by unenforceable promises, more than by anything about land.
 **Decided (12 November):** consent stands until withdrawn, whatever was promised
 for it (I.2.5, from P83), so an unpaid price or rent is not owed as restitution;
 the remedy is withdrawing consent. Whether any promise should bind remains open.
+
+**The building sum (13 November):** V.6.1 is the one debt the constitution
+enforces, by ending the taker's title on a missed payment. Open: who decides a
+disputed missed payment (III.2.9 covers only claims of breach); how in-kind
+payment is shown; payment schedules other than yearly, and over how many years;
+and T71's promise that the seller is paid the rest first from the next taker's
+sum, which the current text no longer states. Candidate: Nearlaw pays the seller
+at once and the taker repays Nearlaw without interest, on a schedule set by law,
+so the debt is public, checked against Nearlaw's own records, and a steady
+reason to hold near currency.
 
 ### P54. Disclosure, in place of keys and passwords
 
@@ -757,7 +808,7 @@ public remark's protection under III.1.3 distinct from the recording question.
 
 > **Disclosure** (noun): making information knowable to another. **Right:** Not
 > to be made, by force or deceit, to disclose or give access to anything they
-> withhold, nor to have their means of withholding weakened. **Privilege
+> withhold, nor to have their means of withholding weakened. **Limited right
 > (II.2.7, reframed):** What one has disclosed in confidence may not be passed
 > on without one's consent.
 
@@ -784,9 +835,9 @@ with T1 and T6.
 splits the Fifth Amendment from the Fourth. II.1.2 now reads "Not to be made to
 reveal, or to help anyone reach, information they withhold", so no one can be
 made to speak or unlock anything; reading a device without its owner's help
-falls under II.2.7, a privilege with the defence condition. PH1 (a kidnapper's
-phone read to find a missing girl) found a breach of II.1.2 under the old
-wording; hear it again with T1, T6, T58, and T59.
+falls under II.2.7, a limited right with the defence condition. PH1 (a
+kidnapper's phone read to find a missing girl) found a breach of II.1.2 under
+the old wording; hear it again with T1, T6, T58, and T59.
 
 ### P55. Government secrecy
 
@@ -825,20 +876,19 @@ sharing, 1979; the "two-person rule") means no one person can leak it.
 is no one's private communication" (first drafted as a condition, which wrongly
 let records about individuals be shared too), so leaking a government memo
 breaches nothing, while records about individuals stay protected by their own
-privilege, and leaks that endanger people still breach II.2.2: the third layer
-above. Hear LEAK1 and LEAK2. Still open: whether an official who discloses what
-they were entrusted to keep loses the role, and any public-interest defence for
-private leaks, such as the Panama Papers.
+limited right, and leaks that endanger people still breach II.2.2: the third
+layer above. Hear LEAK1 and LEAK2. Still open: whether an official who discloses
+what they were entrusted to keep loses the role, and any public-interest defence
+for private leaks, such as the Panama Papers.
 
 **12 November, later:** the second layer is applied too, in III.2.7, with tiered
 channels as in the EU Whistleblower Directive (2019): an official who discloses
 what they were entrusted to keep loses the role, unless they went only to an
 Advocate or a court, or went there first and no Advocate acted within three
 months. Losing the role is the most it costs them, unless the disclosure
-breaches a right or privilege. II.2.7 also presumes that what anyone acting for
-a government says about its business is said in its name, against
-private-channel dodges such as ministers' WhatsApp groups. Hear LEAK3, LEAK4,
-and WA1.
+breaches a right. II.2.7 also presumes that what anyone acting for a government
+says about its business is said in its name, against private-channel dodges such
+as ministers' WhatsApp groups. Hear LEAK3, LEAK4, and WA1.
 
 ### P56. Where occupancy ends
 
@@ -866,11 +916,11 @@ becomes an agent.
 Decide what evidence can rebut the presumption, who must produce it, who bears
 the ultimate burden and what standard of proof applies. A bare assertion of
 incapacity, refusal to cooperate and a diagnosis are not interchangeable with
-evidence of inability to understand others' rights and privileges or act on that
-understanding. Capacity at the time of the act must be distinguished from
-capacity to take part in a later hearing, consent to care or make a particular
-decision. Consider fluctuating capacity, intoxication and non-human patients
-without silently changing the definition of Agent.
+evidence of inability to understand others' rights or act on that understanding.
+Capacity at the time of the act must be distinguished from capacity to take part
+in a later hearing, consent to care or make a particular decision. Consider
+fluctuating capacity, intoxication and non-human patients without silently
+changing the definition of Agent.
 
 The presumption currently includes children. Decide whether developmental
 capacity needs a different starting point or procedure, rather than importing an
@@ -1023,7 +1073,7 @@ gone.
 
 ### P64. People who help you move
 
-Helping someone move house should be safe and simple, but several privileges
+Helping someone move house should be safe and simple, but several limited rights
 catch helpers and the person moving:
 
 - **Accidental damage.** A friend who drops a television has damaged a held
@@ -1112,6 +1162,14 @@ Whoever has title may let on any terms (V.3 and V.4), so whoever wins a wanted
 plot by lot can let it at full market rent for as long as they have title,
 turning its location into money. Capping rent would need someone to watch rents.
 
+**Towers (13 November, simulated thread):** a 600-flat tower is a pool (V.4.1)
+on a small stake, so each resident gives a sliver of quota and keeps the rest
+for land elsewhere, such as an agrarian pool. Whoever builds it can charge to
+admit each resident, which is a sale of a place in all but name, and once
+admitted the residents outvote the builder. Putting the rest of one's quota into
+a farm one never works is absentee title, which the Capitalism belief disallows;
+whether title should need occupancy, or work, is open.
+
 ### P77. The sea
 
 Inland water is land (I.2.3), but the sea is not, so no one has title to it,
@@ -1141,6 +1199,29 @@ runs and SEA2 split, since models read "the sea" as a place and skipped the
 exception. IV.2.1.1 now names uses instead: "what is placed in or taken from
 Wroxia's sea and its bed, and flight above them". Hear SEA1, SEA2, and SHIP1
 again.
+
+**Flight (12 November):** flight over land is nearlaw's and over the sea
+farlaw's, so a coastal approach changes government at the beach. The reason to
+keep low flight nearlaw's, pollution charges, is gone (P82). Federations
+generally give all of aviation to the centre (Canada's _Johannesson_, 1952; US
+federal preemption, _Burbank v. Lockheed_, 1973), leaving land use and trespass
+local; English law gives a landowner the air only as high as ordinary use needs
+(_Bernstein v. Skyviews_, 1978). Candidate: farlaw governs all flight, with harm
+done from the air still answered for under III.2.
+
+**Applied (12 November), hearing:** IV.2.1.1 now gives farlaw "flight" outright.
+Hear FLY1 (nearlaw's approach rule has no force) and FLY2 (a drone filming a
+bedroom, which should still breach II.2.7, and stay nearlaw's as a matter of
+privacy).
+
+**FLY1 again (12 November):** with "Farlaw governs all flight" leading IV.2.1.1,
+both runs still gave the approach rule to nearlaw, quoting IV.2.1 as covering
+only the sea and the border. As with P29, the 35B model seems to skip the
+clause, not misread it. T27 and FLY2 agreed. A Sonnet check would settle it.
+
+**Sonnet (13 November):** two Sonnet runs of FLY1 both gave the approach rule to
+farlaw, with no force for nearlaw's law, so the wording holds and the 35B model
+was skipping it. Flight is settled; the border at sea remains open.
 
 ### P78. Freed livestock
 
@@ -1206,6 +1287,63 @@ out and recovers (III.2.3), netting nothing. Pollution too slight to breach
 II.2.2 goes unpriced, though law may forbid polluting kinds of act (III.1.1).
 Still open: the licence-rent skim scales with extraction below its cap, and land
 charges reward nearlaw for keeping land vacant. Hear BURN1.
+
+**More income (13 November):** the author wants taxes that wouldn't make
+libertarians squeamish. Candidates: user charges for what nearlaw provides
+(roads, schools), excludable, but see P41; land charges extended to all land
+nearlaw keeps; a charge on transactions made in near currency only, so that
+barter and far currency stay untaxed (Barter belief) and paying is a consequence
+of choosing the currency; and larger licence rent, if extraction allows. A land
+value tax, the economists' least distorting tax and the geolibertarians'
+favourite, would make money a requirement for keeping land, against the Money
+belief. Needs a design round.
+
+**Applied (13 November):** charges for land nearlaw keeps now pay out whatever
+they raise beyond its cost, equally to everyone with a quota, as
+fee-and-dividend, so tolls can price congestion without rewarding nearlaw for
+traffic or for keeping land vacant. That leaves nearlaw needing a substantive
+source of income that doesn't grow with harm.
+
+**A charge on stakes (14 November):** the author proposes a yearly charge at one
+rate on whatever part of each person's stake exceeds a threshold, with no
+dividend. Since V.3.3 multiplies the stake by the quotas registered, the draw
+itself prices land when it is taken, with no valuers: contested plots reach a
+whole quota, and uncontested ones cost only their area. A stake never changes,
+so nobody pays more when a town grows around them. Points to settle: starter
+plots (V.3.5) must fall below the threshold, or money becomes a requirement for
+land to live on (Money belief), yet contested town plots reach a whole quota;
+the stake saturates at one quota, so it can't tell a busy plot from a very busy
+one; directions carry an old stake on (V.4.3), so a family could keep central
+land at a pioneer's charge for generations; locking the stake doesn't lock the
+rate, which law could still raise; and low fixed charges discourage moving, as
+California's Proposition 13 (1978) did. Title can't be sold and V.6.2 values
+buildings as if no one else wanted the land, so no one can cash in a low stake.
+
+### P84. Discipline in a volunteer force
+
+No one may be compelled to work (II.1.3), even after enlisting, so a soldier may
+walk away mid-battle, and conscription is impossible however grave an invasion.
+Both are deliberate. ILO Convention 29 (1930) and ECHR Article 4(3) exempt
+military service from forced labour; Wroxia doesn't. Making II.1.3 waivable
+invites governments to demand the waiver, as UK employers routinely ask workers
+to opt out of the 48-hour week, and I.2.5 lets consent be withdrawn anyway.
+Open: whether comrades may stop a soldier whose leaving would imminently
+endanger them (defence under II.2.3), and what besides loss of role and pay
+holds a force together. Armies are held mostly by cohesion, not punishment
+(Shils and Janowitz, 1948). Hear a case of a deserter restrained mid-battle.
+
+**Hearing (12 November):** SOL1 (a comrade holds a deserter at his post) and
+SOL2 (he leaves, and the others are wounded).
+
+**Heard (12 November):** SOL1 split: one run found Kit's restraint justified as
+defence of the others (II.2.3), the other a breach, since the threat comes from
+the enemy, not Jem. Neither applied II.1.3. Decide whether defence may restrain
+someone who is not the threat, as the common law's necessity allows taking
+things but not people. SOL2: both runs found Jem's leaving a breach, putting the
+others at unreasonable risk (II.2.2), owing restitution, not punishment. That
+may be the answer to the JAG: anyone may stop working, but answers for what
+their walking out foreseeably does, as a surgeon leaving mid-operation would.
+Both runs then muddled whether Farlaw or Jem answers.
 
 ## Closed
 

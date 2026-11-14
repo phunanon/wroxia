@@ -16,18 +16,18 @@ know it.
 1. **Sentient** (adjective): having subjective experience, so that wellbeing or
    suffering can be felt.
 2. **Patient** (noun): any sentient being.
-3. **Agent** (noun): a patient able to understand others' rights and privileges
-   and to act on that understanding.
+3. **Agent** (noun): a patient able to understand others' rights and to act on
+   that understanding.
 4. **Citizen** (noun): a patient recognised as a citizen by law. Demonym:
    Wroxian.
-5. **Right** (noun): an entitlement that no law, amendment, condition, or waiver
-   can remove.
-6. **Privilege** (noun): an entitlement that holds unless one of its stated
+5. **Absolute** (adjective, of a right): that no law, amendment, condition, or
+   waiver can remove.
+6. **Limited** (adjective, of a right): that holds unless one of its stated
    conditions is met, and that its holder may waive.
-7. **Negative** (adjective, of a right or privilege): fulfilled by others
-   refraining from action.
-8. **Positive** (adjective, of a right or privilege): fulfilled by action of the
-   government in whose domain it falls.
+7. **Negative** (adjective, of a right): fulfilled by others refraining from
+   action.
+8. **Positive** (adjective, of a right): fulfilled by action of the government
+   in whose domain it falls.
 9. **Occupancy** (noun): making land one's home or workplace.
 10. **Holding** (noun): keeping a thing for one's own use.
 11. **Suffering** (noun): pain, fear, or distress felt by a patient.
@@ -46,10 +46,11 @@ know it.
 
 ### I.2. Application
 
-1. Every animal with a central nervous system is presumed sentient.
-2. Only an agent can breach a right or privilege. A human is presumed to have
-   been an agent when acting, unless evidence shows otherwise. Capacity is
-   established under Instrument 3.
+1. Every vertebrate, cephalopod, decapod crustacean, and insect is presumed
+   sentient.
+2. Only an agent can breach a right. A human is presumed to have been an agent
+   when acting, unless evidence shows otherwise. Capacity is established under
+   Instrument 3.
 3. Land includes buildings, water on it, and anything fixed to it that cannot be
    removed intact without harming either. Land ends where the sea begins. Land
    is occupied by those who live or work there, but no one has any claim to it
@@ -63,9 +64,9 @@ know it.
 
 ## Part II: Entitlements
 
-### II.1. Universal negative rights
+### II.1. Universal absolute negative rights
 
-Every patient has the right:
+Every patient has the absolute right:
 
 1. To freedom from torture.
 2. Not to be made to reveal, or to help anyone reach, information they withhold.
@@ -73,22 +74,22 @@ Every patient has the right:
    exchange.
 4. Not to have their body, after death, held or used except as they directed.
    Their directions are followed under Instrument 2 (_default purpose_ safe care
-   and disposal, _Advocate_ Negative Rights Advocate). If they were not human,
-   an agent who would otherwise die for lack of food may eat their body.
+   and disposal, _Advocate_ Absolute Negative Rights Advocate). If they were not
+   human, an agent who would otherwise die for lack of food may eat their body.
 5. Not to be held by anyone as a thing.
 
-### II.2. Universal negative privileges
+### II.2. Universal limited negative rights
 
-Where a privilege below has defence as a condition, it may be limited to defend
-a patient from imminent death, injury, or suffering, only so far and for so long
+Where a right below has defence as a condition, it may be limited to defend a
+patient from imminent death, injury, or suffering, only so far and for so long
 as necessary, without causing harm out of proportion to what is prevented.
 Suffering caused by expression alone is no ground for defence, except as III.1.3
 allows.
 
-Every patient has the privilege:
+Every patient has the limited right:
 
 1. Not to be killed or injured, nor made to suffer, by others. It may be waived
-   as to death only through the Negative Privileges Advocate. Conditions:
+   as to death only through the Limited Negative Rights Advocate. Conditions:
    - Defence under II.2.
    - An agent who would otherwise die for persistent lack of food, with no other
      practicable food, may kill to eat, but not a human.
@@ -125,37 +126,37 @@ Every patient has the privilege:
    Conditions:
    - Defence under II.2.
 
-### II.3. Universal positive rights
+### II.3. Universal absolute positive rights
 
-Every patient has the right:
+Every patient has the absolute right:
 
-1. To know the current date and time.
+1. To know, on request, the current date and time.
 2. To receive, on request, a written statement of whether they are a citizen.
 
-### II.4. Universal positive privileges
+### II.4. Universal limited positive rights
 
 None yet.
 
-### II.5. National negative rights
+### II.5. National absolute negative rights
 
-Every citizen has the right:
+Every citizen has the absolute right:
 
 1. To enter Wroxia while unladen.
 
-### II.6. National negative privileges
+### II.6. National limited negative rights
 
 None yet.
 
-### II.7. National positive rights
+### II.7. National absolute positive rights
 
-Every citizen has the right:
+Every citizen has the absolute right:
 
 1. If human and aged 18 or over, to an equal quota for land, and to land to live
    on at once, under Part V.
 
-### II.8. National positive privileges
+### II.8. National limited positive rights
 
-Every citizen has the privilege:
+Every citizen has the limited right:
 
 1. Of equitable public free speech and broadcast.
 
@@ -163,42 +164,41 @@ Every citizen has the privilege:
 
 ### III.1. Liberty
 
-1. No law may forbid an act that breaches no right or privilege, except a kind
-   of act that generally puts others at unreasonable risk they have not freely
-   accepted.
+1. No law may forbid an act that breaches no right, except a kind of act that
+   generally puts others at unreasonable risk they have not freely accepted.
 2. A law may distinguish between patients only by citizenship, or by a trait
    that bears on the harm, risk, or need it addresses, and only as it would
    between two humans who differed in that trait.
-3. Expression alone never breaches a right or privilege, except: a threat; a
-   demand backed by duress; a knowingly false accusation of breach; urging a
-   breach that is then committed; communications kept up towards someone who has
-   asked for them to stop; or sharing what II.2.7 protects.
+3. Expression alone never breaches a right, except: a threat; a demand backed by
+   duress; a knowingly false accusation of breach; urging a breach that is then
+   committed; communications kept up towards someone who has asked for them to
+   stop; or sharing what II.2.7 protects.
 4. Within those limits, law may build freely on this constitution: founding
    institutions, raising taxes, and providing services.
 5. A law contrary to this constitution has no force.
 
 ### III.2. Answering for harm
 
-1. An agent who breaches a right or privilege shall make restitution to those
-   harmed, as far as it can be made. Restitution owed to a patient who has died,
-   or who cannot be identified, is used for those who depended on them, or else
-   for others like them.
+1. An agent who breaches a right shall make restitution to those harmed, as far
+   as it can be made. Restitution owed to a patient who has died, or who cannot
+   be identified, is used for those who depended on them, or else for others
+   like them.
 2. Restitution may be made in kind: restoring the harmed to safety, health, and
    a place to live, as far as can be done, at the cost of whoever caused the
    harm.
 3. Restitution owed is paid to those harmed at once from public funds, and the
-   government that paid recovers it from whoever caused the harm.
+   government that paid recovers it from whoever caused the harm. That
+   government may dispute the claim as a party.
 4. Each government answers for everything done in its name as an agent would.
-5. Any act done in a government's name that limits a privilege stands as a
-   breach, unless that government shows that one of the privilege's conditions
-   was met.
+5. Any act done in a government's name that limits a right stands as a breach,
+   unless that government shows that one of the right's conditions was met.
 6. Anyone acting in a government's name who accepts a bribe loses the role, and
    whatever they did for it is void. Offering one breaches nothing.
 7. Anyone acting in a government's name who discloses what they were entrusted
    to keep loses the role, unless they told only an Advocate or a court. If an
    Advocate they told does nothing with it for three months, they may tell
    anyone and keep the role. Losing the role is all a disclosure costs, unless
-   it breaches a right or privilege.
+   it breaches a right.
 8. Anyone harmed, or an Advocate on behalf of any patient, may bring a claim of
    breach.
 9. A disputed claim of breach is decided by a court, after each party has had a
@@ -219,10 +219,10 @@ Every citizen has the privilege:
 ### IV.2. Nearlaw and Farlaw
 
 1. Wroxia has two governments:
-   1. Farlaw governs every matter to which a power outside Wroxia is a party;
-      what is placed in or taken from Wroxia's sea and its bed, and flight above
-      them; and people, things, and signals while they cross Wroxia's border. A
-      power is a party only to what is done in its name.
+   1. Farlaw governs all flight; every matter to which a power outside Wroxia is
+      a party; what is placed in or taken from Wroxia's sea and its bed; and
+      people, things, and signals while they cross Wroxia's border. A power is a
+      party only to what is done in its name.
    2. Nearlaw governs every other matter.
 2. Each government issues its own currency.
 3. Each government raises taxes only from matters within its own domain, payable
@@ -231,7 +231,7 @@ Every citizen has the privilege:
       rent under V.7, never more than it; and charges for using land it keeps.
 4. Each government may keep its own forces and police, which enforce only that
    government's law. Farlaw's forces act on Wroxia's land only at the border, or
-   at nearlaw's request and under its direction. Farlaw may use force beyond
+   at Nearlaw's request and under its direction. Farlaw may use force beyond
    Wroxia only with the consent of the body under IV.3.3, which lapses after a
    year unless given again.
 5. Every matter is nearlaw unless shown to be farlaw. A matter belongs to a
@@ -256,13 +256,13 @@ Every citizen has the privilege:
 
 ### IV.4. Advocates
 
-1. There are four Advocates: for negative rights, positive rights, negative
-   privileges, and positive privileges.
+1. There are four Advocates: for absolute negative, absolute positive, limited
+   negative, and limited positive rights.
 2. Each Advocate defends its kind against breach by anyone, including either
    government.
-3. Where a patient cannot act for itself, the Negative Privileges Advocate acts
-   for it and receives any restitution on its behalf. That restitution is used
-   only for its own sake.
+3. Where a patient cannot act for themselves, the Limited Negative Rights
+   Advocate acts for them and receives any restitution on their behalf. That
+   restitution is used only for their own sake.
 4. Each Advocate is an office, headed by a body chosen by Instrument 1 (_seats_
    3, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3) from
    electors who put themselves forward, deciding by Instrument 4.
@@ -291,8 +291,9 @@ Every citizen has the privilege:
    land like anyone, staking nothing, and keeps it only for public use. Nearlaw
    keeps all other vacant land until it is taken.
 2. Anyone may register, alone or together, for vacant land, or for adjacent
-   pieces as one. One registrant, drawn by lot, takes it for its stake; whoever
-   declines may not register for any land for a year.
+   pieces as one. One registrant takes it for its stake, drawn by lot with one
+   chance for each quota they register; whoever declines may not register for
+   any land for a year.
 3. The stake for vacant land is its area in shares, times the quotas registered
    for it if more than one, but no more than one quota or its area in shares,
    whichever is more.
@@ -328,9 +329,9 @@ Every citizen has the privilege:
    choose a part of the land, in proportion to what was pooled, to fall vacant.
 3. Land first coming under this Part falls vacant, but whoever occupies it may
    take it first as if directed, a government keeps any then in public use, and
-   rights over it then in use bind as granted rights do.
+   easements over it then in use bind as granted ones do.
 
-### V.6. Buildings and rights
+### V.6. Buildings and easements
 
 1. Whoever has title may ask a sum for what is fixed to the land, paid by
    whoever next takes it, yearly if they wish, to them or as they directed, in
@@ -340,15 +341,15 @@ Every citizen has the privilege:
    without seeing either sum, what a sensible taker would pay if no one else
    wanted the land; whichever sum is nearer the middle one stands, or the lower
    if tied.
-3. Whoever has title may grant other land a lasting right over it, such as a
+3. Whoever has title may grant other land a lasting easement over it, such as a
    way, light, or drainage, short of occupying it, binding later takers of
-   either until a court finds it no longer serves. Sums and rights are shown to
-   registrants.
+   either until a court finds it no longer serves. Sums and easements are shown
+   to registrants.
 
 ### V.7. Extraction
 
 1. Taking from land, for use off it, anything that does not renew requires a
-   licence from nearlaw. Licence rent is paid equally to everyone with a quota.
+   licence from Nearlaw. Licence rent is paid equally to everyone with a quota.
 
 ## Part VI: Amendment
 

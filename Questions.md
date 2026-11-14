@@ -9,11 +9,11 @@ the answer in its Problem and delete the question.
 A simulated refugee family with a diabetic grandmother got no shelter, food, or
 medicine for three years. Somewhere to live is now answered by land at once
 (II.7.1), but III.1.4 still only permits law to provide other services, never
-requires it. Add a universal positive privilege, fulfilled by nearlaw: "To food
-and urgent medical care, when unable to obtain them." Conditions could limit it
-to what nearlaw can practicably supply. Like II.7.1, it would place a positive
-duty on nearlaw. **Recommend yes**, since the Preamble puts safety from harm
-first and nothing else guarantees survival; but it is a large ideological
+requires it. Add a universal limited positive right, fulfilled by nearlaw: "To
+food and urgent medical care, when unable to obtain them." Conditions could
+limit it to what nearlaw can practicably supply. Like II.7.1, it would place a
+positive duty on nearlaw. **Recommend yes**, since the Preamble puts safety from
+harm first and nothing else guarantees survival; but it is a large ideological
 choice.
 
 ### Q7. Do wild animals occupy where they live? (P31, R2)

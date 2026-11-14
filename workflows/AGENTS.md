@@ -10,6 +10,11 @@ the [online](backends/online/AGENTS.md) backend with `--backend online`, or
 by hand, such as by Claude subagents. Each run logs its results there too,
 unless given `--out`.
 
+Offline Hearings are free: queue them whenever they would help. Claude subagent
+Hearings settle what the offline model can't, such as a split it keeps
+repeating. They cost money, so ask the author first. Run them on Sonnet, one
+subagent per prompt file, each told to read only that file.
+
 ## Hearings
 
 A Hearing is a quick clerical check of the current text, not a record. Each case

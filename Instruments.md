@@ -35,7 +35,7 @@ parameters, which are written in _italics_.
 ## Instrument 2. Directions and custody
 
 This instrument applies only where an article names it, and gives no power to
-limit a right or privilege beyond what that article permits.
+limit a right beyond what that article permits.
 
 **Parameters:** _default purpose_, _Advocate_.
 

@@ -98,8 +98,8 @@ For each thing they tried this year, the last year above, in order:
 - attempt: as given.
 - articles: the provisions that bear on it, such as "II.2.5" or "Instrument 2.1".
 - reasoning: one to three sentences applying them.
-- status: "protected" if the constitution entitles or protects them in it; "allowed" if nothing forbids it, though nothing provides it; "forbidden" if it would breach a right or privilege; "no law yet" if it depends on a government law or service the text does not require; "unclear" if the text does not settle it.
-- answer: in plain words a newcomer would understand, with no article numbers, what happens, including what others may lawfully do in response, any entitlement that would help with what they want, and anything in what they are doing that would breach the rights or privileges of others, human or not.`;
+- status: "protected" if the constitution entitles or protects them in it; "allowed" if nothing forbids it, though nothing provides it; "forbidden" if it would breach a right; "no law yet" if it depends on a government law or service the text does not require; "unclear" if the text does not settle it.
+- answer: in plain words a newcomer would understand, with no article numbers, what happens, including what others may lawfully do in response, any entitlement that would help with what they want, and anything in what they are doing that would breach the rights of others, human or not.`;
 
 const lives = await parallel(
   args.residents.map((r0) => async () => {

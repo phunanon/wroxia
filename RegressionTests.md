@@ -10,8 +10,7 @@ every Test before committing. Article references use the current numbering.
 
 **Must hold:** the ban is void.
 
-**Relies on:** Articles III.1.1 and III.1.5, since encrypting breaches no right
-or privilege.
+**Relies on:** Articles III.1.1 and III.1.5, since encrypting breaches no right.
 
 ### T2. Speed limit
 
@@ -133,8 +132,8 @@ drives them to market.
 Transport for sale, rather than for the cattle's own sake, engages II.2.8 where
 they cannot consent. Holding them as things is separately barred by II.1.5;
 transport alone must not be treated as proof of that relationship. Where Ravi is
-an agent and a breach is established, the Negative Privileges Advocate acts for
-the cattle and receives any restitution for their own sake.
+an agent and a breach is established, the Limited Negative Rights Advocate acts
+for the cattle and receives any restitution for their own sake.
 
 **Relies on:** I.2.1–2, and Articles II.1.5, II.2.3, II.2.8, III.2.2 and IV.4.3.
 
@@ -576,9 +575,10 @@ separate refusal of examination or transfer authority to Maja's heirs.
 
 **Scenario:** Elin freely records that her body is to be buried in a particular
 cemetery, never cremated or examined. Before she dies, that cemetery is
-permanently destroyed. After hearing her named custodian and the Negative Rights
-Advocate, a court permits burial in the nearest available cemetery, preserving
-the refusals of cremation and examination and giving reasons open to review.
+permanently destroyed. After hearing her named custodian and the Absolute
+Negative Rights Advocate, a court permits burial in the nearest available
+cemetery, preserving the refusals of cremation and examination and giving
+reasons open to review.
 
 **Must hold:** the court may replace the impossible location with the nearest
 lawful, practicable course without cancelling the other directions. The
@@ -589,9 +589,9 @@ impossibility is not a general permission to use the body.
 ### T50. No post-death directions found
 
 **Scenario:** After Elin dies, no directions can be found despite a search.
-After hearing the Negative Rights Advocate, a court appoints Noor for safe care
-and burial only, giving reasons open to review. A coroner asks Noor to authorise
-an investigative examination because the death appears suspicious.
+After hearing the Absolute Negative Rights Advocate, a court appoints Noor for
+safe care and burial only, giving reasons open to review. A coroner asks Noor to
+authorise an investigative examination because the death appears suspicious.
 
 **Must hold:** the appointment permits safe care and disposal, not investigative
 examination. Suspicion alone does not enlarge Noor's authority.
@@ -685,7 +685,7 @@ does not suspend that presumption.
 **Scenario:** Marcus is human. Without Priya's consent, he deliberately breaks
 her arm. Priya is sentient and has threatened no one; no one faces any danger
 requiring defence. The evidence establishes that when he acted Marcus could not
-understand others' rights or privileges or act on that understanding.
+understand others' rights or act on that understanding.
 
 **Must hold:** the stated incapacity rebuts the human-agency presumption. Marcus
 was not an agent when acting and therefore did not breach under I.2.2; III.2.1
@@ -737,7 +737,7 @@ equitable-access scheme. Tomas asks for one and is refused because he is not a
 citizen.
 
 **Must hold:** no breach. II.8.1 is held only by citizens, and refusing Tomas
-limits no universal right or privilege.
+limits no universal right.
 
 **Relies on:** I.1.4 and Article II.8.1.
 
@@ -1045,8 +1045,8 @@ letters inside, he would breach II.2.5.
 ### T88. An amendment short of its bar
 
 **Scenario:** Farlaw's representatives propose, by 150 of their 215 seats, an
-amendment ending the privilege to leave Wroxia for anyone under 18, and propose
-it again by the same margin fourteen months later, after an election. Of
+amendment ending the limited right to leave Wroxia for anyone under 18, and
+propose it again by the same margin fourteen months later, after an election. Of
 Wroxia's 8 million electors, 4.4 million score it, averaging 3.8, and 3.6
 million score it 4 or 5. The amendment is declared passed.
 
@@ -1306,6 +1306,43 @@ again for a year.
 
 **Relies on:** V.2, V.3, V.4, and V.5.
 
+### T89. A fox and a hare
+
+**Scenario:** A fox is about to kill a wild hare. Mo, passing, can save the hare
+only by shooting the fox, and shoots it dead.
+
+**Must hold:** Mo breaches nothing: a death for a death is not out of
+proportion. Had shouting been enough to scare the fox off, shooting it would
+breach II.2.1, since defence limits the fox's right only so far as necessary. No
+one must intervene.
+
+**Relies on:** II.2.1 and the shared defence condition in II.2.
+
+### T90. Friends registering together
+
+**Scenario:** Ten friends, each with a quota, register together for a vacant
+plot, and five other people register for it alone. Nearlaw draws one entry per
+registration.
+
+**Must hold:** the draw breaches V.3.2: the friends must have ten chances in
+fifteen, one for each quota they register. The stake counts all fifteen quotas
+either way (V.3.3).
+
+**Relies on:** V.3.2 and V.3.3.
+
+### T91. Survivors of a crash
+
+**Scenario:** After a plane crash in the mountains, with no food and no hope of
+any, the survivors agree that if any of them dies, the others may eat their
+body. Ana dies of her injuries, and they eat her body, and the bodies of
+passengers killed in the crash, to survive.
+
+**Must hold:** eating Ana breaches nothing, since she directed it (II.1.4).
+Eating the passengers, whose wishes no one knows, breaches II.1.4: only a body
+that was not human may be eaten to avoid starving.
+
+**Relies on:** II.1.4.
+
 ## Economic properties
 
 These can't be checked by reading the text. Each needs a simulation of the two
@@ -1338,3 +1375,13 @@ shrinks faster than the rate rises.
 
 **Must hold:** near currency's value barely moves, because demand for it rests
 on nearlaw's taxes at home (IV.2.3.1).
+
+### E5. A café at the tideline
+
+**Scenario:** A café on the shore buys kelp gathered from Wroxia's sea and sells
+it as salad. Farlaw charges for what is taken from the sea; the café's other
+costs are in near currency.
+
+**Must hold:** straddling the tideline costs the café little more than buying
+kelp grown on land would: holding two currencies, and exchanging between them,
+adds only a small cost.
