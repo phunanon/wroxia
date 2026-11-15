@@ -224,11 +224,15 @@ Every citizen has the limited right:
       people, things, and signals while they cross Wroxia's border. A power is a
       party only to what is done in its name.
    2. Nearlaw governs every other matter.
-2. Each government issues its own currency.
+2. Each government issues its own currency: Nearlaw the hearth, and Farlaw the
+   haven.
 3. Each government raises taxes only from matters within its own domain, payable
    only in its own currency.
-   1. Nearlaw raises only a fixed sum a year from each person's share of licence
-      rent under V.7, never more than it; and charges for using land it keeps.
+   1. Nearlaw raises only the land charge under V.8; a fixed sum a year from
+      each person's share of licence rent under V.7, never more than it; charges
+      for using land it keeps, paying whatever they raise beyond its cost
+      equally to everyone with a quota; and a yearly charge at one rate on every
+      holding of hearth.
 4. Each government may keep its own forces and police, which enforce only that
    government's law. Farlaw's forces act on Wroxia's land only at the border, or
    at Nearlaw's request and under its direction. Farlaw may use force beyond
@@ -277,7 +281,10 @@ Every citizen has the limited right:
    when it ends.
 3. **Vacant** (adjective, of land): that no one has title to.
 4. **District** (noun): one of the parts into which law divides land under this
-   Part.
+   Part. A change of districts affects only registrations and titles after it.
+5. **Contest** (noun): the area of land in shares when it is taken, times the
+   quotas registered for it by those who did not take it; nothing if no one else
+   registered.
 
 ### V.2. Quotas
 
@@ -291,18 +298,18 @@ Every citizen has the limited right:
    land like anyone, staking nothing, and keeps it only for public use. Nearlaw
    keeps all other vacant land until it is taken.
 2. Anyone may register, alone or together, for vacant land, or for adjacent
-   pieces as one. One registrant takes it for its stake, drawn by lot with one
-   chance for each quota they register; whoever declines may not register for
-   any land for a year.
+   pieces as one. A quota in several registrations at once counts in each as an
+   equal fraction of one, and no one may change their registrations more than
+   once in a calendar month. One registrant takes it for its stake, drawn by lot
+   with one chance for each quota they register; whoever declines may not
+   register for any land for a year.
 3. The stake for vacant land is its area in shares, times the quotas registered
    for it if more than one, but no more than one quota or its area in shares,
    whichever is more.
-4. Anyone may name up to three districts, changing one a year. Land is drawn
-   first among registrants who named its district.
-5. Nearlaw keeps enough vacant plots in each district, to a legal standard and
+4. Nearlaw keeps enough vacant plots in each district, to a legal standard and
    in proportion to the quotas staked there, for anyone entitled under II.7.1
-   without title to take one at once, drawn by lot, for its stake, asking
-   nothing for what is fixed to it.
+   without title to take one at once, drawn by lot, for its stake and with no
+   contest, asking them nothing for what is fixed to it.
 
 ### V.4. Pools and directions
 
@@ -350,6 +357,24 @@ Every citizen has the limited right:
 
 1. Taking from land, for use off it, anything that does not renew requires a
    licence from Nearlaw. Licence rent is paid equally to everyone with a quota.
+
+### V.8. Land charge
+
+1. Whoever takes land pays a yearly charge on its contest, at the rate law sets
+   when they take it, which never rises while they hold it. Those who take it
+   together pay in proportion to what they staked.
+2. Whoever gains title by direction or by joining a pool pays instead the going
+   charge on the part they gain: its area in shares times the contest per share
+   of all land drawn in its district other than under V.3.4 in the past five
+   years, or else in the last year any was, at the rate law then sets. But
+   whoever takes land by direction after its giver has died pays only the lower
+   of the going charge and halfway between it and what that part was charged
+   before. Whoever is directed may instead have the land drawn as vacant,
+   registering for it themselves.
+3. Once more than five years of someone's charges are unpaid, their title ends
+   as on notice. Whatever anyone owes when their title ends is paid first from
+   any sum under V.6.1, and until the rest is paid, they may gain no title that
+   carries a charge.
 
 ## Part VI: Amendment
 

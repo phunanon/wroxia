@@ -801,9 +801,11 @@ vacant, and twelve citizens, each with a whole quota unspent, register for it.
 
 **Must hold:** its stake is a twentieth of a quota times twelve, so three fifths
 of a quota. One of the twelve is drawn by lot and takes it for that stake, or
-declines, and another is drawn. Money plays no part.
+declines, and another is drawn. Money plays no part in the draw, but whoever
+takes it pays a yearly charge on a contest of a twentieth times the eleven who
+did not take it, at the rate law then sets.
 
-**Relies on:** V.1 and V.3.
+**Relies on:** V.1, V.3, and V.8.
 
 ### T68. A field too big for one quota
 
@@ -1301,10 +1303,10 @@ goes by lot, so the fund cannot choose what its staff take, and each of them has
 one quota like everyone else. Paying whoever has title to direct that one of
 them take it first buys a place in line, which they can change, that counts on a
 notice only after a year, and that still costs what was last staked, or the
-stake if more. Paying those drawn to decline bars each of them from registering
-again for a year.
+stake if more, and at least half the going land charge. Paying those drawn to
+decline bars each of them from registering again for a year.
 
-**Relies on:** V.2, V.3, V.4, and V.5.
+**Relies on:** V.2, V.3, V.4, V.5, and V.8.
 
 ### T89. A fox and a hare
 
@@ -1342,6 +1344,76 @@ Eating the passengers, whose wishes no one knows, breaches II.1.4: only a body
 that was not human may be eaten to avoid starving.
 
 **Relies on:** II.1.4.
+
+### T92. An heir to a large plot
+
+**Scenario:** Thirty years ago, when a share was a hectare, Owen took a
+one-hectare smallholding alone for one quota. Wroxia has grown, and a share is
+now 0.7 hectares. Owen directed that his son Cai take it first after him; Cai
+has his whole quota staked on a flat in town. Owen dies.
+
+**Must hold:** Cai may take the whole smallholding by giving all his quota,
+giving up the flat, though it is now more than a share. Had Owen instead given
+notice while alive, Cai would need about 1.4 quotas, and could not take it
+alone.
+
+**Relies on:** V.1, V.4, and V.5.
+
+### T93. A starter house sold
+
+**Scenario:** Rhi has no land and takes a plot nearlaw keeps for the landless,
+with a small house nearlaw built on it. Two years later she gives notice and
+asks £20,000 for the house from whoever takes the plot next.
+
+**Must hold:** she may. She paid nothing for the house, but once she has title,
+it is hers to ask a sum for, like anything else fixed to her land. If the next
+taker offers less, five electors decide.
+
+**Relies on:** V.3.4 and V.6.
+
+### T94. A starter plot passed on
+
+**Scenario:** Sion had no land and took a plot nearlaw keeps for the landless.
+He lived there forty years, built a workshop, and directed that his daughter
+Mali take it first after him. He dies. Plots in that district drew a contest
+last year.
+
+**Must hold:** Sion paid no land charge. Mali takes it like any directed land:
+for its stake or what was last staked, whichever is more, paying half the going
+land charge, since Sion was charged nothing. Later she may ask a sum for the
+house and workshop from whoever takes it after her.
+
+**Relies on:** V.3, V.4, V.6, and V.8.
+
+### T95. Heirs in a rising and a falling district
+
+**Scenario:** The land charge is 100 hearth a year for each share of contest.
+Dai's mother took a quarter-hectare harbour plot, when a share was a hectare,
+with no one else registered; last year harbour land was drawn at a contest of 6
+for each share of area. Gwen won a half-hectare plot against nine others and
+pays 450 hearth; her district has since declined, and last year drew at a
+contest of 2. Both die, and their sons, Dai and Huw, take the plots by
+direction.
+
+**Must hold:** Dai pays 75 hearth a year, half the going charge of 150, since
+his mother paid nothing. Huw pays 100 hearth a year, the going charge, since it
+is less than halfway between 100 and Gwen's 450.
+
+**Relies on:** V.1 and V.8.
+
+### T96. A farm handed on in life
+
+**Scenario:** The land charge is 100 hearth a year for each share of contest.
+Bryn took a one-share farm with no one else registered and pays nothing. At 70
+he directs his daughter Eira to take it first, and two years later gives notice
+to retire. Last year farms in the district were drawn at a contest of 2 for each
+share.
+
+**Must hold:** Eira may take the farm first and pays 200 hearth a year, the full
+going charge, since Bryn is alive. Had he died instead, she would pay 100. Bryn
+may ask her a yearly sum for the farmhouse.
+
+**Relies on:** V.4, V.6, and V.8.
 
 ## Economic properties
 

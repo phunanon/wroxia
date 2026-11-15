@@ -1,0 +1,613 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wroxia land simulator</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #fcfcfb;
+        --panel: #f3f2ef;
+        --text: #0b0b0b;
+        --muted: #52514e;
+        --grid: #e2e1dc;
+        --vacant: #ebeae6;
+        --s1: #2a78d6;
+        --s2: #eb6834;
+        --s3: #1baf7a;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          color-scheme: dark;
+          --bg: #1a1a19;
+          --panel: #242423;
+          --text: #f0efec;
+          --muted: #c3c2b7;
+          --grid: #383835;
+          --vacant: #2c2c2a;
+          --s1: #3987e5;
+          --s2: #d95926;
+          --s3: #199e70;
+        }
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font:
+          14px/1.45 system-ui,
+          sans-serif;
+      }
+      main {
+        max-width: 1200px;
+        margin: auto;
+        padding: 16px;
+      }
+      h1 {
+        font-size: 22px;
+        margin: 0 0 4px;
+      }
+      h2 {
+        font-size: 16px;
+        margin: 24px 0 8px;
+      }
+      p,
+      .note {
+        color: var(--muted);
+        max-width: 75ch;
+      }
+      .grid {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr));
+      }
+      .card {
+        background: var(--panel);
+        border-radius: 8px;
+        padding: 12px;
+        margin: 0;
+        position: relative;
+      }
+      figcaption {
+        font-weight: 600;
+      }
+      label {
+        display: block;
+        margin: 6px 0;
+      }
+      input[type='range'] {
+        width: 100%;
+      }
+      output {
+        float: right;
+        color: var(--muted);
+      }
+      button,
+      select,
+      input[type='number'] {
+        font: inherit;
+        padding: 4px 8px;
+      }
+      .tiles {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      }
+      .tile b {
+        display: block;
+        font-size: 22px;
+      }
+      .legend {
+        color: var(--muted);
+        font-size: 12px;
+      }
+      .legend i {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 2px;
+        margin: 0 4px 0 8px;
+      }
+      svg {
+        width: 100%;
+        height: auto;
+        display: block;
+        overflow: visible;
+      }
+      svg text {
+        fill: var(--muted);
+        font-size: 10px;
+      }
+      .tip {
+        position: absolute;
+        top: 8px;
+        right: 12px;
+        font-size: 12px;
+        color: var(--muted);
+        text-align: right;
+      }
+      canvas {
+        width: 100%;
+        max-width: 480px;
+        image-rendering: pixelated;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Wroxia land simulator</h1>
+      <p>
+        A Monte Carlo model of Part V and the land charge (V.8): monthly draws
+        on a 48 by 48 grid of cells, nine districts, and people of five types
+        who are born, age, inherit, move, migrate, and die. Money is in labour
+        hours. Each line shows the mean over the runs, with a band from the
+        lowest to the highest run.
+      </p>
+
+      <section class="card">
+        <label
+          >Preset
+          <select id="preset"></select>
+        </label>
+        <label
+          >Runs
+          <input id="runs" type="number" min="1" max="12" value="4" /> Seed
+          <input id="seed" type="number" value="1" />
+          <button id="go">Run</button> <span id="status" class="note"></span>
+        </label>
+        <details>
+          <summary>Parameters and behaviour</summary>
+          <div class="grid" id="controls"></div>
+        </details>
+      </section>
+
+      <h2>Last ten years</h2>
+      <div class="tiles" id="tiles"></div>
+      <h2>Over time</h2>
+      <div class="grid" id="charts"></div>
+      <h2>Who pays, in the last ten years</h2>
+      <div class="grid" id="bars"></div>
+      <h2>The map, first run</h2>
+      <section class="card">
+        <label
+          >Colour by
+          <select id="mode">
+            <option value="des">desirability</option>
+            <option value="charge">charge per cell</option>
+          </select>
+        </label>
+        <canvas id="map" width="480" height="480"></canvas>
+        <p id="mapnote" class="note"></p>
+      </section>
+      <details>
+        <summary>What the model leaves out</summary>
+        <p>
+          Each person registers alone, for up to three lots; joint registration
+          and pools of unrelated people are left out, and only families and
+          savvy parents admit children to pool. Each cell is a piece of vacant
+          land, so anyone may register for any adjacent cells as one. Charges
+          are frozen in hours at taking, split pro rata by area on notice for
+          part. Starter plots are the least desirable vacant cells and are not
+          open to ordinary draws. Arrears are recovered at once from the
+          building sum. Directions are made at death, to a child, or by one in
+          ten sole holders who leave, or half if cheaper than a draw, to a
+          landless adult child or else a landless seeker.
+        </p>
+      </details>
+    </main>
+    <script src="sim.js"></script>
+    <script>
+      'use strict';
+      const $ = (q) => document.querySelector(q);
+      const f0 = (x) => x.toFixed(0),
+        f2 = (x) => x.toFixed(2),
+        pct = (x) => (100 * x).toFixed(1) + '%';
+      const SLIDERS = [
+        ['years', 'Years', 10, 150, 10],
+        ['rate', 'Charge rate, hours a year per share of contest', 0, 3000, 50],
+        ['rateRise', 'Yearly rise in the rate law sets', 0, 0.05, 0.005],
+        ['towns', 'Fixed towns', 0, 6, 1],
+        ['pop0', 'Founding adults', 100, 600, 50],
+        [
+          'locScale',
+          'Value placed on location, times the default',
+          0.5,
+          10,
+          0.5,
+        ],
+        ['birth', 'Births a year per adult aged 20 to 39', 0, 0.15, 0.01],
+        ['immig', 'Immigration, share of adults a year', 0, 0.05, 0.005],
+        ['emig', 'Emigration, share of adults a year', 0, 0.03, 0.002],
+        ['payCap', 'Most of their income anyone pays', 0.05, 1, 0.05],
+        [
+          'bite',
+          'Charge, as share of income, that prompts a move',
+          0.02,
+          0.5,
+          0.02,
+        ],
+        ['prep', 'Hours to prepare a starter plot', 0, 2000, 50],
+        ['upkeep', 'Hours a year to keep a starter plot', 0, 100, 5],
+        ...Object.entries(Sim.TYPES).map(([k, t]) => [
+          'mix.' + k,
+          `${t.name}, weight among newcomers`,
+          0,
+          1,
+          0.05,
+        ]),
+      ];
+      const TOGGLES = {
+        uniform: 'Uniform desirability',
+        emerge: 'Towns grow where people settle',
+        shown: 'Registrant counts shown',
+        avoid: 'Register where few others do (needs counts shown)',
+        spread: 'Savvy people spread registrations over three lots',
+        partial: 'Give notice on part of a plot to cut its charge',
+        pool: 'Pool heirs in at 18',
+        escape: 'Heirs have unwanted land drawn as vacant',
+        rings: "Rings: savvy locals don't register against each other",
+        rolling: 'Strategists default, rolling from plot to plot',
+        move: 'Move to cheaper land when the charge bites',
+      };
+      const get = (o, k) => k.split('.').reduce((a, x) => a[x], o);
+      const ctl = $('#controls');
+      ctl.innerHTML =
+        SLIDERS.map(
+          ([k, l, a, b, st]) =>
+            `<label>${l} <output></output><input type="range" data-k="${k}" min="${a}" max="${b}" step="${st}"></label>`,
+        ).join('') +
+        `<div>${Object.entries(TOGGLES)
+          .map(
+            ([k, l]) =>
+              `<label><input type="checkbox" data-k="${k}"> ${l}</label>`,
+          )
+          .join('')}
+        <label>Arrears beyond the building sum <select data-k="arrears"><option value="bar">bar title with a charge until paid</option><option value="carry">carry to the next land gained</option><option value="writeoff">write off</option></select></label>
+        <label>Takers by draw pay <select data-k="take"><option value="own">on their own contest</option><option value="district">the going charge</option></select></label>
+        <label>Directions and joins in life pay <select data-k="life"><option value="half">the halfway charge</option><option value="full">the going charge</option></select></label>
+        <label>Directions and joins are <select data-k="rerate"><option value="going">recharged towards the going charge</option><option value="none">charged as before</option></select></label></div>`;
+      const inputs = [...ctl.querySelectorAll('[data-k]')];
+      const show = () =>
+        inputs.forEach(
+          (i) =>
+            i.type === 'range' && (i.previousElementSibling.value = i.value),
+        );
+      ctl.oninput = show;
+      $('#preset').innerHTML = Object.entries(Sim.PRESETS)
+        .map(([k, p]) => `<option value="${k}">${p.name}</option>`)
+        .join('');
+      $('#preset').value = 'one-town';
+      function applyPreset() {
+        const o = { ...Sim.DEFAULTS, ...Sim.PRESETS[$('#preset').value] };
+        inputs.forEach((i) =>
+          i.type === 'checkbox'
+            ? (i.checked = get(o, i.dataset.k))
+            : (i.value = get(o, i.dataset.k)),
+        );
+        show();
+      }
+      function readOpts() {
+        const o = { mix: {}, seed: +$('#seed').value };
+        for (const i of inputs) {
+          const [k, m] = i.dataset.k.split('.'),
+            v =
+              i.type === 'checkbox'
+                ? i.checked
+                : i.type === 'range'
+                  ? +i.value
+                  : i.value;
+          m ? (o.mix[m] = v) : (o[k] = v);
+        }
+        return o;
+      }
+
+      let states = [],
+        frame;
+      function start() {
+        cancelAnimationFrame(frame);
+        const o = readOpts();
+        states = Array.from(
+          { length: Math.max(1, +$('#runs').value) },
+          (_, i) => Sim.create({ ...o, seed: o.seed + i }),
+        );
+        const tick = () => {
+          for (const s of states) Array.from({ length: 12 }, () => Sim.step(s));
+          render(o.years);
+          const done = states[0].year >= o.years;
+          $('#status').textContent = done
+            ? `Done: ${states.length} runs of ${o.years} years.`
+            : `Year ${states[0].year} of ${o.years}...`;
+          if (!done) frame = requestAnimationFrame(tick);
+        };
+        tick();
+      }
+
+      const nice = (v) => {
+        const e = 10 ** Math.floor(Math.log10(v || 1));
+        return [1, 2, 5, 10].map((m) => m * e).find((m) => m >= v);
+      };
+      // One-axis line chart: mean line and min-max band per series, hover readout.
+      function line([title, series, fmt], years) {
+        const H = states.map((s) => s.hist),
+          n = H[0].length,
+          W = 360,
+          Ht = 170,
+          L = 48,
+          B = 20;
+        const stat = series.map(([, f]) =>
+          Array.from({ length: n }, (_, i) => {
+            const v = H.map((h) => f(h[i]) || 0);
+            return [
+              Math.min(...v),
+              v.reduce((a, b) => a + b) / v.length,
+              Math.max(...v),
+            ];
+          }),
+        );
+        const top = nice(Math.max(1e-9, ...stat.flat().map((s) => s[2])));
+        const x = (i) => L + ((W - L - 6) * i) / Math.max(1, years - 1),
+          y = (v) => Ht - B - ((Ht - B - 6) * v) / top;
+        const path = (pts) =>
+          pts
+            .map(
+              (p, i) => `${i ? 'L' : 'M'}${p[0].toFixed(1)},${p[1].toFixed(1)}`,
+            )
+            .join('');
+        const fig = document.createElement('figure');
+        fig.className = 'card';
+        fig.innerHTML = `<figcaption>${title}</figcaption>
+          <div class="legend">${series.length > 1 ? series.map(([nm], k) => `<i style="background:var(--s${k + 1})"></i>${nm}`).join('') : '&nbsp;'}</div>
+          <div class="tip"></div>
+          <svg viewBox="0 0 ${W} ${Ht}">
+            ${[0, 0.5, 1].map((g) => `<line x1="${L}" x2="${W - 6}" y1="${y(g * top)}" y2="${y(g * top)}" stroke="var(--grid)"/><text x="${L - 4}" y="${y(g * top) + 3}" text-anchor="end">${fmt(g * top)}</text>`).join('')}
+            ${[1, Math.round(years / 2), years].map((yr) => `<text x="${x(yr - 1)}" y="${Ht - 4}" text-anchor="middle">${yr}</text>`).join('')}
+            ${stat
+              .map((st, k) => {
+                const c = `var(--s${k + 1})`;
+                const band = path([
+                  ...st.map((s, i) => [x(i), y(s[2])]),
+                  ...st.map((s, i) => [x(i), y(s[0])]).reverse(),
+                ]);
+                return `<path d="${band}Z" fill="${c}" opacity="0.15"/><path d="${path(st.map((s, i) => [x(i), y(s[1])]))}" fill="none" stroke="${c}" stroke-width="2"/>`;
+              })
+              .join('')}
+            <line class="cross" y1="6" y2="${Ht - B}" stroke="var(--muted)" visibility="hidden"/>
+          </svg>`;
+        const svg = fig.querySelector('svg'),
+          cross = fig.querySelector('.cross'),
+          tip = fig.querySelector('.tip');
+        svg.onpointermove = (e) => {
+          const r = svg.getBoundingClientRect(),
+            i = Math.max(
+              0,
+              Math.min(
+                n - 1,
+                Math.round(
+                  (((e.clientX - r.left) / r.width) * W - L) /
+                    ((W - L - 6) / Math.max(1, years - 1)),
+                ),
+              ),
+            );
+          cross.setAttribute('x1', x(i));
+          cross.setAttribute('x2', x(i));
+          cross.setAttribute('visibility', 'visible');
+          tip.innerHTML =
+            `Year ${i + 1}<br>` +
+            series
+              .map(([nm], k) => `${nm}: ${fmt(stat[k][i][1])}`)
+              .join('<br>');
+        };
+        svg.onpointerleave = () => (
+          cross.setAttribute('visibility', 'hidden'),
+          (tip.textContent = '')
+        );
+        return fig;
+      }
+
+      // Horizontal bars of a last-ten-years mean, labelled directly.
+      function bars(title, rows, fmt) {
+        const top = Math.max(1e-9, ...rows.map((r) => r[1] || 0));
+        return `<figure class="card"><figcaption>${title}</figcaption><svg viewBox="0 0 360 ${rows.length * 24 + 4}">${rows
+          .map(
+            ([nm, v], i) =>
+              `<text x="0" y="${i * 24 + 15}">${nm}</text>${v == null ? `<text x="110" y="${i * 24 + 15}">none</text>` : `<rect x="110" y="${i * 24 + 4}" width="${Math.max(1, (190 * v) / top)}" height="16" rx="4" fill="var(--s1)"/><text x="${116 + (190 * v) / top}" y="${i * 24 + 15}">${fmt(v)}</text>`}`,
+          )
+          .join('')}</svg></figure>`;
+      }
+
+      const CHARTS = [
+        [
+          'Revenue and starter-plot cost, hours a year',
+          [
+            ['Charge revenue', (h) => h.revenue],
+            ['Starter plots', (h) => h.starterCost],
+          ],
+          f0,
+        ],
+        [
+          'Revenue per adult, hours a year',
+          [['Per adult', (h) => h.perAdult]],
+          f2,
+        ],
+        [
+          'Revenue as a share of income',
+          [['Share', (h) => h.incShare]],
+          (x) => (100 * x).toFixed(2) + '%',
+        ],
+        [
+          'Adults paying nothing, and landless',
+          [
+            ['Paying nothing', (h) => h.zero],
+            ['Landless', (h) => h.landless],
+          ],
+          pct,
+        ],
+        [
+          'Land vacant, and kept for starter plots',
+          [
+            ['Vacant', (h) => h.vacancy],
+            ['Starter reserve', (h) => h.reserved],
+          ],
+          pct,
+        ],
+        ['Average plot size, cells', [['Cells', (h) => h.plotSize]], f2],
+        [
+          'Splits and merges a year',
+          [
+            ['Splits', (h) => h.splits],
+            ['Merges', (h) => h.merges],
+          ],
+          f0,
+        ],
+        ['Holders with arrears', [['In arrears', (h) => h.defaults]], pct],
+        [
+          'Arrears: recovered from building sums and written off, hours a year',
+          [
+            ['Recovered', (h) => h.recovered],
+            ['Written off', (h) => h.writtenOff],
+          ],
+          f0,
+        ],
+        [
+          'Titles ended for arrears a year',
+          [['Ended', (h) => h.arrearsEnds]],
+          f0,
+        ],
+        [
+          'Adults moving to new land a year',
+          [['Moving', (h) => h.mobility]],
+          pct,
+        ],
+        [
+          'Inequality (Gini)',
+          [
+            ['Charges paid', (h) => h.giniPaid],
+            ['Land held, by desirability', (h) => h.giniLand],
+          ],
+          f2,
+        ],
+        ['Adults', [['Adults', (h) => h.adults]], f0],
+        [
+          'Going rate: others registered per share drawn',
+          [['Contest per share', (h) => h.cps]],
+          f2,
+        ],
+      ];
+      const HOW = {
+        found: 'Founding',
+        draw: 'Draw',
+        starter: 'Starter plot',
+        direction: 'Direction',
+        pool: 'Pool',
+        escape: 'Heir redrawn',
+      };
+
+      function render(years) {
+        const H = states.map((s) => s.hist);
+        if (!H[0].length) return;
+        const recent = (f) => {
+          const v = H.flatMap((h) => h.slice(-10).map(f)).filter(
+            (x) => x != null,
+          );
+          return v.length ? v.reduce((a, b) => a + b) / v.length : null;
+        };
+        $('#tiles').innerHTML = [
+          ['Revenue, hours a year', f0(recent((h) => h.revenue))],
+          ['Per adult', f2(recent((h) => h.perAdult))],
+          [
+            'Share of income',
+            (100 * recent((h) => h.incShare)).toFixed(2) + '%',
+          ],
+          ['Starter plots cost', f0(recent((h) => h.starterCost))],
+          ['Adults paying nothing', pct(recent((h) => h.zero))],
+          ['Vacant land', pct(recent((h) => h.vacancy))],
+        ]
+          .map(([l, v]) => `<div class="card tile">${l}<b>${v}</b></div>`)
+          .join('');
+        $('#charts').replaceChildren(...CHARTS.map((c) => line(c, years)));
+        $('#bars').innerHTML =
+          bars(
+            'Mean yearly charge, by how title was gained',
+            Sim.HOWS.map((k) => [HOW[k], recent((h) => h.byHow[k])]),
+            f0,
+          ) +
+          bars(
+            'Mean paid a year, per adult of each type',
+            Object.entries(Sim.TYPES).map(([k, t]) => [
+              t.name,
+              recent((h) => h.byType[k]),
+            ]),
+            f0,
+          ) +
+          bars(
+            'Entrenchment: frozen charge over going charge',
+            Sim.GENS.map((k) => [k, recent((h) => h.entrench[k])]),
+            f2,
+          );
+        drawMap();
+      }
+
+      function drawMap() {
+        const s = states[0];
+        if (!s) return;
+        const cv = $('#map'),
+          g = cv.getContext('2d'),
+          N = s.N,
+          k = cv.width / N,
+          mode = $('#mode').value,
+          m = Sim.cellMap(s, mode);
+        const css = getComputedStyle(document.documentElement),
+          rgb = (v) =>
+            css
+              .getPropertyValue(v)
+              .trim()
+              .match(/\w\w/g)
+              .map((h) => parseInt(h, 16));
+        const [lo, hi, res] = [
+          rgb('--vacant'),
+          rgb(mode === 'des' ? '--s1' : '--s2'),
+          rgb('--s3'),
+        ];
+        const top = Math.max(1e-9, ...m);
+        const mix = (t) =>
+          `rgb(${lo.map((a, i) => Math.round(a + (hi[i] - a) * t))})`;
+        for (let c = 0; c < s.C; c++) {
+          const v = m[c];
+          g.fillStyle =
+            v === -2
+              ? `rgb(${res})`
+              : v === -1
+                ? `rgb(${lo})`
+                : mix(mode === 'des' ? v : 0.15 + 0.85 * Math.sqrt(v / top));
+          g.fillRect((c % N) * k, Math.floor(c / N) * k, k, k);
+        }
+        g.strokeStyle = css.getPropertyValue('--text');
+        g.globalAlpha = 0.5;
+        g.beginPath();
+        for (let c = 0; c < s.C; c++) {
+          const x = (c % N) * k,
+            y = Math.floor(c / N) * k,
+            o = s.owner[c];
+          if (x + k < cv.width && o !== s.owner[c + 1] && (o || s.owner[c + 1]))
+            (g.moveTo(x + k, y), g.lineTo(x + k, y + k));
+          if (c + N < s.C && o !== s.owner[c + N] && (o || s.owner[c + N]))
+            (g.moveTo(x, y + k), g.lineTo(x + k, y + k));
+        }
+        g.stroke();
+        g.globalAlpha = 1;
+        $('#mapnote').textContent =
+          mode === 'des'
+            ? 'Stronger blue is more desirable; lines are plot boundaries; green cells are kept as starter plots.'
+            : `Stronger orange is a higher yearly charge per cell (top ${f0(top)} hours); grey is vacant; green is kept as starter plots.`;
+      }
+
+      $('#preset').onchange = () => (applyPreset(), start());
+      $('#go').onclick = start;
+      $('#mode').onchange = drawMap;
+      applyPreset();
+      start();
+    </script>
+  </body>
+</html>

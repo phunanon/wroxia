@@ -42,6 +42,19 @@ they try to do and expect, a clerk who sees only the law says what happens, and
 they react. Residents never see the law. Adversaries don't either, but each year
 their lawyer, a second character who knows the law, advises them first.
 
+## Land simulator
+
+[landsim/](landsim/) is a Monte Carlo model of Part V and the land charge (V.8):
+a map whose desirability shifts as towns grow, people who are born, migrate, and
+die, monthly draws, pools, directions, starter plots, arrears, and switchable
+ways of avoiding the charge. Open [index.html](landsim/index.html) in a browser,
+or run
+`node workflows/landsim/sim.js <preset> [--runs N] [--years N] [--param value]`,
+which prints a table per decade and writes JSON to `runs/`. Its rules are
+hand-coded from the text, so update `sim.js` when Part V changes. Type-check it
+with
+`npx -y -p typescript tsc --noEmit --allowJs --checkJs --target es2022 --lib es2022,dom --noImplicitAny false workflows/landsim/sim.js`.
+
 ## Claude Code workflows
 
 [claude/](claude/) holds scripts for Claude Code's Workflow tool, run with

@@ -323,6 +323,15 @@ violence gains its own nearlaw, and annexed populations get votes in farlaw. On
 first rule would cover a settlement on the Moon or Mars (P77). Whether each new
 nearlaw counts its own shares under Part V is open.
 
+**Annexed land (14 November):** V.5.3 lets occupiers of land first coming under
+Part V take it first as if directed, but only citizens have quotas, so occupiers
+who are not yet citizens can't, and their homes would fall vacant; and as V.4.3
+gives the death clause only to heirs, an occupying farmer could keep no more
+than one quota's worth. Annexing empty land enlarges every share; annexing
+people adds quotas. Under V.8, occupiers pay no land charge (no land has been
+drawn there yet), which the author accepts. The author wants annexation thought
+through.
+
 ### P27. Labour-hours, upheld not enforced
 
 An opt-in economy paid by the hour, which no one is compelled into. It may fit
@@ -402,6 +411,25 @@ Nearlaw without compulsion, since anyone may hold none; a toy model put
 steady-price spending at a few per cent of output. Still open, and needing hard
 thought, including whether it belongs in the constitution: denominating near
 currency in labour hours (the Public remuneration belief).
+
+**Names and value (14 November):** the currencies are now the hearth (HTH) and
+the haven (HVN), named in IV.2.2; codes and symbols are left to law. The author
+doubts demurrage makes anyone want hearth, rightly: it speeds circulation and
+leaks money out so nearlaw can spend more in, but value comes only from what
+must be paid to nearlaw in hearth (the land charge, licence rent, recovered
+restitution) and what nearlaw sells for them. With the land charge small (P82),
+that anchor is thin. Options: a small nearlaw; a land charge that raises more;
+nearlaw selling services only for hearth; and offering paid work to anyone at a
+fixed rate, which pins value (a job guarantee) but needs checking against
+II.1.3.
+
+**Practicalities (14 November):** accounts can shrink a little daily, with no
+effort; notes need stamps (Wörgl monthly at 1%, the Chiemgauer quarterly) or
+dated series exchanged at a discount, either of which makes holders spend notes
+before the date, and stamps are easier to forge than notes and invisible to the
+blind. "One rate on every holding" rules out exempting coins, which can't be
+stamped, so hearth may need no coins at all. A ledger of everyone's balances
+must stay private under II.2.7.
 
 ## From the project's starting points
 
@@ -1319,6 +1347,122 @@ rate, which law could still raise; and low fixed charges discourage moving, as
 California's Proposition 13 (1978) did. Title can't be sold and V.6.2 values
 buildings as if no one else wanted the land, so no one can cash in a low stake.
 
+**Two design agents (14 November)**, one taking an economist's view and one
+residents' fairness, each independently proposed charging not the stake but the
+demand the draw reveals, with no threshold, so land no one else wanted pays
+nothing, starter plots included, and nobody gains by holding less. Economist: a
+new term, **contest**, the area in shares times the quotas registered by those
+who did not take it, uncapped; each holder's charge fixed at the rate when they
+gained their part; on pooling or direction, reset to the district's contest per
+share over the past year; quotas registered for one piece at a time. Residents:
+the difference between stake and area at taking, either way round; reset by
+counting fresh registrations within a month of a direction; unpaid charges wait,
+with interest, for the V.6.1 sum when title ends, and II.2.6 no longer lets
+things be taken for them. A stake-based base inherits the V.3.3 cap, which can't
+tell ten registrants from a thousand; a fresh count after a direction costs
+registrants nothing, since the heir almost always takes it. The economist also
+found P85.
+
+**Decided (14 November):** a yearly charge on **contest** (above), replacing the
+stake-threshold idea; each holder's rate fixed when they gain their part; reset
+to a going rate whenever title is gained by direction (death included) or by
+joining a pool; unpaid charges end title once more than five years' charges are
+unpaid, counted in money; II.2.6 left as it is, law enforcing only by ending
+title. District changes bind only registrations and titles gained after them
+(V.1.4). Instead of one registration at a time, each quota counts, for chances,
+stake, and contest, as a fraction of all the registrations it is in at once.
+Still open:
+
+- **The going rate on a reset.** Nearby draws overcharge a bad plot among good
+  ones, and holders could release poor scraps to lower it; juries risk snobbery;
+  fresh counts undercount, since registering rarely wins. Leaning: the
+  district's contest per share over the past year, which one holder can't shift,
+  with districts kept stable. Candidate escape for a bad plot: the new holder
+  may put it to an ordinary draw instead, registering with their quota; if no
+  one else wants it, they take it with no contest.
+- **What happens to arrears when title ends:** recovered from any V.6.1 sum,
+  then written off, or carried to the person's next title gained by draw or
+  direction (never a starter plot), so taking contested land, paying nothing for
+  five years, and moving on doesn't pay. **Decided (14 November):** carrying the
+  debt clashed with the five-year rule on land with no charge, so instead, until
+  the rest is paid, the debtor may gain no title that carries a charge;
+  uncontested land and starter plots stay open. Hear LC6. A debtor's
+  registrations still count towards others' contest, though they can't take
+  contested land.
+- **The licence-rent skim:** waits on P86.
+
+**Drafted (14 November):** V.1.4 (district changes), V.1.5 (contest), V.3.2
+(fractional registrations), V.8 (land charge), and IV.2.3.1 citing it. A reset
+charges the lower of the district's going charge and halfway between it and the
+charge before, so a rise comes by halves and a fall at once; whoever is directed
+may instead have the land drawn as vacant; arrears beyond any V.6.1 sum carry to
+the next land gained, except a starter plot. At founding (V.5.3) no land has yet
+been drawn, so occupiers who take first pay nothing; the author accepts this, as
+it rewards pioneering, and their heirs ratchet towards the going charge. V.3.4
+(priority districts) was then dropped, since fractions and the charge do its
+work, and its contests counted registrants who could not win; registrations may
+change once each calendar month, so a quota can't hop between draws at full
+weight. A starter plot, once taken, is ordinary land that began with no charge.
+Hear LC1 to LC9 with T67, T69, and T92.
+
+**Heard (14 November):** offline, LC5 (a 99% payer keeps title), LC7 (fractional
+chances), LC9 (a pool join leaves the existing charge alone), T67, T69, T92,
+REG1 (monthly changes), REG2 (no local priority), and T94 agreed as intended;
+LC8 (no charge on a starter plot) agreed only after V.3.4 said "with no
+contest", and V.1.5 gained "nothing if no one else registered". LC1 to LC4 kept
+splitting offline, so with the author's leave two Sonnet runs each heard them:
+all eight worked the sums as intended (a pioneer and a bog heir who had the land
+drawn owe nothing; a rise is halved, 75 of 150; a fall is immediate, 100 not
+275), splitting only on whether a bill alone, before anything is taken, breaches
+a right. LC6 recast for the new arrears rule; hear it.
+
+**Simulated (14 November):** workflows/landsim found the charge raises little:
+about 0.1% to 0.3% of income with towns, and nothing with uniform desirability
+when registrant counts are shown, since people find uncontested land nearly as
+good; even at high density it stayed under 1%, often below the cost of starter
+plots, and higher rates only drive people off contested land. Its people pay at
+most 6% to 12% of income for the best location, likely too little, so levels are
+uncertain, but the shape holds: the charge is levied only when land is taken,
+and frozen. So it works as fairness and against entrenchment, not as nearlaw's
+main income; demurrage may have to be that (P35). The model also found two gaps,
+since fixed: contest is now counted in shares when land is taken, so a frozen
+charge can't creep up as shares shrink; and arrears left on any title's end, not
+only after five years, bar charged land (LC10). Still unstated: how vacant land
+is cut into pieces, when draws happen, and how a charge divides on notice for
+part.
+
+**Swept (14 November):** with people valuing location two to four times more
+(likely nearer reality), the charge raised about 0.3% to 0.9% of income, and
+1.5% at eight times; 70% to 85% still paid nothing. Revenue peaked at a rate of
+about 300 to 600 hours a share of contest, falling either side. By density it
+peaked at about 2.7% when a fifth of land was still vacant, then fell once land
+was full, since almost nothing is drawn and districts with no draws gave heirs a
+going charge of nothing. V.8.2 now falls back to the last year in which any land
+was drawn. Nearlaw's basic costs might need 1% to 2.5% of output, so the charge
+alone rarely suffices. LC6 now agrees (the bar is lawful); LC10 split, one run
+missing the new wording that any title's end leaves arrears barring.
+
+**Death line (15 November):** a sale to a chosen buyer is a direction, which got
+the halfway ratchet and so cost less than the draw an open sale goes through.
+Charging the full going charge only where a building sum is paid would invite
+sums paid on the side, so V.8.2 now charges the full going charge on every
+direction and pool join, keeping the halfway step only for directions taken
+after their giver's death, which can't be faked (T96). Being simulated, with
+option 1: every taker pays the going charge rather than their own plot's
+contest, so a quiet plot in a busy district costs the district rate, which is
+public before anyone registers. Building sums stay on directions, for dividing
+estates and pensions; the author keeps dealings with strangers risky on purpose.
+
+**Simulated (15 November):** option 1 raised half as much again or more (0.44%
+to 0.70% of income at locScale 2, 0.97% to 1.40% at 4) and moved the peak rate
+to 1,200 to 2,400, but a district's yearly contest per share proved as volatile
+as its mean, which a frozen lifetime charge would lock in, so it was dropped.
+The death line barely moves revenue; directions in life are rare. Without any
+re-rating, directions lose 10% to 25% of revenue but zero charges pass down
+families for good (heirs paying nothing on wanted land rose from about a tenth
+to nearly a third), so the going charge stays for directions, now averaged over
+five years. The simulator still uses one year.
+
 ### P84. Discipline in a volunteer force
 
 No one may be compelled to work (II.1.3), even after enlisting, so a soldier may
@@ -1345,6 +1489,18 @@ may be the answer to the JAG: anyone may stop working, but answers for what
 their walking out foreseeably does, as a surgeon leaving mid-operation would.
 Both runs then muddled whether Farlaw or Jem answers.
 
+## Added 14 November
+
+### P86. Controlling extraction
+
+V.7.1 requires a licence to take anything that does not renew from land for use
+off it, and pays licence rent equally to everyone with a quota, while nearlaw
+keeps a fixed sum from each person's share (IV.2.3.1). Unlicensed extraction
+undercuts licensed extraction, as untaxed sellers always undercut taxed ones.
+Decide how extraction is controlled as a whole: who sets limits, how the rent is
+set, and how unlicensed extraction is found and answered. Nearlaw's skim can go
+once that is settled (P82).
+
 ## Closed
 
 Numbers are never reused; Git remembers most closed Problems.
@@ -1366,3 +1522,5 @@ Numbers are never reused; Git remembers most closed Problems.
   (amendments to Parts II and V; after the 35B model split on how VI.3 assigns
   Parts, six Sonnet runs read it correctly) and T15 with H83 (unpaid rent and an
   unpaid van fee) agreed as intended.
+- **14 November:** P85 (selling a starter house) decided as intended, a gift the
+  taker may sell; T93 agreed after V.3.4 said "asking them nothing".
