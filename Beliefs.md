@@ -44,6 +44,7 @@
 - **Implied right of access.** Ought to allow e.g. a postman to access private
   land, but that the title holder may withdraw implied right of access at any
   time.
+- **Cash.** Essential for preserving transactional privacy.
 
 ## Observations
 
@@ -53,3 +54,6 @@
   state did not prosecute them for admitting to that harm.
 - If prosecution were up solely to those who had harm done to them, the
   aggressor may coerce them to refrain from seeking justice.
+- Taxation is essential to make a country exist. I know, crazy.
+- The amount of land you hold is not a good measure of how much you utilise or rely on the state. In fact, the inverse could be true: somebody with 10x less land could be contributing to society far less than their peer, or relying on services more, etc.
+- A poll tax might not actually be bad - and in fact might be good - if it's rendered in hours rather than money.

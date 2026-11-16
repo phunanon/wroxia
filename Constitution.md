@@ -231,8 +231,9 @@ Every citizen has the limited right:
    1. Nearlaw raises only the land charge under V.8; a fixed sum a year from
       each person's share of licence rent under V.7, never more than it; charges
       for using land it keeps, paying whatever they raise beyond its cost
-      equally to everyone with a quota; and a yearly charge at one rate on every
-      holding of hearth.
+      equally to everyone with a quota; and a charge at one rate a year on every
+      holding of hearth, taken from notes when they are exchanged, as each must
+      be a year after issue. It asks service only under V.9.
 4. Each government may keep its own forces and police, which enforce only that
    government's law. Farlaw's forces act on Wroxia's land only at the border, or
    at Nearlaw's request and under its direction. Farlaw may use force beyond
@@ -309,7 +310,8 @@ Every citizen has the limited right:
 4. Nearlaw keeps enough vacant plots in each district, to a legal standard and
    in proportion to the quotas staked there, for anyone entitled under II.7.1
    without title to take one at once, drawn by lot, for its stake and with no
-   contest, asking them nothing for what is fixed to it.
+   contest, asking them nothing for what is fixed to it. Each is enough for a
+   home, and no larger than a fifth of a share unless a home needs more.
 
 ### V.4. Pools and directions
 
@@ -360,21 +362,27 @@ Every citizen has the limited right:
 
 ### V.8. Land charge
 
-1. Whoever takes land pays a yearly charge on its contest, at the rate law sets
-   when they take it, which never rises while they hold it. Those who take it
-   together pay in proportion to what they staked.
-2. Whoever gains title by direction or by joining a pool pays instead the going
-   charge on the part they gain: its area in shares times the contest per share
-   of all land drawn in its district other than under V.3.4 in the past five
-   years, or else in the last year any was, at the rate law then sets. But
-   whoever takes land by direction after its giver has died pays only the lower
-   of the going charge and halfway between it and what that part was charged
-   before. Whoever is directed may instead have the land drawn as vacant,
-   registering for it themselves.
-3. Once more than five years of someone's charges are unpaid, their title ends
-   as on notice. Whatever anyone owes when their title ends is paid first from
-   any sum under V.6.1, and until the rest is paid, they may gain no title that
-   carries a charge.
+1. Nearlaw may charge whoever takes land yearly on its contest, at a rate law
+   sets when they take it, which never rises while they hold it. Those who take
+   it together pay in proportion to what they staked.
+2. Whoever gains title by direction or by joining a pool may be charged instead,
+   on the part they gain, no more than a taker by draw would now pay for it, as
+   law measures, and if they take it after its giver has died, no more than
+   halfway between that and what it was charged before. Whoever is directed may
+   instead have the land drawn as vacant, registering for it themselves.
+3. Unpaid charges may end title as on notice, and whatever anyone owes when
+   their title ends may be taken from any sum under V.6.1. Until the rest is
+   paid, they may gain no title that carries a charge, but nothing more follows.
+
+### V.9. Service
+
+1. Every adult with title, other than to land under V.3.4, owes Nearlaw the
+   hours of service a year that law sets, no more than forty, at work it
+   arranges. No one may serve or pay for another, and law may excuse only by age
+   or inability to serve.
+2. Once someone leaves more than five years of the hours Nearlaw arranged for
+   them unserved, their title ends as on notice, and until they serve them, they
+   may gain no title except under V.3.4; nothing more follows.
 
 ## Part VI: Amendment
 

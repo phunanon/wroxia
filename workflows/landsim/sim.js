@@ -5,7 +5,8 @@
 // Money is in labour hours. Each cell is one unit of area; a month is one step.
 'use strict';
 const Sim = (() => {
-  // loc: share of income paid for top desirability, times locScale; k: cells
+  // loc: share of income paid for top desirability, times locScale; space: share
+  // paid for having k cells wanted, desirable or not, times spaceScale; k: cells
   // wanted; up: yearly chance of looking to move; savvy: chance of using
   // avoidance; wait: months landless before taking a starter plot; inc: income
   // multiplier.
@@ -13,6 +14,7 @@ const Sim = (() => {
     slow: {
       name: 'Slow-lifers',
       loc: 0.06,
+      space: 0.15,
       k: 1,
       up: 0.02,
       savvy: 0.1,
@@ -22,6 +24,7 @@ const Sim = (() => {
     family: {
       name: 'Families',
       loc: 0.12,
+      space: 0.08,
       k: 2,
       up: 0.05,
       savvy: 0.3,
@@ -31,6 +34,7 @@ const Sim = (() => {
     pioneer: {
       name: 'Pioneers',
       loc: 0.03,
+      space: 0.2,
       k: 4,
       up: 0.03,
       savvy: 0.2,
@@ -40,6 +44,7 @@ const Sim = (() => {
     town: {
       name: 'Town-keen',
       loc: 0.3,
+      space: 0.02,
       k: 1,
       up: 0.15,
       savvy: 0.3,
@@ -49,6 +54,7 @@ const Sim = (() => {
     strategic: {
       name: 'Strategists',
       loc: 0.2,
+      space: 0.03,
       k: 2,
       up: 0.2,
       savvy: 1,
@@ -59,9 +65,9 @@ const Sim = (() => {
   /**
    * @typedef {keyof typeof TYPES} Type
    * @typedef {'found' | 'draw' | 'starter' | 'direction' | 'pool' | 'escape'} How
-   * @typedef {{ id: number, type: Type, born: number, inc: number, loc: number, parent?: Person, kids: Person[], plot: Plot | null, alive: boolean, savvy: boolean, ban: number, seek: number, since: number, debt: number, paid: number, won?: number }} Person
+   * @typedef {{ id: number, type: Type, born: number, inc: number, loc: number, space: number, parent?: Person, kids: Person[], plot: Plot | null, alive: boolean, savvy: boolean, ban: number, seek: number, since: number, debt: number, paid: number, won?: number }} Person
    * @typedef {{ p: Person, part: number, stake: number, charge: number, owed: number, how: How, depth: number }} Part One holder's part of a title; several when pooled.
-   * @typedef {{ id: number, cells: number[], d: number, holders: Part[], built: number }} Plot
+   * @typedef {{ id: number, cells: number[], d: number, holders: Part[], built: number, virgin: boolean }} Plot
    * @typedef {{ p: Person, w: number }} Reg A registration, weighted by the fraction of a quota.
    * @typedef {{ cells: number[], regs: Reg[], esc?: Person }} Lot Land registered for, and drawn, as one.
    * @typedef {{ charge: number, stake: number, how: How, depth: number }} Taking The terms on which land is taken.
@@ -83,6 +89,9 @@ const Sim = (() => {
     // Households spend 25-35% on housing, perhaps half of it on location, so
     // 2-3 is likely nearer reality, and more in a crowded city.
     locScale: 1,
+    // Pioneers and slow-lifers would pay 15-20% of income for the room they
+    // want, families 8%, town-keen people hardly anything.
+    spaceScale: 1,
     birth: 0.07,
     immig: 0.01,
     emig: 0.004,
@@ -109,6 +118,17 @@ const Sim = (() => {
     life: 'half',
     // 'none': directions and joins keep the part's old charge, no going charge.
     rerate: 'going',
+    // Hours a year per whole quota staked, besides any charge on contest.
+    perQuota: 0,
+    // Stake (in quotas) below which perQuota hours are not owed.
+    exempt: 0,
+    // Hours of service a year owed by each adult titleholder, in kind.
+    perHead: 0,
+    // Land never vacant since it came under Part V pays neither of these.
+    virginFree: true,
+    // Starter-plot area in shares, valued and costed pro rata though each
+    // takes one cell; 0 for one cell.
+    starter: 0,
   };
   const PRESETS = {
     uniform: {
@@ -179,7 +199,7 @@ const Sim = (() => {
   const meanDes = (s, cells) => mean(cells, (c) => s.des[c]);
   /** @type {(p: Person, des: number, area: number) => number} */
   const val = (p, des, area) =>
-    p.inc * p.loc * des * Math.min(1, area / TYPES[p.type].k);
+    p.inc * (p.loc * des + p.space) * Math.min(1, area / TYPES[p.type].k);
   /** @type {(s: State, p: Person, cells: number[]) => number} */
   const value = (s, p, cells) => val(p, meanDes(s, cells), cells.length);
   const rolls = (s, p) => s.P.rolling && p.type === 'strategic';
@@ -210,21 +230,42 @@ const Sim = (() => {
     s.P.take === 'district'
       ? going(s, s.dist[cells[0]], cells.length)
       : s.rate * contest;
+  // The quota charge on a stake, capped at one quota, and service hours, each
+  // weighed at w (their own hour's worth, in deciding); none on starter plots.
+  /** @type {(s: State, pl: Plot | null, stake: number, how: How | undefined, p: Person, w?: number) => number} */
+  const fee = (s, pl, stake, how, p, w = 1) =>
+    how === 'starter' || (s.P.virginFree && pl?.virgin)
+      ? 0
+      : s.P.perQuota * Math.max(0, Math.min(1, stake) - s.P.exempt) +
+        (adult(s, p) ? s.P.perHead * w : 0);
+  const worth = (p) => p.inc / 1800;
+  /** @type {(s: State, pl: Plot, h: Part, w?: number) => number} */
+  const due = (s, pl, h, w) => h.charge + fee(s, pl, h.stake, h.how, h.p, w);
+  // A starter plot's area in cells, and its worth to p.
+  const sa = (s) => s.P.starter * s.share || 1;
+  /** @type {(s: State, p: Person) => number} */
+  const st = (s, p) => val(p, s.starterDes, sa(s));
   const seeking = (s, p) =>
     adult(s, p) && p.ban <= s.t && (!p.plot || p.seek > s.t);
   // What a person has now: their holding, or a starter plot if landless.
   /** @type {(s: State, p: Person) => number} */
   const alt = (s, p) => {
-    if (!p.plot) return val(p, s.starterDes, 1);
+    if (!p.plot) return st(s, p);
     const h = holderOf(p.plot, p);
     return (
-      val(p, meanDes(s, p.plot.cells), p.plot.cells.length * h.part) -
-      (rolls(s, p) ? 0 : h.charge) +
+      val(
+        p,
+        meanDes(s, p.plot.cells),
+        (h.how === 'starter' ? sa(s) : p.plot.cells.length) * h.part,
+      ) -
+      (rolls(s, p) ? 0 : due(s, p.plot, h, worth(p))) +
       0.02 * p.inc
     );
   };
   const tally = () => ({
     revenue: 0,
+    quota: 0,
+    head: 0,
     starterCost: 0,
     splits: 0,
     merges: 0,
@@ -251,6 +292,7 @@ const Sim = (() => {
       born: s.year - years,
       inc: 1800 * TYPES[type].inc * Math.exp(0.4 * z - 0.08),
       loc: TYPES[type].loc * s.P.locScale,
+      space: TYPES[type].space * s.P.spaceScale,
       parent,
       kids: [],
       plot: null,
@@ -436,7 +478,17 @@ const Sim = (() => {
       const n = mean(cells, (c) => (live ? D[c] : est(s, c)));
       const net =
         value(s, p, cells) -
-        (roll ? 0 : toll(s, cells, (n * cells.length) / s.share)) -
+        (roll
+          ? 0
+          : toll(s, cells, (n * cells.length) / s.share) +
+            fee(
+              s,
+              null,
+              ((1 + n) * cells.length) / s.share,
+              undefined,
+              p,
+              worth(p),
+            )) -
         sum(cells, (c) => s.ask[c]) / 20;
       if (net > a0) out.push({ cells, score: (net - a0) / (1 + n) });
     }
@@ -461,6 +513,7 @@ const Sim = (() => {
       d: s.dist[cells[0]],
       holders: [],
       built: sum(cells, (c) => s.ask[c]),
+      virgin: h.how === 'found',
     };
     if (new Set(cells.map((c) => s.last[c])).size > 1) s.y.merges++;
     for (const c of cells)
@@ -563,11 +616,11 @@ const Sim = (() => {
       for (let i = 0; res[d].length < want && i < cand[d].length; i++)
         ((s.reserved[cand[d][i]] = 1),
           res[d].push(cand[d][i]),
-          (s.y.starterCost += s.P.prep));
+          (s.y.starterCost += s.P.prep * sa(s)));
       for (const c of res[d].splice(2 * want + 1)) s.reserved[c] = 0;
     }
     const all = res.flat();
-    s.y.starterCost += (s.P.upkeep / 12) * all.length;
+    s.y.starterCost += (s.P.upkeep / 12) * sa(s) * all.length;
     s.res = res;
     s.starterDes = meanDes(s, all);
   }
@@ -583,7 +636,7 @@ const Sim = (() => {
     const c = s.res[d].splice((s.R() * s.res[d].length) | 0, 1)[0];
     take(s, p, [c], {
       charge: 0,
-      stake: 1 / s.share,
+      stake: sa(s) / s.share,
       how: 'starter',
       depth: 0,
     });
@@ -640,11 +693,13 @@ const Sim = (() => {
       a = L.cells.length / s.share,
       n = mean(L.cells, (c) => D[c]);
     const contest = Math.max(0, sum(L.cells, (c) => D[c] - win.w) / s.share),
-      charge = toll(s, L.cells, contest);
-    if (charge && barred(s, p)) return;
+      charge = toll(s, L.cells, contest),
+      stake = Math.min(Math.max(1, a), a * Math.max(1, n)),
+      cost = charge + fee(s, null, stake, undefined, p, worth(p));
+    if (cost && barred(s, p)) return;
     if (
       value(s, p, L.cells) -
-        (rolls(s, p) ? 0 : charge) -
+        (rolls(s, p) ? 0 : cost) -
         sum(L.cells, (c) => s.ask[c]) / 20 <
       alt(s, p)
     ) {
@@ -659,7 +714,7 @@ const Sim = (() => {
     s.y.draws++;
     take(s, p, L.cells, {
       charge,
-      stake: Math.min(Math.max(1, a), a * Math.max(1, n)),
+      stake,
       how: L.esc === p ? 'escape' : 'draw',
       depth: 0,
     });
@@ -692,11 +747,12 @@ const Sim = (() => {
   /** @param {State} s @param {Plot} pl @param {Part} h @param {Person} q @param {Part} [mate] @param {boolean} [life] */
   function inherit(s, pl, h, q, mate, life) {
     const c = reset(s, pl, h.part, h.charge, life),
+      f = fee(s, pl, h.stake, undefined, q, mate ? 0 : worth(q)),
       md = meanDes(s, pl.cells),
       area = pl.cells.length * h.part;
     const own = mate ? pl.cells.length * mate.part : 0,
       oc = mate ? mate.charge : 0;
-    const keep = val(q, md, own + area) - (rolls(s, q) ? 0 : c + oc),
+    const keep = val(q, md, own + area) - (rolls(s, q) ? 0 : c + f + oc),
       other = mate ? val(q, md, own) - oc : alt(s, q);
     if (!mate && s.P.escape && q.savvy && pl.holders.length === 1) {
       const e = toll(s, pl.cells, sum(pl.cells, (x) => est(s, x)) / s.share);
@@ -707,11 +763,12 @@ const Sim = (() => {
           false
         );
     }
-    if (keep < other || (c && barred(s, q))) return false;
+    if (keep < other || ((c || f) && barred(s, q))) return false;
     s.y.writtenOff += settle(s, pl, h);
     if (mate) {
       mate.part += h.part;
       mate.charge += c;
+      mate.stake = Math.min(1, mate.stake + h.stake);
       pl.holders.splice(pl.holders.indexOf(h), 1);
     } else {
       if (q.plot) leave(s, q, 'move');
@@ -781,13 +838,15 @@ const Sim = (() => {
     for (const pl of [...s.plots.values()])
       for (const h of [...pl.holders]) {
         const p = h.p,
-          due = h.owed + h.charge,
-          paid = rolls(s, p) ? 0 : Math.min(due, P.payCap * p.inc);
-        h.owed = due - paid;
+          d = due(s, pl, h),
+          hd = d - due(s, pl, h, 0),
+          paid = rolls(s, p) ? 0 : Math.min(h.owed + d, P.payCap * p.inc + hd);
+        h.owed += d - paid;
         p.paid += paid;
         y.revenue += paid;
-        if (h.owed > 5 * h.charge + 1e-9)
-          (y.arrearsEnds++, leave(s, p, 'arrears'));
+        y.quota += d && (paid * (d - h.charge - hd)) / d;
+        y.head += d && (paid * hd) / d;
+        if (h.owed > 5 * d + 1e-9) (y.arrearsEnds++, leave(s, p, 'arrears'));
       }
     if (P.arrears === 'bar')
       for (const p of s.people) {
@@ -803,11 +862,22 @@ const Sim = (() => {
     }
     for (const p of s.people) {
       const h = p.alive && p.plot && holderOf(p.plot, p);
+      // Give notice and wait for a starter plot when one is worth more.
       if (
         h &&
+        P.move &&
+        h.how !== 'starter' &&
+        !rolls(s, p) &&
+        alt(s, p) < st(s, p)
+      )
+        leave(s, p, 'move');
+      else if (
+        h &&
         (R() < TYPES[p.type].up ||
-          (P.move && !rolls(s, p) && h.charge > P.bite * p.inc) ||
-          alt(s, p) - 0.02 * p.inc < 0.8 * val(p, s.starterDes, 1))
+          (P.move &&
+            !rolls(s, p) &&
+            due(s, p.plot, h, worth(p)) > P.bite * p.inc) ||
+          alt(s, p) - 0.02 * p.inc < 0.8 * st(s, p))
       )
         p.seek = s.t + 12;
     }
@@ -867,7 +937,10 @@ const Sim = (() => {
       res = 0;
     for (let c = 0; c < s.C; c++)
       s.reserved[c] ? res++ : s.owner[c] ? 0 : vac++;
-    const income = sum(ad, (p) => p.inc);
+    const income = sum(ad, (p) => p.inc),
+      byInc = ad.slice().sort((a, b) => a.inc - b.inc),
+      tenth = (i) => byInc.slice((i * n) / 10, ((i + 1) * n) / 10),
+      bought = hs.filter((h) => h.how !== 'starter');
     return {
       year: s.year + 1,
       adults: ad.length,
@@ -876,6 +949,14 @@ const Sim = (() => {
       revenue: y.revenue,
       perAdult: y.revenue / n,
       incShare: y.revenue / income,
+      quotaRev: y.quota,
+      headRev: y.head,
+      burden: [...Array(10)].map(
+        (_, i) =>
+          sum(tenth(i), (p) => p.paid) / (sum(tenth(i), (p) => p.inc) || 1),
+      ),
+      onStarter: hs.filter((h) => h.how === 'starter').length / n,
+      stake: mean(bought, (h) => h.stake),
       starterCost: y.starterCost,
       zero: ad.filter((p) => !p.paid).length / n,
       landless: ad.filter((p) => !p.plot).length / n,

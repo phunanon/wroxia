@@ -431,6 +431,54 @@ blind. "One rate on every holding" rules out exempting coins, which can't be
 stamped, so hearth may need no coins at all. A ledger of everyone's balances
 must stay private under II.2.7.
 
+**Simulated (15 November):** a money simulator (workflows/moneysim/) finds the
+hearth charge raises most at about 2% to 4% a year, roughly haven inflation plus
+a point or two: about 0.3% to 0.6% of income, two-thirds of it from savings kept
+in hearth because it costs no more to hold than havens. Transaction balances
+alone give at most about 0.1%. Above about 10% sellers abandon hearth for havens
+in a cascade. The land charge, paid yearly, adds almost no demand to hold
+hearth. Revenue tracks haven inflation, tripling if havens lose 10% a year and
+falling to about 0.2% if havens lose nothing or pay interest. Spending a fixed
+target beyond about 1% of income inflates hearth into abandonment within 15 to
+45 years; a fixed hearth wage for voluntary work keeps its value stable. With
+the land charge, Nearlaw can count on about 0.9% to 1.1% of income.
+
+**Aim and notes (15 November):** the author wants fair streams reaching about
+10% of income, and treats the hearth charge as a useful extra against hoarding
+and speculation. For notes they prefer dated series over stamps: each note
+marked, by touch and colour, with the quarter its series expires, after which it
+is exchanged at a discount. A note whose value is lost only at expiry charges
+its last holder rather than every holding at one rate, which IV.2.3.1 may need
+to allow.
+
+**Other streams simulated (15 November):** taxes owed in hearth fix its value,
+not its share of trade. Land charge, hearth charge at 3%, and a pollution charge
+give about 4%; a sales tax of 5% to 10% above a low threshold brings 9% to 13%,
+losing a sixth of its base to bunching and hiding at 10%, and trade flees to
+havens around 20% to 25% if havens are easier to hide in. A poll tax of 180
+hours raises about 9% but takes 15% of income from the second and third deciles
+and goes unpaid by an eighth. Nearlaw's spending must track its revenue, as a
+fixed hearth wage does, or hearth inflates or deflates without limit. Not yet
+simulated: a yearly charge per quota staked, enforced only by title ending.
+
+**Title duties simulated (15 November):** a charge per quota staked, or a flat
+duty of service hours on every adult with title (starter plots exempt, enforced
+only by title ending), both work up to a point and then mostly move people onto
+free starter plots. Stake measures no one's use of the state; per head fits the
+author's reciprocity argument, with title only the hook. At location preference
+2, a duty of 40 hours a year raises about 2.2% of income with 15% on starter
+plots, and 90 hours about 3.4% with a third; pioneers and slow-lifers leave
+first, the opposite of what the author wants, while good land sits empty. The
+starter plot, as the free way out that keeps II.1.3, caps any duty hooked to
+title.
+
+**Dated notes drafted (15 November):** IV.2.3.1 now takes the charge "from notes
+when they are exchanged, as each must be a year after issue", at the same one
+rate as every other holding. T97 (a note exchanged a week after it was received
+bears a whole year) agreed offline; T98 (2% on banks, 5% on notes) split offline
+and was a breach in both Sonnet runs, though both asked how a bank balance is
+charged if the charge is "taken from notes".
+
 ## From the project's starting points
 
 Aims set out at the very beginning, and ideas from early conversation, that the
@@ -1500,6 +1548,66 @@ undercuts licensed extraction, as untaxed sellers always undercut taxed ones.
 Decide how extraction is controlled as a whole: who sets limits, how the rent is
 set, and how unlicensed extraction is found and answered. Nearlaw's skim can go
 once that is settled (P82).
+
+### P87. Service (V.9)
+
+Drafted 15 November from the author's reciprocity argument: everyone relies on
+the state, so everyone with title gives up to forty hours a year in person, with
+title as the only penalty (P35). Starter plots carry no duty, which keeps
+II.1.3, whose absolute right no amendment can remove (I.1.5).
+
+**Heard (15 November, offline):** a holder losing title after six unserved
+years, and Nearlaw refusing money or a substitute, agreed lawful; a fine on
+someone on a starter plot, and sixty hours, agreed breaches. Neither SV1 run
+weighed II.1.3, so whether a duty attached to title is compelled work deserves a
+stronger check. SV5 split on law excusing its own legislators, and V.9.1's "only
+those unable to serve" also bars a plain age limit, which law may want.
+
+**Revised (15 November):** law may now excuse "only by age or inability to
+serve", and only hours Nearlaw arranged count as unserved. Two Sonnet runs of
+SV1 weighed II.1.3 and found no breach: losing title was the only consequence,
+and a starter plot free of service left a reasonable choice, so no duress. SV5
+then agreed: the legislators' excuse is void, while Ffion (by age) and Gethin
+(unable) stay excused.
+
+**Starter-plot size (15 November):** cutting starter plots from about half a
+share to a tenth trims retreat (at 40 hours, from 15% of adults to 10%) and
+keeps slow-lifers on their land, without hardship; the poorest stay and serve.
+But the simulator values land only by location, so space for its own sake is
+worth nothing in it, and its pioneers retreat at any size because their land is
+worth less to them than forty hours. Its vacancy of about half is structural:
+plots average well under a share.
+
+**Space valued (15 November):** once the simulator gives room to live a value of
+its own, forty hours drives almost no one off their land: with starter plots of
+a tenth of a share, 1% to 3% of adults retreat, nearly all of them deliberate
+defaulters, and revenue is about 2.5% of income at location preference 2 (2.9%
+at 4); ninety hours raises about 4.9% with 3% retreating. With starter plots of
+half a share, slow-lifers retreat (13% to 31% at forty hours), since that plot
+already meets their wish. The burden is fixed hours, so 5.1% of income for the
+poorest tenth and 1.4% for the richest. Half the assumed value of space already
+stops the retreat. Small starter plots and a duty of forty hours fit together.
+
+**Starter size and duty shape (15 November):** starter plots of a fifth of a
+share behave almost like a tenth: 2% of adults on them at forty hours, 4% at
+ninety. A share depends wholly on density (about 4,500 m² at the UK's, 50 m² at
+Monaco's), so a ceiling in shares may need a floor of "enough to live on". The
+flat duty is a cliff in principle (none on a starter plot, forty on any other
+title), so hours by stake were tried, starter plots exempt: forty per whole
+quota raises only 1.3% to 1.5%, since holdings average about half a quota; it
+takes 75 to 110 hours per whole quota to match flat forty. Neither shape drives
+off more than 6% of any type, but stake-based hours shift the duty from
+slow-lifers (about 25 hours) to pioneers and families (55 to 70), and every
+shape is equally regressive by income. The simulator can't test whether people
+shrink holdings to dodge hours by stake, since it doesn't let them choose stake.
+
+**Starter limits drafted (15 November):** V.3.4 now ends "Each is enough for a
+home, and no larger than a fifth of a share unless a home needs more." "Enough
+to live on" was read as enough to farm, and "whichever is more" was misread.
+With the facts stated, SP1 (10 m² bare ground: breach), SP2 (3 ha where a home
+needs under 1: breach), and SP4 (30 m² flats where a share is 50: lawful) agreed
+offline; T93 agreed in both Sonnet runs. Citizenship is already left to law
+(IV.1.1), so law can slow naturalisation where space runs short.
 
 ## Closed
 

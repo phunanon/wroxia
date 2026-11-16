@@ -16,6 +16,7 @@
         --s1: #2a78d6;
         --s2: #eb6834;
         --s3: #1baf7a;
+        --s4: #8a5cd1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -29,6 +30,7 @@
           --s1: #3987e5;
           --s2: #d95926;
           --s3: #199e70;
+          --s4: #9b6fe0;
         }
       }
       body {
@@ -142,8 +144,23 @@
         A Monte Carlo model of Part V and the land charge (V.8): monthly draws
         on a 48 by 48 grid of cells, nine districts, and people of five types
         who are born, age, inherit, move, migrate, and die. Money is in labour
-        hours. Each line shows the mean over the runs, with a band from the
-        lowest to the highest run.
+        hours. Each person values a plot at their income times (their location
+        share times its desirability, plus their share for room), scaled by the
+        area against the cells they want. Room is worth, at the defaults, 20% of
+        income to pioneers, 15% to slow-lifers, 8% to families, 3% to
+        strategists, and 2% to the town-keen, so land far from any town is still
+        worth something to those who want space. Each line shows the mean over
+        the runs, with a band from the lowest to the highest run.
+      </p>
+      <p>
+        Besides the charge on contest, an optional quota charge: every
+        titleholder pays a fixed number of hours a year per whole quota they
+        have staked, so a stake of half a quota pays half, and no one pays more
+        than one quota's worth; and optional service hours, the same for every
+        adult titleholder, served in kind and weighed by each against the worth
+        of their own time. Starter plots owe neither, nor, if chosen, land never
+        vacant since it came under Part V. Unpaid or unserved, they end title as
+        the land charge does, and nothing more.
       </p>
 
       <section class="card">
@@ -190,10 +207,11 @@
           land, so anyone may register for any adjacent cells as one. Charges
           are frozen in hours at taking, split pro rata by area on notice for
           part. Starter plots are the least desirable vacant cells and are not
-          open to ordinary draws. Arrears are recovered at once from the
-          building sum. Directions are made at death, to a child, or by one in
-          ten sole holders who leave, or half if cheaper than a draw, to a
-          landless adult child or else a landless seeker.
+          open to ordinary draws; each takes one cell, but is valued and costed
+          at its chosen area. Arrears are recovered at once from the building
+          sum. Directions are made at death, to a child, or by one in ten sole
+          holders who leave, or half if cheaper than a draw, to a landless adult
+          child or else a landless seeker.
         </p>
       </details>
     </main>
@@ -207,6 +225,8 @@
       const SLIDERS = [
         ['years', 'Years', 10, 150, 10],
         ['rate', 'Charge rate, hours a year per share of contest', 0, 3000, 50],
+        ['perQuota', 'Quota charge, hours a year per quota staked', 0, 600, 15],
+        ['perHead', 'Service hours a year per adult titleholder', 0, 400, 10],
         ['rateRise', 'Yearly rise in the rate law sets', 0, 0.05, 0.005],
         ['towns', 'Fixed towns', 0, 6, 1],
         ['pop0', 'Founding adults', 100, 600, 50],
@@ -215,6 +235,13 @@
           'Value placed on location, times the default',
           0.5,
           10,
+          0.5,
+        ],
+        [
+          'spaceScale',
+          'Value placed on room itself, times the default',
+          0,
+          4,
           0.5,
         ],
         ['birth', 'Births a year per adult aged 20 to 39', 0, 0.15, 0.01],
@@ -228,8 +255,9 @@
           0.5,
           0.02,
         ],
-        ['prep', 'Hours to prepare a starter plot', 0, 2000, 50],
-        ['upkeep', 'Hours a year to keep a starter plot', 0, 100, 5],
+        ['starter', 'Starter-plot area in shares (0: one cell)', 0, 1, 0.05],
+        ['prep', 'Hours to prepare a cell of starter plot', 0, 2000, 50],
+        ['upkeep', 'Hours a year to keep a cell of starter plot', 0, 100, 5],
         ...Object.entries(Sim.TYPES).map(([k, t]) => [
           'mix.' + k,
           `${t.name}, weight among newcomers`,
@@ -249,7 +277,8 @@
         escape: 'Heirs have unwanted land drawn as vacant',
         rings: "Rings: savvy locals don't register against each other",
         rolling: 'Strategists default, rolling from plot to plot',
-        move: 'Move to cheaper land when the charge bites',
+        move: 'Move to cheaper land, or a starter plot, when the charge bites',
+        virginFree: 'No quota charge or service on land never vacant',
       };
       const get = (o, k) => k.split('.').reduce((a, x) => a[x], o);
       const ctl = $('#controls');
@@ -422,6 +451,8 @@
           'Revenue and starter-plot cost, hours a year',
           [
             ['Charge revenue', (h) => h.revenue],
+            ['Of which quota charge', (h) => h.quotaRev],
+            ['Of which service hours', (h) => h.headRev],
             ['Starter plots', (h) => h.starterCost],
           ],
           f0,
@@ -437,10 +468,11 @@
           (x) => (100 * x).toFixed(2) + '%',
         ],
         [
-          'Adults paying nothing, and landless',
+          'Adults paying nothing, landless, and on starter plots',
           [
             ['Paying nothing', (h) => h.zero],
             ['Landless', (h) => h.landless],
+            ['On starter plots', (h) => h.onStarter],
           ],
           pct,
         ],
@@ -540,6 +572,14 @@
               recent((h) => h.byType[k]),
             ]),
             f0,
+          ) +
+          bars(
+            'Share of income paid, by income tenth, poorest first',
+            [...Array(10)].map((_, i) => [
+              `Tenth ${i + 1}`,
+              recent((h) => h.burden[i]),
+            ]),
+            pct,
           ) +
           bars(
             'Entrenchment: frozen charge over going charge',

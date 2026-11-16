@@ -1363,7 +1363,7 @@ alone.
 
 **Scenario:** Rhi has no land and takes a plot nearlaw keeps for the landless,
 with a small house nearlaw built on it. Two years later she gives notice and
-asks £20,000 for the house from whoever takes the plot next.
+asks 20,000 hearth for the house from whoever takes the plot next.
 
 **Must hold:** she may. She paid nothing for the house, but once she has title,
 it is hers to ask a sum for, like anything else fixed to her land. If the next
@@ -1389,15 +1389,16 @@ house and workshop from whoever takes it after her.
 
 **Scenario:** The land charge is 100 hearth a year for each share of contest.
 Dai's mother took a quarter-hectare harbour plot, when a share was a hectare,
-with no one else registered; last year harbour land was drawn at a contest of 6
-for each share of area. Gwen won a half-hectare plot against nine others and
-pays 450 hearth; her district has since declined, and last year drew at a
-contest of 2. Both die, and their sons, Dai and Huw, take the plots by
-direction.
+with no one else registered. Law measures what a taker by draw would now pay by
+last year's draws in the district; harbour land was drawn at a contest of 6 for
+each share of area. Gwen won a half-hectare plot against nine others and pays
+450 hearth; her district has since declined, and last year drew at a contest
+of 2. Both die, and their sons, Dai and Huw, take the plots by direction.
 
-**Must hold:** Dai pays 75 hearth a year, half the going charge of 150, since
-his mother paid nothing. Huw pays 100 hearth a year, the going charge, since it
-is less than halfway between 100 and Gwen's 450.
+**Must hold:** Dai may be charged at most 75 hearth a year, halfway between the
+150 a taker would pay and his mother's nothing. Huw may be charged at most 100
+hearth a year, what a taker would pay, since it is less than halfway between 100
+and Gwen's 450.
 
 **Relies on:** V.1 and V.8.
 
@@ -1406,14 +1407,36 @@ is less than halfway between 100 and Gwen's 450.
 **Scenario:** The land charge is 100 hearth a year for each share of contest.
 Bryn took a one-share farm with no one else registered and pays nothing. At 70
 he directs his daughter Eira to take it first, and two years later gives notice
-to retire. Last year farms in the district were drawn at a contest of 2 for each
-share.
+to retire. Law measures what a taker by draw would now pay by last year's draws
+in the district, where farms were drawn at a contest of 2 for each share.
 
-**Must hold:** Eira may take the farm first and pays 200 hearth a year, the full
-going charge, since Bryn is alive. Had he died instead, she would pay 100. Bryn
-may ask her a yearly sum for the farmhouse.
+**Must hold:** Eira may take the farm first and may be charged up to 200 hearth
+a year, what a taker would pay, since Bryn is alive. Had he died instead, she
+could be charged at most 100. Bryn may ask her a yearly sum for the farmhouse.
 
 **Relies on:** V.4, V.6, and V.8.
+
+### T97. A note past its date
+
+**Scenario:** Nearlaw charges 3% a year on hearth. A week before some hearth
+notes reach a year from issue, Bethan is paid in them. Once the date passes, she
+takes them to Nearlaw to exchange. She also keeps savings in hearth in a bank.
+
+**Must hold:** Nearlaw exchanges the notes for new ones, less 3%: a whole year's
+charge, though she held them only a week. It may not refuse, or take more than
+3%. Her savings are charged 3% a year as she holds them, and no more.
+
+**Relies on:** IV.2.3.1.
+
+### T98. Cash charged more than savings
+
+**Scenario:** To push people off cash, Nearlaw charges 2% a year on hearth held
+in banks and exchanges year-old notes for 5% less.
+
+**Must hold:** this breaches the constitution: the charge is at one rate on
+every holding, whatever form it takes.
+
+**Relies on:** IV.2.3.1.
 
 ## Economic properties
 

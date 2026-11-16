@@ -55,6 +55,19 @@ hand-coded from the text, so update `sim.js` when Part V changes. Type-check it
 with
 `npx -y -p typescript tsc --noEmit --allowJs --checkJs --target es2022 --lib es2022,dom --noImplicitAny false workflows/landsim/sim.js`.
 
+## Money simulator
+
+[moneysim/](moneysim/) is an agent-based Monte Carlo model of the hearth beside
+the haven (IV.2.2, IV.2.3.1), asking how much demurrage and other hearth-only
+charges (a sales tax, a pollution charge, a poll tax) can raise: adults on a
+trading network price in whichever currency costs them less, hold hearth only
+for spending and whatever savings are cheaper there, and Nearlaw either pays a
+fixed hearth wage or spends a target whatever hearth is worth. Open
+[index.html](moneysim/index.html) in a browser, or run
+`node workflows/moneysim/sim.js <preset> [--runs N] [--param value] [--sweep name=v1,v2]`,
+which prints a table per decade, or per swept value, and writes JSON to `runs/`.
+Update `sim.js` when IV.2.3 changes, and type-check it as above.
+
 ## Claude Code workflows
 
 [claude/](claude/) holds scripts for Claude Code's Workflow tool, run with
