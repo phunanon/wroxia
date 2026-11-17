@@ -224,16 +224,17 @@ Every citizen has the limited right:
       people, things, and signals while they cross Wroxia's border. A power is a
       party only to what is done in its name.
    2. Nearlaw governs every other matter.
-2. Each government issues its own currency: Nearlaw the hearth, and Farlaw the
-   haven.
+2. Each government issues its own currency through an office: Nearlaw the
+   hearth, and Farlaw the haven. The office spends none of it, and follows only
+   law, never the direction of anyone who spends it.
 3. Each government raises taxes only from matters within its own domain, payable
    only in its own currency.
-   1. Nearlaw raises only the land charge under V.8; a fixed sum a year from
-      each person's share of licence rent under V.7, never more than it; charges
-      for using land it keeps, paying whatever they raise beyond its cost
-      equally to everyone with a quota; and a charge at one rate a year on every
-      holding of hearth, taken from notes when they are exchanged, as each must
-      be a year after issue. It asks service only under V.9.
+   1. Nearlaw raises only a fixed sum a year from each person's share of licence
+      rent under V.7, never more than it; charges for using land it keeps,
+      paying whatever they raise beyond its cost equally to everyone with a
+      quota; and a charge at one rate a year on every holding of hearth, taken
+      from notes when they are exchanged, as each must be a year after issue. It
+      asks service only under V.8.
 4. Each government may keep its own forces and police, which enforce only that
    government's law. Farlaw's forces act on Wroxia's land only at the border, or
    at Nearlaw's request and under its direction. Farlaw may use force beyond
@@ -258,6 +259,8 @@ Every citizen has the limited right:
    citizens, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3)
    from electors who put themselves forward, deciding by Instrument 4, may veto
    any law passed by Farlaw's elected representatives before it takes effect.
+4. No member of a body under this article holds any other role in either
+   government.
 
 ### IV.4. Advocates
 
@@ -265,12 +268,24 @@ Every citizen has the limited right:
    negative, and limited positive rights.
 2. Each Advocate defends its kind against breach by anyone, including either
    government.
-3. Where a patient cannot act for themselves, the Limited Negative Rights
-   Advocate acts for them and receives any restitution on their behalf. That
-   restitution is used only for their own sake.
+3. Where a patient cannot act for themselves, and no one acts for them under
+   IV.5, the Limited Negative Rights Advocate acts for them and receives any
+   restitution on their behalf. That restitution is used only for their own
+   sake.
 4. Each Advocate is an office, headed by a body chosen by Instrument 1 (_seats_
-   3, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3) from
+   3, _maximum service_ 24 years, _round interval_ 1 year, _cohorts_ 3) from
    electors who put themselves forward, deciding by Instrument 4.
+
+### IV.5. Children
+
+1. Whoever gave birth to a human acts for them in each matter until they can act
+   for themselves in it, and may share this, or pass it on, by direction under
+   Instrument 2 (_default purpose_ the child's care, _Advocate_ Limited Negative
+   Rights Advocate).
+2. Whoever has shared in acting for a child in a matter for a year keeps that
+   share unless a court ends it.
+3. A court settles any disagreement among those who act, and may end anyone's
+   part, only for the child's sake and after hearing the child.
 
 ## Part V: Land
 
@@ -283,9 +298,6 @@ Every citizen has the limited right:
 3. **Vacant** (adjective, of land): that no one has title to.
 4. **District** (noun): one of the parts into which law divides land under this
    Part. A change of districts affects only registrations and titles after it.
-5. **Contest** (noun): the area of land in shares when it is taken, times the
-   quotas registered for it by those who did not take it; nothing if no one else
-   registered.
 
 ### V.2. Quotas
 
@@ -309,9 +321,9 @@ Every citizen has the limited right:
    whichever is more.
 4. Nearlaw keeps enough vacant plots in each district, to a legal standard and
    in proportion to the quotas staked there, for anyone entitled under II.7.1
-   without title to take one at once, drawn by lot, for its stake and with no
-   contest, asking them nothing for what is fixed to it. Each is enough for a
-   home, and no larger than a fifth of a share unless a home needs more.
+   without title to take one at once, drawn by lot, for its stake, asking them
+   nothing for what is fixed to it. Each is enough for a home, and no larger
+   than a fifth of a share unless a home needs more.
 
 ### V.4. Pools and directions
 
@@ -360,21 +372,7 @@ Every citizen has the limited right:
 1. Taking from land, for use off it, anything that does not renew requires a
    licence from Nearlaw. Licence rent is paid equally to everyone with a quota.
 
-### V.8. Land charge
-
-1. Nearlaw may charge whoever takes land yearly on its contest, at a rate law
-   sets when they take it, which never rises while they hold it. Those who take
-   it together pay in proportion to what they staked.
-2. Whoever gains title by direction or by joining a pool may be charged instead,
-   on the part they gain, no more than a taker by draw would now pay for it, as
-   law measures, and if they take it after its giver has died, no more than
-   halfway between that and what it was charged before. Whoever is directed may
-   instead have the land drawn as vacant, registering for it themselves.
-3. Unpaid charges may end title as on notice, and whatever anyone owes when
-   their title ends may be taken from any sum under V.6.1. Until the rest is
-   paid, they may gain no title that carries a charge, but nothing more follows.
-
-### V.9. Service
+### V.8. Service
 
 1. Every adult with title, other than to land under V.3.4, owes Nearlaw the
    hours of service a year that law sets, no more than forty, at work it

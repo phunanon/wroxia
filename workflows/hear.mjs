@@ -71,8 +71,10 @@ function parse(text) {
   return ruling;
 }
 
+// Whether law may forbid the act is reported but never counts as a split.
 const verdict = (r) =>
   Object.keys(enums)
+    .filter((f) => f !== 'forbiddable')
     .map((f) => r[f])
     .join(' / ');
 
@@ -92,7 +94,7 @@ function report(id, runs) {
       continue;
     }
     console.log(
-      `  ${model}: ${verdict(ruling)} [${ruling.articles.join(', ')}]`,
+      `  ${model}: ${verdict(ruling)} (forbiddable: ${ruling.forbiddable}) [${ruling.articles.join(', ')}]`,
     );
     console.log(`    ${ruling.consequence}`);
     if (!agreed) console.log(`    ${ruling.reasoning}`);
@@ -118,6 +120,8 @@ const seeds = Array.from(
   (_, i) => i + 1,
 );
 const runs = [];
+const agreed = {};
+const total = opts.models.length * seeds.length;
 console.log(
   `Hearing ${cases.length} case(s) × ${opts.models.length * seeds.length} runs against law ${lawHash()}, one model at a time...`,
 );
@@ -138,6 +142,8 @@ for (const model of opts.models) {
           }
           runs.push(run);
           opts.log(run);
+          const mine = runs.filter((r) => r.id === c.id);
+          if (mine.length === total) agreed[c.id] = report(c.id, mine);
           console.error(
             `${c.id} ${model} #${seed}: ${run.ruling?.outcome ?? run.error}`,
           );
@@ -146,12 +152,4 @@ for (const model of opts.models) {
     ),
   );
 }
-summary(
-  cases.map((c) => ({
-    id: c.id,
-    agreed: report(
-      c.id,
-      runs.filter((r) => r.id === c.id),
-    ),
-  })),
-);
+summary(cases.map((c) => ({ id: c.id, agreed: agreed[c.id] })));

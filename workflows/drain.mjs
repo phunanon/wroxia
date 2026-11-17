@@ -1,7 +1,7 @@
 // Drains runs/queue.txt, whose lines are hear.mjs arguments, one Hearing at a
 // time. A line is removed only once heard, so an interrupted drain resumes; a
 // second drain exits at once. See AGENTS.md.
-import { spawnSync } from 'node:child_process';
+import { spawn } from 'node:child_process';
 import {
   appendFileSync,
   existsSync,
@@ -33,7 +33,8 @@ for (let job; (job = lines()[0]);) {
   const stem = output(
     `hear-${new Date().toISOString().slice(0, 19).replaceAll(':', '-')}`,
   );
-  const { status, stdout } = spawnSync(
+  writeFileSync(`${stem}.txt`, '');
+  const child = spawn(
     process.execPath,
     [
       `${import.meta.dirname}/hear.mjs`,
@@ -41,9 +42,11 @@ for (let job; (job = lines()[0]);) {
       `${stem}.jsonl`,
       ...job.trim().split(/\s+/),
     ],
-    { encoding: 'utf8', maxBuffer: 1e8, stdio: ['ignore', 'pipe', 'inherit'] },
+    { stdio: ['ignore', 'pipe', 'inherit'] },
   );
-  writeFileSync(`${stem}.txt`, stdout ?? '');
+  // Streamed, so a stopped drain keeps every report written so far.
+  child.stdout.on('data', (d) => appendFileSync(`${stem}.txt`, d));
+  const status = await new Promise((done) => child.on('close', done));
   appendFileSync(output('drained.txt'), `${stem}.txt exit ${status}: ${job}\n`);
   const rest = lines();
   rest.splice(rest.indexOf(job), 1);

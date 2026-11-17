@@ -23,7 +23,7 @@ _out_ means deliberately left to ordinary law or a later version.
 | Division of government      | Which government does what, and who settles disputes between them             | IV.2               | covered |
 | Law-making                  | Who makes each government's law, how, and what checks them                    | IV.3, Instr. 1, 4  | partial |
 | Elections                   | How representatives are chosen, for how long, and by what system              | Instrument 5       | missing |
-| Leadership                  | Who runs each government day to day, how they are chosen, and how removed     | none               | missing |
+| Leadership                  | Who runs each government day to day, how they are chosen, and how removed     | IV.2.2, IV.3.4     | partial |
 | Courts                      | Who judges, how they are chosen and kept independent, and what they may order | I.1.14, III.2.9–10 | partial |
 | Ombudsmen                   | Who defends entitlements against governments, and with what powers            | IV.4               | partial |
 | Public finance              | What each government may tax, how money is issued, and how each is funded     | IV.2.2–3           | partial |

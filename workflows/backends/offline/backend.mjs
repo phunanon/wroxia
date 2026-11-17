@@ -71,8 +71,9 @@ async function ask(text, schema, seed = 1) {
         json_schema: { name: 'reply', schema },
       },
       chat_template_kwargs: { enable_thinking: false },
-      // Qwen's recommended non-thinking sampling.
-      temperature: 0.7,
+      // Qwen's recommended non-thinking sampling, alternating with a cold run:
+      // a case that splits only when hot was noise, not unclear text.
+      temperature: seed % 2 ? 0.7 : 0.2,
       top_p: 0.8,
       top_k: 20,
       min_p: 0,

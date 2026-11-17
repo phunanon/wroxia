@@ -240,6 +240,13 @@ is evidence: how a court proceeds when both parties stay silent, and whether
 Nearlaw pays before the dispute ends ("owed" suggests not). Whether collusion
 counts as consent, so no breach, went unanswered.
 
+**Nearlaw as insurer (16 November):** what Nearlaw pays and cannot recover might
+be 0.5% to 2% of income, as much as it raises in money. Candidate: a restitution
+fund kept apart from Nearlaw's spending, filled by recoveries and by levies in
+hearth on kinds of act that law could otherwise forbid as risky (III.1.1), run
+by its own office, with a stated rule for a year when the fund is short. See
+essays/2026-11-16-Hearth-and-haven.md.
+
 ## Open choices from drafting
 
 ### P17. The Advocates
@@ -347,6 +354,21 @@ for nearlaw and a Warden for farlaw, chosen by election, by lot, or a mix.
 Article 10 on rendering has since been folded into Positive (I.1.8); law-making
 is now IV.3, which leaders could join.
 
+**16 November:** an alternative to any head: offices on the Advocates' pattern,
+one for each task (Q14, essays/2026-11-16-Functional-splits.md).
+
+**Drafted (16 November, Q14):** the author expects law-makers to found
+institutions as they see fit (III.1.4), with no Steward. Two guards drafted,
+unheard: IV.2.2, whoever issues a currency spends none of it and follows only
+law, never the direction of anyone who spends it (reworded on 17 November: each
+government issues through an office, and the office spends none of it, since
+"whoever" left unclear whether a person or a government was meant, and both
+governments are large bodies); IV.3.4, no member of a law-making body holds any
+other role in either government. To hear: a law-maker also running the land
+draws; a law-maker serving her V.8 hours; a treasurer telling the issuer to
+print; a law that tells the issuer to print for the treasury; an Advocate who is
+also a law-maker.
+
 ### P31. Chosen communities
 
 Farlaw contains dangerous powers but is small in daily life, so it gives
@@ -371,6 +393,14 @@ grazing land moves wild animals from where they live (II.2.3, Q7).
 Two named dangers: small communities turning into the worst kind of homeowners'
 association, and raids, where a community is flooded with new members to swing
 an outcome.
+
+**16 November:** essays/2026-11-16-Districts-and-annexation.md argues local rule
+is low in stakes here, since no body may forbid a harmless act (III.1.1) and
+anyone can leave for a starter plot (V.3.4); suggests district bodies by lot for
+public land and local service hours, and chosen communities resting on pools
+alone; and notes that a founding group can be a Nearlaw before there is any
+Farlaw. essays/2026-11-16-Alternative-histories.md proposes a forum of newly
+joined townspeople as a fourth workflow.
 
 ### P32. Farlaw's revenue
 
@@ -478,6 +508,18 @@ rate as every other holding. T97 (a note exchanged a week after it was received
 bears a whole year) agreed offline; T98 (2% on banks, 5% on notes) split offline
 and was a breach in both Sonnet runs, though both asked how a bank balance is
 charged if the charge is "taken from notes".
+
+**Essay (16 November):** essays/2026-11-16-Hearth-and-haven.md argues that with
+no legal tender, good money drives out bad, so hearth lives only by what people
+choose to owe in it; that building sums paid by Nearlaw in new hearth and repaid
+as a charge (Q8) would be the largest such debt, and widen the base of the
+hearth charge; that a hearth should be an hour (Q13); and that neither
+government should hold, lend, or guarantee the other's currency, which the text
+does not say. To simulate: building sums issued and repaid in hearth; hearth
+pinned at an hour with productivity growing; E1 to E4 under both.
+
+**Author (16 November):** physical currency on demand should be constitutional
+(Q12); hourly credit is a held belief (Q13).
 
 ## From the project's starting points
 
@@ -704,6 +746,19 @@ Known risks: coercion into a nomination, voided by duress but needing
 nominations to be private and revocable; people with no one to nominate, needing
 a default such as an Advocate; and concentration, if nominations ever aggregate
 into public offices, which turns them into a popularity contest.
+
+**Children drafted (16 November, Q11):** the author prefers that whoever gave
+birth has sole say, since birth is easily witnessed and needs no register, and
+may extend it to others. Drafted as I.2.6, with IV.4.3 yielding to it (moved on
+17 November to its own article, IV.5, since it is a rule and not a term): the
+bearer acts in each matter until the child can act for themselves in it; shares
+or passes it on by direction under Instrument 2; a share a year old ends only by
+a court; a court settles disagreements and may end anyone's part, for the
+child's sake and after hearing the child. Unheard. To hear: a father of nine
+years cut off by a word; a mother who dies with no direction; a twelve-year-old
+refusing a treatment she understands; a stranger claiming a child who lives with
+them; a mother who shares with five people who then disagree; whoever acts
+managing the child's half quota (V.2.1) for themselves.
 
 ### P48. Abuse in a shared home
 
@@ -1246,6 +1301,11 @@ admitted the residents outvote the builder. Putting the rest of one's quota into
 a farm one never works is absentee title, which the Capitalism belief disallows;
 whether title should need occupancy, or work, is open.
 
+**Decided (16 November, Q10):** no rule on letting. The author does not want
+government inspecting who lives where, and letting limits itself: each person
+has one quota, so whoever lets a whole plot must be a tenant or guest elsewhere,
+at will. An occupant-takes-first rule was offered and declined.
+
 ### P77. The sea
 
 Inland water is land (I.2.3), but the sea is not, so no one has title to it,
@@ -1323,6 +1383,13 @@ Probably intended, as with the crofters' London landlord (R3), but it is the
 most dramatic event in the text and is phrased as a detail. Decide what is owed,
 if anything, for buildings and debts at the changeover, and how herds and farms
 are treated (P78). Related: P26 on territory.
+
+**16 November:** essays/2026-11-16-Districts-and-annexation.md sets what the
+text does on the day beside the land reforms of Japan, Taiwan, and Zimbabwe and
+the joining of East Germany. Open for the author: whether those who lose
+(landlords, lenders, and pensioners whose funds hold both) are paid anything; a
+day or stages; whether a joining country may keep old law for a time, which
+III.1.5 now forbids; and by what vote.
 
 ### P81. Claims across the two governments
 
@@ -1511,6 +1578,16 @@ families for good (heirs paying nothing on wanted land rose from about a tenth
 to nearly a third), so the going charge stays for directions, now averaged over
 five years. The simulator still uses one year.
 
+**Excised (16 November, Q9):** the land charge (V.8), contest (V.1.5), and their
+mentions in IV.2.3.1 and V.3.4 are removed; service is now V.8. The charge
+raised little, the author disliked both a price fixed for ever and the going
+rate (unrepresentative local churn, and neighbours hostile to newcomers), and
+letting limits itself (P73). The text of commit daeca7d has it. T95 deleted;
+T67, T92, T94, and T96 no longer mention it. What it guarded and nothing now
+does: a wanted plot passing down a family for one quota a generation (P39). The
+author's idea of a holder sending their own land to draw again works only if
+they get no priority in that draw.
+
 ### P84. Discipline in a volunteer force
 
 No one may be compelled to work (II.1.3), even after enlisting, so a soldier may
@@ -1549,7 +1626,7 @@ Decide how extraction is controlled as a whole: who sets limits, how the rent is
 set, and how unlicensed extraction is found and answered. Nearlaw's skim can go
 once that is settled (P82).
 
-### P87. Service (V.9)
+### P87. Service (V.8, formerly V.9)
 
 Drafted 15 November from the author's reciprocity argument: everyone relies on
 the state, so everyone with title gives up to forty hours a year in person, with
@@ -1608,6 +1685,41 @@ With the facts stated, SP1 (10 m² bare ground: breach), SP2 (3 ha where a home
 needs under 1: breach), and SP4 (30 m² flats where a share is 50: lawful) agreed
 offline; T93 agreed in both Sonnet runs. Citizenship is already left to law
 (IV.1.1), so law can slow naturalisation where space runs short.
+
+**Renumbered (16 November):** service is now V.8. The author would accept a cap
+above forty, given protection for the disabled, exemption for children, and
+freedom to serve the hours across a year or several (V.8.2 already lets five
+years' hours stand unserved), and wants travel and training counted as served.
+See P89 for what hours cannot do.
+
+## Added 16 November
+
+### P88. Keeping promises without enforcing them
+
+No promise binds (P51), and residents are hurt by it. An idea that compels no
+one: Nearlaw holds things in trust for a fee in hearth, releasing each party's
+deposit to the other once both have done what they said, or returning it. It
+would give strangers a way to deal, and hearth a use. Unexamined: who decides
+whether a promise was kept, whether a deposit held is still held by its giver
+(I.2.4), and whether this is contract law by another door, which P51's direction
+warns against. See essays/2026-11-16-Hearth-and-haven.md.
+
+### P89. What service hours cannot staff
+
+The author wants single-payer health and public natural monopolies, and hopes a
+state can be funded by hours alone. In labour terms it can, but not by forty: a
+modern state with health and schooling employs about a fifth of all workers
+(nearer a third in the Nordic countries, a sixteenth in Japan), which is some
+340 hours a year from each worker, about one day a week. And hours are not
+alike. A clinic needs full-time nurses trained for years, not a week from
+everyone. Service cannot be paid off (V.8.1), so many people's hours cannot
+become one person's job; Nearlaw can hire full-time only in hearth, and its
+hearth income is small (P35). Ways through, none chosen: let those who work
+full-time for Nearlaw be paid in hearth that others must earn from them, which
+needs a large hearth debt such as the building charge (Q8); health and schools
+as bodies people join and pay (P31); service served in one's own trade, in
+blocks, with training counted; or charges for use. Imported goods need haven,
+which hours cannot earn. See essays/2026-11-16-Hearth-and-haven.md.
 
 ## Closed
 

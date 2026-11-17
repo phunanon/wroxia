@@ -31,7 +31,16 @@ To queue Hearings, add lines of hear.mjs arguments to `workflows/runs/queue.txt`
 and run [drain.mjs](drain.mjs). It hears each line in turn, writing each report
 and log as `runs/hear-<time>.txt` and `.jsonl`, and records each in
 `runs/drained.txt`. It removes a line only once it is heard, so an interrupted
-drain resumes where it stopped, and a second drain exits at once.
+drain resumes where it stopped, and a second drain exits at once. A drain killed
+mid-job leaves a stale `runs/queue.lock`: check no node process is running, then
+delete it.
+
+`node workflows/check.mjs [results.jsonl …]` (default: the latest) checks
+results against the current law alone, with no model: cited provisions that
+don't exist, quotes not found in the law, and provisions the reasoning leans on
+without citing. Run it after each drain. Its flags are leads only (it can't see
+case text, and uncited reliances are noisy), and it is only clean for runs heard
+under the current law hash, which it marks `[other law]` otherwise.
 
 ## Residents
 
@@ -44,11 +53,11 @@ their lawyer, a second character who knows the law, advises them first.
 
 ## Land simulator
 
-[landsim/](landsim/) is a Monte Carlo model of Part V and the land charge (V.8):
-a map whose desirability shifts as towns grow, people who are born, migrate, and
-die, monthly draws, pools, directions, starter plots, arrears, and switchable
-ways of avoiding the charge. Open [index.html](landsim/index.html) in a browser,
-or run
+[landsim/](landsim/) is a Monte Carlo model of Part V and the land charge
+(excised 16 November; see commit daeca7d): a map whose desirability shifts as
+towns grow, people who are born, migrate, and die, monthly draws, pools,
+directions, starter plots, arrears, and switchable ways of avoiding the charge.
+Open [index.html](landsim/index.html) in a browser, or run
 `node workflows/landsim/sim.js <preset> [--runs N] [--years N] [--param value]`,
 which prints a table per decade and writes JSON to `runs/`. Its rules are
 hand-coded from the text, so update `sim.js` when Part V changes. Type-check it

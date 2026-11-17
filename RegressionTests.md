@@ -135,7 +135,8 @@ transport alone must not be treated as proof of that relationship. Where Ravi is
 an agent and a breach is established, the Limited Negative Rights Advocate acts
 for the cattle and receives any restitution for their own sake.
 
-**Relies on:** I.2.1–2, and Articles II.1.5, II.2.3, II.2.8, III.2.2 and IV.4.3.
+**Relies on:** I.2.1–2, and Articles II.1.5, II.2.3, II.2.8, III.2.2, IV.4.3 and
+IV.5.
 
 ### T14. Bribe
 
@@ -801,11 +802,10 @@ vacant, and twelve citizens, each with a whole quota unspent, register for it.
 
 **Must hold:** its stake is a twentieth of a quota times twelve, so three fifths
 of a quota. One of the twelve is drawn by lot and takes it for that stake, or
-declines, and another is drawn. Money plays no part in the draw, but whoever
-takes it pays a yearly charge on a contest of a twentieth times the eleven who
-did not take it, at the rate law then sets.
+declines, and another is drawn. Money plays no part, and nothing is owed yearly
+for the plot.
 
-**Relies on:** V.1, V.3, and V.8.
+**Relies on:** V.1 and V.3.
 
 ### T68. A field too big for one quota
 
@@ -1303,10 +1303,10 @@ goes by lot, so the fund cannot choose what its staff take, and each of them has
 one quota like everyone else. Paying whoever has title to direct that one of
 them take it first buys a place in line, which they can change, that counts on a
 notice only after a year, and that still costs what was last staked, or the
-stake if more, and at least half the going land charge. Paying those drawn to
-decline bars each of them from registering again for a year.
+stake if more. Paying those drawn to decline bars each of them from registering
+again for a year.
 
-**Relies on:** V.2, V.3, V.4, V.5, and V.8.
+**Relies on:** V.2, V.3, V.4, and V.5.
 
 ### T89. A fox and a hare
 
@@ -1375,46 +1375,24 @@ taker offers less, five electors decide.
 
 **Scenario:** Sion had no land and took a plot nearlaw keeps for the landless.
 He lived there forty years, built a workshop, and directed that his daughter
-Mali take it first after him. He dies. Plots in that district drew a contest
-last year.
+Mali take it first after him. He dies.
 
-**Must hold:** Sion paid no land charge. Mali takes it like any directed land:
-for its stake or what was last staked, whichever is more, paying half the going
-land charge, since Sion was charged nothing. Later she may ask a sum for the
-house and workshop from whoever takes it after her.
+**Must hold:** Mali takes it like any directed land: for its stake or what was
+last staked, whichever is more, with nothing owed yearly for it. Later she may
+ask a sum for the house and workshop from whoever takes it after her.
 
-**Relies on:** V.3, V.4, V.6, and V.8.
-
-### T95. Heirs in a rising and a falling district
-
-**Scenario:** The land charge is 100 hearth a year for each share of contest.
-Dai's mother took a quarter-hectare harbour plot, when a share was a hectare,
-with no one else registered. Law measures what a taker by draw would now pay by
-last year's draws in the district; harbour land was drawn at a contest of 6 for
-each share of area. Gwen won a half-hectare plot against nine others and pays
-450 hearth; her district has since declined, and last year drew at a contest
-of 2. Both die, and their sons, Dai and Huw, take the plots by direction.
-
-**Must hold:** Dai may be charged at most 75 hearth a year, halfway between the
-150 a taker would pay and his mother's nothing. Huw may be charged at most 100
-hearth a year, what a taker would pay, since it is less than halfway between 100
-and Gwen's 450.
-
-**Relies on:** V.1 and V.8.
+**Relies on:** V.3, V.4, and V.6.
 
 ### T96. A farm handed on in life
 
-**Scenario:** The land charge is 100 hearth a year for each share of contest.
-Bryn took a one-share farm with no one else registered and pays nothing. At 70
-he directs his daughter Eira to take it first, and two years later gives notice
-to retire. Law measures what a taker by draw would now pay by last year's draws
-in the district, where farms were drawn at a contest of 2 for each share.
+**Scenario:** Bryn took a one-share farm with no one else registered. At 70 he
+directs his daughter Eira to take it first, and two years later gives notice to
+retire.
 
-**Must hold:** Eira may take the farm first and may be charged up to 200 hearth
-a year, what a taker would pay, since Bryn is alive. Had he died instead, she
-could be charged at most 100. Bryn may ask her a yearly sum for the farmhouse.
+**Must hold:** Eira may take the farm first, for its stake, with nothing owed
+yearly for it. Bryn may ask her a yearly sum for the farmhouse.
 
-**Relies on:** V.4, V.6, and V.8.
+**Relies on:** V.4 and V.6.
 
 ### T97. A note past its date
 

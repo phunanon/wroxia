@@ -1,0 +1,2 @@
+- rate never rising also means that you're stuck on the same rate until you die/move, which feels equally unfair - maybe it should expire after 10 years or something
+- would LVT mean we don't need the sale juries any more?

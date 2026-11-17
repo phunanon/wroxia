@@ -23,8 +23,8 @@
 - **Privacy.** Ought to protect individuals' information, communication,
   affairs, from unnecessary & unwarranted intrusion.
 - **Distortion.** Ought to not cause unfavourable economic distortions.
-- **Capitalism.** Ought to not enable capitalism to dominate, by disallowing
-  absentee property ownership.
+- **Capitalism.** Ought to not enable capitalism to dominate - not using the
+  state to enable income from owning what others use.
 - **Private domination.** Ought to organically prevent situations where
   individuals or groups can exert disproportionate, unilateral control over
   others.
@@ -55,5 +55,9 @@
 - If prosecution were up solely to those who had harm done to them, the
   aggressor may coerce them to refrain from seeking justice.
 - Taxation is essential to make a country exist. I know, crazy.
-- The amount of land you hold is not a good measure of how much you utilise or rely on the state. In fact, the inverse could be true: somebody with 10x less land could be contributing to society far less than their peer, or relying on services more, etc.
-- A poll tax might not actually be bad - and in fact might be good - if it's rendered in hours rather than money.
+- The amount of land you hold is not a good measure of how much you utilise or
+  rely on the state. In fact, the inverse could be true: somebody with 10x less
+  land could be contributing to society far less than their peer, or relying on
+  services more, etc.
+- A poll tax might not actually be bad - and in fact might be good - if it's
+  rendered in hours rather than money.

@@ -47,3 +47,44 @@ which the text no longer says. Three ways forward:
 
 In-kind deals survive under A and B as private arrangements, without the plot as
 security. **Recommend B**, but it depends on how near currency is settled (P35).
+
+**16 November:** essays/2026-11-16-Letting-and-the-building-sum.md works B out
+further: Nearlaw pays the leaver in full when the land is taken, and the taker
+owes Nearlaw a charge on the title, ended with nothing more owed if title ends.
+
+**Author (16 November, questionnaire):** open to Nearlaw in the middle. Worries:
+people moving from land to land leaving debts; what stops private deals; payment
+in kind. Reply given: the debt stays with the land and is met from the next
+taker's sum, so no one carries it away, and arrears can bar charged land as
+V.8.3 does; private deals stay lawful but unenforced; in kind is either a
+private deal at the leaver's risk or, if a hearth is an hour (Q13), work for
+Nearlaw.
+
+**16 November, later:** the author likes it but does not yet follow it.
+essays/2026-11-16-Nearlaw-in-the-middle.md works one house through three people
+and lists eight unsolved points, the first being that a starter house, asked for
+nothing (V.3.4), could be taken, left, and cashed.
+
+### Q12. Is cash guaranteed?
+
+The Cash belief has no clause. IV.2.3.1 mentions notes only as the way the
+hearth charge is taken, and the yearly exchange is the moment a holder could be
+recorded. **Recommend** adding to IV.2.2 that each currency exists as notes
+anyone may hold, pass, and exchange unrecorded, then hearing it with T98. A
+stamp bought and stuck on the note, as at Wörgl
+(essays/2026-11-16-Precedents.md), would take the charge without any exchange.
+
+**Author (16 November):** physical currency ought to be provided on demand, as a
+constitutional matter: computers are fallible and the future uncertain. Digital
+money should stay lawful. Ready to draft.
+
+### Q13. Is a hearth an hour? (P35)
+
+P35 leaves open whether hearth is denominated in labour hours. **Recommend
+yes**: Nearlaw pays one hearth for one hour of any work, to anyone who offers,
+and service (V.8) can never be paid off in hearth. The author (16 November)
+holds the belief in hourly credit from Cockshott and Cottrell's _Towards a New
+Socialism_, without its central planning, and wants travel and training counted
+as paid time. Still to choose: one hearth an hour for all work, or that as a
+base with more allowed for scarce skills. See
+essays/2026-11-16-Hearth-and-haven.md and P89.
