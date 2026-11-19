@@ -67,7 +67,7 @@ with
 ## Money simulator
 
 [moneysim/](moneysim/) is an agent-based Monte Carlo model of the hearth beside
-the haven (IV.2.2, IV.2.3.1), asking how much demurrage and other hearth-only
+the haven (IV.2.2, IV.5.1.3), asking how much demurrage and other hearth-only
 charges (a sales tax, a pollution charge, a poll tax) can raise: adults on a
 trading network price in whichever currency costs them less, hold hearth only
 for spending and whatever savings are cheaper there, and Nearlaw either pays a
@@ -75,7 +75,7 @@ fixed hearth wage or spends a target whatever hearth is worth. Open
 [index.html](moneysim/index.html) in a browser, or run
 `node workflows/moneysim/sim.js <preset> [--runs N] [--param value] [--sweep name=v1,v2]`,
 which prints a table per decade, or per swept value, and writes JSON to `runs/`.
-Update `sim.js` when IV.2.3 changes, and type-check it as above.
+Update `sim.js` when IV.2.3 or IV.5 changes, and type-check it as above.
 
 ## Claude Code workflows
 

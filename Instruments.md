@@ -61,5 +61,17 @@ No assessment procedure or power is yet provided.
 
 ## Instrument 5. Election
 
-This instrument concerns electing representatives. No size, voting system, term
+This instrument concerns electing representatives. No size, voting system, term,
 or procedure is yet provided.
+
+## Instrument 6. Amendment
+
+**Parameters:** _bar_.
+
+1. An amendment is proposed by Nearlaw's law-making body or Farlaw's
+   representatives, by two thirds of their seats, or by one elector in fifty. It
+   must be proposed again in the same way at least a year later and, if by a
+   body, after its next round or election.
+2. Electors then score it from 0 to 5. It passes if at least two fifths of all
+   electors score it 4 or 5, and the average of the scores given is at least
+   _bar_.

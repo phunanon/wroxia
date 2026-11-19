@@ -16,44 +16,42 @@ all may exercise undistorted intention.
    waiver can remove.
 2. **Agent** (noun): a patient able to understand others' rights and to act on
    that understanding.
-3. **Bribe** (noun): anything of value given to someone acting in a government's
+3. **Breach** (noun, of a right): going against it, by act or omission, other
+   than as its conditions allow or its holder's waiver permits.
+4. **Bribe** (noun): anything of value given to someone acting in a government's
    name, by anyone but that government, in exchange for how they act in that
    role.
-4. **Citizen** (noun): a patient recognised as a citizen by law. Demonym:
+5. **Citizen** (noun): a patient recognised as a citizen by law. Demonym:
    Wroxian.
-5. **Court** (noun): a body independent of the parties that hears and decides a
+6. **Court** (noun): a body independent of the parties that hears and decides a
    case under law.
-6. **Duress** (noun): pressure that leaves no reasonable choice.
-7. **Elector** (noun): a citizen aged 16 or over.
-8. **Holding** (noun): keeping a thing for one's own use.
-9. **Limited** (adjective, of a right): that holds unless one of its stated
-   conditions is met, and that its holder may waive.
-10. **Negative** (adjective, of a right): fulfilled by others refraining from
+7. **Duress** (noun): pressure that leaves no reasonable choice.
+8. **Elector** (noun): a citizen aged 16 or over.
+9. **Holding** (noun): keeping a thing for one's own use.
+10. **Limited** (adjective, of a right): that holds unless one of its stated
+    conditions is met, and that its holder may waive.
+11. **Negative** (adjective, of a right): fulfilled by others refraining from
     action.
-11. **Occupancy** (noun): making land one's home or workplace.
-12. **Patient** (noun): any sentient being.
-13. **Positive** (adjective, of a right): fulfilled by action of the government
+12. **Occupancy** (noun): making land one's home or workplace.
+13. **Patient** (noun): any sentient being.
+14. **Positive** (adjective, of a right): fulfilled by action of the government
     in whose domain it falls.
-14. **Sentient** (adjective): having subjective experience, so that wellbeing or
+15. **Sentient** (adjective): having subjective experience, so that wellbeing or
     suffering can be felt.
-15. **Suffering** (noun): pain, fear, or distress felt by a patient.
 16. **Threat** (noun): expression addressed to a patient, meant to make them
     fear harm.
 17. **Title** (noun): a claim to land gained under Part V.
-18. **Torture** (noun): deliberately causing severe suffering, to punish, to
-    coerce, or for its own sake.
 
-### I.2. Application
+### I.2. Interpretation
 
 1. Every vertebrate, cephalopod, decapod crustacean, and insect is presumed
    sentient.
 2. Only an agent can breach a right. A human is presumed to have been an agent
    when acting, unless evidence shows otherwise. Capacity is established under
    Instrument 3.
-3. Land includes buildings, water on it, and anything fixed to it that cannot be
-   removed intact without harming either. Land ends where the sea begins. Land
-   is occupied by those who live or work there, but no one has any claim to it
-   except by title.
+3. Land includes water on it, and anything fixed to it that cannot be removed
+   intact without harming either, such as buildings. Land ends where the sea
+   begins.
 4. A thing one has lent is still held. Holding ends only when the thing is given
    away, discarded, or made part of land, and no one has any claim to a thing
    except by holding it.
@@ -62,6 +60,10 @@ all may exercise undistorted intention.
    for it.
 
 ## Part II: Entitlements
+
+In this Part, **suffering** is pain, fear, or distress felt by a patient, and
+**torture** is deliberately causing severe suffering, to punish, to coerce, or
+for its own sake.
 
 ### II.1. Universal absolute negative rights
 
@@ -112,7 +114,7 @@ Every patient has the limited right:
    Conditions:
    - Defence under II.2.
    - A thing may be taken to make restitution owed under III.2, or to pay a
-     charge under IV.2.3.1.
+     charge under IV.5.1.
 7. Not to be watched or recorded in a place they occupy, nor to have their
    communications, or records about them, read, copied, or shared, without their
    consent. Whoever they address or entrust one to may read and keep it, but not
@@ -226,14 +228,8 @@ Every citizen has the limited right:
 2. Each government issues its own currency through an office: Nearlaw the
    hearth, and Farlaw the haven. The office spends none of it, and follows only
    law, never the direction of anyone who spends it.
-3. Each government raises taxes only from matters within its own domain, payable
-   only in its own currency.
-   1. Nearlaw raises only a fixed sum a year from each person's share of licence
-      rent under V.7, never more than it; charges for using land it keeps,
-      paying whatever they raise beyond its cost equally to everyone with a
-      quota; and a charge at one rate a year on every holding of hearth, taken
-      from notes when they are exchanged, as each must be a year after issue. It
-      asks service only under V.8.
+3. Each government raises taxes and duties only as IV.5 lists, from matters
+   within its own domain, payable only in its own currency.
 4. Each government may keep its own forces and police, which enforce only that
    government's law. Farlaw's forces act on Wroxia's land only at the border, or
    at Nearlaw's request and under its direction. Farlaw may use force beyond
@@ -268,14 +264,27 @@ Every citizen has the limited right:
 2. Each Advocate defends its kind against breach by anyone, including either
    government.
 3. Where a patient cannot act for themselves, and no one acts for them under
-   IV.5, the Limited Negative Rights Advocate acts for them and receives any
+   IV.6, the Limited Negative Rights Advocate acts for them and receives any
    restitution on their behalf. That restitution is used only for their own
    sake.
 4. Each Advocate is an office, headed by a body chosen by Instrument 1 (_seats_
    3, _maximum service_ 24 years, _round interval_ 1 year, _cohorts_ 3) from
    electors who put themselves forward, deciding by Instrument 4.
 
-### IV.5. Children
+### IV.5. Taxes and duties
+
+1. Nearlaw raises only:
+   1. A fixed sum a year from each person's share of licence rent under V.7,
+      never more than it.
+   2. Charges for using land it keeps, paying whatever they raise beyond its
+      cost equally to everyone with a quota.
+   3. A charge at one rate a year on every holding of hearth in notes or
+      otherwise, a note being charged for each year since its issue at its first
+      exchange after one has passed.
+2. Nearlaw asks service only under V.8.
+3. Farlaw raises only duties on things as they cross Wroxia's border.
+
+### IV.6. Children
 
 1. Whoever gave birth to a human acts for them in each matter until they can act
    for themselves in it, and may share this, or pass it on, by direction under
@@ -302,13 +311,15 @@ Every citizen has the limited right:
 
 1. Each human citizen has one quota. One under 18 has half, staked only on land
    they alone have title to, and managed for their sake.
-2. Quotas and title can never be transferred.
+2. Quotas and title cannot be sold, given, or lent; title passes to others only
+   by pooling or direction (V.4).
 
 ### V.3. Taking land
 
-1. Title is gained only by taking vacant land or by pooling. A government takes
-   land like anyone, staking nothing, and keeps it only for public use. Nearlaw
-   keeps all other vacant land until it is taken.
+1. No one has any claim to land except by title, gained only by taking vacant
+   land or by pooling. A government takes land like anyone, staking nothing, and
+   keeps it only for public use. Nearlaw keeps all other vacant land until it is
+   taken.
 2. Anyone may register, alone or together, for vacant land, or for adjacent
    pieces as one. A quota in several registrations at once counts in each as an
    equal fraction of one, and no one may change their registrations more than
@@ -323,6 +334,9 @@ Every citizen has the limited right:
    without title to take one at once, drawn by lot, for its stake, asking them
    nothing for what is fixed to it. Each is enough for a home, and no larger
    than a fifth of a share unless a home needs more.
+5. A government may entrust land it keeps to others as its stewards, as law
+   provides. For II.2 they are treated as having title to it, which stays the
+   government's.
 
 ### V.4. Pools and directions
 
@@ -373,10 +387,10 @@ Every citizen has the limited right:
 
 ### V.8. Service
 
-1. Every adult with title, other than to land under V.3.4, owes Nearlaw the
-   hours of service a year that law sets, no more than forty, at work it
-   arranges. No one may serve or pay for another, and law may excuse only by age
-   or inability to serve.
+1. Every adult with title, other than to land first taken under V.3.4, owes
+   Nearlaw the hours of service a year that law sets, no more than forty, at
+   work it arranges. No one may serve or pay for another, and law may excuse
+   only by age or inability to serve.
 2. Once someone leaves more than five years of the hours Nearlaw arranged for
    them unserved, their title ends as on notice, and until they serve them, they
    may gain no title except under V.3.4; nothing more follows.
@@ -384,16 +398,10 @@ Every citizen has the limited right:
 ## Part VI: Amendment
 
 1. This constitution changes only by amendment.
-2. An amendment is proposed by Nearlaw's law-making body or Farlaw's
-   representatives, by two thirds of their seats, or by one elector in fifty. It
-   must be proposed again in the same way at least a year later, and, if by a
-   body, after its next round or election.
-3. Electors then score it from 0 to 5. It passes if at least two fifths of all
-   electors score it 4 or 5, and the average of the scores given is at least the
-   highest of these that applies:
+2. An amendment is made by Instrument 6 (_bar_ the highest of these that
+   applies):
    1. For a change to Part I (Terms), II (Entitlements), III (Law), or VI
-      (Amendment): an average of 4.
-   2. For a change to Part IV (Government) or V (Land), or the Instruments: an
-      average of 3.5.
-4. An amendment changing how anyone gains or keeps office takes effect only
+      (Amendment): 4.
+   2. For a change to Part IV (Government) or V (Land), or the Instruments: 3.5.
+3. An amendment changing how anyone gains or keeps office takes effect only
    after each body it affects is next chosen.

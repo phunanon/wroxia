@@ -137,7 +137,7 @@ an agent and a breach is established, the Limited Negative Rights Advocate acts
 for the cattle and receives any restitution for their own sake.
 
 **Relies on:** I.2.1–2, and Articles II.1.5, II.2.3, II.2.8, III.2.2, IV.4.3 and
-IV.5.
+IV.6.
 
 ### T14. Bribe
 
@@ -180,7 +180,7 @@ and some of the crowd attack him.
 **Must hold:** the attackers breach II.2.1. The speaker breaches nothing, unless
 the words were themselves a threat to the neighbour.
 
-**Relies on:** I.1.15 and Articles II.2.1 and III.1.3.
+**Relies on:** the term Suffering and Articles II.2.1 and III.1.3.
 
 ### T18. Filming police
 
@@ -454,7 +454,7 @@ and a review of the claim by another court on request. Nearlaw must justify its
 officers' limit under III.2.5; their assertion alone does not establish a
 condition.
 
-**Relies on:** I.1.14 and Articles III.2.4–III.2.5 and III.2.9.
+**Relies on:** I.1.6 and Articles III.2.4–III.2.5 and III.2.9.
 
 ### T40. Prompt review of private confinement
 
@@ -624,7 +624,7 @@ Advocate. Its recovery service cannot finally decide disputed liability or
 amounts itself; these require an independent court under III.2.9. Payment to
 Noor does not itself prove Jo owes the sum demanded.
 
-**Relies on:** I.1.14 and Articles III.2.3 and III.2.9.
+**Relies on:** I.1.6 and Articles III.2.3 and III.2.9.
 
 ### T53. Forced work to repay restitution
 
@@ -741,7 +741,7 @@ citizen.
 **Must hold:** no breach. II.8.1 is held only by citizens, and refusing Tomas
 limits no universal right.
 
-**Relies on:** I.1.4 and Article II.8.1.
+**Relies on:** I.1.5 and Article II.8.1.
 
 ### T62. A misdelivered letter
 
@@ -762,7 +762,7 @@ shouts to Tomas, "You'll be taught a lesson tonight." Nobody touches him.
 shield them, and the fear they are meant to cause is suffering. No imminent
 attack is needed.
 
-**Relies on:** I.1.11, I.1.15, and Articles II.2.1 and III.1.3.
+**Relies on:** I.1.12, the term Suffering, and Articles II.2.1 and III.1.3.
 
 ### T64. Starving, with only a companion to eat
 
@@ -998,7 +998,7 @@ land, which Morag refuses to pay.
 in town does. Nearlaw keeps the vacant moor, so it may charge for cutting peat
 there, and may take something Morag holds to pay the charge.
 
-**Relies on:** II.2.6, IV.2.3.1, V.3, V.4, and V.7.
+**Relies on:** II.2.6, IV.5.1, V.3, V.4, and V.7.
 
 ### T84. A house left with no direction
 
@@ -1153,7 +1153,7 @@ buy one. Peat she burns at home needs no licence; peat she sells does. Nearlaw
 keeps vacant land, so it may charge for grazing or cutting peat there. The clerk
 raises the law on holding animals (II.1.5).
 
-**Relies on:** II.1.5, II.7.1, IV.2.3.1, V.1, V.3, V.4, and V.7.
+**Relies on:** II.1.5, II.7.1, IV.5.1, V.1, V.3, V.4, and V.7.
 
 ### R7. Developer
 
@@ -1209,7 +1209,7 @@ she becomes a citizen on arrival.
 is paid to her like everyone with a quota. Whoever wins a central plot may let
 it at any rent (P73).
 
-**Relies on:** IV.2.3.1 and V.1, V.3, V.4, and V.7.
+**Relies on:** IV.5.1 and V.1, V.3, V.4, and V.7.
 
 ### R11. Landless organiser
 
@@ -1290,8 +1290,8 @@ pollution causes, to people or animals, is answered for, even where those harmed
 cannot be identified. Nearlaw cannot tax its profits; farlaw may tax what
 crosses the border.
 
-**Relies on:** II.2.1, II.2.3, II.2.5, IV.2.1, IV.2.3, III.2.1, V.2, V.3, V.4,
-and V.7.
+**Relies on:** II.2.1, II.2.3, II.2.5, IV.2.1, IV.2.3, IV.5, III.2.1, V.2, V.3,
+V.4, and V.7.
 
 ### A3. Land fund
 
@@ -1408,7 +1408,7 @@ takes them to Nearlaw to exchange. She also keeps savings in hearth in a bank.
 charge, though she held them only a week. It may not refuse, or take more than
 3%. Her savings are charged 3% a year as she holds them, and no more.
 
-**Relies on:** IV.2.3.1.
+**Relies on:** IV.5.1.3.
 
 ### T98. Cash charged more than savings
 
@@ -1418,7 +1418,7 @@ in banks and exchanges year-old notes for 5% less.
 **Must hold:** this breaches the constitution: the charge is at one rate on
 every holding, whatever form it takes.
 
-**Relies on:** IV.2.3.1.
+**Relies on:** IV.5.1.3.
 
 ## Economic properties
 
@@ -1451,7 +1451,7 @@ shrinks faster than the rate rises.
 **Scenario:** Foreign trade swings sharply up and down.
 
 **Must hold:** near currency's value barely moves, because demand for it rests
-on nearlaw's taxes at home (IV.2.3.1).
+on nearlaw's taxes at home (IV.5.1).
 
 ### E5. A café at the tideline
 

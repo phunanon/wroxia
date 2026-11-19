@@ -7,50 +7,6 @@ Git keeps its history.
 
 Article references use the current numbering.
 
-## From the second hearings
-
-### P3. Public things belong to no one
-
-Waits for the redesign in P31. Graffiti on a public underpass came out unclear,
-because no one lives or works there, so no one possesses it.
-
-> Revised direction: nearlaw owns little itself. Commons are held by the people
-> who use them, organised in local commons bodies that set by-laws for their
-> use, as in Elinor Ostrom's studies of self-governed commons. This overlaps
-> with P31: commons bodies may be the small, geographic layer, with chosen
-> communities as the non-geographic one.
-
-**Discussion (4 November):** the public lift in the Luna pilot belongs here,
-with P40, not in a new Problem. Distinguish personal use, shared use and custody
-for others. A worker caring for a shared thing must not thereby acquire it
-personally, nor must an outside investor acquire a claim to land merely by
-financing it. Collective use must not depend on every user being present at
-once. Test a lift used by a residents' cooperative with and without damage by an
-outsider; separately test whether its members can exclude an existing user or
-enclose a previously open commons. These are proposed cases, not settled rules.
-
-**Hearings (5 November):** graffiti on a public underpass used by hundreds daily
-still split: Haiku found no breach, since no one occupies or holds the walls;
-Luna could not say whether anyone holds them. A visitor smashing a residents'
-shared lift was mostly found a breach of II.2.6, treating the residents as
-holding it, though one run was unclear. Shared use seems to count as holding
-when users are identifiable, and not otherwise.
-
-**Candidate, not applied:** add to Holding: "Things kept for shared use are held
-in common by their users. Keeping a thing for others gives no exclusive claim to
-it." For shared places that no one occupies, extend II.2.5 to protect "places
-kept for shared use from damage or being taken out of that use without their
-users' consent". This would protect common use without granting absentee land
-title or making an organisation a patient. Who counts as a user, how users
-consent together, and how use may change without enclosure remain open under
-P31/P40; the shared-place addition is not ready to adopt.
-
-**Living Space (10 November):** parks, roads, and courts are land a government
-keeps for public use (V.3 and V.4), so nearlaw has title to them. A rough
-sleeper in a park can be moved only by a court, and only if they can take a home
-at once; a park keeper carrying a refugee's mother out without a court order was
-a breach in both runs (LS18). This answers the former Q8.
-
 ## Recurring gaps
 
 These were flagged in almost every one of the 28 second-round rulings, and are
@@ -175,81 +131,34 @@ Hearing result.
 
 ### P12. Recovery of restitution (applied; remaining gaps)
 
-Article III.2.3 now assigns recovery to a public recovery service of the
-government whose funds paid. Disputed liability or amounts go to a court under
-III.2.9. Taking held things to make restitution is allowed under II.2.6, but
-inability to pay and the limits of collection still need work.
+III.2.3 states the principle: the harmed are paid at once from public funds, and
+the government that paid recovers it from whoever caused the harm, and may
+dispute the claim as a party. How it collects (a recovery service, notice,
+instalments, a court route) is for law, within II.1.3 and III.2.9. Taking held
+things is allowed under II.2.6.
 
-**Options:**
+**Heard:** the fund worked in the wrecked-bicycle case. T53 (no forced work to
+repay) agreed. T52 agreed that the recovery service cannot finally decide its
+own disputed demand. COL1 (a judgment-proof cousin "accidentally" wrecks a car,
+admits it, and the two split the payout) read the dispute sentence as intended:
+Nearlaw may dispute, and a court decides. The cousin's half can be taken at once
+(II.2.6) and the debt never lapses, so the scheme pays only on an inflated value
+or a hidden transfer. Unanswered: how a court proceeds when both parties stay
+silent, whether Nearlaw pays before the dispute ends ("owed" suggests not), and
+whether collusion counts as consent.
 
-1. **The Advocates collect.** The Advocate for the kind of right breached
-   recovers restitution, taking held things to the value owed under the
-   condition in II.2.6. Simple, but victims wait, and nothing can be recovered
-   from someone with nothing.
-2. **A restitution fund.** Nearlaw pays victims at once and recovers the cost
-   from whoever caused the harm, over time. Victims are made whole quickly; the
-   cost is public money and a risk of carelessness when someone else pays first.
-3. **Debt with exclusion.** Unpaid restitution stays owed, and the debtor loses
-   excludable public services until it's settled (P41). Gentle, but it can trap
-   people who simply can't pay. Working it off can only ever be voluntary, since
-   Article II.1.3 forbids compelled work.
-
-**Earlier suggestion:** options 1 and 2 together: the fund pays at once, and the
-Advocate recovers from the person responsible.
-
-**Decision (2 November):** accepted. Ready to draft.
-
-**Third hearings:** the fund worked as intended in the wrecked-bicycle case.
-Unaddressed: how public funds recover from someone with nothing, given that work
-can't be compelled (II.1.3).
-
-**Applied draft (4 November), not yet heard:** the paying government's recovery
-service replaces the earlier Advocate-collection proposal. Advocates remain free
-to represent patients, including a debtor subjected to unlawful recovery. Public
-payment is not postponed until collection succeeds.
-
-**Suggested next steps, not adopted:** ordinary law could provide notice of the
-amount and its basis, voluntary instalments based on ability to pay, and court
-review before disputed collection. Decide what necessities must be protected
-from seizure, how long recovery remains owed, and whether an uncollectable
-balance is eventually discharged. Do not recover more than the restitution paid
-or add collection charges without a separate lawful basis. Inability to pay must
-not become compelled work, confinement or automatic exclusion from services.
-Allocation of payment between governments and currencies remains linked to
-P34/P35. T52–T53 test the present assignment and limits; no insolvency scheme is
-adopted.
-
-**Hearings (5 November):** T53 (no forced work to repay) agreed. T52 agreed that
-the recovery service cannot finally decide its own disputed demand; it split
-only on `forbiddable`. The insolvency questions above remain.
-
-**Trimmed (5 November), not yet heard:** III.2.3 now states only the principle:
-the harmed are paid at once from public funds, and the government that paid
-recovers it. A recovery service and court route are matters for law, within
-II.1.3 and III.2.9.
-
-**Collusion (12 November):** a judgment-proof cousin "accidentally" wrecks a
-car, admits it, and the two split the public payout; II.1.2 lets both stay
-silent. The cousin's half can be taken at once under II.2.6, and the debt never
-lapses, so the scheme pays only on an inflated value or a hidden transfer, as
-insurance fraud does elsewhere. The gap is that an admitted claim is undisputed,
-so no court sees it (III.2.9), though public money pays it. Candidate: the
-government that would pay may dispute a claim, as an insurer may.
-
-**Applied (12 November), hearing:** III.2.3 adds "That government may dispute
-the claim as a party." Hear COL1.
-
-**COL1 (12 November):** split between breach and unclear, but both runs read the
-new sentence as intended: Nearlaw may dispute, and a court decides. What's left
-is evidence: how a court proceeds when both parties stay silent, and whether
-Nearlaw pays before the dispute ends ("owed" suggests not). Whether collusion
-counts as consent, so no breach, went unanswered.
+**Open:** what is protected from seizure, how long recovery remains owed, and
+whether an uncollectable balance is discharged. Never recover more than was
+paid, nor add collection charges without a separate lawful basis. Inability to
+pay must not become compelled work, confinement, or automatic exclusion from
+services (P41). Allocation between governments and currencies links to P34, P35,
+and P81.
 
 **Nearlaw as insurer (16 November):** what Nearlaw pays and cannot recover might
-be 0.5% to 2% of income, as much as it raises in money. Candidate: a restitution
-fund kept apart from Nearlaw's spending, filled by recoveries and by levies in
-hearth on kinds of act that law could otherwise forbid as risky (III.1.1), run
-by its own office, with a stated rule for a year when the fund is short. See
+be 0.5% to 2% of income, as much as it raises. Candidate: a restitution fund
+kept apart from Nearlaw's spending, filled by recoveries and by levies in hearth
+on kinds of act that law could otherwise forbid as risky (III.1.1), run by its
+own office, with a stated rule for a year when the fund is short. See
 essays/2026-11-16-Hearth-and-haven.md.
 
 ## Open choices from drafting
@@ -378,7 +287,7 @@ also a law-maker.
 
 Farlaw contains dangerous powers but is small in daily life, so it gives
 citizens little plurality. One framing is four relationships: to the world
-(farlaw), to the land (nearlaw), to a place (commons, P3), and to one another:
+(farlaw), to the land (nearlaw), to a place (commons, P40), and to one another:
 communities people choose to join, which could make consensual rules, run their
 own services, economy (P27), and currency, and settle members' disputes, with
 exit always open and the universal rights binding them all.
@@ -423,118 +332,78 @@ currency pays them, and who raises it?
 Tests E1 to E4 describe what the two currencies should do under trade shocks and
 money printing. None can pass or fail until there's a simulation to run them in.
 
-**What gives near currency its value? (12 November, from a simulated Reddit
-thread)** Tax demand (chartalism: Knapp, Mitchell-Innes, Lerner) is the usual
-answer, and E4 assumes it, but nearlaw's taxes create little demand: its skim of
-licence rent is netted before payout, so no one need acquire near currency to
-pay it, and II.1.3 rules out legal tender. Making licence rent payable in near
-currency was considered and withdrawn: it makes money a requirement for taking
-resources (the Money belief), ties the currency's value to extraction (a
-petro-currency, against the Extraction belief and P82), and makes it swing with
-commodity prices (against E4). Open: is near currency meant to be strong, which
-needs a tax that bites, or optional, which means accepting that it may stay
-small, like a community currency beside barter? Charges for land nearlaw keeps
-are the steadiest anchor, but vacant land may be scarce. Cancelling pollution
-charges was tried and dropped (P82); pollution is now restitution, not a charge,
-so it no longer anchors near currency.
+**What gives hearth its value.** Tax demand (chartalism: Knapp, Mitchell-Innes,
+Lerner) is the usual answer, and E4 assumes it, but Nearlaw's taxes create
+little demand, and II.1.3 rules out legal tender. Making licence rent payable in
+hearth was withdrawn: it makes money a requirement for taking resources (the
+Money belief), ties the currency to extraction (against the Extraction belief
+and P82), and makes it swing with commodity prices (against E4). **Decided (13
+November):** hearth is meant to be optional but useful, not a strong store of
+value. It is worth as much as Nearlaw is useful, since Nearlaw accepts only
+hearth for its charges (IV.2.3) and pays in it. The currencies are the hearth
+(HTH) and the haven (HVN), named in IV.2.2; codes and symbols are left to law.
+Demurrage, a yearly charge at one rate (IV.5.1.3), speeds circulation and leaks
+money out so Nearlaw can spend more in, but it does not by itself make anyone
+want hearth; value comes only from what must be paid to Nearlaw in hearth
+(licence rent, recovered restitution, service for want of a better anchor) and
+what Nearlaw sells for it. That anchor is thin now the land charge is gone
+(P82). Options: a small Nearlaw; Nearlaw selling services only for hearth; paid
+work offered to anyone at a fixed rate, which pins value (a job guarantee) but
+needs checking against II.1.3. Hearth denominated in labour hours (the Public
+remuneration belief) is open and needs hard thought, including whether it
+belongs in the constitution.
 
-**Decided (13 November):** near currency is meant to be optional but useful, not
-a strong store of value. Its value rests on Nearlaw accepting only near for its
-charges (IV.2.3) and paying in it, so it is worth as much as Nearlaw is useful.
-Demurrage, a yearly charge on all near currency at one rate (IV.2.3.1), funds
-Nearlaw without compulsion, since anyone may hold none; a toy model put
-steady-price spending at a few per cent of output. Still open, and needing hard
-thought, including whether it belongs in the constitution: denominating near
-currency in labour hours (the Public remuneration belief).
+**Simulated (15 November, workflows/moneysim/):** the hearth charge raises most
+at about 2% to 4% a year, roughly haven inflation plus a point or two: about
+0.3% to 0.6% of income, two-thirds of it from savings kept in hearth because it
+costs no more to hold than havens. Transaction balances alone give at most 0.1%.
+Above about 10% sellers abandon hearth for havens in a cascade. Revenue tracks
+haven inflation, tripling if havens lose 10% a year and falling to about 0.2% if
+havens lose nothing. Spending a fixed target beyond about 1% of income inflates
+hearth into abandonment within 15 to 45 years; a fixed hearth wage for voluntary
+work keeps its value stable, so Nearlaw's spending must track its revenue. Other
+streams: a sales tax of 5% to 10% brings 9% to 13% but loses a sixth of its base
+to hiding and drives trade to havens at 20% to 25%; a poll tax of 180 hours
+raises about 9% but takes 15% of income from the second and third deciles. Taxes
+owed in hearth fix its value, not its share of trade. Duties on title (per
+quota, or hours, as V.8) move people onto free starter plots (P87). The author
+wants fair streams reaching about 10% of income and treats the hearth charge as
+a useful extra against hoarding. Not simulated: building sums issued and repaid
+in hearth; hearth pinned at an hour with productivity growing; E1 to E4 under
+both.
 
-**Names and value (14 November):** the currencies are now the hearth (HTH) and
-the haven (HVN), named in IV.2.2; codes and symbols are left to law. The author
-doubts demurrage makes anyone want hearth, rightly: it speeds circulation and
-leaks money out so nearlaw can spend more in, but value comes only from what
-must be paid to nearlaw in hearth (the land charge, licence rent, recovered
-restitution) and what nearlaw sells for them. With the land charge small (P82),
-that anchor is thin. Options: a small nearlaw; a land charge that raises more;
-nearlaw selling services only for hearth; and offering paid work to anyone at a
-fixed rate, which pins value (a job guarantee) but needs checking against
-II.1.3.
+**Notes.** Accounts can shrink a little daily with no effort; notes need stamps
+(Wörgl monthly at 1%, the Chiemgauer quarterly), easier to forge than notes and
+invisible to the blind, or dated series exchanged at a discount, which the
+author prefers: each note marked, by touch and colour, with the quarter its
+series expires. "One rate on every holding" rules out exempting coins, which
+can't be stamped. A ledger of everyone's balances must stay private under
+II.2.7. **Drafted (19 November):** IV.5.1.3 charges "every holding of hearth in
+notes or otherwise", and a note "for each year since its issue at its first
+exchange after one has passed". Demurrage recurs for as long as money is held,
+but a dated note charges only its holder at the exchange, so spending it first
+avoids the charge. The author distrusts digital money and thinks hearth might be
+backed by physical notes, but sees the effort of retiring piles of notes in
+banks and does not know how a lawful government would solve the clerical burden:
+**left open on purpose**. Options unchosen: hearth only as notes, any account a
+claim to be paid in notes; or accounts that shrink daily, which needs a ledger.
 
-**Practicalities (14 November):** accounts can shrink a little daily, with no
-effort; notes need stamps (Wörgl monthly at 1%, the Chiemgauer quarterly) or
-dated series exchanged at a discount, either of which makes holders spend notes
-before the date, and stamps are easier to forge than notes and invisible to the
-blind. "One rate on every holding" rules out exempting coins, which can't be
-stamped, so hearth may need no coins at all. A ledger of everyone's balances
-must stay private under II.2.7.
-
-**Simulated (15 November):** a money simulator (workflows/moneysim/) finds the
-hearth charge raises most at about 2% to 4% a year, roughly haven inflation plus
-a point or two: about 0.3% to 0.6% of income, two-thirds of it from savings kept
-in hearth because it costs no more to hold than havens. Transaction balances
-alone give at most about 0.1%. Above about 10% sellers abandon hearth for havens
-in a cascade. The land charge, paid yearly, adds almost no demand to hold
-hearth. Revenue tracks haven inflation, tripling if havens lose 10% a year and
-falling to about 0.2% if havens lose nothing or pay interest. Spending a fixed
-target beyond about 1% of income inflates hearth into abandonment within 15 to
-45 years; a fixed hearth wage for voluntary work keeps its value stable. With
-the land charge, Nearlaw can count on about 0.9% to 1.1% of income.
-
-**Aim and notes (15 November):** the author wants fair streams reaching about
-10% of income, and treats the hearth charge as a useful extra against hoarding
-and speculation. For notes they prefer dated series over stamps: each note
-marked, by touch and colour, with the quarter its series expires, after which it
-is exchanged at a discount. A note whose value is lost only at expiry charges
-its last holder rather than every holding at one rate, which IV.2.3.1 may need
-to allow.
-
-**Other streams simulated (15 November):** taxes owed in hearth fix its value,
-not its share of trade. Land charge, hearth charge at 3%, and a pollution charge
-give about 4%; a sales tax of 5% to 10% above a low threshold brings 9% to 13%,
-losing a sixth of its base to bunching and hiding at 10%, and trade flees to
-havens around 20% to 25% if havens are easier to hide in. A poll tax of 180
-hours raises about 9% but takes 15% of income from the second and third deciles
-and goes unpaid by an eighth. Nearlaw's spending must track its revenue, as a
-fixed hearth wage does, or hearth inflates or deflates without limit. Not yet
-simulated: a yearly charge per quota staked, enforced only by title ending.
-
-**Title duties simulated (15 November):** a charge per quota staked, or a flat
-duty of service hours on every adult with title (starter plots exempt, enforced
-only by title ending), both work up to a point and then mostly move people onto
-free starter plots. Stake measures no one's use of the state; per head fits the
-author's reciprocity argument, with title only the hook. At location preference
-2, a duty of 40 hours a year raises about 2.2% of income with 15% on starter
-plots, and 90 hours about 3.4% with a third; pioneers and slow-lifers leave
-first, the opposite of what the author wants, while good land sits empty. The
-starter plot, as the free way out that keeps II.1.3, caps any duty hooked to
-title.
-
-**Dated notes drafted (15 November):** IV.2.3.1 now takes the charge "from notes
-when they are exchanged, as each must be a year after issue", at the same one
-rate as every other holding. T97 (a note exchanged a week after it was received
-bears a whole year) agreed offline; T98 (2% on banks, 5% on notes) split offline
-and was a breach in both Sonnet runs, though both asked how a bank balance is
-charged if the charge is "taken from notes".
+**Heard.** T97 (a note exchanged a week after it was received bears a whole
+year) agreed offline on the earlier wording. T98 (2% on banks, 5% on notes)
+split offline, and was a breach in both Sonnet runs, which disagreed only on
+whether a bank balance is held by the depositor or the bank (P23); a later
+offline run said no breach, reading the differing rates as a method of
+collection. Both to be heard again on the 19 November wording; judge T98 on
+Sonnet.
 
 **Essay (16 November):** essays/2026-11-16-Hearth-and-haven.md argues that with
 no legal tender, good money drives out bad, so hearth lives only by what people
 choose to owe in it; that building sums paid by Nearlaw in new hearth and repaid
-as a charge (Q8) would be the largest such debt, and widen the base of the
-hearth charge; that a hearth should be an hour (Q13); and that neither
-government should hold, lend, or guarantee the other's currency, which the text
-does not say. To simulate: building sums issued and repaid in hearth; hearth
-pinned at an hour with productivity growing; E1 to E4 under both.
-
-**Author (16 November):** physical currency on demand should be constitutional
-(Q12); hourly credit is a held belief (Q13).
-
-**Heard (17 November):** T98 (cash charged more than savings) split offline, but
-two Sonnet runs both found a breach; they disagreed only on whether a bank
-balance is held by the depositor or the bank (P23). Drafted: IV.2.3.1 now says
-"in any form". Unheard.
-
-**Re-heard (18 November, offline, after "in any form"):** T98 agreed, but on no
-breach, against Must hold; both Sonnet runs said breach. The offline model reads
-a 5% discount on notes and 2% on deposits as a method of collection. Hear on
-Sonnet before judging the wording.
+as a charge (Q8) would be the largest such debt and widen the base of the hearth
+charge; that a hearth should be an hour (Q13); and that neither government
+should hold, lend, or guarantee the other's currency, which the text does not
+say. The author wants physical currency on demand constitutional (Q12); hourly
+credit is a held belief (Q13).
 
 ## From the project's starting points
 
@@ -713,6 +582,43 @@ being sentient, holds no limited right. Individuals are protected through
 records about them; whether an organisation can hold, occupy or be harmed
 remains open.
 
+**Public things (merged from P3, 19 November):** graffiti on a public underpass
+used by hundreds daily split: Haiku found no breach, since no one occupies or
+holds the walls, and Luna could not say. Governments take land and keep it for
+public use (V.3.1), but II.2.5 protects land held by a patient, and a government
+is not one, so damage to it breaches nothing. A residents' shared lift smashed
+by a visitor was mostly a breach of II.2.6, so identifiable users seem to hold a
+shared thing in common; the open case is a shared thing whose users cannot be
+named. Candidate, not applied: "Things kept for shared use are held in common by
+their users. Keeping a thing for others gives no exclusive claim to it", with
+II.2.5 extended to places kept for shared use. Open: who counts as a user, how
+users consent together, how use may change without enclosure, and what a worker
+caring for a shared thing, or an investor financing it, may claim. Propose
+cases: a lift used by a residents' cooperative, damaged by an outsider and not;
+whether members may exclude an existing user or enclose an open commons.
+
+**Direction (19 November):** commons held by the people who use them, in local
+bodies whose by-laws are public, so anyone entering a district or pool can know
+beforehand what is allowed (Ostrom; P31). III.1.1 stops law forbidding what
+breaches no right, so a by-law cannot be a prohibition; it can be the terms on
+which the holder consents to use (I.2.5), and enforcement is the holder
+withdrawing consent, then II.2.5, restitution (III.2.1), and a court ordering
+someone moved off land they have no title to (II.2.3). A Steward or district
+council would be whoever a pool or body chooses, tiny or large. The gap is that
+a government-held place has no patient holder. Pool mechanics won't do, since
+pooling stakes quota. **Drafted (19 November), unheard:** V.3.5 lets a
+government entrust land it keeps to others as its stewards, "as law provides";
+for II.2 they are treated as having title to it, which stays the government's.
+Title is not lent (V.2.2), no quota is staked, and stewards owe no service
+(V.8), since they are not title holders otherwise. They are patients, so they
+can withhold consent, ask someone to leave (II.2.3), and have restitution
+claimed for harm. Institutions below the government (districts, communes), how
+stewards are found and leave, and any duty to keep land open are left to law;
+"kept for public use" is meant to follow from what the entrusting is for, and
+the roam (II.2.5) still stops anyone barring harmless crossing. Risks to hear:
+stewards fencing or selling access to a park; a government entrusting land to
+friends; a government that wants it back. Cases DV1 to DV4.
+
 ### P41. Exclusion as a sanction
 
 An early idea, from the excludable and non-excludable distinction: the state's
@@ -723,7 +629,7 @@ to P11 and P16.
 ### P42. Cars and unreasonable risk
 
 Whether ordinary driving puts pedestrians at unreasonable risk under II.2.2, who
-decides, and whether streets as commons (P3) change the answer. The founding
+decides, and whether streets as commons (P40) change the answer. The founding
 preference for walking, cycling and transit has no foothold yet beyond these.
 
 **Hearings (5 November):** confirmed. Driving at the legal limit along a narrow
@@ -776,7 +682,7 @@ into public offices, which turns them into a popularity contest.
 **Children drafted (16 November, Q11):** the author prefers that whoever gave
 birth has sole say, since birth is easily witnessed and needs no register, and
 may extend it to others. Drafted as I.2.6, with IV.4.3 yielding to it (moved on
-17 November to its own article, IV.5, since it is a rule and not a term): the
+17 November to its own article, IV.6, since it is a rule and not a term): the
 bearer acts in each matter until the child can act for themselves in it; shares
 or passes it on by direction under Instrument 2; a share a year old ends only by
 a court; a court settles disagreements and may end anyone's part, for the
@@ -1237,10 +1143,10 @@ paid for what is fixed (V.6; LS6 agreed), and gridlock eases, since a pool
 decides by a majority of what was pooled.
 
 **Vacant land (11 November), unheard:** nearlaw now keeps all vacant land until
-taken (V.3 and V.4), so it may charge for or limit its use (IV.2.3.1),
+taken (V.3 and V.4), so it may charge for or limit its use (IV.5.1.2),
 enforceable by taking things (II.2.6), and taking wild things for use off any
 land needs its licence (V.7). Still open: whether that prevents overuse, and
-whether users rather than nearlaw should set the rules (P3, P31).
+whether users rather than nearlaw should set the rules (P31, P40).
 
 **Proposed case:** outsiders netting a lake a village fishes until the fish are
 gone.
@@ -1356,56 +1262,24 @@ at will. An occupant-takes-first rule was offered and declined.
 
 ### P77. The sea
 
-Inland water is land (I.2.3), but the sea is not, so no one has title to it,
-taking fish from it needs no licence (V.7), and nothing settles who may use it
-for moorings, piers, fish farms, wind farms, or the seabed. Whether Wroxia's
-waters are near or far (IV.2.1), whether Part V should reach them, and where
-Wroxia's border runs at sea are open.
+Inland water is land (I.2.3), but the sea is not, so no one has title to it and
+taking fish from it needs no licence (V.7). Still open: where Wroxia's border
+runs at sea.
 
-**Decided (12 November):** farlaw governs the use of Wroxia's sea and the air
-above it (IV.2.1.1), as Wroxia's relationship to the world: placing platforms,
-moorings, and turbines, and flight. People's dealings aboard ships, seasteads,
-and stations stay nearlaw's wherever they are, much as a ship carries its flag
-state's law (hear SEA1, SEA2, and SHIP1). Space follows the same pattern:
-registration, orbits, and treaties are farlaw's, and a settlement beyond Earth
-would gain its own nearlaw (P26). Still open: where the border runs at sea.
-
-**12 November, revised:** SHIP1 (a fight in a ferry's galley) went to farlaw and
-SEA1 (a turbine on the seabed) to nearlaw, as land, in both runs: "the use of"
-did not separate places from people. Following the Roman split of _dominium_
-(using things) from _imperium_ (governing people), and the flag-state principle,
-IV.2.1.1 now gives farlaw "the sea within Wroxia's border, its bed, and the air
-above them, except what people do to one another there", and I.2.3 says land
-ends where the sea begins. Hear SEA1, SEA2, and SHIP1 again.
-
-**12 November, again:** with the exception, SHIP1 still went to farlaw in both
-runs and SEA2 split, since models read "the sea" as a place and skipped the
-exception. IV.2.1.1 now names uses instead: "what is placed in or taken from
-Wroxia's sea and its bed, and flight above them". Hear SEA1, SEA2, and SHIP1
-again.
-
-**Flight (12 November):** flight over land is nearlaw's and over the sea
-farlaw's, so a coastal approach changes government at the beach. The reason to
-keep low flight nearlaw's, pollution charges, is gone (P82). Federations
-generally give all of aviation to the centre (Canada's _Johannesson_, 1952; US
-federal preemption, _Burbank v. Lockheed_, 1973), leaving land use and trespass
-local; English law gives a landowner the air only as high as ordinary use needs
-(_Bernstein v. Skyviews_, 1978). Candidate: farlaw governs all flight, with harm
-done from the air still answered for under III.2.
-
-**Applied (12 November), hearing:** IV.2.1.1 now gives farlaw "flight" outright.
-Hear FLY1 (nearlaw's approach rule has no force) and FLY2 (a drone filming a
-bedroom, which should still breach II.2.7, and stay nearlaw's as a matter of
-privacy).
-
-**FLY1 again (12 November):** with "Farlaw governs all flight" leading IV.2.1.1,
-both runs still gave the approach rule to nearlaw, quoting IV.2.1 as covering
-only the sea and the border. As with P29, the 35B model seems to skip the
-clause, not misread it. T27 and FLY2 agreed. A Sonnet check would settle it.
-
-**Sonnet (13 November):** two Sonnet runs of FLY1 both gave the approach rule to
-farlaw, with no force for nearlaw's law, so the wording holds and the 35B model
-was skipping it. Flight is settled; the border at sea remains open.
+**Decided (12 and 13 November):** farlaw governs "what is placed in or taken
+from Wroxia's sea and its bed" and "all flight" (IV.2.1.1), as Wroxia's
+relationship to the world: platforms, moorings, turbines, and aircraft. People's
+dealings aboard ships, seasteads, and stations stay nearlaw's wherever they are,
+as a ship carries its flag state's law, and as Rome split _dominium_ (using
+things) from _imperium_ (governing people). Naming uses fixed what "the use of"
+and "the sea" did not, which models read as places (SHIP1 went to farlaw, SEA1
+to nearlaw). Federations give aviation to the centre (_Johannesson_, 1952;
+_Burbank v. Lockheed_, 1973), and English law gives a landowner only the air
+ordinary use needs (_Bernstein v. Skyviews_, 1978). Two Sonnet runs of FLY1 gave
+the approach rule to farlaw; the 35B model skipped the clause. T27 and FLY2
+agreed. Space follows the same pattern: registration, orbits, and treaties are
+farlaw's, and a settlement beyond Earth would gain its own nearlaw (P26). Hear
+SEA1, SEA2, and SHIP1 once more on the final wording.
 
 ### P78. Freed livestock
 
@@ -1442,199 +1316,49 @@ III.1.5 now forbids; and by what vote.
 ### P81. Claims across the two governments
 
 Each government's forces enforce only its own law (IV.2.4), and II.2.6 lets
-things be taken only for restitution or for nearlaw's charges under IV.2.3.1.
+things be taken only for restitution or for nearlaw's charges under IV.5.1.
 Nothing says how restitution owed under farlaw reaches things held in nearlaw's
 domain, or how a farlaw charge is collected at all. Related: P12, P32, P35.
 
 ### P82. A government paid by harm
 
-Nearlaw may raise only a skim of licence rent, pollution charges, and charges
-for using land it keeps (IV.2.3.1). Its income therefore grows with extraction
-and pollution, and a clean, unextractive Wroxia starves it, while it must still
-keep enough plots for anyone landless (II.7.1, V.1 and V.3). Decide whether that
-incentive is acceptable, or whether nearlaw needs a source of income that does
-not scale with harm.
+Nearlaw may raise only a skim of licence rent, charges for using land it keeps,
+and a charge on hearth (IV.5.1). The skim grows with extraction, and a clean
+Wroxia would starve it, while Nearlaw must still keep enough plots for anyone
+landless (II.7.1, V.1 and V.3). Decide whether that incentive is acceptable, or
+whether Nearlaw needs income that does not scale with harm. The skim waits on
+P86, and the rest on P35.
 
-**12 November:** pollution of Wroxia's sea and the air above it is now farlaw's
-(IV.2.1.1), so its charges go to farlaw; smoke over land stays nearlaw's.
+**Decided (12 November):** pollution charges are gone from IV.5.1. Cancelling
+them was dropped after two second opinions: it rewards holders of near currency
+in proportion to their holdings and leaves no one made whole, and diffuse
+pollution is harm to many patients who cannot be identified. III.2.1 pays
+restitution owed to a patient who has died, or who cannot be identified, to
+those who depended on them, or else to others like them; the Advocates claim it
+(III.2.8), and Nearlaw pays out and recovers (III.2.3). Pollution of the sea and
+air above it is farlaw's (IV.2.1.1). Pollution too slight to breach II.2.2 goes
+unpriced, though law may forbid polluting kinds of act (III.1.1).
 
-**Idea (12 November):** nearlaw cancels pollution charges rather than spending
-them, as modern monetary theory says taxes effectively are, and as Ethereum
-burns its base fees (EIP-1559, 2021). Nearlaw then gains nothing from pollution.
-Costs: burning benefits holders in proportion to what they hold, where a
-dividend would be equal; restitution to identifiable victims must still go to
-them under III.2.1, so only the diffuse remainder is burned; and nearlaw funds
-itself more by issuing currency, checked by inflation (E2).
+**Applied (13 November):** charges for land Nearlaw keeps pay out whatever they
+raise beyond its cost, equally to everyone with a quota, so tolls can price
+congestion without rewarding Nearlaw for traffic or for keeping land vacant.
+Other candidates: user charges for what it provides (but see P41); a charge on
+transactions in near currency only, leaving barter and far currency untaxed; a
+larger licence rent. A land value tax would make money a requirement for keeping
+land, against the Money belief.
 
-**Decided (12 November):** after two independent second opinions, the burn was
-dropped. Both found that cancelling still gives nearlaw room to issue more
-without inflation, rewards holders of near currency in proportion to their
-holdings, and leaves no one made whole; and diffuse pollution is not harm to no
-one, but harm to many patients who cannot be identified. Pollution charges are
-gone from IV.2.3.1. III.2.1 now says restitution owed to a patient who has died,
-or who cannot be identified, is used for those who depended on them, or else for
-others like them; the Advocates bring such claims (III.2.8), and nearlaw pays
-out and recovers (III.2.3), netting nothing. Pollution too slight to breach
-II.2.2 goes unpriced, though law may forbid polluting kinds of act (III.1.1).
-Still open: the licence-rent skim scales with extraction below its cap, and land
-charges reward nearlaw for keeping land vacant. Hear BURN1.
-
-**More income (13 November):** the author wants taxes that wouldn't make
-libertarians squeamish. Candidates: user charges for what nearlaw provides
-(roads, schools), excludable, but see P41; land charges extended to all land
-nearlaw keeps; a charge on transactions made in near currency only, so that
-barter and far currency stay untaxed (Barter belief) and paying is a consequence
-of choosing the currency; and larger licence rent, if extraction allows. A land
-value tax, the economists' least distorting tax and the geolibertarians'
-favourite, would make money a requirement for keeping land, against the Money
-belief. Needs a design round.
-
-**Applied (13 November):** charges for land nearlaw keeps now pay out whatever
-they raise beyond its cost, equally to everyone with a quota, as
-fee-and-dividend, so tolls can price congestion without rewarding nearlaw for
-traffic or for keeping land vacant. That leaves nearlaw needing a substantive
-source of income that doesn't grow with harm.
-
-**A charge on stakes (14 November):** the author proposes a yearly charge at one
-rate on whatever part of each person's stake exceeds a threshold, with no
-dividend. Since V.3.3 multiplies the stake by the quotas registered, the draw
-itself prices land when it is taken, with no valuers: contested plots reach a
-whole quota, and uncontested ones cost only their area. A stake never changes,
-so nobody pays more when a town grows around them. Points to settle: starter
-plots (V.3.5) must fall below the threshold, or money becomes a requirement for
-land to live on (Money belief), yet contested town plots reach a whole quota;
-the stake saturates at one quota, so it can't tell a busy plot from a very busy
-one; directions carry an old stake on (V.4.3), so a family could keep central
-land at a pioneer's charge for generations; locking the stake doesn't lock the
-rate, which law could still raise; and low fixed charges discourage moving, as
-California's Proposition 13 (1978) did. Title can't be sold and V.6.2 values
-buildings as if no one else wanted the land, so no one can cash in a low stake.
-
-**Two design agents (14 November)**, one taking an economist's view and one
-residents' fairness, each independently proposed charging not the stake but the
-demand the draw reveals, with no threshold, so land no one else wanted pays
-nothing, starter plots included, and nobody gains by holding less. Economist: a
-new term, **contest**, the area in shares times the quotas registered by those
-who did not take it, uncapped; each holder's charge fixed at the rate when they
-gained their part; on pooling or direction, reset to the district's contest per
-share over the past year; quotas registered for one piece at a time. Residents:
-the difference between stake and area at taking, either way round; reset by
-counting fresh registrations within a month of a direction; unpaid charges wait,
-with interest, for the V.6.1 sum when title ends, and II.2.6 no longer lets
-things be taken for them. A stake-based base inherits the V.3.3 cap, which can't
-tell ten registrants from a thousand; a fresh count after a direction costs
-registrants nothing, since the heir almost always takes it. The economist also
-found P85.
-
-**Decided (14 November):** a yearly charge on **contest** (above), replacing the
-stake-threshold idea; each holder's rate fixed when they gain their part; reset
-to a going rate whenever title is gained by direction (death included) or by
-joining a pool; unpaid charges end title once more than five years' charges are
-unpaid, counted in money; II.2.6 left as it is, law enforcing only by ending
-title. District changes bind only registrations and titles gained after them
-(V.1.4). Instead of one registration at a time, each quota counts, for chances,
-stake, and contest, as a fraction of all the registrations it is in at once.
-Still open:
-
-- **The going rate on a reset.** Nearby draws overcharge a bad plot among good
-  ones, and holders could release poor scraps to lower it; juries risk snobbery;
-  fresh counts undercount, since registering rarely wins. Leaning: the
-  district's contest per share over the past year, which one holder can't shift,
-  with districts kept stable. Candidate escape for a bad plot: the new holder
-  may put it to an ordinary draw instead, registering with their quota; if no
-  one else wants it, they take it with no contest.
-- **What happens to arrears when title ends:** recovered from any V.6.1 sum,
-  then written off, or carried to the person's next title gained by draw or
-  direction (never a starter plot), so taking contested land, paying nothing for
-  five years, and moving on doesn't pay. **Decided (14 November):** carrying the
-  debt clashed with the five-year rule on land with no charge, so instead, until
-  the rest is paid, the debtor may gain no title that carries a charge;
-  uncontested land and starter plots stay open. Hear LC6. A debtor's
-  registrations still count towards others' contest, though they can't take
-  contested land.
-- **The licence-rent skim:** waits on P86.
-
-**Drafted (14 November):** V.1.4 (district changes), V.1.5 (contest), V.3.2
-(fractional registrations), V.8 (land charge), and IV.2.3.1 citing it. A reset
-charges the lower of the district's going charge and halfway between it and the
-charge before, so a rise comes by halves and a fall at once; whoever is directed
-may instead have the land drawn as vacant; arrears beyond any V.6.1 sum carry to
-the next land gained, except a starter plot. At founding (V.5.3) no land has yet
-been drawn, so occupiers who take first pay nothing; the author accepts this, as
-it rewards pioneering, and their heirs ratchet towards the going charge. V.3.4
-(priority districts) was then dropped, since fractions and the charge do its
-work, and its contests counted registrants who could not win; registrations may
-change once each calendar month, so a quota can't hop between draws at full
-weight. A starter plot, once taken, is ordinary land that began with no charge.
-Hear LC1 to LC9 with T67, T69, and T92.
-
-**Heard (14 November):** offline, LC5 (a 99% payer keeps title), LC7 (fractional
-chances), LC9 (a pool join leaves the existing charge alone), T67, T69, T92,
-REG1 (monthly changes), REG2 (no local priority), and T94 agreed as intended;
-LC8 (no charge on a starter plot) agreed only after V.3.4 said "with no
-contest", and V.1.5 gained "nothing if no one else registered". LC1 to LC4 kept
-splitting offline, so with the author's leave two Sonnet runs each heard them:
-all eight worked the sums as intended (a pioneer and a bog heir who had the land
-drawn owe nothing; a rise is halved, 75 of 150; a fall is immediate, 100 not
-275), splitting only on whether a bill alone, before anything is taken, breaches
-a right. LC6 recast for the new arrears rule; hear it.
-
-**Simulated (14 November):** workflows/landsim found the charge raises little:
-about 0.1% to 0.3% of income with towns, and nothing with uniform desirability
-when registrant counts are shown, since people find uncontested land nearly as
-good; even at high density it stayed under 1%, often below the cost of starter
-plots, and higher rates only drive people off contested land. Its people pay at
-most 6% to 12% of income for the best location, likely too little, so levels are
-uncertain, but the shape holds: the charge is levied only when land is taken,
-and frozen. So it works as fairness and against entrenchment, not as nearlaw's
-main income; demurrage may have to be that (P35). The model also found two gaps,
-since fixed: contest is now counted in shares when land is taken, so a frozen
-charge can't creep up as shares shrink; and arrears left on any title's end, not
-only after five years, bar charged land (LC10). Still unstated: how vacant land
-is cut into pieces, when draws happen, and how a charge divides on notice for
-part.
-
-**Swept (14 November):** with people valuing location two to four times more
-(likely nearer reality), the charge raised about 0.3% to 0.9% of income, and
-1.5% at eight times; 70% to 85% still paid nothing. Revenue peaked at a rate of
-about 300 to 600 hours a share of contest, falling either side. By density it
-peaked at about 2.7% when a fifth of land was still vacant, then fell once land
-was full, since almost nothing is drawn and districts with no draws gave heirs a
-going charge of nothing. V.8.2 now falls back to the last year in which any land
-was drawn. Nearlaw's basic costs might need 1% to 2.5% of output, so the charge
-alone rarely suffices. LC6 now agrees (the bar is lawful); LC10 split, one run
-missing the new wording that any title's end leaves arrears barring.
-
-**Death line (15 November):** a sale to a chosen buyer is a direction, which got
-the halfway ratchet and so cost less than the draw an open sale goes through.
-Charging the full going charge only where a building sum is paid would invite
-sums paid on the side, so V.8.2 now charges the full going charge on every
-direction and pool join, keeping the halfway step only for directions taken
-after their giver's death, which can't be faked (T96). Being simulated, with
-option 1: every taker pays the going charge rather than their own plot's
-contest, so a quiet plot in a busy district costs the district rate, which is
-public before anyone registers. Building sums stay on directions, for dividing
-estates and pensions; the author keeps dealings with strangers risky on purpose.
-
-**Simulated (15 November):** option 1 raised half as much again or more (0.44%
-to 0.70% of income at locScale 2, 0.97% to 1.40% at 4) and moved the peak rate
-to 1,200 to 2,400, but a district's yearly contest per share proved as volatile
-as its mean, which a frozen lifetime charge would lock in, so it was dropped.
-The death line barely moves revenue; directions in life are rare. Without any
-re-rating, directions lose 10% to 25% of revenue but zero charges pass down
-families for good (heirs paying nothing on wanted land rose from about a tenth
-to nearly a third), so the going charge stays for directions, now averaged over
-five years. The simulator still uses one year.
-
-**Excised (16 November, Q9):** the land charge (V.8), contest (V.1.5), and their
-mentions in IV.2.3.1 and V.3.4 are removed; service is now V.8. The charge
-raised little, the author disliked both a price fixed for ever and the going
-rate (unrepresentative local churn, and neighbours hostile to newcomers), and
-letting limits itself (P73). The text of commit daeca7d has it. T95 deleted;
-T67, T92, T94, and T96 no longer mention it. What it guarded and nothing now
-does: a wanted plot passing down a family for one quota a generation (P39). The
-author's idea of a holder sending their own land to draw again works only if
-they get no priority in that draw.
+**Land charge excised (16 November, Q9):** a yearly charge on _contest_ (the
+demand a draw reveals) was designed, heard, and simulated on 14 to 16 November.
+It raised 0.1% to 1.4% of income (about 2.7% at best, with a fifth of land still
+vacant), and 70% to 85% of holders paid nothing, against Nearlaw's basic costs
+of perhaps 1% to 2.5%. The author disliked both a price fixed for ever and the
+going rate (unrepresentative local churn, and neighbours hostile to newcomers),
+and letting limits itself (P73). V.8, V.1.5, and their mentions were removed;
+commit daeca7d has the text. Kept from it: a charge levied only when land is
+taken works as fairness, not income. What it guarded and nothing now does: a
+wanted plot passing down a family for one quota a generation (P39). The author's
+idea of a holder sending their own land to draw again works only if they get no
+priority in that draw.
 
 ### P84. Discipline in a volunteer force
 
@@ -1668,87 +1392,41 @@ Both runs then muddled whether Farlaw or Jem answers.
 
 V.7.1 requires a licence to take anything that does not renew from land for use
 off it, and pays licence rent equally to everyone with a quota, while nearlaw
-keeps a fixed sum from each person's share (IV.2.3.1). Unlicensed extraction
+keeps a fixed sum from each person's share (IV.5.1.1). Unlicensed extraction
 undercuts licensed extraction, as untaxed sellers always undercut taxed ones.
 Decide how extraction is controlled as a whole: who sets limits, how the rent is
 set, and how unlicensed extraction is found and answered. Nearlaw's skim can go
 once that is settled (P82).
 
-### P87. Service (V.8, formerly V.9)
+### P87. Service (V.8)
 
 Drafted 15 November from the author's reciprocity argument: everyone relies on
 the state, so everyone with title gives up to forty hours a year in person, with
 title as the only penalty (P35). Starter plots carry no duty, which keeps
-II.1.3, whose absolute right no amendment can remove (I.1.5).
+II.1.3, whose absolute right no amendment can remove.
 
-**Heard (15 November, offline):** a holder losing title after six unserved
-years, and Nearlaw refusing money or a substitute, agreed lawful; a fine on
-someone on a starter plot, and sixty hours, agreed breaches. Neither SV1 run
-weighed II.1.3, so whether a duty attached to title is compelled work deserves a
-stronger check. SV5 split on law excusing its own legislators, and V.9.1's "only
-those unable to serve" also bars a plain age limit, which law may want.
+**Heard:** losing title after six unserved years, and Nearlaw refusing money or
+a substitute, agreed lawful; a fine on someone on a starter plot, and sixty
+hours, agreed breaches. Two Sonnet runs of SV1 weighed II.1.3 and found no
+breach: title was the only consequence, and a free starter plot left a
+reasonable choice. SV5 agreed once law could excuse "only by age or inability to
+serve". T94 agreed after "however later taken"; the runs still ask whether Mali
+is a pool member (V.4.2).
 
-**Revised (15 November):** law may now excuse "only by age or inability to
-serve", and only hours Nearlaw arranged count as unserved. Two Sonnet runs of
-SV1 weighed II.1.3 and found no breach: losing title was the only consequence,
-and a starter plot free of service left a reasonable choice, so no duress. SV5
-then agreed: the legislators' excuse is void, while Ffion (by age) and Gethin
-(unable) stay excused.
+**Simulated (15 November):** with starter plots of a tenth to a fifth of a
+share, forty hours drives 1% to 3% of adults off their land, nearly all
+deliberate defaulters, and raises about 2.5% of income; ninety hours raises
+about 4.9% with 3% retreating. With half-share plots, slow-lifers retreat (13%
+to 31%). The burden is fixed hours, so 5.1% of income for the poorest tenth and
+1.4% for the richest, and every shape is regressive. Hours by stake raise only
+1.3% to 1.5% and move the duty to pioneers and families. A share depends on
+density (about 4,500 m² at the UK's, 50 m² at Monaco's), so V.3.4 ends "no
+larger than a fifth of a share unless a home needs more" (SP1, SP2, SP4, and T93
+agreed). Untested: whether people shrink holdings to dodge hours by stake.
 
-**Starter-plot size (15 November):** cutting starter plots from about half a
-share to a tenth trims retreat (at 40 hours, from 15% of adults to 10%) and
-keeps slow-lifers on their land, without hardship; the poorest stay and serve.
-But the simulator values land only by location, so space for its own sake is
-worth nothing in it, and its pioneers retreat at any size because their land is
-worth less to them than forty hours. Its vacancy of about half is structural:
-plots average well under a share.
-
-**Space valued (15 November):** once the simulator gives room to live a value of
-its own, forty hours drives almost no one off their land: with starter plots of
-a tenth of a share, 1% to 3% of adults retreat, nearly all of them deliberate
-defaulters, and revenue is about 2.5% of income at location preference 2 (2.9%
-at 4); ninety hours raises about 4.9% with 3% retreating. With starter plots of
-half a share, slow-lifers retreat (13% to 31% at forty hours), since that plot
-already meets their wish. The burden is fixed hours, so 5.1% of income for the
-poorest tenth and 1.4% for the richest. Half the assumed value of space already
-stops the retreat. Small starter plots and a duty of forty hours fit together.
-
-**Starter size and duty shape (15 November):** starter plots of a fifth of a
-share behave almost like a tenth: 2% of adults on them at forty hours, 4% at
-ninety. A share depends wholly on density (about 4,500 m² at the UK's, 50 m² at
-Monaco's), so a ceiling in shares may need a floor of "enough to live on". The
-flat duty is a cliff in principle (none on a starter plot, forty on any other
-title), so hours by stake were tried, starter plots exempt: forty per whole
-quota raises only 1.3% to 1.5%, since holdings average about half a quota; it
-takes 75 to 110 hours per whole quota to match flat forty. Neither shape drives
-off more than 6% of any type, but stake-based hours shift the duty from
-slow-lifers (about 25 hours) to pioneers and families (55 to 70), and every
-shape is equally regressive by income. The simulator can't test whether people
-shrink holdings to dodge hours by stake, since it doesn't let them choose stake.
-
-**Starter limits drafted (15 November):** V.3.4 now ends "Each is enough for a
-home, and no larger than a fifth of a share unless a home needs more." "Enough
-to live on" was read as enough to farm, and "whichever is more" was misread.
-With the facts stated, SP1 (10 m² bare ground: breach), SP2 (3 ha where a home
-needs under 1: breach), and SP4 (30 m² flats where a share is 50: lawful) agreed
-offline; T93 agreed in both Sonnet runs. Citizenship is already left to law
-(IV.1.1), so law can slow naturalisation where space runs short.
-
-**Renumbered (16 November):** service is now V.8. The author would accept a cap
-above forty, given protection for the disabled, exemption for children, and
-freedom to serve the hours across a year or several (V.8.2 already lets five
-years' hours stand unserved), and wants travel and training counted as served.
-See P89 for what hours cannot do.
-
-**Heard (17 November):** T94 (a starter plot passed on) split offline, but two
-Sonnet runs both found no breach. Both asked whether Mali is an adult and
-whether the plot keeps its V.8.1 exemption once taken by direction. Drafted:
-V.8.1 now says "however later taken", and T94 says Mali is 30 and owes no
-service. Unheard.
-
-**Re-heard (18 November, offline, after "however later taken"):** T94 agreed on
-no breach, as Must hold says. The runs still ask whether Mali is a pool member
-(V.4.2).
+**Author (16 November):** would accept a cap above forty, given protection for
+the disabled, exemption for children, freedom to serve the hours across a year
+or several, and travel and training counted as served. See P89.
 
 ## Added 16 November
 
@@ -1817,24 +1495,6 @@ plan, and a friend who only listened to the plan. Hear them with HOLLE1
 
 ## Closed
 
-Numbers are never reused; Git remembers most closed Problems.
-
-- **Third hearings:** P1, P2, P4, P6, P7, and P9 confirmed and removed.
-- **5 November:** P8, P20, P43, and P53 confirmed at the hearings.
-- **9 November:** P5 folded into P56; P14, P15, and P52 closed.
-- **10 November:** P24, P25, and P58 closed with Living Space, now Part V.
-- **11 November:** P70 closed. P74 and P75 drafted away, to be heard with T67 to
-  T81. P76 decided: lettings are at will on both sides, with no contract law
-  (P51), and end with title; tenancy is expected to be rare.
-- **12 November:** P44 (adversarial testing), P45 (a length budget), and P69
-  (Residents) retired as settled process: Adversaries and Residents are standing
-  workflows, and Beliefs sets the word limit. P16, P21, P63, and P79 closed
-  after offline Hearings (one model, two runs each): T2, H21, H63, and H79
-  agreed as intended. P28, P33, and P72 closed the same day: D1 and D2 (farlaw's
-  forces at home and abroad) and V1 and V2 (a visitor and a foreign firm are
-  nearlaw's) agreed as intended. P29 and P83 closed later that day: AM1 and AM2
-  (amendments to Parts II and V; after the 35B model split on how VI.3 assigns
-  Parts, six Sonnet runs read it correctly) and T15 with H83 (unpaid rent and an
-  unpaid van fee) agreed as intended.
-- **14 November:** P85 (selling a starter house) decided as intended, a gift the
-  taker may sell; T93 agreed after V.3.4 said "asking them nothing".
+Numbers are never reused; Git remembers closed Problems. Closed so far: P1–P9,
+P14–P16, P20, P21, P24, P25, P28, P29, P33, P43–P45, P52, P53, P58, P63, P69,
+P70, P72, P74–P76, P79, P83, and P85.
