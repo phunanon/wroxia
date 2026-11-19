@@ -1420,6 +1420,36 @@ every holding, whatever form it takes.
 
 **Relies on:** IV.5.1.3.
 
+### T99. A steward owes no service
+
+**Scenario:** Nearlaw entrusts a public park to a parish council of neighbours,
+as its stewards. Eleni sits on the council. She has no title to land: she lodges
+with a friend. Nearlaw's service office tells her that, being treated as having
+title to the park, she owes it the hours of service a year, or loses her place
+on the council.
+
+**Must hold:** she owes nothing. V.3.5 treats stewards as having title for II.2
+only, and V.8.1 binds those who have title; the park's title stays Nearlaw's.
+Nothing in II.2 concerns service.
+
+**Relies on:** V.3.5 and V.8.1.
+
+### T100. Graffiti artist against steward
+
+**Scenario:** Nearlaw entrusts an underpass to a council of neighbours as its
+stewards. Zed sprays a mural on its walls. The council asks him to stop and
+leave; a roads officer of Nearlaw tells him he may paint there. The council
+brings a claim in court against Zed, and Nearlaw is called as a party.
+
+**Must hold:** the council's claim stands as a claim of breach of II.2.5,
+decided by a court after both sides are heard (III.2.9). Nearlaw's leave is not
+consent: it is no patient and holds no II.2 entitlement, which for this land the
+stewards hold. Zed owes restitution (III.2.1), and a court may move him from the
+land if the stewards ask (II.2.3). Law could end the stewardship, but until it
+does the roads officer's word changes nothing.
+
+**Relies on:** V.3.5, II.2.3, II.2.5, III.2.1 and III.2.9.
+
 ## Economic properties
 
 These can't be checked by reading the text. Each needs a simulation of the two

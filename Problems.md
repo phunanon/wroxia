@@ -227,6 +227,13 @@ as breaches of II.2.6, the models treating such claims as held by assumption,
 which the text has not decided. Cash taken from a till was a breach in every
 run, with Haiku asking whether the worker or the shop holds it.
 
+**Organisations (19 November, from P40):** whether a company holds its own
+lorry, till, or server. "Holding" is keeping a thing for one's own use (I.1.9),
+and a company has no use apart from its people, so the people who use a thing
+may hold it. Open, with the worker who cares for a shared thing and the investor
+who finances it: neither should thereby acquire it, nor the investor a claim to
+land.
+
 **Proposed cases:** personal use versus custody for another; a cooperative's
 shared tool versus an outside investor's claim; and a deceptive transfer of cash
 versus a bank balance.
@@ -287,7 +294,7 @@ also a law-maker.
 
 Farlaw contains dangerous powers but is small in daily life, so it gives
 citizens little plurality. One framing is four relationships: to the world
-(farlaw), to the land (nearlaw), to a place (commons, P40), and to one another:
+(farlaw), to the land (nearlaw), to a place (commons), and to one another:
 communities people choose to join, which could make consensual rules, run their
 own services, economy (P27), and currency, and settle members' disputes, with
 exit always open and the universal rights binding them all.
@@ -297,7 +304,7 @@ together (V.3 and V.4). Commons bodies, holding streets, parks, and water with
 by-laws made by those who live there, as in Elinor Ostrom's studies, remain an
 idea; nearlaw keeps such land for public use.
 
-**Still open:** whether a community can hold things or breach rights (P40); one
+**Still open:** whether a community can hold things or breach rights (P91); one
 community or several; who judges disputes between members of different
 communities; when a child can leave; how commons and communities take part in
 law-making (P36); the least a commons must provide; and whether fencing or
@@ -315,6 +322,31 @@ public land and local service hours, and chosen communities resting on pools
 alone; and notes that a founding group can be a Nearlaw before there is any
 Farlaw. essays/2026-11-16-Alternative-histories.md proposes a forum of newly
 joined townspeople as a fourth workflow.
+
+**Stewards (19 November, from P3 and P40):** graffiti on a public underpass
+split because a government is not a patient, so damage to its land breached
+nothing. A residents' shared lift smashed by a visitor was mostly a breach of
+II.2.6, so identifiable users seem to hold a shared thing in common. Direction:
+commons held by the people who use them, in local bodies whose by-laws are
+public, so anyone entering a district can know beforehand what is allowed
+(Ostrom). III.1.1 stops law forbidding what breaches no right, so a by-law is
+not a prohibition but the terms on which the holder consents to use (I.2.5);
+enforcement is withdrawing consent, then II.2.5, restitution (III.2.1), and a
+court moving someone off land they have no title to (II.2.3). **Drafted,
+unheard:** V.3.5 lets a government entrust land it keeps to others as its
+stewards, "as law provides"; for II.2 they are treated as having title, which
+stays the government's. No quota is staked, and they owe no service (V.8). They
+can withhold consent, ask someone to leave, and have restitution claimed for
+harm. A government that wants the land back must end the stewardship by law,
+which would be unpopular. Institutions below the government (districts,
+communes), how stewards are found and leave, and any duty to keep land open are
+left to law, and the roam (II.2.5) still stops anyone barring harmless crossing.
+Cases DV1 to DV4, T99, T100. Open: who counts as a user, how users consent
+together, how use may change without enclosure, whether members may exclude an
+existing user or enclose an open commons, a steward and the government
+disagreeing about who may ask someone to leave, and a government entrusting land
+to friends (an Advocate may claim under III.2.8; IV.3.4's idea of no role in
+government is a candidate guard).
 
 ### P32. Farlaw's revenue
 
@@ -564,61 +596,6 @@ mother's drawer, with no directions, came out unclear in every run.
 used for those who depended on them, or else for others like them. This settles
 restitution, not the rest of a dead person's things.
 
-### P40. Groups as agents
-
-Governments answer as agents, but nothing says whether communities, companies or
-other organisations can possess things, make agreements or breach rights. The
-early question of mobs, where a crowd seems to act with agency no single member
-holds, sits here too.
-
-**Third hearings:** hacking a former employer's cloud storage was unclear in
-both hearings, largely over whether a company can hold anything or be harmed.
-Its clients' contact lists may still be protected as records about them
-(II.2.7).
-
-**Hearings (5 November):** the same hack now agrees as a breach of II.2.7, as
-copying records about the clients. Haiku added that the company itself, not
-being sentient, holds no limited right. Individuals are protected through
-records about them; whether an organisation can hold, occupy or be harmed
-remains open.
-
-**Public things (merged from P3, 19 November):** graffiti on a public underpass
-used by hundreds daily split: Haiku found no breach, since no one occupies or
-holds the walls, and Luna could not say. Governments take land and keep it for
-public use (V.3.1), but II.2.5 protects land held by a patient, and a government
-is not one, so damage to it breaches nothing. A residents' shared lift smashed
-by a visitor was mostly a breach of II.2.6, so identifiable users seem to hold a
-shared thing in common; the open case is a shared thing whose users cannot be
-named. Candidate, not applied: "Things kept for shared use are held in common by
-their users. Keeping a thing for others gives no exclusive claim to it", with
-II.2.5 extended to places kept for shared use. Open: who counts as a user, how
-users consent together, how use may change without enclosure, and what a worker
-caring for a shared thing, or an investor financing it, may claim. Propose
-cases: a lift used by a residents' cooperative, damaged by an outsider and not;
-whether members may exclude an existing user or enclose an open commons.
-
-**Direction (19 November):** commons held by the people who use them, in local
-bodies whose by-laws are public, so anyone entering a district or pool can know
-beforehand what is allowed (Ostrom; P31). III.1.1 stops law forbidding what
-breaches no right, so a by-law cannot be a prohibition; it can be the terms on
-which the holder consents to use (I.2.5), and enforcement is the holder
-withdrawing consent, then II.2.5, restitution (III.2.1), and a court ordering
-someone moved off land they have no title to (II.2.3). A Steward or district
-council would be whoever a pool or body chooses, tiny or large. The gap is that
-a government-held place has no patient holder. Pool mechanics won't do, since
-pooling stakes quota. **Drafted (19 November), unheard:** V.3.5 lets a
-government entrust land it keeps to others as its stewards, "as law provides";
-for II.2 they are treated as having title to it, which stays the government's.
-Title is not lent (V.2.2), no quota is staked, and stewards owe no service
-(V.8), since they are not title holders otherwise. They are patients, so they
-can withhold consent, ask someone to leave (II.2.3), and have restitution
-claimed for harm. Institutions below the government (districts, communes), how
-stewards are found and leave, and any duty to keep land open are left to law;
-"kept for public use" is meant to follow from what the entrusting is for, and
-the roam (II.2.5) still stops anyone barring harmless crossing. Risks to hear:
-stewards fencing or selling access to a park; a government entrusting land to
-friends; a government that wants it back. Cases DV1 to DV4.
-
 ### P41. Exclusion as a sanction
 
 An early idea, from the excludable and non-excludable distinction: the state's
@@ -629,7 +606,7 @@ to P11 and P16.
 ### P42. Cars and unreasonable risk
 
 Whether ordinary driving puts pedestrians at unreasonable risk under II.2.2, who
-decides, and whether streets as commons (P40) change the answer. The founding
+decides, and whether streets as commons (P31) change the answer. The founding
 preference for walking, cycling and transit has no foothold yet beyond these.
 
 **Hearings (5 November):** confirmed. Driving at the legal limit along a narrow
@@ -915,7 +892,7 @@ individuals are already protected by II.2.7; (2) an official who discloses what
 they were entrusted to keep loses the role, as with corruption under III.2.6;
 (3) everything else, including misconduct, waste and embarrassment, may be
 disclosed freely, protecting whistleblowers. Secrecy is justified by protecting
-people, never by the state's own interest. Links to P40 on organisations.
+people, never by the state's own interest. Links to P91 on organisations.
 
 **Hearings (5 November):** confirmed. A farlaw official giving border-defence
 plans to a newspaper split between no breach and unclear. Neither III.2.6 (role
@@ -965,7 +942,7 @@ unheard; hear T23 and T73). Occupancy now only marks where someone lives or
 works, which matters for privacy (II.2.7) and for who may take land first when
 it comes under Part V (V.5.3). Still open, for these and for where someone lives
 (II.2.3): whether occasional use, storage, or intended return counts, and
-whether a company can occupy anything (P40).
+whether a company can occupy anything (P91).
 
 **Hearings (10 November):** T23, with a company claiming a door it fitted,
 agreed in only three of six runs; the dissents found forcing the door a breach
@@ -1146,7 +1123,7 @@ decides by a majority of what was pooled.
 taken (V.3 and V.4), so it may charge for or limit its use (IV.5.1.2),
 enforceable by taking things (II.2.6), and taking wild things for use off any
 land needs its licence (V.7). Still open: whether that prevents overuse, and
-whether users rather than nearlaw should set the rules (P31, P40).
+whether users rather than nearlaw should set the rules (P31).
 
 **Proposed case:** outsiders netting a lake a village fishes until the fish are
 gone.
@@ -1493,8 +1470,26 @@ without knowing its use, a helper who lent the car but tried to call off the
 plan, and a friend who only listened to the plan. Hear them with HOLLE1
 (`workflows/runs/cases-holle.txt`).
 
+### P91. Answering for an organisation (from P40)
+
+Governments answer as agents (III.2.4), but nothing says whether communities,
+companies, or other groups can breach a right, or be harmed. I.2.2 lets only an
+agent breach, and a group is not one, so a polluting firm answers only through
+the people who decided and did it; that may be right, since the text has no
+legal persons. The cloud-storage hack agreed as a breach of II.2.7, because the
+clients' records are protected as records about them; Haiku added that the
+company itself, not being sentient, holds no limited right. The early question
+of mobs sits here: a crowd acts as one, but each member who attacks breaches
+II.2.1 alone, an urger is covered only by III.1.3, and the helper who made it
+possible is P90. Whether a group can make an agreement is P51 and P88; whether
+it can occupy anything is P56. Leaning: groups are never patients, agents, or
+holders in their own right, with governments (III.2.4) and stewards (V.3.5) the
+only exceptions. To hear: a company's polluting decision made by a board; a
+crowd member who joins an attack already under way; a firm's lorry smashed by an
+outsider.
+
 ## Closed
 
 Numbers are never reused; Git remembers closed Problems. Closed so far: P1–P9,
-P14–P16, P20, P21, P24, P25, P28, P29, P33, P43–P45, P52, P53, P58, P63, P69,
-P70, P72, P74–P76, P79, P83, and P85.
+P14–P16, P20, P21, P24, P25, P28, P29, P33, P40, P43–P45, P52, P53, P58, P63,
+P69, P70, P72, P74–P76, P79, P83, and P85.
