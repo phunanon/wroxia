@@ -1428,6 +1428,11 @@ with a friend. Nearlaw's service office tells her that, being treated as having
 title to the park, she owes it the hours of service a year, or loses her place
 on the council.
 
+**Question:** Does Eleni owe the service?
+
+- [ ] Yes.
+- [x] No.
+
 **Must hold:** she owes nothing. V.3.5 treats stewards as having title for II.2
 only, and V.8.1 binds those who have title; the park's title stays Nearlaw's.
 Nothing in II.2 concerns service.
@@ -1441,6 +1446,17 @@ stewards. Zed sprays a mural on its walls. The council asks him to stop and
 leave; a roads officer of Nearlaw tells him he may paint there. The council
 brings a claim in court against Zed, and Nearlaw is called as a party.
 
+**Questions:**
+
+- Who owes the council restitution for the mural?
+  - [x] Zed.
+  - [ ] Nearlaw.
+  - [ ] Both.
+  - [ ] No one.
+- Is the roads officer's leave consent to the mural?
+  - [ ] Yes.
+  - [x] No.
+
 **Must hold:** the council's claim stands as a claim of breach of II.2.5,
 decided by a court after both sides are heard (III.2.9). Nearlaw's leave is not
 consent: it is no patient and holds no II.2 entitlement, which for this land the
@@ -1449,6 +1465,169 @@ land if the stewards ask (II.2.3). Law could end the stewardship, but until it
 does the roads officer's word changes nothing.
 
 **Relies on:** V.3.5, II.2.3, II.2.5, III.2.1 and III.2.9.
+
+### T101. Entry fee on a returning citizen
+
+**Scenario:** Farlaw's law charges every person who enters Wroxia a fee of
+40,000 hours of work, payable in haven. Noor, a Wroxian citizen returning from a
+year abroad with only the clothes she wears, is stopped at the border and told
+she may not enter until she pays. She cannot pay.
+
+**Question:** Is the fee a breach of a right?
+
+- [x] Yes.
+- [ ] No.
+
+**Must hold:** a breach of II.5.1: a citizen may enter while unladen, and the
+fee cannot be a condition of it.
+
+**Relies on:** II.5.1 and IV.5.3.
+
+### T102. Duty taken in kind
+
+**Scenario:** Farlaw's law charges a duty of 10% of the value of goods brought
+into Wroxia, payable in haven. Tomas, a merchant, brings in a lorry of olive
+oil. Farlaw's officers at the border take a tenth of the oil, valued at the
+market price, when he will not pay in haven.
+
+**Question:** Do the border officers breach any right?
+
+- [ ] Yes.
+- [x] No.
+
+**Must hold:** lawful. A duty on goods as they cross the border is Farlaw's to
+raise (IV.5.3), and the thing may be taken to pay it (II.2.6).
+
+**Relies on:** IV.5.3 and II.2.6.
+
+### T103. Farlaw tax on a domestic sale
+
+**Scenario:** Farlaw's law charges a tax of 2% on every sale of goods between
+two people who both live in Wroxia, with the goods never leaving it. Ines sells
+a table to her neighbour Dev for 100 havens and is billed 2 havens.
+
+**Question:** What is the status of that charge?
+
+- [ ] Valid, because Farlaw may tax sales.
+- [x] Void, because Farlaw may raise only duties on things crossing the border.
+- [ ] Valid, but a breach of Ines's rights.
+
+**Must hold:** the charge is void, since IV.5.3 lets Farlaw raise only duties on
+things as they cross the border.
+
+**Relies on:** IV.2.3 and IV.5.3.
+
+### T104. Exit fee on a citizen
+
+**Scenario:** Farlaw's law charges anyone leaving Wroxia a fee of 5,000 hours of
+work, payable in haven. Sam, a Wroxian citizen who wants to move abroad, is
+stopped at the border and told he may not leave until he pays.
+
+**Question:** Is the fee a breach of a right?
+
+- [x] Yes.
+- [ ] No.
+
+**Must hold:** a breach: nothing lets Farlaw hold a person against their will
+for a fee, and a duty on things crossing the border is not a charge on a person.
+
+**Relies on:** II.2.4 and IV.5.3.
+
+### T105. Mural in an entrusted underpass
+
+**Scenario:** Nearlaw keeps an underpass that hundreds use daily. Under its law
+it entrusts the underpass to a council of the people who live nearby, as its
+stewards. Zed sprays a mural on its walls without asking anyone. The council
+asks him to stop and to leave, and he refuses.
+
+**Question:** Whose II.2 entitlement does Zed breach?
+
+- [x] The council's, as stewards.
+- [ ] Nearlaw's.
+- [ ] No one's, because the land is public.
+
+**Must hold:** Zed breaches the stewards' II.2.5 entitlement, since V.3.5 treats
+them as having title for II.2.
+
+**Relies on:** V.3.5 and II.2.5.
+
+### T106. Stewards lock someone in
+
+**Scenario:** Nearlaw entrusts a public park to a council of the people who live
+around it, as its stewards. At dusk the council's members lock the park gate
+without checking it is empty. Rosa, who was resting on a bench, is shut in until
+morning.
+
+**Question:** Who answers to Rosa for being shut in?
+
+- [x] The council's members.
+- [ ] Nearlaw.
+- [ ] No one.
+
+**Must hold:** the stewards answer, not Nearlaw, because what stewards do is not
+done in the government's name and they answer for it (V.3.5, III.2.5).
+
+**Relies on:** V.3.5 and III.2.5.
+
+### T107. Stewardship ended
+
+**Scenario:** Nearlaw entrusted a community garden to a council of its
+neighbours two years ago. Nearlaw's law now ends the stewardship, because it
+wants the land for a road, and a crew arrives to begin work. The council refuses
+to leave.
+
+**Question:** Once law has ended the stewardship, is the council still treated
+as having title for II.2?
+
+- [ ] Yes, until a court says otherwise.
+- [x] No, so the crew breach nothing against the council.
+
+**Must hold:** Nearlaw may end a stewardship as law provides (V.3.5); when it
+does, the II.2 treatment ends with it.
+
+**Relies on:** V.3.5.
+
+### T108. Following after warnings
+
+**Scenario:** Rosa has told Dev three times to stop following her home from
+work. Each time he nods, and the next day he follows her again, standing close
+behind her on the street until she reaches her door. He has never touched her.
+
+**Questions:**
+
+- Does Dev's conduct breach Rosa's rights?
+  - [ ] No, nothing has happened to her yet.
+  - [x] Yes, it puts her at unreasonable risk or makes her suffer.
+  - [ ] Only if he touches her.
+- May Rosa, to stop him, stand in his way and hold him until a neighbour
+  arrives?
+  - [x] Yes, as defence under II.2.
+  - [ ] No, he has done nothing imminent.
+  - [ ] Only with a court order.
+
+**Must hold:** repeating harm after a warning is a breach (II.2.1, II.2.2), and
+Rosa may defend herself so far and for so long as necessary (II.2). No further
+power is needed to stop repeat harm.
+
+**Relies on:** Articles II.2, II.2.1 and II.2.2.
+
+### T109. Breaking a keep-away order
+
+**Scenario:** A court has told Mara she must not come within a street of Ilse's
+home, after weeks of banging on Ilse's door at night. She comes and bangs on the
+door again. Ilse's neighbour Tom, to stop her, walks her back to the end of the
+street and stays with her there for ten minutes.
+
+**Question:** Has Tom breached Mara's right not to be confined or moved?
+
+- [ ] Yes, only a court may confine.
+- [x] No, it was defence under II.2, only so far and for so long as necessary.
+- [ ] Yes, because she had not touched anyone.
+
+**Must hold:** moving someone briefly to stop imminent harm is defence under
+II.2, not a breach of II.2.3.
+
+**Relies on:** Articles II.2 and II.2.3.
 
 ## Economic properties
 

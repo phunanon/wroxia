@@ -18,7 +18,10 @@ can't unknow. The scripts report agreement; you do the thinking.
    clauses it touched. Write new cases as blocks of `ID: scenario` separated by
    blank lines. Now and then, add a blind case: a neutral account of a real
    crime or dispute from a fresh agent that knows nothing of Wroxia.
-2. **Hear** them (workflows/AGENTS.md).
+2. **Hear** them (workflows/AGENTS.md). Whenever you queue or start Hearings,
+   tell the author roughly what clock time they should finish: about 1.4 minutes
+   per run (two runs per case on the offline model), plus whatever is already
+   queued. Check the pace in the latest `hear-*.jsonl` timestamps.
 3. **Review.** A split means the text is unclear. Agreement on the wrong answer
    means the text is wrong. Agreement on the right answer means the Problem is
    resolved: delete it. Its spirit now lives in the Constitution; add a Test

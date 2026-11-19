@@ -4,43 +4,40 @@
 
 ## Preamble
 
-We bind ourselves with this constitution by letter and spirit, to evoke the best
-of our nature, and to accept the space and time we together inhabit, such that
-all may exercise undistorted intention.
+We, citizens of Wroxia, and lawful residents, bind ourselves with this
+constitution by letter and spirit, to evoke the best of our nature, and to
+acknowledge the space and time we together inhabit, such that we may exercise
+our undistorted intentions.
 
 ## Part I: Terms and interpretation
 
 ### I.1. Definitions
 
-1. **Absolute** (adjective, of a right): that no law, amendment, condition, or
-   waiver can remove.
-2. **Agent** (noun): a patient able to understand others' rights and to act on
-   that understanding.
-3. **Breach** (noun, of a right): going against it, by act or omission, other
-   than as its conditions allow or its holder's waiver permits.
-4. **Bribe** (noun): anything of value given to someone acting in a government's
-   name, by anyone but that government, in exchange for how they act in that
-   role.
-5. **Citizen** (noun): a patient recognised as a citizen by law. Demonym:
-   Wroxian.
-6. **Court** (noun): a body independent of the parties that hears and decides a
-   case under law.
-7. **Duress** (noun): pressure that leaves no reasonable choice.
-8. **Elector** (noun): a citizen aged 16 or over.
-9. **Holding** (noun): keeping a thing for one's own use.
-10. **Limited** (adjective, of a right): that holds unless one of its stated
-    conditions is met, and that its holder may waive.
-11. **Negative** (adjective, of a right): fulfilled by others refraining from
-    action.
-12. **Occupancy** (noun): making land one's home or workplace.
-13. **Patient** (noun): any sentient being.
-14. **Positive** (adjective, of a right): fulfilled by action of the government
-    in whose domain it falls.
-15. **Sentient** (adjective): having subjective experience, so that wellbeing or
-    suffering can be felt.
-16. **Threat** (noun): expression addressed to a patient, meant to make them
-    fear harm.
-17. **Title** (noun): a claim to land gained under Part V.
+1. **Absolute** (of a right): that no law, amendment, condition, or waiver can
+   remove.
+2. **Agent**: a patient able to understand others' rights and to act on that
+   understanding.
+3. **Breach** (of a right): going against it, by act or omission, other than as
+   its conditions allow or its holder's waiver permits.
+4. **Bribe**: anything of value given to someone acting in a government's name,
+   by anyone but that government, in exchange for how they act in that role.
+5. **Citizen**: a patient recognised as a citizen by law. Demonym: Wroxian.
+6. **Court**: a body independent of the parties that hears and decides a case
+   under law.
+7. **Duress**: pressure that leaves no reasonable choice.
+8. **Elector**: a citizen aged 16 or over.
+9. **Holding**: keeping a thing for one's own use.
+10. **Limited** (of a right): that holds unless one of its stated conditions is
+    met, and that its holder may waive.
+11. **Negative** (of a right): fulfilled by others refraining from action.
+12. **Occupying**: making land one's home or workplace.
+13. **Patient**: any sentient being.
+14. **Positive** (of a right): fulfilled by action of the government in whose
+    domain it falls.
+15. **Sentient**: having subjective experience, so that wellbeing or suffering
+    can be felt.
+16. **Threat**: expression addressed to a patient, meant to make them fear harm.
+17. **Title**: a claim to land gained under Part V.
 
 ### I.2. Interpretation
 
@@ -113,8 +110,8 @@ Every patient has the limited right:
 6. Not to have things they hold taken, damaged, or used without their consent.
    Conditions:
    - Defence under II.2.
-   - A thing may be taken to make restitution owed under III.2, or to pay a tax
-     or duty under IV.5.
+   - A thing worth no more than what is owed may be taken to make restitution
+     under III.2, or to pay a tax or duty under IV.5.
 7. Not to be watched or recorded in a place they occupy, nor to have their
    communications, or records about them, read, copied, or shared, without their
    consent. Whoever they address or entrust one to may read and keep it, but not
@@ -239,7 +236,8 @@ Every citizen has the limited right:
    government by what it concerns, not by who acts. Which government a matter
    belongs to may be challenged only by someone affected by it, an Advocate, or
    either government, and is then decided by a boundary court, which rules on
-   nothing else.
+   nothing else. For each challenge, the court is seven electors drawn by lot
+   from those willing, who decide by Instrument 4 and publish their reasons.
 6. A treaty binds only farlaw, and never enlarges its domain.
 
 ### IV.3. Law-making
@@ -299,13 +297,13 @@ Every citizen has the limited right:
 
 ### V.1. Terms
 
-1. **Share** (noun): the area of all land under this Part divided by all quotas,
+1. **Share**: the area of all land under this Part divided by all quotas,
    counted each year.
-2. **Stake** (noun): the quota, or part of one, given for title, and returned
-   when it ends.
-3. **Vacant** (adjective, of land): that no one has title to.
-4. **District** (noun): one of the parts into which law divides land under this
-   Part. A change of districts affects only registrations and titles after it.
+2. **Stake**: the quota, or part of one, given for title, and returned when it
+   ends.
+3. **Vacant** (of land): that no one has title to.
+4. **District**: one of the parts into which law divides land under this Part. A
+   change of districts affects only registrations and titles after it.
 
 ### V.2. Quotas
 
@@ -337,7 +335,7 @@ Every citizen has the limited right:
 5. A government may entrust land it keeps to others as its stewards, and end
    that, as law provides. For II.2 they are treated as having title to it, which
    stays the government's. What stewards do is not done in the government's
-   name.
+   name, and they answer for it.
 
 ### V.4. Pools and directions
 

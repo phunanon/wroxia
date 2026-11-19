@@ -28,6 +28,7 @@ function render(md) {
       html += `</li></${open.pop().tag}>`;
   };
   let para = false;
+  let incipit = false; // the paragraph after the Preamble heading
   for (const line of md.split('\n')) {
     const item = line.match(/^(\s*)([-*]|\d+\.)\s+(.*)/);
     const head = line.match(/^(#+)\s+(.*)/);
@@ -48,11 +49,16 @@ function render(md) {
       html += ' ' + inline(line.trim());
     else {
       close();
-      if (head)
+      if (head) {
+        incipit = head[2] === 'Preamble';
         html += `<h${head[1].length}>${inline(head[2])}</h${head[1].length}>`;
-      else if (!line.trim()) para = false;
+      } else if (!line.trim()) para = false;
       else if (para) html = html.slice(0, -4) + ' ' + inline(line) + '</p>';
-      else ((para = true), (html += `<p>${inline(line)}</p>`));
+      else {
+        para = true;
+        html += `<p${incipit ? ' class="incipit"' : ''}>${inline(line)}</p>`;
+        incipit = false;
+      }
     }
   }
   close();
@@ -61,14 +67,16 @@ function render(md) {
 
 const css = `
 @page { size: A4; margin: 24mm 22mm 26mm;
-  @bottom-center { content: counter(page); font: 9pt Cambria, 'Times New Roman', serif; color: #777; } }
-@page :first { @bottom-center { content: none; } }
+  @bottom-right { content: counter(page); font: 9pt Cambria, 'Times New Roman', serif; color: #777; } }
+@page :first { @bottom-right { content: none; } }
 body { font: 10.5pt/1.5 Cambria, 'Times New Roman', 'Liberation Serif', serif; font-variant-numeric: lining-nums; color: #222; hyphens: auto; }
 .cover { height: 235mm; display: flex; flex-direction: column; align-items: center;
   justify-content: center; text-align: center; page-break-after: always; }
-.cover img { width: 120mm; border: 1px solid #ccc; }
-.cover h1 { font-size: 34pt; font-weight: normal; letter-spacing: .06em; margin: 14mm 0 2mm; }
-.cover p { font-style: italic; color: #666; margin: 0; }
+.flag { width: 120mm; }
+.flag img { display: block; width: 100%; }
+.incipit::first-line { font-variant-caps: small-caps; letter-spacing: .08em; }
+.cover h1 { font-size: 28pt; font-weight: normal; letter-spacing: .06em; margin: 14mm 0 2mm; }
+.cover p { font-style: italic; color: #666; margin: 0 0 1.5mm; }
 h1 { font-size: 24pt; font-weight: normal; text-align: center; letter-spacing: .04em;
   margin: 0 0 10mm; page-break-before: always; }
 .cover h1 { page-break-before: auto; }
@@ -84,10 +92,11 @@ ul { list-style: '–  '; }
 li::marker { color: #7a1f1f; }
 `;
 
+const date = new Date().toLocaleDateString('en-GB', { dateStyle: 'long' });
 const html = `<!doctype html><meta charset="utf-8"><title>Constitution of Wroxia</title>
 <style>${css}</style>
-<div class="cover"><img src="data:image/svg+xml;base64,${readFileSync(join(root, 'Wroxia.svg')).toString('base64')}">
-<h1>Wroxia</h1><p>Constitution and Instruments</p></div>
+<div class="cover"><div class="flag"><img src="data:image/svg+xml;base64,${readFileSync(join(root, 'Wroxia.svg')).toString('base64')}"></div>
+<h1>Constitution of the Nation of Wroxia</h1><p>and its Instruments</p><p>${date}</p></div>
 ${render(text('Constitution.md'))}${render(text('Instruments.md'))}`;
 
 const browser = await chromium.launch();

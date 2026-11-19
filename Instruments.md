@@ -1,8 +1,8 @@
-# Instruments
+# Constitutional Instruments of Wroxia
 
-Instruments are part of this constitution and protected like its articles. They
-hold procedures used by the articles. An article uses an instrument by naming it
-and giving a value for each of its parameters, which are written in _italics_.
+Instruments are part of this Constitution and protected like its articles. An
+article uses an instrument by naming it and giving a value for each of its
+parameters, which are written in _italics_.
 
 ## Instrument 1. Sticky sortition
 

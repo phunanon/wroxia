@@ -1,4 +1,4 @@
 <svg height="256" width="416" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="416" height="256" fill="#000" />
-  <path d="M128 0 H160 V128 H416 V160 H128 V256 H96 V128 H0 V96 H128 Z" fill="#fff" />
+  <rect fill="#fff" width="416" height="256" />
+  <path fill="#000" d="M0 0 H128 V96 H0 Z M160 0 H416 V128 H160 Z M0 128 H96 V256 H0 Z M128 160 H416 V256 H128 Z" />
 </svg>

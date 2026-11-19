@@ -41,18 +41,61 @@ export const readBlocks = (file) =>
       return { id: match[1], text: match[2].replace(/\s+/g, ' ') };
     });
 
+// A Test may hold a **Question:** and a task list of answers, or **Questions:**
+// and a list of questions, each with a task list beneath it. The ticked answer
+// is the expected one. Returns the Ask and Expect text that hear.mjs reads.
+function question(entry) {
+  const found = entry.match(/\*\*Questions?:\*\*(.*?)(?=\n\n\*\*|\n*$)/s);
+  if (!found) return '';
+  const asks = [];
+  let pending = '';
+  let ask;
+  for (const line of found[1].split('\n')) {
+    const option = line.match(/^\s*- \[( |x)\] (.*)/);
+    const top = line.match(/^- (?!\[)(.*)/);
+    if (option) {
+      if (!ask) asks.push((ask = { q: pending.trim(), options: [] }));
+      ask.options.push({ text: option[2], ticked: option[1] === 'x' });
+    } else if (top) asks.push((ask = { q: top[1], options: [] }));
+    else if (line.trim()) {
+      if (!ask) pending += ` ${line.trim()}`;
+      else if (ask.options.length) ask.options.at(-1).text += ` ${line.trim()}`;
+      else ask.q += ` ${line.trim()}`;
+    }
+  }
+  const letter = (ask) => {
+    const i = ask.options.findIndex((o) => o.ticked);
+    if (i < 0) throw new Error(`No ticked answer: ${ask.q}`);
+    return 'ABCDE'[i];
+  };
+  return (
+    asks
+      .map(
+        (a) =>
+          ` Ask: ${a.q} ${a.options.map((o, i) => `${'ABCDE'[i]}) ${o.text}`).join(' ')}`,
+      )
+      .join('') +
+    ` Expect: ${asks.map((a, i) => `choice${i + 1}=${letter(a)}`).join('; ')}`
+  );
+}
+
 // Arguments are IDs of entries in RegressionTests.md, such as T9 or R1, `all` for
-// every entry with that prefix, or block files. The entry's text is its `field`.
+// every entry with that prefix, or block files. The entry's text is its `field`,
+// followed by its Ask and Expect fields, if any, as hear.mjs reads them.
 export function readEntries(args, prefix, field, all) {
   const entries = new Map(
-    [
-      ...read('RegressionTests.md').matchAll(
-        new RegExp(
-          `^### (${prefix}\\d+)\\..*?\\*\\*${field}:\\*\\* (.+?)\\n\\n`,
-          'gms',
-        ),
-      ),
-    ].map(([, id, text]) => [id, text.replace(/\s+/g, ' ')]),
+    read('RegressionTests.md')
+      .split(/^(?=### )/m)
+      .flatMap((entry) => {
+        const id = entry.match(new RegExp(`^### (${prefix}\\d+)\\.`))?.[1];
+        const get = (f) =>
+          entry
+            .match(new RegExp(`\\*\\*${f}:\\*\\* (.+?)(?:\\n\\n|$)`, 's'))?.[1]
+            .replace(/\s+/g, ' ');
+        const text = get(field);
+        if (!id || !text) return [];
+        return [[id, text + (field === 'Scenario' ? question(entry) : '')]];
+      }),
   );
   return args.flatMap((arg) => {
     if (arg === all) return [...entries].map(([id, text]) => ({ id, text }));

@@ -27,6 +27,13 @@ every Test), and cases in files of `ID: scenario` blocks separated by blank
 lines. Every result carries a hash of the law it was heard against, so results
 from an older text can be told apart.
 
+A Test with a settled answer carries a `**Question:**` and a task list of
+answers, the expected one ticked (`- [x]`). The judges see the question with
+lettered options and never the tick; the report marks each such case PASS,
+MIXED, or FAIL and counts passes. Case files may instead end
+`Ask: question? A) … B) …` and `Expect: choice=B`. Untested answers stay free
+text, read by you.
+
 To queue Hearings, add lines of hear.mjs arguments to `workflows/runs/queue.txt`
 and run [drain.mjs](drain.mjs). It hears each line in turn, writing each report
 and log as `runs/hear-<time>.txt` and `.jsonl`, and records each in
