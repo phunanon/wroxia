@@ -8,12 +8,17 @@ import { law, lawHash } from './shared.mjs';
 
 const text = law();
 const ids = new Set();
-let section = '';
+let section = '',
+  parent = '';
 for (const line of text.split('\n')) {
   const head = line.match(/^#{2,3} (Instrument \d+|[IVX]+\.\d+)\./);
   if (head) ids.add((section = head[1]));
-  const item = line.match(/^(\d+)\. /);
-  if (item && section) ids.add(`${section}.${item[1]}`);
+  const part = line.match(/^## Part ([IVX]+):/);
+  if (part) section = part[1];
+  const item = line.match(/^( *)(\d+)\. /);
+  if (!item || !section) continue;
+  if (item[1]) ids.add(`${parent}.${item[2]}`);
+  else ids.add((parent = `${section}.${item[2]}`));
 }
 
 const norm = (s) =>

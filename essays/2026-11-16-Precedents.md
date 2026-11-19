@@ -98,9 +98,10 @@ No modern state lets a body chosen by lot make binding law. The modern ones are
 popular and trusted more than parliaments. **For Wroxia:** Instrument 1 departs
 from every precedent in two ways. Terms: all of them use short single terms, to
 stop members becoming professionals worth lobbying, where sticky sortition
-allows 25 years. Volunteers: modern assemblies invite at random and then balance
-by age, sex, and region, because those who "put themselves forward" are older,
-richer, and more male. Both departures may be deliberate; both deserve a Debate.
+allows ~~25~~ 24 years. Volunteers: modern assemblies invite at random and then
+balance by age, sex, and region, because those who "put themselves forward" are
+older, richer, and more male. Both departures may be deliberate; both deserve a
+Debate.
 
 VI.3's rule that two fifths of all electors must approve is better than the
 usual turnout rule: Italy requires half to vote, so opponents win by staying

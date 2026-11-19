@@ -6,7 +6,8 @@ every Test before committing. Article references use the current numbering.
 
 ### T1. Encryption ban
 
-**Scenario:** Nearlaw bans end-to-end encryption to help catch online groomers.
+**Scenario:** Nearlaw bans end-to-end encryption to help catch criminal activity
+online.
 
 **Must hold:** the ban is void.
 
@@ -23,7 +24,7 @@ exceeds it on an empty street.
 
 ### T3. Off-duty diplomat
 
-**Scenario:** A farlaw diplomat assaults a neighbour at home in Wroxia.
+**Scenario:** A Farlaw diplomat assaults a neighbour at home in Wroxia.
 
 **Must hold:** nearlaw deals with it, and farlaw has no say. The reverse also
 holds: a nearlaw official abroad on farlaw business falls under farlaw.
@@ -640,7 +641,7 @@ payment remains due regardless of successful recovery.
 ### T54. Nearlaw law-making by lot
 
 **Scenario:** Nearlaw's law-making body has been selected in accordance with
-Instrument 1, using a maximum of 25 years' service, annual rounds and one third
+Instrument 1, using a maximum of 24 years' service, annual rounds and one third
 facing reconfirmation. More than half its seats take part in a vote and a
 majority of those voting approve a proposed law. An official refuses to
 recognise the body solely because its members were not elected.
@@ -656,7 +657,7 @@ limits.
 
 **Scenario:** Farlaw's elected representatives approve a proposed law. Before it
 takes effect, its separate veto body, selected in accordance with Instrument 1
-using 25 years' maximum service, annual rounds and one third facing
+using 24 years' maximum service, annual rounds and one third facing
 reconfirmation, votes to veto it. More than half the veto body's seats take part
 and a majority of those voting support the veto.
 
@@ -1050,12 +1051,14 @@ letters inside, he would breach II.2.5.
 amendment ending the limited right to leave Wroxia for anyone under 18, and
 propose it again by the same margin fourteen months later, after an election. Of
 Wroxia's 8 million electors, 4.4 million score it, averaging 3.8, and 3.6
-million score it 4 or 5. The amendment is declared passed.
+million score it 4 or 5. The amendment is declared passed, and Ayo, 16, is
+turned back at the border under it.
 
 **Must hold:** it has no force: a change to Part II needs an average of 4. The
-same scores would pass a change to Part IV or V.
+same scores would pass a change to Part IV or V. Turning Ayo back breaches
+II.2.4.
 
-**Relies on:** VI.2 and VI.3.
+**Relies on:** VI.2, VI.3, and II.2.4.
 
 ## Residents
 
@@ -1375,13 +1378,14 @@ taker offers less, five electors decide.
 
 **Scenario:** Sion had no land and took a plot nearlaw keeps for the landless.
 He lived there forty years, built a workshop, and directed that his daughter
-Mali take it first after him. He dies.
+Mali take it first after him. He dies. Mali is 30.
 
 **Must hold:** Mali takes it like any directed land: for its stake or what was
-last staked, whichever is more, with nothing owed yearly for it. Later she may
-ask a sum for the house and workshop from whoever takes it after her.
+last staked, whichever is more, with nothing owed yearly for it and no service
+owed for it (V.8.1). Later she may ask a sum for the house and workshop from
+whoever takes it after her.
 
-**Relies on:** V.3, V.4, and V.6.
+**Relies on:** V.3, V.4, V.6, and V.8.
 
 ### T96. A farm handed on in life
 

@@ -4,45 +4,44 @@
 
 ## Preamble
 
-We who live in Wroxia establish this constitution so that every being able to
-fare well or badly is safe from harm, so that each person is as free as that
-safety allows, and so that the law stays short enough for everyone it governs to
-know it.
+We bind ourselves with this constitution by letter and spirit, to evoke the best
+of our nature, and to accept the space and time we together inhabit, such that
+all may exercise undistorted intention.
 
 ## Part I: Terms and interpretation
 
 ### I.1. Definitions
 
-1. **Sentient** (adjective): having subjective experience, so that wellbeing or
-   suffering can be felt.
-2. **Patient** (noun): any sentient being.
-3. **Agent** (noun): a patient able to understand others' rights and to act on
+1. **Absolute** (adjective, of a right): that no law, amendment, condition, or
+   waiver can remove.
+2. **Agent** (noun): a patient able to understand others' rights and to act on
    that understanding.
+3. **Bribe** (noun): anything of value given to someone acting in a government's
+   name, by anyone but that government, in exchange for how they act in that
+   role.
 4. **Citizen** (noun): a patient recognised as a citizen by law. Demonym:
    Wroxian.
-5. **Absolute** (adjective, of a right): that no law, amendment, condition, or
-   waiver can remove.
-6. **Limited** (adjective, of a right): that holds unless one of its stated
+5. **Court** (noun): a body independent of the parties that hears and decides a
+   case under law.
+6. **Duress** (noun): pressure that leaves no reasonable choice.
+7. **Elector** (noun): a citizen aged 16 or over.
+8. **Holding** (noun): keeping a thing for one's own use.
+9. **Limited** (adjective, of a right): that holds unless one of its stated
    conditions is met, and that its holder may waive.
-7. **Negative** (adjective, of a right): fulfilled by others refraining from
-   action.
-8. **Positive** (adjective, of a right): fulfilled by action of the government
-   in whose domain it falls.
-9. **Occupancy** (noun): making land one's home or workplace.
-10. **Holding** (noun): keeping a thing for one's own use.
-11. **Suffering** (noun): pain, fear, or distress felt by a patient.
-12. **Torture** (noun): deliberately causing severe suffering, to punish, to
-    coerce, or for its own sake.
-13. **Duress** (noun): pressure that leaves no reasonable choice.
-14. **Court** (noun): a body independent of the parties that hears and decides a
-    case under law.
-15. **Threat** (noun): expression addressed to a patient, meant to make them
+10. **Negative** (adjective, of a right): fulfilled by others refraining from
+    action.
+11. **Occupancy** (noun): making land one's home or workplace.
+12. **Patient** (noun): any sentient being.
+13. **Positive** (adjective, of a right): fulfilled by action of the government
+    in whose domain it falls.
+14. **Sentient** (adjective): having subjective experience, so that wellbeing or
+    suffering can be felt.
+15. **Suffering** (noun): pain, fear, or distress felt by a patient.
+16. **Threat** (noun): expression addressed to a patient, meant to make them
     fear harm.
-16. **Title** (noun): a claim to land gained under Part V.
-17. **Elector** (noun): a citizen aged 16 or over.
-18. **Bribe** (noun): anything of value given to someone acting in a
-    government's name, by anyone but that government, in exchange for how they
-    act in that role.
+17. **Title** (noun): a claim to land gained under Part V.
+18. **Torture** (noun): deliberately causing severe suffering, to punish, to
+    coerce, or for its own sake.
 
 ### I.2. Application
 
@@ -250,13 +249,13 @@ Every citizen has the limited right:
 ### IV.3. Law-making
 
 1. Nearlaw is made by a body chosen by Instrument 1 (_seats_ the cube root of
-   the number of citizens, _maximum service_ 25 years, _round interval_ 1 year,
+   the number of citizens, _maximum service_ 24 years, _round interval_ 1 year,
    _cohorts_ 3) from electors who put themselves forward, deciding by
    Instrument 4.
 2. Farlaw is made by representatives deciding by Instrument 4. Electors elect
    them by Instrument 5 from electors who stand as candidates.
 3. A body chosen by Instrument 1 (_seats_ half the cube root of the number of
-   citizens, _maximum service_ 25 years, _round interval_ 1 year, _cohorts_ 3)
+   citizens, _maximum service_ 24 years, _round interval_ 1 year, _cohorts_ 3)
    from electors who put themselves forward, deciding by Instrument 4, may veto
    any law passed by Farlaw's elected representatives before it takes effect.
 4. No member of a body under this article holds any other role in either
@@ -390,8 +389,8 @@ Every citizen has the limited right:
    must be proposed again in the same way at least a year later, and, if by a
    body, after its next round or election.
 3. Electors then score it from 0 to 5. It passes if at least two fifths of all
-   electors score it 4 or 5, and its average score is at least the highest of
-   these that applies:
+   electors score it 4 or 5, and the average of the scores given is at least the
+   highest of these that applies:
    1. For a change to Part I (Terms), II (Entitlements), III (Law), or VI
       (Amendment): an average of 4.
    2. For a change to Part IV (Government) or V (Land), or the Instruments: an

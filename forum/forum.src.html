@@ -1,0 +1,544 @@
+<title>Holdershire Forum</title>
+<meta name="claude:viewport-fit-sides" content="cover" />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bitter:wght@600;800&family=IBM+Plex+Mono:wght@400;500&display=swap"
+/>
+<style>
+  /* Layout: a parish-noticeboard forum. Threads on the left; residents and their hidden profiles on the right. */
+  :root {
+    --bg: #e9ecea;
+    --panel: #f7f8f6;
+    --fg: #1c2421;
+    --mute: #5c6762;
+    --line: #c9d0cc;
+    --accent: #1f5f5b;
+    --accent-fg: #fff;
+    --warn: #a23b2a;
+    --tint: #dbe6e3;
+    --display: 'Bitter', Georgia, serif;
+    --body: 'Atkinson Hyperlegible', system-ui, sans-serif;
+    --mono: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) {
+      --bg: #141a18;
+      --panel: #1c2421;
+      --fg: #e4eae7;
+      --mute: #9aa7a1;
+      --line: #33403b;
+      --accent: #6fc2ba;
+      --accent-fg: #0d1513;
+      --warn: #e58a78;
+      --tint: #25332f;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme='dark'] {
+    --bg: #141a18;
+    --panel: #1c2421;
+    --fg: #e4eae7;
+    --mute: #9aa7a1;
+    --line: #33403b;
+    --accent: #6fc2ba;
+    --accent-fg: #0d1513;
+    --warn: #e58a78;
+    --tint: #25332f;
+    color-scheme: dark;
+  }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.5 var(--body);
+    padding-block: 20px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+  }
+  main {
+    max-width: 1100px;
+    margin: auto;
+    display: grid;
+    gap: 16px;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--display);
+    margin: 0;
+    text-wrap: balance;
+    line-height: 1.2;
+  }
+  h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+  }
+  h2 {
+    font-size: 1.15rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+  header p {
+    margin: 0.4em 0 0;
+    color: var(--mute);
+    max-width: 70ch;
+  }
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 14px;
+  }
+  .bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid var(--accent);
+    background: var(--accent);
+    color: var(--accent-fg);
+    padding: 6px 14px;
+    border-radius: 4px;
+  }
+  button.ghost {
+    background: none;
+    color: var(--accent);
+  }
+  button:disabled {
+    opacity: 0.45;
+    cursor: default;
+  }
+  button:focus-visible,
+  input:focus-visible,
+  textarea:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  button.who {
+    all: unset;
+    cursor: pointer;
+    font-weight: 700;
+    color: var(--accent);
+  }
+  button.who:hover {
+    text-decoration: underline;
+  }
+  button.who:focus-visible {
+    outline: 2px solid var(--accent);
+  }
+  input[type='text'] {
+    font: inherit;
+    flex: 1;
+    min-width: 12em;
+    padding: 6px 8px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--bg);
+    color: var(--fg);
+  }
+  .cols {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 340px);
+    gap: 16px;
+    align-items: start;
+  }
+  @media (max-width: 800px) {
+    .cols {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+  .stack {
+    display: grid;
+    gap: 12px;
+    min-width: 0;
+  }
+  .thread {
+    display: grid;
+    gap: 10px;
+  }
+  .post {
+    display: grid;
+    gap: 2px;
+  }
+  .post.re {
+    margin-left: 18px;
+    padding-left: 12px;
+    border-left: 3px solid var(--tint);
+  }
+  .meta {
+    font: 12px var(--mono);
+    color: var(--mute);
+  }
+  .post p {
+    margin: 0;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+  }
+  .tag {
+    font: 11px var(--mono);
+    padding: 1px 6px;
+    border-radius: 3px;
+    background: var(--tint);
+    color: var(--fg);
+    white-space: nowrap;
+  }
+  .news li {
+    margin-bottom: 4px;
+  }
+  .news {
+    margin: 0;
+    padding-left: 1.1em;
+  }
+  .people {
+    display: grid;
+    gap: 6px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  .people li {
+    display: flex;
+    gap: 8px;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+  dl {
+    margin: 0;
+    display: grid;
+    gap: 8px;
+  }
+  dt {
+    font: 11px var(--mono);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--mute);
+  }
+  dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+  .secret {
+    border: 1px dashed var(--warn);
+    padding: 8px;
+    border-radius: 4px;
+  }
+  .secret dt {
+    color: var(--warn);
+  }
+  #status {
+    font: 13px var(--mono);
+    color: var(--mute);
+  }
+  .err {
+    color: var(--warn);
+  }
+  .empty {
+    color: var(--mute);
+  }
+</style>
+<main>
+  <header>
+    <h1>Holdershire Community Forum</h1>
+    <p id="brief"></p>
+  </header>
+  <section class="panel stack">
+    <div class="bar">
+      <button id="cast">Meet the residents</button>
+      <button id="round" disabled>Run a round</button>
+      <button id="stop" class="ghost" hidden>Stop</button>
+      <button id="clear" class="ghost">Clear posts</button>
+      <button id="reset" class="ghost">Start over</button>
+      <span id="status"></span>
+    </div>
+    <div class="bar">
+      <input
+        id="newsIn"
+        type="text"
+        placeholder="Add a news item the residents will hear about, e.g. a leaflet arrives"
+      /><button id="newsAdd" class="ghost">Announce</button>
+    </div>
+  </section>
+  <div class="cols">
+    <section class="stack" id="threads"></section>
+    <aside class="stack">
+      <div class="panel">
+        <h2>Developments</h2>
+        <ol class="news" id="news"></ol>
+      </div>
+      <div class="panel" id="side"></div>
+    </aside>
+  </div>
+</main>
+<script>
+  const CONST = __CONSTITUTION__;
+  const PARTS = CONST.split(/^(?=## )/m);
+  const BRIEF = `Holdershire, England, November 2026. The county council went insolvent years ago: bins, libraries, bus routes and a care home went first, and roads and flood defences were left to rot. Three weeks ago Wroxia's Farlaw government, which grew out of an English movement only a couple of years ago, stepped in and annexed the whole county, saying it would fix what England would not. By the terms of the annexation Holdershire automatically became a Nearlaw district with its own Nearlaw body. Residents were not asked, and the English government did not resist. The text of Wroxia's constitution is public and short. Parts of it are finished and can change only as Part VI says. The author has published it knowing some areas are not yet written (how courts are chosen, how Farlaw's representatives are elected, who runs each government day to day, whether agreements bind), and says he will fill those in himself, alone, until the first Nearlaw body is drawn.`;
+  const AMEND =
+    'The author says the unfinished areas (courts, elections, day-to-day leadership, agreements and organisations, parts of citizenship and public finance) will be written by him alone until the first Nearlaw body is drawn. Finished parts, such as rights and land, can change only under Part VI.';
+  const MODEL = { model: 'claude-haiku-5-5', modelTier: 'quick', cache: false };
+  const KEY = 'holdershire-forum-v1';
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) =>
+    String(s ?? '').replace(
+      /[&<>"]/g,
+      (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c],
+    );
+  let S = { people: [], posts: [], news: [AMEND], round: 0 },
+    sample = null,
+    ctl = null,
+    sel = null;
+  try {
+    S = JSON.parse(localStorage.getItem(KEY)) || S;
+  } catch (e) {}
+  const save = () => {
+    try {
+      localStorage.setItem(KEY, JSON.stringify(S));
+    } catch (e) {}
+  };
+  const say = (t, bad) => {
+    $('status').textContent = t;
+    $('status').className = bad ? 'err' : '';
+  };
+  $('brief').textContent = BRIEF;
+
+  const LEVEL = {
+    read: 'read the whole text',
+    skim: 'skimmed some parts',
+    rumour: 'has only heard rumours',
+  };
+  function knowledge(p) {
+    const heard = `What you have heard about Wroxia from others (some may be wrong): ${p.heard}`;
+    if (p.level === 'read')
+      return `You have read Wroxia's whole constitution:\n\n${CONST}\n\n${heard}`;
+    if (p.level === 'skim')
+      return `You skimmed these parts of Wroxia's constitution and have not read the rest:\n\n${p.skim.map((i) => PARTS[i]).join('\n')}\n${heard}`;
+    return `You have not read Wroxia's constitution. ${heard}`;
+  }
+  const newsText = () => S.news.map((n, i) => `${i + 1}. ${n}`).join('\n');
+
+  const MIX = 'Ordinary households with a mix of ages, jobs and temperaments.';
+  const VOICES =
+    'This batch must be, in order: a landlord with several lets (some in arrears); a former county councillor from the insolvent council, defensive about the record; two regular working people (e.g. shift, care, warehouse or delivery work) with no time for politics; two recent immigrants from different places, with different status, language and length of stay; and a farmer or smallholder on land the floods keep taking.';
+  async function castBatch(n, have, focus) {
+    const r = await sample.json(
+      `You are inventing residents of a fictional English county for a social simulation.
+
+Setting: ${BRIEF}
+
+Write ${n} distinct residents of Holdershire who use the local forum. ${focus} Most care mainly about their own household, money and grievances; few see themselves as community voices, and some are rude, petty or self-serving. Make them ordinary and specific, not types: varied ages (17 to 85), jobs (include some unemployed or retired), homes (renting, owning, council, living with parents, a caravan), households, money, health, and politics (include non-voters and people who change their mind). Most are angry at the English government for abandoning the county, and most distrust Wroxia, but for different reasons; one or two are cautiously hopeful, one is an opportunist, and one barely cares. Avoid caricature. Each has something specific at stake that the annexation might touch, which they may not yet realise.${have ? `\n\nAlready written, so do not repeat these: ${have}` : ''}
+
+Reply with only a JSON array. Each item: {"name":string,"age":number,"job":string,"home":string,"household":string,"money":string,"health":string,"politics":string,"anxieties":[string],"temperament":string,"voice":string (how they write online: length, punctuation, slang),"bio":string (2 sentences),"heard":string (2 sentences of secondhand, partly wrong things they have heard about Wroxia),"secret":string (a private matter they would never post openly)}`,
+      { ...MODEL, cache: false, signal: ctl.signal },
+    );
+    if (!Array.isArray(r))
+      throw { code: 'invalid_json', message: 'not an array' };
+    return r.filter((p) => p && p.name && p.bio);
+  }
+  async function run(f) {
+    ctl = new AbortController();
+    $('stop').hidden = false;
+    for (const b of ['cast', 'round']) $(b).disabled = true;
+    try {
+      await f();
+    } catch (e) {
+      say(
+        e.code === 'cancelled'
+          ? 'Stopped.'
+          : `Failed (${e.code || 'error'}): ${e.message || ''} Press the button to try again.`,
+        e.code !== 'cancelled',
+      );
+    }
+    ctl = null;
+    $('stop').hidden = true;
+    draw();
+  }
+  $('cast').onclick = () =>
+    run(async () => {
+      const batches = S.people.length
+        ? [
+            [
+              'People unlike any already written: fill gaps in age, work, background and temperament.',
+            ],
+          ]
+        : [[MIX], [VOICES]];
+      for (const [focus] of batches) {
+        say('Writing six residents...');
+        const have = S.people.map((p) => `${p.name}, ${p.job}`).join('; ');
+        const add = await castBatch(6, have, focus);
+        S.people.push(
+          ...add.map((p) => ({
+            ...p,
+            level: ['read', 'skim', 'rumour'][Math.floor(Math.random() * 3)],
+            posts: 0,
+            skim: [
+              1,
+              2,
+              ...[3, 4, 5, 6, 7].sort(() => Math.random() - 0.5).slice(0, 2),
+            ],
+          })),
+        );
+        save();
+        draw();
+      }
+      say('');
+    });
+  $('clear').onclick = () => {
+    S.posts = [];
+    S.round = 0;
+    S.people.forEach((p) => (p.posts = 0));
+    save();
+    draw();
+  };
+  $('round').onclick = () =>
+    run(async () => {
+      S.round++;
+      const order = S.people
+        .map((p, i) => i)
+        .sort(
+          (x, y) =>
+            S.people[x].posts - S.people[y].posts + Math.random() * 2 - 1,
+        )
+        .slice(0, 4);
+      for (const i of order) {
+        const p = S.people[i];
+        say(`Round ${S.round}: ${p.name} is writing...`);
+        const recent =
+          S.posts
+            .slice(-20)
+            .map(
+              (x) =>
+                `#${x.id} ${S.people[x.by].name}${x.re ? ` (replying to #${x.re})` : ''}${x.title ? ` [${x.title}]` : ''}: ${x.body}`,
+            )
+            .join('\n') || '(no posts yet; you may open the first thread)';
+        const r = await sample.json(
+          `You are role-playing a resident of Holdershire writing on the local community forum. Stay in character. Do not mention being an AI.
+
+Setting: ${BRIEF}
+
+Developments the forum knows about:
+${newsText()}
+
+YOUR PRIVATE PROFILE (never recite it; let it show only as a real person's would):
+${JSON.stringify({ ...p, posts: undefined, level: undefined, skim: undefined }, null, 1)}
+
+${knowledge(p)}
+
+Recent forum posts:
+${recent}
+
+Write one forum post, either a new thread or a reply to a post above. Write only what you would really write: 1 to 5 sentences in your own voice, about whatever is on your mind right now, not a summary of your life. You may be wrong, angry, confused, or off topic. Only claim what the law says if you have read it or heard it; never invent clauses.
+Reply with only JSON: {"action":"new"|"reply","replyTo":number|null,"title":string (new threads only),"body":string}`,
+          { ...MODEL, signal: ctl.signal },
+        );
+        if (typeof r?.body !== 'string')
+          throw { code: 'invalid_json', message: 'no post body' };
+        const id = S.posts.length + 1,
+          par = S.posts.find((x) => x.id === +r.replyTo);
+        S.posts.push({
+          id,
+          by: i,
+          re: par ? par.id : null,
+          root: par ? par.root : id,
+          title: par ? '' : String(r.title || 'Untitled'),
+          body: r.body,
+          round: S.round,
+        });
+        p.posts++;
+        save();
+        draw();
+      }
+      say('');
+    });
+  $('stop').onclick = () => ctl?.abort();
+  $('reset').onclick = () => {
+    if ($('reset').dataset.sure) {
+      S = { people: [], posts: [], news: [AMEND], round: 0 };
+      sel = null;
+      save();
+      $('reset').textContent = 'Start over';
+      delete $('reset').dataset.sure;
+      say('');
+      draw();
+    } else {
+      $('reset').dataset.sure = 1;
+      $('reset').textContent = 'Really delete everything?';
+    }
+  };
+  $('newsAdd').onclick = () => {
+    const v = $('newsIn').value.trim();
+    if (v) {
+      S.news.push(v);
+      $('newsIn').value = '';
+      save();
+      draw();
+    }
+  };
+  $('newsIn').onkeydown = (e) => {
+    if (e.key === 'Enter') $('newsAdd').click();
+  };
+
+  const who = (i) =>
+    `<button class="who" data-p="${i}">${esc(S.people[i].name)}</button>`;
+  function post(x, re) {
+    return `<div class="post${re ? ' re' : ''}"><div class="meta">${who(x.by)} · #${x.id} · round ${x.round}</div>${x.title ? `<h3>${esc(x.title)}</h3>` : ''}<p>${esc(x.body)}</p></div>`;
+  }
+  function draw() {
+    const has = S.people.length > 0,
+      busy = !!ctl;
+    $('cast').disabled = busy;
+    $('cast').textContent = has ? 'Add six residents' : 'Meet the residents';
+    $('clear').disabled = busy || !S.posts.length;
+    $('round').disabled = busy || !has;
+    $('news').innerHTML = S.news.map((n) => `<li>${esc(n)}</li>`).join('');
+    const roots = S.posts.filter((x) => !x.re).reverse();
+    $('threads').innerHTML = !has
+      ? `<div class="panel empty">No one has posted yet. "Meet the residents" has Haiku write twelve people, each with a hidden profile you can browse here. Some have read the constitution, some skimmed it, and some know only rumours.</div>`
+      : !roots.length
+        ? `<div class="panel empty">Twelve residents are waiting. Press "Run a round" to let four of them post.</div>`
+        : roots
+            .map(
+              (r) =>
+                `<article class="panel thread">${post(r)}${S.posts
+                  .filter((x) => x.root === r.id && x.re)
+                  .map((x) => post(x, 1))
+                  .join('')}</article>`,
+            )
+            .join('');
+    $('side').innerHTML =
+      sel == null
+        ? `<h2>Residents</h2><ul class="people">${S.people.map((p, i) => `<li>${who(i)}<span class="tag">${p.posts} posts · ${esc(LEVEL[p.level])}</span></li>`).join('') || '<li class="empty">None yet.</li>'}</ul>`
+        : profile(S.people[sel]);
+  }
+  function profile(p) {
+    const f = (k, v) => `<dt>${k}</dt><dd>${esc(v)}</dd>`;
+    return `<div class="bar"><button class="ghost" id="back">All residents</button></div><h2>${esc(p.name)}, ${esc(p.age)}</h2><p class="meta">${esc(p.job)} · ${esc(LEVEL[p.level])}</p><dl>${f('Life', p.bio)}${f('Home', p.home)}${f('Household', p.household)}${f('Money', p.money)}${f('Health', p.health)}${f('Politics', p.politics)}${f('Anxieties', (p.anxieties || []).join('; '))}${f('Temperament', p.temperament)}${f('Writes', p.voice)}${f('Has heard about Wroxia', p.heard)}<div class="secret">${f('Private, never posted by design', p.secret)}</div></dl>`;
+  }
+  document.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-p]');
+    if (b) {
+      sel = +b.dataset.p;
+      draw();
+      $('side').scrollIntoView({ block: 'nearest' });
+    } else if (e.target.id === 'back') {
+      sel = null;
+      draw();
+    }
+  });
+  draw();
+  (async () => {
+    sample = await window.claude?.use('sample');
+    if (!sample) {
+      say(
+        'Claude is not available in this view, so residents cannot be written.',
+        1,
+      );
+      $('cast').disabled = true;
+      $('round').disabled = true;
+    }
+  })();
+</script>

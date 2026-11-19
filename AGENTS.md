@@ -37,7 +37,6 @@ the situations you expect to break.
   `A<n>`; numbers are never reused. Cross-reference by number.
 - A proposed fix in Problems is a starting point, not a decision. Change the
   Constitution only when asked.
-- Put decisions you need from the author in Questions.md, numbered `Q<n>`.
 - Beliefs.md is the author's own; never change it. A Test may name the belief it
   guards.
 - Keep Roadmap.md's statuses current as the text changes.

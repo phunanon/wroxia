@@ -168,6 +168,11 @@ agreed the restraint was permitted. T41 agreed on breach but split on whether
 the confinement is forbiddable. What remains open is later prevention, not
 immediate defence.
 
+**Re-heard (17 November, offline, current law):** T31–T42 all agreed, so the
+immediate-defence condition still holds, and T31 (removal without an imminent
+threat) no longer splits. Not closed: later prevention is a design choice, not a
+Hearing result.
+
 ### P12. Recovery of restitution (applied; remaining gaps)
 
 Article III.2.3 now assigns recovery to a public recovery service of the
@@ -521,6 +526,16 @@ pinned at an hour with productivity growing; E1 to E4 under both.
 **Author (16 November):** physical currency on demand should be constitutional
 (Q12); hourly credit is a held belief (Q13).
 
+**Heard (17 November):** T98 (cash charged more than savings) split offline, but
+two Sonnet runs both found a breach; they disagreed only on whether a bank
+balance is held by the depositor or the bank (P23). Drafted: IV.2.3.1 now says
+"in any form". Unheard.
+
+**Re-heard (18 November, offline, after "in any form"):** T98 agreed, but on no
+breach, against Must hold; both Sonnet runs said breach. The offline model reads
+a 5% discount on notes and 2% on deposits as a method of collection. Hear on
+Sonnet before judging the wording.
+
 ## From the project's starting points
 
 Aims set out at the very beginning, and ideas from early conversation, that the
@@ -565,9 +580,9 @@ Venice's doge elections alternating lot and election; the Ostbelgien Citizens'
 Council's staggered rotation; Missouri-plan retention votes for judges, which
 rarely remove anyone. Settled for now: scores from 0 to 5 (six levels, within
 the range rating-scale research favours, and the scale STAR voting uses),
-keeping a seat at an average of 2.5 or more, and a maximum of 25 years in total,
-to be whittled down later. Still to settle: a minimum number of ratings before
-anyone can be removed. Candidates: farlaw's veto body and the Advocates.
+keeping a seat at an average of 2.5 or more, and a maximum of ~~25~~ 24 years in
+total, to be whittled down later. Still to settle: a minimum number of ratings
+before anyone can be removed. Candidates: farlaw's veto body and the Advocates.
 
 **Discussion (4 November):** consider authorising a legislature to supply
 missing procedures, not to decide individual cases or suspend constitutional
@@ -578,9 +593,9 @@ legislature or selection method is adopted by this discussion. Preserve the
 earlier farlaw election/veto choice unless it is expressly replaced.
 
 **Applied draft (4 November), not yet heard:** both sortition bodies use
-Instrument 1 with 25 years' maximum service, annual reconfirmation and one third
-facing each round. Nearlaw's body targets the cube root of the number of
-citizens and Farlaw's veto body half that, each rounded down to a multiple of
+Instrument 1 with ~~25~~ 24 years' maximum service, annual reconfirmation and
+one third facing each round. Nearlaw's body targets the cube root of the number
+of citizens and Farlaw's veto body half that, each rounded down to a multiple of
 three with a minimum of three, and both resize under the Instrument. This
 supersedes the earlier fixed-size and exponent-0.3 proposals. P49 holds the
 unfinished Instrument mechanics.
@@ -600,6 +615,17 @@ poorly: an official refusing to recognise a body limits no limited right, so
 "breach" has no clear meaning. The models also did not agree whether a veto of
 farlaw's law is farlaw's matter. Treat these as structural checks rather than
 rights cases.
+
+**Heard (17 November):** T88 (an amendment short of its bar) agreed on no force
+in two Sonnet runs but split on whether declaring it passed is itself a breach
+with no one yet harmed, and who may complain. The scenario now turns Ayo back at
+the border under it, so the breach is II.2.4. VI.3 now says "the average of the
+scores given", since one reading averaged over all electors. Unheard. Open:
+which body certifies a result.
+
+**Re-heard (18 November, offline, after "the average of the scores given"):**
+T88 agreed on breach under farlaw, as Must hold says. Both runs still list as a
+gap whether the average counts non-voters.
 
 ### P37. Opting out
 
@@ -815,13 +841,13 @@ voters judge members by, and whether to draw volunteers in proportion to the
 population's makeup.
 
 **Current application (4 November), not yet heard:** Articles IV.3.1–IV.3.2 now
-use Instrument 1. Maximum service is 25 years; rounds are annual and one third
-face reconfirmation. The target is the cube root of citizen numbers rounded down
-to a multiple of three, minimum three. Growth moves halfway from current size
-towards target, rounded down to threes; contraction retires only empty seats, no
-more than half the vacancies and no further than target. Remaining vacancies are
-filled by lot. This supersedes earlier notes on unset timing, fraction and
-filling every vacated seat.
+use Instrument 1. Maximum service is ~~25~~ 24 years; rounds are annual and one
+third face reconfirmation. The target is the cube root of citizen numbers
+rounded down to a multiple of three, minimum three. Growth moves halfway from
+current size towards target, rounded down to threes; contraction retires only
+empty seats, no more than half the vacancies and no further than target.
+Remaining vacancies are filled by lot. This supersedes earlier notes on unset
+timing, fraction and filling every vacated seat.
 
 **Applied (8 November), not yet heard:** Instrument 1 now takes _seats_, so each
 article sets its own size, and _cohorts_ in place of _reconfirmed fraction_: the
@@ -970,6 +996,10 @@ falls under II.2.7, a limited right with the defence condition. PH1 (a
 kidnapper's phone read to find a missing girl) found a breach of II.1.2 under
 the old wording; hear it again with T1, T6, T58, and T59.
 
+**Re-heard (17 November, offline):** T59 (a lifted fingerprint) still splits, on
+whether a print left behind is "held" by Mira under II.1.4 and II.2.7. Not
+closable until the author decides whether leaving a trace abandons it.
+
 ### P55. Government secrecy
 
 Governments aren't patients, so as written they can keep nothing private, and
@@ -1035,6 +1065,10 @@ whether a company can occupy anything (P40).
 agreed in only three of six runs; the dissents found forcing the door a breach
 of II.2.5, though no one had title.
 
+**Re-heard (17 November, offline):** T23 and T73 agreed under the current law.
+The open questions (occasional use, intended return, companies) are design
+choices.
+
 ### P57. Establishing capacity
 
 I.2.2 presumes a human to have been an agent when acting, unless evidence shows
@@ -1074,6 +1108,10 @@ as a doubt in many unrelated cases, so the stub itself adds noise. A
 six-year-old deliberately breaking a classmate's toy was found in breach in
 three of four runs: the presumption reaches young children unless someone brings
 evidence otherwise.
+
+**Re-heard (17 November, offline):** T77 still splits, on when a 13-year-old may
+act for themselves. The text leaves it to the capacity test; the author must say
+whether age alone decides anything.
 
 ## Added after the 5 November hearings
 
@@ -1180,6 +1218,11 @@ any patient may cross land, away from homes and crops, causing no harm
 mushrooms in woodland a timber company has title to; newcomers pooling to take a
 moor walkers have always crossed.
 
+**Re-heard (17 November):** T82 split offline (unclear against breach), but two
+Sonnet runs both found the garden a breach, as T82 requires. The models name one
+gap: how near a garden must be to the house to count as where someone lives.
+ROAM1 and ROAM2 not re-heard.
+
 ### P62. The ills of the commons
 
 The opposite failure to P61: overuse where no user bears the cost (Garrett
@@ -1269,6 +1312,11 @@ power. What remains is drafting detail: how directions are recorded, found, and
 revoked; disputed cost or practicability; and irreconcilable directions. Urgent
 care before a court can act is now covered by Instrument 2.3, which lets anyone
 act for safe care and disposal (applied 9 November, not yet heard).
+
+**Re-heard (17 November, offline):** T47–T51 agreed under the current law, now
+with Instrument 2.3 in force. One run cited Instrument 2.3 as I.2.6; the text is
+sound. Still open: recording, finding and revoking directions, disputed cost,
+and irreconcilable directions.
 
 ## Added 10 November
 
@@ -1692,6 +1740,16 @@ freedom to serve the hours across a year or several (V.8.2 already lets five
 years' hours stand unserved), and wants travel and training counted as served.
 See P89 for what hours cannot do.
 
+**Heard (17 November):** T94 (a starter plot passed on) split offline, but two
+Sonnet runs both found no breach. Both asked whether Mali is an adult and
+whether the plot keeps its V.8.1 exemption once taken by direction. Drafted:
+V.8.1 now says "however later taken", and T94 says Mali is 30 and owes no
+service. Unheard.
+
+**Re-heard (18 November, offline, after "however later taken"):** T94 agreed on
+no breach, as Must hold says. The runs still ask whether Mali is a pool member
+(V.4.2).
+
 ## Added 16 November
 
 ### P88. Keeping promises without enforcing them
@@ -1720,6 +1778,42 @@ needs a large hearth debt such as the building charge (Q8); health and schools
 as bodies people join and pay (P31); service served in one's own trade, in
 blocks, with training counted; or charges for use. Imported goods need haven,
 which hours cannot earn. See essays/2026-11-16-Hearth-and-haven.md.
+
+**Heard (17 November):** T74 (a sale by joining) split offline; two Sonnet runs
+found no breach. They ask whether paying to be admitted to a pool is a disguised
+transfer under V.2.2, and whether the £200k is refundable. T77 as under P57. T90
+(friends registering together) split offline; its scenario already says the draw
+is one entry per registration, so it states the breach; consider rewording it to
+ask what the draw should be.
+
+### P90. Answering for what a helper makes possible
+
+Only an agent who breaches a right or privilege answers for it (I.2.2, III.2.1),
+and expression is a breach only if it urges one that is then committed
+(III.1.3). Nothing says when someone who helped another to breach, without doing
+the act, answers for it, or for more than they meant to help with. Ryan Holle
+(Florida, 2003) lent his car to friends he knew meant to steal a safe from a
+cannabis dealer, and expected a share. One of them killed the dealer's daughter.
+He was convicted of felony murder and given life without parole; the governor
+later commuted it. No one had spoken of violence.
+
+**Heard (18 November):** HOLLE1 (that account, without the verdict) offline, one
+model, two runs. Both found a breach and restitution under III.2.1, paid first
+from public funds, but split on its extent: for the theft and "potentially" the
+harm, or for the theft alone. Their gaps: whether lending the keys is "urging"
+under III.1.3; whether he is liable for the killing as a joint actor; whether
+the lack of any talk of violence clears him of it.
+
+Open: whether helping knowingly counts as breaching; whether the helper answers
+only for what they foresaw, or for whatever the others do in the course of the
+plan; whether a share of the proceeds matters; and whether answerability may be
+shared (III.2.3 already lets the fund recover from "whoever caused the harm").
+Compare P64 (helpers who are careless, not knowing).
+
+**Proposed cases:** the getaway driver, the lookout, someone who sells a tool
+without knowing its use, a helper who lent the car but tried to call off the
+plan, and a friend who only listened to the plan. Hear them with HOLLE1
+(`workflows/runs/cases-holle.txt`).
 
 ## Closed
 
