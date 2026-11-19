@@ -92,13 +92,13 @@ essays/2026-11-16-Hearth-and-haven.md and P89.
 ### Q14. Three drafted clauses and two splits (P35, P36, P87, P85)
 
 Unstaged drafts, heard offline on 18 November: IV.5.1.3 "in any form" (T98),
-VI.3 "the average of the scores given" (T88), and V.8.1 "however later taken"
-(T94). **Recommend keeping the last two**: both heard as intended, and each
-fixes a wording a run could misread. **Keep or revert V.8.1**: it means Mali
-owes no service on her father's plot. **IV.5.1.3 is unproven**: T98 still hears
-no breach offline, so hear it on Sonnet, or say how the charge should treat
-notes and deposits. Separately, T93 (a starter house sold) now splits offline,
-because V.3.4 says Nearlaw "asks nothing for what is fixed to it"; say whether
-Rhi may ask a sum for the house, as T93 says, and I'll reword V.3.4 or V.6.1 to
-match. T13's Must hold says II.2.3 and II.2.8 are "engaged", but Sonnet says no
-breach: is engaging a breach or only forbiddable?
+Instrument 6.2 "the average of the scores given" (T88), and V.8.1 "however later
+taken" (T94). **Recommend keeping the last two**: both heard as intended, and
+each fixes a wording a run could misread. **Keep or revert V.8.1**: it means
+Mali owes no service on her father's plot. **IV.5.1.3 is unproven**: T98 still
+hears no breach offline, so hear it on Sonnet, or say how the charge should
+treat notes and deposits. Separately, T93 (a starter house sold) now splits
+offline, because V.3.4 says Nearlaw "asks nothing for what is fixed to it"; say
+whether Rhi may ask a sum for the house, as T93 says, and I'll reword V.3.4 or
+V.6.1 to match. T13's Must hold says II.2.3 and II.2.8 are "engaged", but Sonnet
+says no breach: is engaging a breach or only forbiddable?

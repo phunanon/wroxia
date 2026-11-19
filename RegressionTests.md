@@ -1058,7 +1058,7 @@ turned back at the border under it.
 same scores would pass a change to Part IV or V. Turning Ayo back breaches
 II.2.4.
 
-**Relies on:** VI.2, VI.3, and II.2.4.
+**Relies on:** VI.2, Instrument 6, and II.2.4.
 
 ## Residents
 

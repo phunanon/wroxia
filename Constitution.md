@@ -113,8 +113,8 @@ Every patient has the limited right:
 6. Not to have things they hold taken, damaged, or used without their consent.
    Conditions:
    - Defence under II.2.
-   - A thing may be taken to make restitution owed under III.2, or to pay a
-     charge under IV.5.1.
+   - A thing may be taken to make restitution owed under III.2, or to pay a tax
+     or duty under IV.5.
 7. Not to be watched or recorded in a place they occupy, nor to have their
    communications, or records about them, read, copied, or shared, without their
    consent. Whoever they address or entrust one to may read and keep it, but not
@@ -334,9 +334,10 @@ Every citizen has the limited right:
    without title to take one at once, drawn by lot, for its stake, asking them
    nothing for what is fixed to it. Each is enough for a home, and no larger
    than a fifth of a share unless a home needs more.
-5. A government may entrust land it keeps to others as its stewards, as law
-   provides. For II.2 they are treated as having title to it, which stays the
-   government's.
+5. A government may entrust land it keeps to others as its stewards, and end
+   that, as law provides. For II.2 they are treated as having title to it, which
+   stays the government's. What stewards do is not done in the government's
+   name.
 
 ### V.4. Pools and directions
 
@@ -398,10 +399,9 @@ Every citizen has the limited right:
 ## Part VI: Amendment
 
 1. This constitution changes only by amendment.
-2. An amendment is made by Instrument 6 (_bar_ the highest of these that
-   applies):
-   1. For a change to Part I (Terms), II (Entitlements), III (Law), or VI
-      (Amendment): 4.
-   2. For a change to Part IV (Government) or V (Land), or the Instruments: 3.5.
-3. An amendment changing how anyone gains or keeps office takes effect only
+2. An amendment to Part I (Terms), II (Entitlements), III (Law), or VI
+   (Amendment) is made by Instrument 6 (_bar_ 4).
+3. Any other amendment, including to Part IV (Government), V (Land), or the
+   Instruments, is made by Instrument 6 (_bar_ 3.5).
+4. An amendment changing how anyone gains or keeps office takes effect only
    after each body it affects is next chosen.

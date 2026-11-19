@@ -337,16 +337,18 @@ unheard:** V.3.5 lets a government entrust land it keeps to others as its
 stewards, "as law provides"; for II.2 they are treated as having title, which
 stays the government's. No quota is staked, and they owe no service (V.8). They
 can withhold consent, ask someone to leave, and have restitution claimed for
-harm. A government that wants the land back must end the stewardship by law,
-which would be unpopular. Institutions below the government (districts,
-communes), how stewards are found and leave, and any duty to keep land open are
-left to law, and the roam (II.2.5) still stops anyone barring harmless crossing.
-Cases DV1 to DV4, T99, T100. Open: who counts as a user, how users consent
-together, how use may change without enclosure, whether members may exclude an
-existing user or enclose an open commons, a steward and the government
-disagreeing about who may ask someone to leave, and a government entrusting land
-to friends (an Advocate may claim under III.2.8; IV.3.4's idea of no role in
-government is a candidate guard).
+harm. A government that wants land back must end the stewardship by law, which
+the author (19 November) wants possible, from massive councils to tiny ephemeral
+upkeep, though forcing it would be unpopular. What stewards do is not done in
+Nearlaw's name (III.2.4); models read them as acting in it (DV2). Institutions
+below the government (districts, communes), how stewards are found and leave,
+and any duty to keep land open are left to law, and the roam (II.2.5) still
+stops anyone barring harmless crossing. Cases DV1 to DV4, T99, T100. Open: who
+counts as a user, how users consent together, how use may change without
+enclosure, whether members may exclude an existing user or enclose an open
+commons, a steward and the government disagreeing about who may ask someone to
+leave, and a government entrusting land to friends (an Advocate may claim under
+III.2.8; IV.3.4's idea of no role in government is a candidate guard).
 
 ### P32. Farlaw's revenue
 
@@ -520,9 +522,9 @@ rights cases.
 **Heard (17 November):** T88 (an amendment short of its bar) agreed on no force
 in two Sonnet runs but split on whether declaring it passed is itself a breach
 with no one yet harmed, and who may complain. The scenario now turns Ayo back at
-the border under it, so the breach is II.2.4. VI.3 now says "the average of the
-scores given", since one reading averaged over all electors. Unheard. Open:
-which body certifies a result.
+the border under it, so the breach is II.2.4. Instrument 6.2 now says "the
+average of the scores given", since one reading averaged over all electors.
+Unheard. Open: which body certifies a result.
 
 **Re-heard (18 November, offline, after "the average of the scores given"):**
 T88 agreed on breach under farlaw, as Must hold says. Both runs still list as a
@@ -1293,9 +1295,11 @@ III.1.5 now forbids; and by what vote.
 ### P81. Claims across the two governments
 
 Each government's forces enforce only its own law (IV.2.4), and II.2.6 lets
-things be taken only for restitution or for nearlaw's charges under IV.5.1.
-Nothing says how restitution owed under farlaw reaches things held in nearlaw's
-domain, or how a farlaw charge is collected at all. Related: P12, P32, P35.
+things be taken for restitution or, since 19 November, for any tax or duty under
+IV.5, so Farlaw may take goods in kind for a duty (BD2 split before the change).
+IV.2.3 still makes taxes payable only in the issuer's own currency, so whether
+Farlaw may accept hearth is untouched. Nothing yet says how restitution owed
+under farlaw reaches things held in nearlaw's domain. Related: P12, P32, P35.
 
 ### P82. A government paid by harm
 
