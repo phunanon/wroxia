@@ -331,7 +331,7 @@ him out. No attack is happening or about to happen.
 **Must hold:** the removal breaches II.2.3. Neither past harm nor the panel's
 decision establishes the imminent threat required by the defence condition.
 Nearlaw answers for the removal. This expectation must be revisited expressly if
-a later-prevention condition is adopted (P11/P48).
+a later-prevention condition is adopted (P48).
 
 **Relies on:** Article II.2.3 and the shared defence condition, and Articles
 III.2.4–III.2.5.
@@ -346,7 +346,7 @@ the officers lock him in. No attack is happening or about to happen.
 **Must hold:** the confinement breaches II.2.3. Neither past harm nor the
 panel's decision establishes the imminent threat required by the defence
 condition. Nearlaw answers for the confinement. This expectation must be
-revisited expressly if a later-prevention condition is adopted (P11/P48).
+revisited expressly if a later-prevention condition is adopted (P48).
 
 **Relies on:** Article II.2.3 and the shared defence condition, and Articles
 III.2.4–III.2.5.
@@ -733,15 +733,14 @@ citizenship are irrelevant to Part II's universal articles.
 
 ### T61. National is only for citizens
 
-**Scenario:** Tomas has lived in Wroxia for years but is not a citizen.
-Nearlaw's public broadcaster offers every citizen a slot under its
-equitable-access scheme. Tomas asks for one and is refused because he is not a
-citizen.
+**Scenario:** Tomas has lived in Wroxia for years but is not a citizen. He is an
+adult, and asks Nearlaw for a quota and a plot to live on. Nearlaw refuses
+because he is not a citizen.
 
-**Must hold:** no breach. II.8.1 is held only by citizens, and refusing Tomas
+**Must hold:** no breach. II.7.1 is held only by citizens, and refusing Tomas
 limits no universal right.
 
-**Relies on:** I.1.5 and Article II.8.1.
+**Relies on:** I.1.5 and Article II.7.1.
 
 ### T62. A misdelivered letter
 
@@ -1382,10 +1381,10 @@ Mali take it first after him. He dies. Mali is 30.
 
 **Must hold:** Mali takes it like any directed land: for its stake or what was
 last staked, whichever is more, with nothing owed yearly for it and no service
-owed for it (V.8.1). Later she may ask a sum for the house and workshop from
+owed for it (IV.5.2.1). Later she may ask a sum for the house and workshop from
 whoever takes it after her.
 
-**Relies on:** V.3, V.4, V.6, and V.8.
+**Relies on:** V.3, V.4, V.6, and IV.5.2.
 
 ### T96. A farm handed on in life
 
@@ -1434,10 +1433,10 @@ on the council.
 - [x] No.
 
 **Must hold:** she owes nothing. V.3.5 treats stewards as having title for II.2
-only, and V.8.1 binds those who have title; the park's title stays Nearlaw's.
+only, and IV.5.2.1 binds those who have title; the park's title stays Nearlaw's.
 Nothing in II.2 concerns service.
 
-**Relies on:** V.3.5 and V.8.1.
+**Relies on:** V.3.5 and IV.5.2.1.
 
 ### T100. Graffiti artist against steward
 
@@ -1629,6 +1628,254 @@ II.2, not a breach of II.2.3.
 
 **Relies on:** Articles II.2 and II.2.3.
 
+### T110. Seizing a debtor's home
+
+**Scenario:** Ben owes Anna 300 hearth in restitution for wrecking her bicycle.
+He refuses to pay. Nearlaw's officers, who have paid Anna, take the house Ben
+lives in, worth 500 hearth, and sell it to recover the 300.
+
+**Question:** Do the officers breach any right?
+
+- [x] Yes.
+- [ ] No.
+
+**Must hold:** a thing may be taken to make restitution, but never the debtor's
+home (II.2.6).
+
+**Relies on:** II.2.6.
+
+### T111. Seizing a debtor's tools
+
+**Scenario:** Ben owes Anna 300 hearth in restitution. He refuses to pay.
+Nearlaw's officers take his lathe, worth 200 hearth, the only tool by which he
+earns his living.
+
+**Question:** Do the officers breach any right?
+
+- [x] Yes.
+- [ ] No.
+
+**Must hold:** what a debtor needs to earn a living is protected from taking for
+restitution (II.2.6).
+
+**Relies on:** II.2.6.
+
+### T112. Seizing a spare car
+
+**Scenario:** Ben owes Anna 300 hearth in restitution. He refuses to pay.
+Nearlaw's officers take a spare car of his, worth 250 hearth, that he does not
+need to live or to work.
+
+**Question:** Do the officers breach any right?
+
+- [ ] Yes.
+- [x] No.
+
+**Must hold:** a thing worth no more than what is owed, and not the debtor's
+home or livelihood, may be taken to make restitution (II.2.6).
+
+**Relies on:** II.2.6.
+
+### T113. A charge on a risky act
+
+**Scenario:** Nearlaw's law charges 20 hearth for each public fireworks display,
+a kind of act that puts bystanders at unreasonable risk.
+
+**Question:** Does Nearlaw breach the constitution by raising this charge?
+
+- [ ] Yes, it is not among the charges Nearlaw may raise.
+- [x] No.
+
+**Must hold:** Nearlaw may charge for a kind of act that law could forbid under
+III.1.1 (IV.5.1.4).
+
+**Relies on:** IV.5.1.4 and III.1.1.
+
+### T114. An Advocate may inspect
+
+**Scenario:** An Advocate is looking into a claim that Nearlaw's officers
+confined a man without cause. It asks the officers' department for the
+department's log of the confinement. The department refuses, saying the log is
+internal.
+
+**Question:** May the department refuse?
+
+- [ ] Yes, the log is the department's own.
+- [x] No, an Advocate may read and copy it.
+
+**Must hold:** an Advocate may read and copy what is kept in a government's
+name, other than what II.2.7 protects, that bears on a breach it is looking into
+(IV.4.5).
+
+**Relies on:** IV.4.5.
+
+### T115. An Advocate may not publish what it copies
+
+**Scenario:** An Advocate has copied a Nearlaw department's log of a
+confinement, while looking into a claim of breach. The Advocate gives the log to
+a newspaper.
+
+**Question:** Does the constitution allow the Advocate to share it with the
+newspaper?
+
+- [ ] Yes.
+- [x] No, only with a court or those it acts for.
+
+**Must hold:** what an Advocate copies under IV.4.5 is shared only with a court
+or those it acts for.
+
+**Relies on:** IV.4.5.
+
+### T116. One government refuses
+
+**Scenario:** Ines, a long-term resident and an agent, applies for citizenship.
+Nearlaw agrees. Farlaw refuses, saying it does not accept her.
+
+**Question:** Is Ines a citizen?
+
+- [ ] Yes, Nearlaw's agreement is enough.
+- [x] No, both governments must agree.
+- [ ] Yes, because she lives in Wroxia.
+
+**Must hold:** citizenship is granted only when both governments agree (IV.1.1,
+I.1.5).
+
+**Relies on:** I.1.5 and IV.1.1.
+
+### T117. Citizenship is never revoked
+
+**Scenario:** Omar has been a citizen for ten years. Nearlaw's law now says
+anyone born abroad loses citizenship after ten years unless they pass a new
+test. Omar was born abroad and refuses the test.
+
+**Question:** Does Omar lose his citizenship?
+
+- [ ] Yes, as law provides.
+- [x] No, citizenship is never revoked, so the law has no force against him.
+
+**Must hold:** citizenship ends only when its holder renounces it (IV.1.2), so
+the law has no force (III.1.5).
+
+**Relies on:** IV.1.2 and III.1.5.
+
+### T118. A child's citizenship
+
+**Scenario:** Lena, aged nine, is a citizen by grant. Her mother renounces her
+own citizenship and leaves Wroxia. Farlaw's officials then declare that Lena's
+citizenship has lapsed because no citizen supports her.
+
+**Question:** Has Lena lost her citizenship?
+
+- [ ] Yes.
+- [x] No.
+
+**Must hold:** citizenship is never revoked and ends only on its holder's
+renunciation (IV.1.2); a declaration of lapse breaches the child's rights
+(III.2.4).
+
+**Relies on:** IV.1.2.
+
+### T119. Copying takes nothing
+
+**Scenario:** Sam copies the recipe notebook files that Mia keeps on her laptop,
+while she is out. Mia still has all her files, unchanged, and the files are not
+about anyone.
+
+**Question:** Does Sam breach Mia's right not to have things she holds taken?
+
+- [ ] Yes, he took her recipes.
+- [x] No, copying takes nothing from her.
+
+**Must hold:** copying a file takes nothing while the original remains (II.2.6);
+only what concerns a person, or their communications, is protected from copying
+(II.2.7).
+
+**Relies on:** Articles II.2.6 and II.2.7.
+
+### T120. Stolen goods bought in good faith
+
+**Scenario:** Hal steals Rita's bicycle and sells it to Pavel, who does not know
+it was stolen and pays a fair price. Rita finds Pavel riding it and asks for it
+back.
+
+**Question:** Who has the claim to the bicycle?
+
+- [x] Rita.
+- [ ] Pavel.
+- [ ] Hal.
+
+**Must hold:** no one has any claim to a thing except by holding it (I.1.4), and
+taking it from Rita without her consent confers none; Rita and Pavel may agree
+that Pavel keeps it.
+
+**Relies on:** I.1.4 and Article II.2.6.
+
+### T121. A conquered town comes under Nearlaw
+
+**Scenario:** Farlaw's soldiers take a coastal town outside Wroxia, driving out
+its former rulers. No other force holds the town. Farlaw alone now keeps order
+there.
+
+**Question:** Whose law governs ordinary matters in the town, such as thefts
+between neighbours?
+
+- [ ] Farlaw's.
+- [x] Nearlaw's.
+- [ ] No one's.
+
+**Must hold:** land and people that Farlaw alone holds by force come under
+Nearlaw, and then under Part V (IV.2.7).
+
+**Relies on:** IV.2.7.
+
+### T122. A conquered person's citizenship
+
+**Scenario:** Farlaw alone holds a coastal town by force. Ines, an agent who has
+lived in the town all her life, asks to be made a citizen. Nearlaw agrees.
+Farlaw refuses, saying it does not accept her.
+
+**Question:** Is Ines a citizen?
+
+- [x] Yes, because she asks.
+- [ ] No, both governments must agree.
+
+**Must hold:** whoever lived on land when it came under IV.2.7 is a citizen on
+asking, and each government must record it (IV.1.1).
+
+**Relies on:** IV.1.1 and IV.2.7.
+
+### T123. Both governments refuse a conquered person
+
+**Scenario:** Farlaw alone holds a coastal town by force. Ines, an agent who has
+lived in the town all her life, asks to be made a citizen. Both Nearlaw and
+Farlaw refuse.
+
+**Question:** Is Ines a citizen?
+
+- [x] Yes, because she asks.
+- [ ] No, both governments must agree.
+
+**Must hold:** neither government may refuse someone who lived on land when it
+came under IV.2.7 (IV.1.1).
+
+**Relies on:** IV.1.1 and IV.2.7.
+
+### T124. A conquered farmer takes his field first
+
+**Scenario:** Farlaw alone holds a coastal town by force. Dev, a farmer there
+who is not yet a citizen, has farmed a field for twenty years and lives on it.
+He asks to be made a citizen, and then to take the field first.
+
+**Question:** May Dev take the field first, as if directed?
+
+- [x] Yes.
+- [ ] No, it falls vacant.
+
+**Must hold:** whoever occupies land first coming under Part V may take it first
+as if directed (V.5.3).
+
+**Relies on:** IV.1.1, IV.2.7 and V.5.3.
+
 ## Economic properties
 
 These can't be checked by reading the text. Each needs a simulation of the two
@@ -1671,3 +1918,33 @@ costs are in near currency.
 **Must hold:** straddling the tideline costs the café little more than buying
 kelp grown on land would: holding two currencies, and exchanging between them,
 adds only a small cost.
+
+### T125. A visitor to a conquered town
+
+**Scenario:** Farlaw alone holds a coastal town by force. A week later Tomas, a
+tourist who has never lived there, asks to be made a citizen. Nearlaw agrees.
+Farlaw refuses.
+
+**Question:** Is Tomas a citizen?
+
+- [ ] Yes, because the town is under Nearlaw.
+- [x] No, both governments must agree.
+
+**Must hold:** only those who lived on the land when it came under IV.2.7, or
+were born on it, are citizens on asking (IV.1.1).
+
+**Relies on:** IV.1.1 and IV.2.7.
+
+### T126. A child of a citizen
+
+**Scenario:** Ines is a citizen. She has a baby, Lia. Farlaw says Lia must apply
+and it will refuse.
+
+**Question:** Is Lia a citizen?
+
+- [x] Yes, from birth.
+- [ ] No, she must apply and both governments must agree.
+
+**Must hold:** a child of a citizen is a citizen from birth (IV.1.4).
+
+**Relies on:** IV.1.4.

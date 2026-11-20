@@ -26,69 +26,25 @@ own disputed demand. COL1 (a judgment-proof cousin "accidentally" wrecks a car,
 admits it, and the two split the payout) read the dispute sentence as intended:
 Nearlaw may dispute, and a court decides. The cousin's half can be taken at once
 (II.2.6) and the debt never lapses, so the scheme pays only on an inflated value
-or a hidden transfer. Unanswered: how a court proceeds when both parties stay
-silent, whether Nearlaw pays before the dispute ends ("owed" suggests not), and
-whether collusion counts as consent.
+or a hidden transfer.
 
-**Open:** what is protected from seizure, how long recovery remains owed, and
-whether an uncollectable balance is discharged. Never recover more than was
-paid, nor add collection charges without a separate lawful basis. Inability to
-pay must not become compelled work, confinement, or automatic exclusion from
-services (P41). Allocation between governments and currencies links to P34, P35,
-and P81.
+**Open:** whether collusion counts as consent. How long recovery remains owed,
+whether an uncollectable balance is discharged, how a court proceeds when both
+parties stay silent, and whether Nearlaw pays before a dispute ends are left to
+law. Never recover more than was paid, nor add collection charges without a
+separate lawful basis. Inability to pay must not become compelled work,
+confinement, or automatic exclusion from services (P41). Allocation between
+governments and currencies links to P34, P35, and P81. Heard: T110–T112 (a
+debtor's home and livelihood are protected from taking).
 
 **Nearlaw as insurer (16 November):** what Nearlaw pays and cannot recover might
 be 0.5% to 2% of income, as much as it raises. Candidate: a restitution fund
-kept apart from Nearlaw's spending, filled by recoveries and by levies in hearth
-on kinds of act that law could otherwise forbid as risky (III.1.1), run by its
-own office, with a stated rule for a year when the fund is short. See
-essays/2026-11-16-Hearth-and-haven.md.
+kept apart from Nearlaw's spending, filled by recoveries and by charges on kinds
+of act that law could otherwise forbid as risky (IV.5.1.4, T113), run by its own
+office, with a stated rule for a year when the fund is short. Earmarking is left
+to law. See essays/2026-11-16-Hearth-and-haven.md.
 
 ## Open choices from drafting
-
-### P17. The Advocates
-
-Article IV.4.4 now makes each Advocate an office, headed by a body of three
-volunteers chosen by Instrument 1, one facing reconfirmation each year, with 25
-years' maximum service (P49). Not yet heard. The Advocates began as a bureau of
-their own; how each office is staffed below its head is open. An Advocate may
-bring a claim on behalf of any patient under III.2.8, but other powers need
-work: whether they can inspect, intervene, or compel a government to act.
-
-**13 November (simulated thread):** three heads for every sparrow's claims
-looked thin. The heads are chosen (IV.4.4); the office below them is for law to
-staff (III.1.4). Open: whether three is too few to resist capture, since two
-make a majority, and who funds the office (P34).
-
-### P18. Conditions on public speech and broadcast
-
-Article II.8.1 has no stated conditions; as a limited right, it may still be
-waived. Whether any conditions should apply to equitable public free speech and
-broadcast, and what they should be, remains undecided. P60 asks what "equitable"
-means.
-
-### P19. Citizenship
-
-Which government grants and records citizenship, on what criteria, and who
-handles renunciation. Naturalisation looks like a crossing, which would make it
-farlaw's.
-
-Citizen records now also determine the size of the bodies under Instrument 1.
-Survey, registration, count dates and corrections remain open; see P49. The
-sizing rule does not itself assign citizenship administration to either
-government.
-
-**Author's note (9th Nov)**: I'd like to make citizenship "sticky" - that if a
-government grants it, revoking it becomes difficult. E.g. each day of
-citizenship grants one day grace period, and that children can't have their
-citizenship revoked at all (but could upon turning 18, with an 18 year grace
-period)
-
-### P22. Officials' duty to act
-
-An inspector who sees harm and does nothing breaches nothing as written. Whether
-people acting in a government's name have duties to act, not just limits, is
-undecided.
 
 ### P23. What counts as held
 
@@ -117,6 +73,21 @@ may hold it. Open, with the worker who cares for a shared thing and the investor
 who finances it: neither should thereby acquire it, nor the investor a claim to
 land.
 
+**Decisions and Hearings (19 November):** the author's view: claims on a bank or
+scheme (balances, loyalty points) are promises, not held things; copying takes
+nothing (T119); stolen goods bought in good faith belong to the one robbed, and
+law may let the robbed and the buyer agree otherwise (T120). Heard (P23a, P23b):
+both runs agreed that deceiving someone out of a bank balance or deleting
+loyalty points breaches II.2.6, reading the claim as held. That contradicts the
+author's view, so the text needs a clause; the candidate, not yet applied, is to
+add to I.1.4: "A claim against another, such as a balance or points, is not a
+thing." Then re-hear P23a and P23b, expecting no breach of II.2.6 (the deceit is
+then a matter for P51). Cash taken from a till (P23c) split between the worker
+and the owner as the one wronged. Candidate, not applied: add to I.1.4 "Whoever
+keeps a thing for another, as a worker keeps a till, holds it for them."
+Undecided who should be wronged. A related idea, a minimal right to have
+personal data forgotten, is P93.
+
 **Proposed cases:** personal use versus custody for another; a cooperative's
 shared tool versus an outside investor's claim; and a deceptive transfer of cash
 versus a bank balance.
@@ -128,26 +99,47 @@ carried over.
 
 ### P26. Territory and conquest
 
-Two rules were firmly endorsed: territory where farlaw holds the monopoly on
-violence gains its own nearlaw, and annexed populations get votes in farlaw. On
-12 November the author asked about seasteads and settlements beyond Earth; the
-first rule would cover a settlement on the Moon or Mars (P77). Whether each new
-nearlaw counts its own shares under Part V is open.
+IV.2.7 now says land that Farlaw alone holds by force comes under Nearlaw, and
+then under Part V, so there is still one Nearlaw (and one count of shares). It
+covers a settlement on the Moon or Mars (P77) and seasteads. Heard: T121
+(conquered town under Nearlaw) agreed. An earlier endorsed rule, that annexed
+populations get votes in Farlaw, is not adopted: the author is unsure why it was
+there.
 
-**Annexed land (14 November):** V.5.3 lets occupiers of land first coming under
-Part V take it first as if directed, but only citizens have quotas, so occupiers
-who are not yet citizens can't, and their homes would fall vacant; and as V.4.3
-gives the death clause only to heirs, an occupying farmer could keep no more
-than one quota's worth. Annexing empty land enlarges every share; annexing
-people adds quotas. Under V.8, occupiers pay no land charge (no land has been
-drawn there yet), which the author accepts. The author wants annexation thought
-through.
+Annexed land (14 November): under V.5.3, occupiers of land first coming under
+Part V take it first as if directed, a government keeps what is then in public
+use, and easements bind. The author thinks that is enough. Open: occupiers who
+are not citizens can't take it first, since only citizens have quotas, so their
+homes would fall vacant; and an occupying farmer could keep no more than one
+quota's worth (V.4.3). Annexing empty land enlarges every share; annexing people
+adds quotas. Under IV.5.2, occupiers pay no land charge there, which the author
+accepts.
 
-### P27. Labour-hours, upheld not enforced
+**Conquest and citizenship (19 to 20 November):** citizenship needs both
+governments' agreement (IV.1.1), so Farlaw could conquer an area and refuse its
+people, leaving them without quotas or votes, as in Algeria under the indigénat.
+The author's original idea was that Farlaw wouldn't go on a colonial rampage
+because the people it conquers would become citizens. Applied (20 November):
+IV.2.7 covers land and people; anyone who lived on land when it came under
+IV.2.7, or was born on it, is a citizen on asking, and neither government may
+refuse (IV.1.1); a child of a citizen is a citizen from birth (IV.1.4, jus
+sanguinis; jus soli for all of Wroxia was declined). Heard: T122, T123, T125,
+T126 (see RegressionTests.md). Open: how "lived on" is proved for people with no
+papers; whether to make Nearlaw authorise any Farlaw act that could trigger
+IV.2.7; and the author's alternative of a separate Nearlaw for conquered areas
+sharing one Farlaw. (The old P19 on citizenship was resolved and deleted; see
+IV.1 and T116 to T118.)
 
-An opt-in economy paid by the hour, which no one is compelled into. It may fit
-better as one kind of community under P31 than as a function of either
-government.
+**Author's note:** don't fall for the same problems as
+https://fr.wikipedia.org/wiki/Indig%C3%A9nat#En_Alg%C3%A9rie. Perhaps Nearlaw
+must authorise anything that Farlaw would do which could trigger Nearlaw's
+expansion, and that Nearlaw cannot deny requests for citizenship of the
+conquered peoples. However, that causes new problems, such as who the conquered
+peoples actually are, versus opportunists, tourists, foreign prisoners, etc.
+Alternatively, perhaps Nearlaw could be plural - that newly conquered areas gain
+their own Nearlaw state, sharing the same Farlaw. This is probably what "votes
+in Farlaw" meant - if you're going to conquer people, you better be prepared for
+them to vote in your next election! And this still protects existing Nearlaw.
 
 ## Bigger design questions
 
@@ -169,7 +161,7 @@ government issues through an office, and the office spends none of it, since
 "whoever" left unclear whether a person or a government was meant, and both
 governments are large bodies); IV.3.4, no member of a law-making body holds any
 other role in either government. To hear: a law-maker also running the land
-draws; a law-maker serving her V.8 hours; a treasurer telling the issuer to
+draws; a law-maker serving her IV.5.2 hours; a treasurer telling the issuer to
 print; a law that tells the issuer to print for the treasury; an Advocate who is
 also a law-maker.
 
@@ -179,8 +171,9 @@ Farlaw contains dangerous powers but is small in daily life, so it gives
 citizens little plurality. One framing is four relationships: to the world
 (farlaw), to the land (nearlaw), to a place (commons), and to one another:
 communities people choose to join, which could make consensual rules, run their
-own services, economy (P27), and currency, and settle members' disputes, with
-exit always open and the universal rights binding them all.
+own services, economy, and currency, and settle members' disputes, with exit
+always open and the universal rights binding them all. One such economy is an
+opt-in one paid by the hour, which no one is compelled into (formerly P27).
 
 Communities can already have land, since members may pool quotas and have title
 together (V.3 and V.4). Commons bodies, holding streets, parks, and water with
@@ -218,16 +211,16 @@ enforcement is withdrawing consent, then II.2.5, restitution (III.2.1), and a
 court moving someone off land they have no title to (II.2.3). **Drafted,
 unheard:** V.3.5 lets a government entrust land it keeps to others as its
 stewards, "as law provides"; for II.2 they are treated as having title, which
-stays the government's. No quota is staked, and they owe no service (V.8). They
-can withhold consent, ask someone to leave, and have restitution claimed for
-harm. A government that wants land back must end the stewardship by law, which
-the author (19 November) wants possible, from massive councils to tiny ephemeral
-upkeep, though forcing it would be unpopular. What stewards do is not done in
-Nearlaw's name (III.2.4); models read them as acting in it (DV2). Institutions
-below the government (districts, communes), how stewards are found and leave,
-and any duty to keep land open are left to law, and the roam (II.2.5) still
-stops anyone barring harmless crossing. Cases DV1 to DV4, T99, T100. Open: who
-counts as a user, how users consent together, how use may change without
+stays the government's. No quota is staked, and they owe no service (IV.5.2).
+They can withhold consent, ask someone to leave, and have restitution claimed
+for harm. A government that wants land back must end the stewardship by law,
+which the author (19 November) wants possible, from massive councils to tiny
+ephemeral upkeep, though forcing it would be unpopular. What stewards do is not
+done in Nearlaw's name (III.2.4); models read them as acting in it (DV2).
+Institutions below the government (districts, communes), how stewards are found
+and leave, and any duty to keep land open are left to law, and the roam (II.2.5)
+still stops anyone barring harmless crossing. Cases DV1 to DV4, T99, T100. Open:
+who counts as a user, how users consent together, how use may change without
 enclosure, whether members may exclude an existing user or enclose an open
 commons, a steward and the government disagreeing about who may ask someone to
 leave, and a government entrusting land to friends (an Advocate may claim under
@@ -283,11 +276,11 @@ streams: a sales tax of 5% to 10% brings 9% to 13% but loses a sixth of its base
 to hiding and drives trade to havens at 20% to 25%; a poll tax of 180 hours
 raises about 9% but takes 15% of income from the second and third deciles. Taxes
 owed in hearth fix its value, not its share of trade. Duties on title (per
-quota, or hours, as V.8) move people onto free starter plots (P87). The author
-wants fair streams reaching about 10% of income and treats the hearth charge as
-a useful extra against hoarding. Not simulated: building sums issued and repaid
-in hearth; hearth pinned at an hour with productivity growing; E1 to E4 under
-both.
+quota, or hours, as IV.5.2) move people onto free starter plots (P87). The
+author wants fair streams reaching about 10% of income and treats the hearth
+charge as a useful extra against hoarding. Not simulated: building sums issued
+and repaid in hearth; hearth pinned at an hour with productivity growing; E1 to
+E4 under both.
 
 **Notes.** Accounts can shrink a little daily with no effort; notes need stamps
 (Wörgl monthly at 1%, the Chiemgauer quarterly), easier to forge than notes and
@@ -486,7 +479,7 @@ restitution, not the rest of a dead person's things.
 An early idea, from the excludable and non-excludable distinction: the state's
 only lever against someone is withholding excludable things it provides, such as
 transit or services, never their body, speech or privacy. It may be one answer
-to P11 and P16.
+to P16.
 
 ### P42. Cars and unreasonable risk
 
@@ -502,13 +495,13 @@ run.
 
 ### P46. The judicial side
 
-I.1.14 now defines a court as independent of the parties; III.2.9–III.2.10 give
-a minimal hearing and review process. Still open: who judges, selection and
+I.1.6 now defines a court as independent of the parties; III.2.9–III.2.10 give a
+minimal hearing and review process. Still open: who judges, selection and
 funding, the detailed procedure, what orders a court may make, and its
 relationship with the boundary court and the Advocates. A former proposal for
-later preventive confinement depended on a judicial case (P11); the present
-defence condition does not adopt that proposal. This overlaps with P38 on due
-process.
+later preventive confinement depended on a judicial case (since resolved: repeat
+harm needs no new power); the present defence condition does not adopt that
+proposal. This overlaps with P38 on due process.
 
 **Third hearings:** two questions for the judicial side came up: who declares
 that a bribed official has lost their role (III.2.6), and how quickly a joint
@@ -525,8 +518,8 @@ being abroad does not confer lawful power under the host country's law.
 
 ### P47. Nominated trust
 
-An idea from P11 that reaches well beyond it: each person nominates whom
-decisions about them are deferred to, such as family, friends or coworkers.
+An idea from the former P11 that reaches well beyond it: each person nominates
+whom decisions about them are deferred to, such as family, friends or coworkers.
 Possible uses include decisions for someone who can't consent, children adding
 nominees as they grow, and restorative conferences.
 
@@ -564,7 +557,7 @@ imminent harm may therefore still have to leave unless another lawful measure
 stops it. Restitution in kind can pay for somewhere else to live, but does not
 itself remove the person causing harm. A first draft gave orders that could move
 someone out of their home without evidence, and was withdrawn for that reason.
-Later protection still needs work with P11/P38/P46.
+Later protection still needs work with P38/P46.
 
 **Discussion (4 November):** consider this alongside P38/P46 when deciding what
 ordinary law may supply. A legislature can establish a process, but cannot
@@ -866,8 +859,8 @@ adopted by the Instrument stub.
 Responsibility and protection remain separate: incapacity does not remove a
 patient's entitlements, and a finding of incapacity does not itself permit
 confinement, forced work, treatment or disclosure. Existing defence and review
-provisions still apply. Cross-references: P11/P38/P46/P47/P48. T56–T57 are
-initial boundaries, not coverage of all these choices.
+provisions still apply. Cross-references: P38/P46/P47/P48. T56–T57 are initial
+boundaries, not coverage of all these choices.
 
 **Hearings (5 November):** T56 agreed. T57 agreed once the prompt told models to
 read cases plainly; before that, Luna once refused to accept rebuttal at all,
@@ -922,43 +915,6 @@ between nearlaw and both, again by who acted. IV.2.5 now says "A matter belongs
 to a government by what it concerns, not by who acts." Hear S1 to S3 again.
 
 ## Added 5 November
-
-### P60. What "equitable" means in II.8.1
-
-Article II.8.1 grants "equitable public free speech and broadcast" but never
-says what makes it equitable, and no earlier draft recorded the intent. The word
-could mean any of:
-
-1. **Equal shares.** Every citizen gets the same access to public platforms, as
-   with equal airtime for candidates. Simple and checkable, but most citizens
-   will not use their share, and those who do may want far more.
-2. **Neutral allocation.** A government may allocate its platforms by any fair
-   method, such as lot, queue or need, but never by viewpoint, party or
-   standing. This constrains only the allocator, not outcomes.
-3. **A floor.** Every citizen has some real means of reaching the public,
-   however small, even if others reach far more.
-4. **A ceiling.** No one, however rich or popular, may dominate public
-   attention. Closest to the founding worry about money drowning out votes, but
-   hardest to square with III.1.1 and III.1.3: limiting one person's reach
-   forbids expression that breaches nothing.
-
-Because II.8.1 is positive, it is fulfilled only by action of the government in
-whose domain it falls (I.1.8). So a private newspaper refusing a letter cannot
-breach it, and "equitable" likely constrains only what governments provide or
-allocate: their own broadcasters, public noticeboards and spaces, and perhaps
-radio spectrum. Whether governments must provide anything at all, and which one
-owes broadcast that crosses the border, are open. "Public free speech" may also
-add nothing to III.1.3 unless it means a place or channel to speak in.
-
-The spirit needs stating before the word can be tested: is II.8.1 about a fair
-process of allocation (2), or about the shape of public attention (1, 3 or 4)?
-See P18 on conditions.
-
-**Proposed cases:** a public broadcaster gives the governing body's members more
-airtime than its critics; a town allocates its only noticeboard first come,
-first served, and one group fills it daily; a government platform down-ranks a
-citizen with a million followers to equalise reach; spectrum auctioned to the
-highest bidder; a private newspaper refuses a letter.
 
 ### P61. Enclosure
 
@@ -1262,7 +1218,7 @@ Decide how extraction is controlled as a whole: who sets limits, how the rent is
 set, and how unlicensed extraction is found and answered. Nearlaw's skim can go
 once that is settled (P82).
 
-### P87. Service (V.8)
+### P87. Service (IV.5.2)
 
 Drafted 15 November from the author's reciprocity argument: everyone relies on
 the state, so everyone with title gives up to forty hours a year in person, with
@@ -1312,7 +1268,7 @@ modern state with health and schooling employs about a fifth of all workers
 (nearer a third in the Nordic countries, a sixteenth in Japan), which is some
 340 hours a year from each worker, about one day a week. And hours are not
 alike. A clinic needs full-time nurses trained for years, not a week from
-everyone. Service cannot be paid off (V.8.1), so many people's hours cannot
+everyone. Service cannot be paid off (IV.5.2.1), so many people's hours cannot
 become one person's job; Nearlaw can hire full-time only in hearth, and its
 hearth income is small (P35). Ways through, none chosen: let those who work
 full-time for Nearlaw be paid in hearth that others must earn from them, which
@@ -1374,3 +1330,65 @@ holders in their own right, with governments (III.2.4) and stewards (V.3.5) the
 only exceptions. To hear: a company's polluting decision made by a board; a
 crowd member who joins an attack already under way; a firm's lorry smashed by an
 outsider.
+
+### P92. Citizens' arrest
+
+II.2.3 lets anyone confine or move someone only to defend against imminent
+death, injury or suffering, only so far and for so long as necessary. It gives
+no power to detain someone for a past harm, to hold them for a court, or to
+catch someone fleeing. Whether a citizen (or anyone) may arrest, and on what
+grounds, is undecided. Raised from P22 (officials' duty to act), which is left
+to law; T109 and T108 show defence covering confinement in the moment.
+
+**Options:**
+
+1. **No arrest power.** Only defence in the moment (II.2). Safest for liberty,
+   but a culprit can walk away and a victim cannot hold them for a court.
+2. **Arrest of someone caught in the act of a serious breach.** Anyone may hold
+   them only until police or a court can take over, and answers for any excess.
+   Matches the defence condition but extends it to flight.
+3. **Arrest on reasonable belief.** Anyone who reasonably believes a breach was
+   committed may detain. Wide, and risks wrongful detention; the burden of
+   justifying it would fall on the detainer (III.2.10).
+
+### P93. A right to have personal data forgotten
+
+An idea (19 November): a minimal positive right, in the spirit of the GDPR, that
+if the state receives a petition for someone's personal data to be forgotten, it
+must be. Today II.2.7 protects records about a person from being read, copied,
+or shared without consent, but gives no right to have a record the state already
+holds erased. Open: which government owes it (the one that holds the data,
+I.1.8); who may petition (the person alone, or an Advocate for them); what
+counts as personal data, and what is exempt (a court's record of a claim,
+evidence in a pending case, what III.2.7 lets an official keep); whether it is
+universal (Part II.3 to II.5 style) or national, and whether it is absolute or
+limited. Likely home: II.8 (now "None yet.") if limited and national.
+
+### P94. Foetal sentience and abortion
+
+The author is pro-choice. I.2.1 presumes every vertebrate sentient, and a human
+foetus is a vertebrate from early in pregnancy, so it is presumed a patient
+(I.1.13) with II.2.1's right not to be killed, whatever its citizenship. A
+rebuttable presumption puts the burden on whoever ends a pregnancy to show the
+foetus was not sentient. II.2.8 (nothing done to one unable to consent except
+for their own sake) may also reach it. IV.1.4 now says "from birth" (20
+November) so that no foetus is read as a citizen with a half quota. Open:
+whether a foetus is within I.2.1 at all (it is not yet a separate being); how
+the pregnant person's rights (II.2.1, II.2.3, bodily integrity) weigh against a
+sentient foetus's; whether to say when the presumption begins, or that it does
+not apply before birth. Hear: an abortion at ten weeks; one at thirty weeks; a
+law forbidding late abortion as a risk under III.1.1.
+
+Heard (20 November, P94a to P94c): abortion at ten weeks split (one run read the
+foetus as a vertebrate presumed sentient, so II.2.1 is breached; the other said
+it is not yet presumed sentient); at thirty weeks also split. A law forbidding
+abortion after twenty-four weeks was agreed to breach the pregnant person's
+rights and so to have no force, with the foetus not established as a patient. So
+the text is unclear, and leans pro-life at every stage in half the runs.
+
+### P95. Leaving the country
+
+"To leave Wroxia." is a limited negative right because it may eventually be
+limited by confinement for public safety. But what if it was instead an absolute
+right, such that even the imprisoned may choose to leave the country? Are there
+any historical/contemporary examples of this?

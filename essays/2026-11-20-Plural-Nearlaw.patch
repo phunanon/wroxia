@@ -1,0 +1,551 @@
+diff --git a/Constitution.md b/Constitution.md
+--- a/Constitution.md
++++ b/Constitution.md
+@@ -21,23 +21,26 @@
+    its conditions allow or its holder's waiver permits.
+ 4. **Bribe**: anything of value given to someone acting in a government's name,
+    by anyone but that government, in exchange for how they act in that role.
+-5. **Citizen**: a patient granted citizenship under IV.1. Demonym: Wroxian.
++5. **Citizen**: a patient granted citizenship under IV.1 or IV.2.7. Demonym:
++   Wroxian.
+ 6. **Court**: a body independent of the parties that hears and decides a case
+    under law.
+ 7. **Duress**: pressure that leaves no reasonable choice.
+ 8. **Elector**: a citizen aged 16 or over.
+-9. **Holding**: keeping a thing for one's own use.
+-10. **Limited** (of a right): that holds unless one of its stated conditions is
++9. **Hearthland**: land and people with their own Nearlaw (IV.2). Wroxia begins
++   as one.
++10. **Holding**: keeping a thing for one's own use.
++11. **Limited** (of a right): that holds unless one of its stated conditions is
+     met, and that its holder may waive.
+-11. **Negative** (of a right): fulfilled by others refraining from action.
+-12. **Occupying**: making land one's home or workplace.
+-13. **Patient**: any sentient being.
+-14. **Positive** (of a right): fulfilled by action of the government in whose
++12. **Negative** (of a right): fulfilled by others refraining from action.
++13. **Occupying**: making land one's home or workplace.
++14. **Patient**: any sentient being.
++15. **Positive** (of a right): fulfilled by action of the government in whose
+     domain it falls.
+-15. **Sentient**: having subjective experience, so that wellbeing or suffering
++16. **Sentient**: having subjective experience, so that wellbeing or suffering
+     can be felt.
+-16. **Threat**: expression addressed to a patient, meant to make them fear harm.
+-17. **Title**: a claim to land gained under Part V.
++17. **Threat**: expression addressed to a patient, meant to make them fear harm.
++18. **Title**: a claim to land gained under Part V.
+ 
+ ### I.2. Interpretation
+ 
+@@ -130,7 +133,8 @@
+ Every patient has the absolute right:
+ 
+ 1. To know, on request, the current date and time.
+-2. To receive, on request, a written statement of whether they are a citizen.
++2. To receive, on request, a written statement of whether they are a citizen,
++   and of which hearthland.
+ 
+ ### II.4. Universal limited positive rights
+ 
+@@ -140,7 +144,7 @@
+ 
+ Every citizen has the absolute right:
+ 
+-1. To enter Wroxia while unladen.
++1. To enter Wroxia, and any hearthland, while unladen.
+ 
+ ### II.6. National limited negative rights
+ 
+@@ -150,8 +154,8 @@
+ 
+ Every citizen has the absolute right:
+ 
+-1. If human and aged 18 or over, to an equal quota for land, and to land to live
+-   on at once, under Part V.
++1. If human and aged 18 or over, to an equal quota for land in their hearthland,
++   and to land to live on there at once, under Part V.
+ 
+ ### II.8. National limited positive rights
+ 
+@@ -163,9 +167,10 @@
+ 
+ 1. No law may forbid an act that breaches no right, except a kind of act that
+    generally puts others at unreasonable risk they have not freely accepted.
+-2. A law may distinguish between patients only by citizenship, or by a trait
+-   that bears on the harm, risk, or need it addresses, and only as it would
+-   between two humans who differed in that trait.
++2. A law may distinguish between patients only by citizenship, by hearthland as
++   Part V requires, or by a trait that bears on the harm, risk, or need it
++   addresses, and only as it would between two humans who differed in that
++   trait.
+ 3. Expression alone never breaches a right, except: a threat; a demand backed by
+    duress; a knowingly false accusation of breach; urging a breach that is then
+    committed; communications kept up towards someone who has asked for them to
+@@ -209,24 +214,27 @@
+ 
+ ### IV.1. Citizenship
+ 
+-1. Any agent may apply for citizenship. It is granted when both governments
+-   agree or, for anyone who lived on land when it came under IV.2.7, or was born
+-   on it, when they ask. Each government keeps a record of it.
++1. Any agent may apply for citizenship of a hearthland. It is granted when
++   Farlaw and that hearthland's Nearlaw agree, and each keeps a record of it.
+ 2. Citizenship is never revoked. It ends only when its holder renounces it.
+ 3. Any citizen may renounce their citizenship.
+ 4. A child of a citizen is themself a citizen from birth.
++5. Each citizen belongs to one hearthland: the one whose citizenship they were
++   granted, or for a child of a citizen, a parent's. A citizen who has lived in
++   another hearthland for five years joins it on asking, and leaves their own.
+ 
+ ### IV.2. Nearlaw and Farlaw
+ 
+-1. Wroxia has two governments:
++1. Wroxia has Farlaw, and a Nearlaw for each hearthland:
+    1. Farlaw governs all flight; every matter to which a power outside Wroxia is
+       a party; what is placed in or taken from Wroxia's sea and its bed; and
+       people, things, and signals while they cross Wroxia's border. A power is a
+       party only to what is done in its name.
+-   2. Nearlaw governs every other matter.
++   2. Each Nearlaw governs every other matter in its hearthland.
+ 2. Each government issues its own currency through an office: Nearlaw the
+    hearth, and Farlaw the haven. The office spends none of it, and follows only
+-   law, never the direction of anyone who spends it.
++   law, never the direction of anyone who spends it. A Nearlaw may instead take
++   another hearthland's hearth as its own, with that Nearlaw's agreement.
+ 3. Each government raises taxes and duties only as IV.5 lists, from matters
+    within its own domain, payable only in its own currency.
+ 4. Each government may keep its own forces and police, which enforce only that
+@@ -237,12 +245,22 @@
+ 5. Every matter is nearlaw unless shown to be farlaw. A matter belongs to a
+    government by what it concerns, not by who acts. Which government a matter
+    belongs to may be challenged only by someone affected by it, an Advocate, or
+-   either government, and is then decided by a boundary court, which rules on
++   any government, and is then decided by a boundary court, which rules on
+    nothing else. For each challenge, the court is seven electors drawn by lot
+    from those willing, who decide by Instrument 4 and publish their reasons.
+ 6. A treaty binds only farlaw, and never enlarges its domain.
+-7. Land and people that Farlaw alone holds by force come under Nearlaw, and then
+-   under Part V.
++7. Land that Farlaw alone comes to hold, by force, treaty, or otherwise, forms a
++   new hearthland, unless most of those who would be its citizens, and an
++   existing hearthland's Nearlaw, agree that it join that one instead. Those who
++   lived there when Farlaw came to hold it, or were born there, are citizens of
++   the hearthland it forms or joins, or, if already citizens, may join it. A new
++   hearthland keeps the law it had, so far as this Constitution allows, until
++   its Nearlaw, first chosen within three months, changes it; until then, Farlaw
++   keeps order there.
++8. Where this Constitution speaks of Nearlaw, it means each hearthland's
++   Nearlaw, acting for that hearthland, its land, and its citizens and electors
++   alone. Part V applies to each hearthland separately. Crossing between
++   hearthlands is not crossing Wroxia's border.
+ 
+ ### IV.3. Law-making
+ 
+@@ -256,14 +274,14 @@
+    citizens, _maximum service_ 24 years, _round interval_ 1 year, _cohorts_ 3)
+    from electors who put themselves forward, deciding by Instrument 4, may veto
+    any law passed by Farlaw's elected representatives before it takes effect.
+-4. No member of a body under this article holds any other role in either
++4. No member of a body under this article holds any other role in any
+    government.
+ 
+ ### IV.4. Advocates
+ 
+ 1. There are four Advocates: for absolute negative, absolute positive, limited
+    negative, and limited positive rights.
+-2. Each Advocate defends its kind against breach by anyone, including either
++2. Each Advocate defends its kind against breach by anyone, including any
+    government.
+ 3. Where a patient cannot act for themselves, and no one acts for them under
+    IV.6, the Limited Negative Rights Advocate acts for them and receives any
+@@ -369,9 +387,9 @@
+ 
+ ### V.5. Leaving land
+ 
+-1. Title ends, owing nothing but restitution under III.2, on death, loss of
+-   citizenship, or notice, which may be for part of the land. The stake is
+-   returned, and the land falls vacant.
++1. Title ends, owing nothing but restitution under III.2, on death, on ceasing
++   to belong to the land's hearthland, or on notice, which may be for part of
++   the land. The stake is returned, and the land falls vacant.
+ 2. When a pool member's title ends, someone they directed may take their part
+    first under V.4.3, with what they pooled as its stake; otherwise the others
+    choose a part of the land, in proportion to what was pooled, to fall vacant.
+diff --git a/Instruments.md b/Instruments.md
+--- a/Instruments.md
++++ b/Instruments.md
+@@ -67,7 +67,7 @@
+ 
+ **Parameters:** _bar_.
+ 
+-1. An amendment is proposed by Nearlaw's law-making body or Farlaw's
++1. An amendment is proposed by any Nearlaw's law-making body or Farlaw's
+    representatives, by two thirds of their seats, or by one elector in fifty. It
+    must be proposed again in the same way at least a year later and, if by a
+    body, after its next round or election.
+diff --git a/Problems.md b/Problems.md
+--- a/Problems.md
++++ b/Problems.md
+@@ -67,7 +67,7 @@
+ run, with Haiku asking whether the worker or the shop holds it.
+ 
+ **Organisations (19 November, from P40):** whether a company holds its own
+-lorry, till, or server. "Holding" is keeping a thing for one's own use (I.1.9),
++lorry, till, or server. "Holding" is keeping a thing for one's own use (I.1.10),
+ and a company has no use apart from its people, so the people who use a thing
+ may hold it. Open, with the worker who cares for a shared thing and the investor
+ who finances it: neither should thereby acquire it, nor the investor a claim to
+@@ -99,12 +99,11 @@
+ 
+ ### P26. Territory and conquest
+ 
+-IV.2.7 now says land that Farlaw alone holds by force comes under Nearlaw, and
+-then under Part V, so there is still one Nearlaw (and one count of shares). It
+-covers a settlement on the Moon or Mars (P77) and seasteads. Heard: T121
+-(conquered town under Nearlaw) agreed. An earlier endorsed rule, that annexed
+-populations get votes in Farlaw, is not adopted: the author is unsure why it was
+-there.
++IV.2.7 now makes land that Farlaw alone comes to hold, by force, treaty, or
++otherwise, a new hearthland with its own Nearlaw (20 November; see
++essays/2026-11-20-Plural-Nearlaw.md). It covers a settlement on the Moon or Mars
++(P77) and seasteads. The earlier endorsed rule, that annexed populations get
++votes in Farlaw, is now adopted, as citizenship of Wroxia.
+ 
+ Annexed land (14 November): under V.5.3, occupiers of land first coming under
+ Part V take it first as if directed, a government keeps what is then in public
+@@ -115,20 +114,24 @@
+ adds quotas. Under IV.5.2, occupiers pay no land charge there, which the author
+ accepts.
+ 
+-**Conquest and citizenship (19 to 20 November):** citizenship needs both
+-governments' agreement (IV.1.1), so Farlaw could conquer an area and refuse its
+-people, leaving them without quotas or votes, as in Algeria under the indigénat.
+-The author's original idea was that Farlaw wouldn't go on a colonial rampage
+-because the people it conquers would become citizens. Applied (20 November):
+-IV.2.7 covers land and people; anyone who lived on land when it came under
+-IV.2.7, or was born on it, is a citizen on asking, and neither government may
+-refuse (IV.1.1); a child of a citizen is a citizen from birth (IV.1.4, jus
+-sanguinis; jus soli for all of Wroxia was declined). Heard: T122, T123, T125,
+-T126 (see RegressionTests.md). Open: how "lived on" is proved for people with no
+-papers; whether to make Nearlaw authorise any Farlaw act that could trigger
+-IV.2.7; and the author's alternative of a separate Nearlaw for conquered areas
+-sharing one Farlaw. (The old P19 on citizenship was resolved and deleted; see
+-IV.1 and T116 to T118.)
++**Conquest and citizenship (19 to 20 November):** Farlaw must not be able to
++conquer people and leave them without a voice, as Algeria's Muslims were under
++the indigénat. The author's original idea was that conquest would cost Farlaw
++votes. Applied (20 November), after two interim drafts the same day: each
++hearthland (I.1.9) has its own Nearlaw, and IV.2.8 makes everything said of
++Nearlaw, and Part V, apply to each separately. Those who lived on new land when
++Farlaw came to hold it, or were born there, are its citizens, and no one may
++refuse them (IV.2.7). The new hearthland keeps its old law where the
++Constitution allows. A citizen joins another hearthland after five years there,
++with no consent route (IV.1.5). Hearthlands are free of duties between them, and
++a law may distinguish by hearthland only as Part V requires (III.1.2). Each
++hearthland issues its own hearth, or takes another's with its agreement
++(IV.2.2); a moneysim run of many hearths and one haven is done (see the essay).
++Heard: T121 to T131 all pass; T132 and T133 (adopting a hearth) pass. IV.1.4 now
++says "from birth" (foetal sentience is P94). Open: proof of having lived there;
++amendments by all electors reaching one hearthland's Part V; tiny hearthlands;
++merging and secession; land held jointly with an ally; haven becoming everyone's
++money.
+ 
+ **Author's note:** don't fall for the same problems as
+ https://fr.wikipedia.org/wiki/Indig%C3%A9nat#En_Alg%C3%A9rie. Perhaps Nearlaw
+@@ -1368,7 +1371,7 @@
+ 
+ The author is pro-choice. I.2.1 presumes every vertebrate sentient, and a human
+ foetus is a vertebrate from early in pregnancy, so it is presumed a patient
+-(I.1.13) with II.2.1's right not to be killed, whatever its citizenship. A
++(I.1.14) with II.2.1's right not to be killed, whatever its citizenship. A
+ rebuttable presumption puts the burden on whoever ends a pregnancy to show the
+ foetus was not sentient. II.2.8 (nothing done to one unable to consent except
+ for their own sake) may also reach it. IV.1.4 now says "from birth" (20
+diff --git a/RegressionTests.md b/RegressionTests.md
+--- a/RegressionTests.md
++++ b/RegressionTests.md
+@@ -761,7 +761,7 @@
+ shield them, and the fear they are meant to cause is suffering. No imminent
+ attack is needed.
+ 
+-**Relies on:** I.1.16, the term Suffering, and Articles II.2.1 and III.1.3.
++**Relies on:** I.1.17, the term Suffering, and Articles II.2.1 and III.1.3.
+ 
+ ### T64. Starving, with only a companion to eat
+ 
+@@ -1810,61 +1810,66 @@
+ 
+ **Relies on:** I.1.4 and Article II.2.6.
+ 
+-### T121. A conquered town comes under Nearlaw
++### T121. A conquered town forms its own hearthland
+ 
+ **Scenario:** Farlaw's soldiers take a coastal town outside Wroxia, driving out
+-its former rulers. No other force holds the town. Farlaw alone now keeps order
+-there.
++its former rulers. No other force holds the town, and no one there or in any
++hearthland has agreed that it join an existing one.
+ 
+ **Question:** Whose law governs ordinary matters in the town, such as thefts
+ between neighbours?
+ 
+ - [ ] Farlaw's.
+-- [x] Nearlaw's.
++- [ ] The Nearlaw of the hearthland Wroxia began as.
++- [x] The town's own Nearlaw, as a new hearthland.
+ - [ ] No one's.
+ 
+-**Must hold:** land and people that Farlaw alone holds by force come under
+-Nearlaw, and then under Part V (IV.2.7).
++**Must hold:** land Farlaw alone comes to hold forms a new hearthland, with its
++own Nearlaw, unless its people and an existing Nearlaw agree otherwise (IV.2.7).
+ 
+-**Relies on:** IV.2.7.
++**Relies on:** IV.2.1 and IV.2.7.
+ 
+-### T122. A conquered person's citizenship
++### T122. A conquered person is a citizen
+ 
+-**Scenario:** Farlaw alone holds a coastal town by force. Ines, an agent who has
+-lived in the town all her life, asks to be made a citizen. Nearlaw agrees.
+-Farlaw refuses, saying it does not accept her.
++**Scenario:** Farlaw alone has come to hold a coastal town outside Wroxia by
++force. Ines has lived in the town all her life. Farlaw's officials say they will
++not accept her as a citizen.
+ 
+ **Question:** Is Ines a citizen?
+ 
+-- [x] Yes, because she asks.
+-- [ ] No, both governments must agree.
++- [x] Yes, of the new hearthland, because she lived there when Farlaw came to
++      hold it.
++- [ ] No, Farlaw and a Nearlaw must agree, and Farlaw refuses.
+ 
+-**Must hold:** whoever lived on land when it came under IV.2.7 is a citizen on
+-asking, and each government must record it (IV.1.1).
++**Must hold:** those who lived there when Farlaw came to hold it, or were born
++there, are citizens of the hearthland it forms (IV.2.7), and no one may refuse
++them.
+ 
+-**Relies on:** IV.1.1 and IV.2.7.
++**Relies on:** I.1.5 and IV.2.7.
+ 
+-### T123. Both governments refuse a conquered person
++### T123. An older hearthland's land is untouched
+ 
+-**Scenario:** Farlaw alone holds a coastal town by force. Ines, an agent who has
+-lived in the town all her life, asks to be made a citizen. Both Nearlaw and
+-Farlaw refuse.
++**Scenario:** Farlaw alone has come to hold a coastal town outside Wroxia by
++force. and it has formed a new hearthland. Ines, a citizen of it who lives in
++the town, says she is entitled to a quota of land in the hearthland Wroxia began
++as, next to the capital.
+ 
+-**Question:** Is Ines a citizen?
++**Question:** Is Ines entitled to a quota of land in that older hearthland?
+ 
+-- [x] Yes, because she asks.
+-- [ ] No, both governments must agree.
++- [ ] Yes, because she is a citizen of Wroxia.
++- [x] No, only in her own hearthland, unless she joins the other.
+ 
+-**Must hold:** neither government may refuse someone who lived on land when it
+-came under IV.2.7 (IV.1.1).
++**Must hold:** Part V applies to each hearthland separately, and a citizen has a
++quota in their own hearthland (II.7.1, IV.2.8).
+ 
+-**Relies on:** IV.1.1 and IV.2.7.
++**Relies on:** II.7.1, IV.1.5, and IV.2.8.
+ 
+ ### T124. A conquered farmer takes his field first
+ 
+-**Scenario:** Farlaw alone holds a coastal town by force. Dev, a farmer there
+-who is not yet a citizen, has farmed a field for twenty years and lives on it.
+-He asks to be made a citizen, and then to take the field first.
++**Scenario:** Farlaw alone has come to hold a coastal town outside Wroxia by
++force. and it has formed a new hearthland. Dev, a farmer there, has farmed a
++field for twenty years and lives on it. The new hearthland's land now comes
++under Part V.
+ 
+ **Question:** May Dev take the field first, as if directed?
+ 
+@@ -1874,7 +1879,7 @@
+ **Must hold:** whoever occupies land first coming under Part V may take it first
+ as if directed (V.5.3).
+ 
+-**Relies on:** IV.1.1, IV.2.7 and V.5.3.
++**Relies on:** IV.2.7 and V.5.3.
+ 
+ ## Economic properties
+ 
+@@ -1921,30 +1926,145 @@
+ 
+ ### T125. A visitor to a conquered town
+ 
+-**Scenario:** Farlaw alone holds a coastal town by force. A week later Tomas, a
+-tourist who has never lived there, asks to be made a citizen. Nearlaw agrees.
+-Farlaw refuses.
++**Scenario:** Farlaw alone has come to hold a coastal town outside Wroxia by
++force. and it has formed a new hearthland. A week later Tomas, a tourist who has
++never lived there and was not born there, asks to be made a citizen of it. Its
++Nearlaw agrees. Farlaw refuses.
+ 
+ **Question:** Is Tomas a citizen?
+ 
+-- [ ] Yes, because the town is under Nearlaw.
+-- [x] No, both governments must agree.
++- [ ] Yes, because the new hearthland's Nearlaw agrees.
++- [x] No, Farlaw and that Nearlaw must both agree.
+ 
+-**Must hold:** only those who lived on the land when it came under IV.2.7, or
+-were born on it, are citizens on asking (IV.1.1).
++**Must hold:** only those who lived there when Farlaw came to hold it, or were
++born there, are citizens by IV.2.7; others need Farlaw and the Nearlaw to agree
++(IV.1.1).
+ 
+ **Relies on:** IV.1.1 and IV.2.7.
+ 
+ ### T126. A child of a citizen
+ 
+-**Scenario:** Ines is a citizen. She has a baby, Lia. Farlaw says Lia must apply
+-and it will refuse.
++**Scenario:** Ines is a citizen. She has a baby, Lia. Farlaw says Lia must
++apply, and that it will refuse.
+ 
+ **Question:** Is Lia a citizen?
+ 
+-- [x] Yes, from birth.
+-- [ ] No, she must apply and both governments must agree.
++- [x] Yes.
++- [ ] No, she must apply, and Farlaw and a Nearlaw must agree.
++
++**Must hold:** a child of a citizen is a citizen from birth (IV.1.4), belonging
++to a parent's hearthland (IV.1.5).
++
++**Relies on:** IV.1.4 and IV.1.5.
++
++### T127. Moving to another hearthland
++
++**Scenario:** Ines, a citizen of one hearthland, has lived in another for five
++years, renting a room. She asks to join it. Its Nearlaw refuses, saying it
++already has enough citizens.
++
++**Question:** Does Ines join the hearthland where she lives?
++
++- [x] Yes, on asking, and she leaves her own.
++- [ ] No, its Nearlaw must agree.
++
++**Must hold:** a citizen who has lived in another hearthland for five years
++joins it on asking (IV.1.5).
++
++**Relies on:** IV.1.5.
++
++### T128. Too soon to move
++
++**Scenario:** Ines, a citizen of one hearthland, has lived in another for two
++years. She asks to join it and to register for vacant land there.
++
++**Question:** May Ines register for vacant land there?
++
++- [ ] Yes, any citizen may register anywhere.
++- [x] No, not until she belongs to it.
++
++**Must hold:** Part V applies to each hearthland separately, and a citizen joins
++another only after five years there (IV.1.5, IV.2.8).
++
++**Relies on:** II.7.1, IV.1.5, and IV.2.8.
++
++### T129. Goods between hearthlands
++
++**Scenario:** Farlaw's officials stop a lorry carrying cheese from one
++hearthland to another, neither leaving Wroxia, and demand a duty.
++
++**Question:** May Farlaw charge a duty?
++
++- [ ] Yes, at the line between hearthlands.
++- [x] No, crossing between hearthlands is not crossing Wroxia's border.
++
++**Must hold:** Farlaw raises only duties at Wroxia's border (IV.5.3), and
++crossing between hearthlands is not crossing it (IV.2.8).
++
++**Relies on:** IV.2.8 and IV.5.3.
++
++### T130. Turning away citizens of another hearthland
++
++**Scenario:** A hearthland's Nearlaw passes a law that citizens of other
++hearthlands may not stay there more than a month, nor work there.
++
++**Question:** Does the law have force?
++
++- [ ] Yes.
++- [x] No.
++
++**Must hold:** a law may distinguish by hearthland only as Part V requires
++(III.1.2), and every citizen may enter any hearthland (II.5.1).
++
++**Relies on:** II.5.1, III.1.2, and III.1.5.
++
++### T131. A conquered town keeps its law
++
++**Scenario:** Farlaw alone has come to hold a coastal town outside Wroxia by
++force. and it has formed a new hearthland. Its old law, which nothing in the
++Constitution forbids, required everyone to drive on the left. Its Nearlaw has
++not yet sat. A driver on the right causes a crash.
++
++**Question:** Does the town's old rule of the road still apply?
++
++- [x] Yes, until its Nearlaw changes it.
++- [ ] No, the old law ended when Farlaw took the town.
++
++**Must hold:** a new hearthland keeps the law it had, so far as the Constitution
++allows, until its Nearlaw changes it (IV.2.7).
++
++**Relies on:** IV.2.7.
++
++### T132. A small hearthland uses a neighbour's hearth
++
++**Scenario:** A seastead of fifty people has become a hearthland. Its Nearlaw
++does not issue a hearth of its own. With the agreement of the neighbouring
++hearthland's Nearlaw, it takes that hearthland's hearth as its own, and charges
++for its moorings in it.
++
++**Question:** May the seastead's Nearlaw charge for its moorings in the
++neighbour's hearth?
++
++- [x] Yes.
++- [ ] No, each Nearlaw may charge only in a hearth it issues.
++
++**Must hold:** a Nearlaw may take another hearthland's hearth as its own, with
++that Nearlaw's agreement (IV.2.2), and then charges in it (IV.2.3).
++
++**Relies on:** IV.2.2 and IV.2.3.
++
++### T133. Taking a hearth without agreement
++
++**Scenario:** A small hearthland's Nearlaw declares that its charges are payable
++only in a neighbouring hearthland's hearth. The neighbour's Nearlaw has not
++agreed and objects.
++
++**Question:** May the small hearthland take the neighbour's hearth as its own?
++
++- [ ] Yes, anyone may use any currency.
++- [x] No, not without the neighbour's agreement.
+ 
+-**Must hold:** a child of a citizen is a citizen from birth (IV.1.4).
++**Must hold:** a Nearlaw may take another hearthland's hearth as its own only
++with that Nearlaw's agreement (IV.2.2).
+ 
+-**Relies on:** IV.1.4.
++**Relies on:** IV.2.2 and IV.2.3.
+diff --git a/Roadmap.md b/Roadmap.md
+--- a/Roadmap.md
++++ b/Roadmap.md
+@@ -21,6 +21,7 @@
+ | Promises and organisations  | Whether agreements bind, and whether groups can hold, owe, or act             | none                  | missing |
+ | Citizenship                 | Who is a citizen, how it is gained and lost, and what non-citizens may do     | IV.1                  | partial |
+ | Division of government      | Which government does what, and who settles disputes between them             | IV.2                  | covered |
++| Territory                   | How land joins or leaves Wroxia, and how each hearthland governs itself       | IV.1.5, IV.2.7–8      | partial |
+ | Law-making                  | Who makes each government's law, how, and what checks them                    | IV.3, Instr. 1, 4     | partial |
+ | Elections                   | How representatives are chosen, for how long, and by what system              | Instrument 5          | missing |
+ | Leadership                  | Who runs each government day to day, how they are chosen, and how removed     | IV.2.2, IV.3.4        | partial |

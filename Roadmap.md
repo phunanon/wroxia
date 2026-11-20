@@ -16,7 +16,7 @@ _out_ means deliberately left to ordinary law or a later version.
 | Supremacy                   | What law may do, and what happens to law that breaks it                       | III.1                 | covered |
 | Protection from harm        | What no one may do to anyone, and when that may be limited                    | II.1, II.2            | covered |
 | Remedies                    | What is owed for a breach, who pays, and how it is recovered                  | III.2                 | partial |
-| Positive entitlements       | What each person is owed: shelter, food, health, schooling, or none           | II.3, II.4, II.7–8    | partial |
+| Positive entitlements       | What each person is owed: shelter, food, health, schooling, or none           | II.3, II.4, II.7      | partial |
 | Land and property           | Who may hold land and things, how they are gained, passed on, and ended       | I.2, Part V           | covered |
 | Promises and organisations  | Whether agreements bind, and whether groups can hold, owe, or act             | none                  | missing |
 | Citizenship                 | Who is a citizen, how it is gained and lost, and what non-citizens may do     | IV.1                  | partial |

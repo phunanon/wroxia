@@ -21,7 +21,7 @@ our undistorted intentions.
    its conditions allow or its holder's waiver permits.
 4. **Bribe**: anything of value given to someone acting in a government's name,
    by anyone but that government, in exchange for how they act in that role.
-5. **Citizen**: a patient recognised as a citizen by law. Demonym: Wroxian.
+5. **Citizen**: a patient granted citizenship under IV.1. Demonym: Wroxian.
 6. **Court**: a body independent of the parties that hears and decides a case
    under law.
 7. **Duress**: pressure that leaves no reasonable choice.
@@ -111,7 +111,8 @@ Every patient has the limited right:
    Conditions:
    - Defence under II.2.
    - A thing worth no more than what is owed may be taken to make restitution
-     under III.2, or to pay a tax or duty under IV.5.
+     under III.2, or to pay a tax or duty under IV.5, but never their home or
+     what they need to earn a living.
 7. Not to be watched or recorded in a place they occupy, nor to have their
    communications, or records about them, read, copied, or shared, without their
    consent. Whoever they address or entrust one to may read and keep it, but not
@@ -154,9 +155,7 @@ Every citizen has the absolute right:
 
 ### II.8. National limited positive rights
 
-Every citizen has the limited right:
-
-1. Of equitable public free speech and broadcast.
+None yet.
 
 ## Part III: Law
 
@@ -210,9 +209,12 @@ Every citizen has the limited right:
 
 ### IV.1. Citizenship
 
-1. Citizenship is gained and lost as law provides.
-2. Any agent may apply for citizenship.
+1. Any agent may apply for citizenship. It is granted when both governments
+   agree or, for anyone who lived on land when it came under IV.2.7, or was born
+   on it, when they ask. Each government keeps a record of it.
+2. Citizenship is never revoked. It ends only when its holder renounces it.
 3. Any citizen may renounce their citizenship.
+4. A child of a citizen is themself a citizen from birth.
 
 ### IV.2. Nearlaw and Farlaw
 
@@ -239,6 +241,8 @@ Every citizen has the limited right:
    nothing else. For each challenge, the court is seven electors drawn by lot
    from those willing, who decide by Instrument 4 and publish their reasons.
 6. A treaty binds only farlaw, and never enlarges its domain.
+7. Land and people that Farlaw alone holds by force come under Nearlaw, and then
+   under Part V.
 
 ### IV.3. Law-making
 
@@ -266,8 +270,11 @@ Every citizen has the limited right:
    restitution on their behalf. That restitution is used only for their own
    sake.
 4. Each Advocate is an office, headed by a body chosen by Instrument 1 (_seats_
-   3, _maximum service_ 24 years, _round interval_ 1 year, _cohorts_ 3) from
+   5, _maximum service_ 24 years, _round interval_ 1 year, _cohorts_ 5) from
    electors who put themselves forward, deciding by Instrument 4.
+5. An Advocate may read and copy anything kept in a government's name, other
+   than what II.2.7 protects, that bears on a breach it is looking into, and
+   shares it only with a court or those it acts for.
 
 ### IV.5. Taxes and duties
 
@@ -279,7 +286,15 @@ Every citizen has the limited right:
    3. A charge at one rate a year on every holding of hearth in notes or
       otherwise, a note being charged for each year since its issue at its first
       exchange after one has passed.
-2. Nearlaw asks service only under V.8.
+   4. Charges for a kind of act that law could forbid under III.1.1.
+2. Nearlaw asks service only as follows:
+   1. Every adult with title, other than to land first taken under V.3.4, owes
+      Nearlaw the hours of service a year that law sets, no more than forty, at
+      work it arranges. No one may serve or pay for another, and law may excuse
+      only by age or inability to serve.
+   2. Once someone leaves more than five years of the hours Nearlaw arranged for
+      them unserved, their title ends as on notice, and until they serve them,
+      they may gain no title except under V.3.4; nothing more follows.
 3. Farlaw raises only duties on things as they cross Wroxia's border.
 
 ### IV.6. Children
@@ -360,9 +375,10 @@ Every citizen has the limited right:
 2. When a pool member's title ends, someone they directed may take their part
    first under V.4.3, with what they pooled as its stake; otherwise the others
    choose a part of the land, in proportion to what was pooled, to fall vacant.
-3. Land first coming under this Part falls vacant, but whoever occupies it may
-   take it first as if directed, a government keeps any then in public use, and
-   easements over it then in use bind as granted ones do.
+3. Land first coming under this Part falls vacant, except that:
+   - whoever occupies it may take it first as if directed;
+   - a government keeps any then in public use;
+   - easements over it then in use bind as granted ones do.
 
 ### V.6. Buildings and easements
 
@@ -383,16 +399,6 @@ Every citizen has the limited right:
 
 1. Taking from land, for use off it, anything that does not renew requires a
    licence from Nearlaw. Licence rent is paid equally to everyone with a quota.
-
-### V.8. Service
-
-1. Every adult with title, other than to land first taken under V.3.4, owes
-   Nearlaw the hours of service a year that law sets, no more than forty, at
-   work it arranges. No one may serve or pay for another, and law may excuse
-   only by age or inability to serve.
-2. Once someone leaves more than five years of the hours Nearlaw arranged for
-   them unserved, their title ends as on notice, and until they serve them, they
-   may gain no title except under V.3.4; nothing more follows.
 
 ## Part VI: Amendment
 

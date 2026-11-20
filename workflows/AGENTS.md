@@ -28,19 +28,24 @@ lines. Every result carries a hash of the law it was heard against, so results
 from an older text can be told apart.
 
 A Test with a settled answer carries a `**Question:**` and a task list of
-answers, the expected one ticked (`- [x]`). The judges see the question with
-lettered options and never the tick; the report marks each such case PASS,
-MIXED, or FAIL and counts passes. Case files may instead end
-`Ask: question? A) … B) …` and `Expect: choice=B`. Untested answers stay free
-text, read by you.
+answers, the expected one ticked (`- [x]`). For several questions it carries
+`**Questions:**`, each question a bullet with its own nested task list. The
+judges see each question with lettered options and never the ticks; the report
+marks each such case PASS (every answer matches in every run), MIXED, or FAIL,
+and counts passes. Case files may instead end with any number of
+`Ask: question? A) … B) …` and then `Expect: choice1=B; choice2=A`, one
+`choiceN` per Ask. Untested answers stay free text, read by you.
 
 To queue Hearings, add lines of hear.mjs arguments to `workflows/runs/queue.txt`
 and run [drain.mjs](drain.mjs). It hears each line in turn, writing each report
 and log as `runs/hear-<time>.txt` and `.jsonl`, and records each in
 `runs/drained.txt`. It removes a line only once it is heard, so an interrupted
-drain resumes where it stopped, and a second drain exits at once. A drain killed
-mid-job leaves a stale `runs/queue.lock`: check no node process is running, then
-delete it.
+drain resumes where it stopped, and a second drain exits at once. Start a drain
+with the shell tool's `run_in_background` (not a detached `&`), so its exit
+notifies you, or, if one is already running, start a background waiter that
+exits when `runs/queue.lock` is gone and `runs/queue.txt` is empty. A drain
+killed mid-job leaves a stale `runs/queue.lock`: check no node process is
+running, then delete it.
 
 `node workflows/check.mjs [results.jsonl …]` (default: the latest) checks
 results against the current law alone, with no model: cited provisions that
